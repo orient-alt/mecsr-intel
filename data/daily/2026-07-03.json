@@ -1,0 +1,398 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-03",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-03.html"
+ ],
+ "coverage": {
+  "label": "Sat 27 Jun – Fri 3 Jul 2026 (extended catch-up window, last report published 26 Jun 2026)"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-03-01",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Al Khobar Downtown Mall: SAR 1.33bn Construction Contract Awarded",
+   "summary": "Cenomi Centers awarded a SAR 1,331,236,400 ($345m) design-build contract to Riyadh-based Lynx Contracting for the Al Khobar Downtown Mall and Boulevard project, a joint venture with PIF-backed Saudi Downtown Company. Construction is expected to complete within 36 months, making this Cenomi's largest Eastern Province asset. It follows the March 2026 framework agreement between Cenomi and Saudi Downtown Company.",
+   "article_date": "2026-06-28",
+   "sources": [
+    {
+     "label": "AGBI · 29 Jun 2026",
+     "url": "https://www.agbi.com/retail/2026/06/cenomi-centers-awards-346m-contract-for-al-khobar-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-02",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Cenomi Centers: Ordinary General Assembly Held",
+   "summary": "Cenomi Centers held its virtual Ordinary General Assembly Meeting on 30 June, following e-voting that opened 26 June. Results, filed 1 July, cover routine corporate governance items including related-party transaction approvals tied to the Cenomi Retail shareholder loan (see Member section).",
+   "article_date": "2026-07-01",
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-03",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Dubai Summer Surprises 2026 (29th Edition) Launches",
+   "summary": "Dubai Festivals and Retail Establishment launched the 29th Dubai Summer Surprises , running through 30 August 2026. The retail calendar event spans major mall groups including Majid Al Futtaim (Mall of the Emirates, City Centre Mirdif, City Centre Deira), Al Futtaim Malls (Dubai Festival City) and Dubai Holding Asset Management properties, featuring a 12-hour sale window with discounts up to 90%, concerts, and cash-prize promotions.",
+   "article_date": "2026-07-02",
+   "sources": [
+    {
+     "label": "Gulf News · 2 Jul 2026",
+     "url": "https://gulfnews.com/uae/dubai-summer-surprises-2026-opens-july-2-with-90-per-cent-sales-concerts-and-cash-prizes-1.500586720"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "SouthMED, North Coast: New Payment Plan (TMG)",
+   "summary": "Talaat Moustafa Group launched new payment terms, 1.5% down, 15-year instalments, for its EGP 1 trillion SouthMED mixed-use project on Egypt's North Coast. The masterplan includes open-air malls as part of its retail component; this is a financing milestone rather than a new opening, but a material signal of retail-inclusive pipeline momentum.",
+   "article_date": "2026-06-01",
+   "sources": [
+    {
+     "label": "Daily News Egypt · 1 Jun 2026",
+     "url": "https://www.dailynewsegypt.com/2026/06/01/tmg-offers-1-5-down-payment-15-year-instalments-for-southmed-project-on-egypts-north-coast/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-05",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "Cairo Retail Market Dynamics: Q1 2026 (JLL)",
+   "summary": "JLL's Q1 2026 Cairo retail report recorded ~89,000 sqm of new retail space delivered, bringing total Cairo stock past 3.3 million sqm , with a further 331,300 sqm expected later in 2026. Landlords are reassessing rents following the March 2026 currency adjustment.",
+   "sources": [
+    {
+     "label": "JLL · Q1 2026",
+     "url": "https://www.jll.com/en-us/insights/market-dynamics/cairo-retail"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-06",
+   "stream": "dest",
+   "type": "",
+   "country": "Türkiye",
+   "title": "Maximum Life Eryaman: Grand Launch, Ankara",
+   "summary": "A new open-plan mixed-use lifestyle centre, Maximum Life Eryaman, held its grand launch in Ankara, combining 38,000 sqm of retail with offices and residential units under one roof. It is one of five new Turkish malls (~212,000 sqm combined) slated to open across Istanbul, Ankara, Muğla, Elazığ and Düzce by end-2026, per Hürriyet Daily News. First reported here for MECSR's Türkiye coverage.",
+   "article_date": "2026-04-18",
+   "sources": [
+    {
+     "label": "GlobeNewswire · 14 Apr 2026",
+     "url": "https://www.globenewswire.com/news-release/2026/04/14/3273219/0/en/maximum-life-eryaman-is-bringing-together-an-open-plan-shopping-centre-offices-and-residential-units-under-one-roof-in-ankara-with-its-grand-launch-on-18-19-april-2026.html"
+    },
+    {
+     "label": "Hürriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/seven-new-shopping-malls-to-open-by-end-of-2026-212041"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-07",
+   "stream": "dest",
+   "type": "",
+   "country": "Iraq",
+   "title": "Iraq Mall Opens in Baghdad's Al-Dora District",
+   "summary": "A 550,000+ sqm mega-mall, Iraq Mall, opened in Baghdad, with over 1,000 retail outlets and a 23-storey hotel. It is described by local media as the third-largest mall in the Middle East and is expected to create up to 50,000 jobs once fully operational. This is Iraq's first appearance in MECSR daily/weekly reports to date and warrants a directory review.",
+   "article_date": "2026-02-21",
+   "sources": [
+    {
+     "label": "Iraqi News · Feb 2026",
+     "url": "https://www.iraqinews.com/iraq/iraq-mall-baghdad-grand-opening/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-08",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "Al Emarat Development Debuts with First Plaza Mall",
+   "summary": "New developer Al Emarat Development launched its debut project, First Plaza Mall , a ~5,000 sqm mixed retail/medical/administrative development in Hadayek October, West Cairo.",
+   "article_date": "2026-02-01",
+   "sources": [
+    {
+     "label": "Zawya / Daily News Egypt · Feb 2026",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/al-emarat-development-debuts-in-egypt-with-first-plaza-mall-launch-djrab7u0"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-09",
+   "stream": "dest",
+   "type": "",
+   "country": "Nigeria",
+   "title": "Chapel Hill Denham Lists N163.6bn NREIT on NGX",
+   "summary": "Nigeria's Chapel Hill Denham listed the Nigeria Real Estate Investment Trust (NREIT) , worth N163.6 billion, on the Nigerian Exchange, one of NGX's largest REIT admissions, covering income-producing commercial real estate including retail assets.",
+   "article_date": "2025-12-31",
+   "sources": [
+    {
+     "label": "ThisDayLive · 1 Jan 2026",
+     "url": "https://www.thisdaylive.com/2026/01/01/ngx-admits-chapel-hill-denhams-n163-6bn-nreit/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-10",
+   "stream": "dest",
+   "type": "",
+   "country": "Libya",
+   "title": "Zumurrud Mall, Tripoli: Stalled Project Revived",
+   "summary": "The Libyan government is reviving the long-stalled (since 2011) Zumurrud Mall in Tripoli, a 135,000–280,000 sqm project (estimates vary by source). A technical damage-assessment study completed in February 2026, and discussions with Turkish partners on reactivation mechanisms were reported in April 2026. PM Aldabaiba's government is backing an August 2026 completion target, though no update fell within the current coverage window.",
+   "article_date": "2026-04",
+   "sources": [
+    {
+     "label": "Libya Herald · Apr 2026",
+     "url": "https://libyaherald.com/2026/04/lidco-discusses-with-turkey-mechanisms-to-reactivate-stalled-projects-and-new-projects/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-11",
+   "stream": "dest",
+   "type": "",
+   "country": "Afghanistan",
+   "title": "Underground Shopping Centre Inaugurated in Kabul",
+   "summary": "Kabul Municipality, with Shaheen Afghan Company, opened a 340-shop underground shopping centre at Pul-e-Khishti, costing approximately 790 million Afghanis (~$9m). Afghanistan's first appearance in MECSR reporting to date.",
+   "article_date": "2025-09-09",
+   "sources": [
+    {
+     "label": "Pajhwok Afghan News · Sep 2025",
+     "url": "https://pajhwok.com/2025/09/09/790m-afs-underground-shopping-centre-opens-in-kabul/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-12",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "MBC Group Partnership: Live Media Studios at Westfield Riyadh",
+   "summary": "Cenomi Centers and MBC Group signed a strategic partnership to build dedicated TV and radio studios inside Westfield Riyadh , to go live upon the mall's official opening, embedding a broadcast/media anchor into the mall's entertainment offer.",
+   "article_date": "2026-06-29",
+   "member": true,
+   "sources": [
+    {
+     "label": "Advanced Television · 29 Jun 2026",
+     "url": "https://www.advanced-television.com/2026/06/29/mbc-group-cenomi-centers-launch-live-media-experience-at-westfield-riyadh/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-13",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Al Khobar Downtown Mall: SAR 1.33bn Contract Awarded",
+   "summary": "Design-build contract awarded to Lynx Contracting for the Al Khobar Downtown Mall and Boulevard project, a Saudi Downtown Company (PIF) partnership; 36-month construction programme. See also Section A.",
+   "article_date": "2026-06-28",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 29 Jun 2026",
+     "url": "https://www.agbi.com/retail/2026/06/cenomi-centers-awards-346m-contract-for-al-khobar-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-14",
+   "stream": "member",
+   "type": "financial",
+   "country": "Global",
+   "title": "EGM Approves SAR 1.35bn Al-Futtaim Shareholder Loan",
+   "summary": "Cenomi Retail's Extraordinary General Assembly approved a SAR 1.35 billion, five-year shareholder loan from Al-Futtaim Private Co. LLC, and ratified related-party lease payments of SAR 183.23m to Cenomi Centers. A new board was elected, effective 12 August 2026. This follows Al-Futtaim's earlier SAR 2.52bn ($672m) acquisition of a 49.95% stake in Cenomi Retail.",
+   "article_date": "2026-06-30",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-15",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Network International Named Primary Payments Partner",
+   "summary": "Network International was named MAF's primary partner for in-store acquiring and payments across its UAE City Centre mall network, as part of MAF's broader retail technology transformation.",
+   "article_date": "2026-06-30",
+   "member": true,
+   "sources": [
+    {
+     "label": "INTLBM · 30 Jun 2026",
+     "url": "https://intlbm.com/2026/06/30/network-international-powers-majid-al-futtaim-retail-transformation/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-16",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "Dubai Summer Surprises 29th Edition Launched",
+   "summary": "MAF malls (Mall of the Emirates, City Centre Mirdif, City Centre Deira) are lead venues for the 29th Dubai Summer Surprises, running through 30 August 2026, with a 12-hour sale and discounts up to 90%.",
+   "article_date": "2026-07-02",
+   "member": true,
+   "sources": [
+    {
+     "label": "Gulf News · 2 Jul 2026",
+     "url": "https://gulfnews.com/uae/dubai-summer-surprises-2026-opens-july-2-with-90-per-cent-sales-concerts-and-cash-prizes-1.500586720"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-17",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "Premium Carrefour Market Concept Unveiled: Jumeirah Park Centre",
+   "summary": "MAF unveiled its first Premium Carrefour Market format in the UAE, a 2,200 sqm food-first concept at Jumeirah Park Centre. A multi-store rollout is planned during 2026. Dubai Holding Asset Management executives attended the launch event.",
+   "article_date": "2026-07-02",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-unveils-first-premium-carrefour-market-concept-in-the-uae-at-jumeirah-park-centre-d1jfqudr"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-18",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Pakistan",
+   "title": "Yum & ETH Open at Dolmen Mall Clifton, Karachi",
+   "summary": "Yum Chinese & Thai Restaurant and English Tea House officially opened new outlets at Dolmen Mall Clifton, adding to the mall's F&B mix. Note: Carrefour's hypermarket at the same mall quietly closed on 31 January 2026 without official announcement, a notable anchor-tenant change to monitor.",
+   "article_date": "2026-06-29",
+   "member": true,
+   "sources": [
+    {
+     "label": "Pro Pakistani · 29 Jun 2026",
+     "url": "https://propakistani.pk/2026/06/29/the-ultimate-foodie-upgrade-yum-eth-have-officially-landed-at-dolmen-mall-clifton/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-19",
+   "stream": "member",
+   "type": "financial",
+   "country": "Egypt",
+   "title": "$200m Committed to Three New Industrial Projects",
+   "summary": "Ahmed El Sewedy announced a $200 million commitment across three new industrial projects, part of a push to build domestic circular-economy infrastructure. El Sewedy is primarily an industrial/engineering conglomerate; retail relevance is limited but included for MECSR member coverage.",
+   "article_date": "2026-06-24",
+   "member": true,
+   "sources": [
+    {
+     "label": "Billionaires.Africa · 26 Jun 2026",
+     "url": "https://www.billionaires.africa/2026/06/26/egyptian-billionaire-ahmed-el-sewedy-just-committed-200-million-to-three-new-industrial-projects/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-20",
+   "stream": "member",
+   "type": "market",
+   "country": "Global",
+   "title": "Hosting FIFA World Cup 2026 Broadcast Plaza",
+   "summary": "Mall of Muscat is hosting a FIFA World Cup 2026 broadcast plaza in partnership with beIN Sports, running through the tournament period, driving footfall and brand visibility for the Tamani Global-managed asset.",
+   "article_date": "2026-07-19",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-21",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "SAR 2bn Murabaha Refinancing Secured",
+   "summary": "Jabal Omar secured a SAR 2 billion, 15-year Murabaha financing facility from Saudi National Bank to refinance existing debt and improve cash flow.",
+   "article_date": "2026-06-18",
+   "member": true,
+   "sources": [
+    {
+     "label": "Sahm Capital · 18 Jun 2026",
+     "url": "https://www.sahmcapital.com/news/content/jabal-omar-secures-sar-2-billion-murabaha-financing-2026-06-18"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-22",
+   "stream": "member",
+   "type": "award",
+   "country": "Saudi Arabia",
+   "title": "$6.3bn Madinah Vision Showcased at FHS 2026",
+   "summary": "KEC presented its SAR 24bn ($6.3bn) masterplan (Madinah Gate, Multaqa AlMadinah, Islamic World District, Al Alyaa) as a Strategic Partner at the Future Hospitality Summit; plans include ~42,000 hotel keys and 40,000 residential units, with hospitality partnerships spanning Hilton, Marriott, IHG, Radisson and Hyatt.",
+   "article_date": "2026-06-17",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya / TradeArabia · 17 Jun 2026",
+     "url": "https://www.zawya.com/en/business/real-estate/saudi-knowledge-economic-city-showcases-63bln-madinah-vision-at-fhs-2026-jhk8e9jd"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-03-23",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "United Arab Bank Opens New Branch",
+   "summary": "United Arab Bank continued its strategic expansion with a new branch opening inside Dalma Mall, Abu Dhabi, first appearance of Dalma Mall in MECSR daily coverage.",
+   "article_date": "2026-06-25",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-24",
+   "stream": "member",
+   "type": "deal",
+   "country": "Egypt",
+   "title": "Majority Stake Acquisition of Baraka Optics Group",
+   "summary": "Magrabi Retail signed an agreement to acquire a 51% majority stake in Egyptian retailer Baraka Optics Group, Magrabi's third major acquisition in 18 months, continuing regional eyewear market consolidation.",
+   "article_date": "2026-05-18",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-25",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "CMA Refers 17 Officials to Public Prosecution",
+   "summary": "Saudi Arabia's Capital Market Authority referred 17 current and former Cenomi Retail officials, including board members and the acting CEO, to the Public Prosecution over alleged share-price manipulation. Cenomi Retail (AFG International) is a separate listed entity from Cenomi Centers, though corporately linked via Al-Futtaim's stake.",
+   "article_date": "2026-05-20",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-26",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "Consortium Wins King Salman Park Package 5",
+   "summary": "A consortium led by Kolaghassi Development Company, including Al Othaim Investment (with RXR), was awarded a mixed-use district package at King Salman Park worth over SAR 11 billion ($3bn) .",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-03-27",
+   "stream": "member",
+   "type": "deal",
+   "country": "Global",
+   "title": "Strategic Collaboration with Lulu International Holdings",
+   "summary": "Tamani Global entered a strategic collaboration with Lulu International Holdings covering operational and asset management support for Mall of Muscat.",
+   "article_date": "2026-04-27",
+   "member": true,
+   "sources": []
+  }
+ ],
+ "watch": []
+}

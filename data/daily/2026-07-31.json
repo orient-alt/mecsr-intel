@@ -1,0 +1,143 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-31",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-31.html",
+  "MECSR_Daily_Intel_2026-07-31.html"
+ ],
+ "coverage": {
+  "label": "Thursday 30 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-31-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "UAE",
+   "title": "Dubai Municipality's Q2 2026 award haul spotlights AI-driven and customer-happiness services",
+   "summary": "Dubai Municipality picked up a wide slate of local, regional and international awards during Q2 2026, several with direct CX relevance: \"Ghalia,\" an AI-powered chatbot giving students quick nutritional information, was recognised in the public-sector innovation category; a Smart Risk Engine within the Montaji+ platform and a labour-accommodation health and safety officers accreditation programme were also cited; and the Municipality's Virtual Services Advisor initiative won in the customer-happiness category, fitting Dubai's broader push toward faster digital government experiences. Other wins spanned procurement automation, asset management and sustainability, reflecting a back-office push that should eventually surface as faster, more reliable resident-facing services.",
+   "article_date": "2026-07-18",
+   "sources": [
+    {
+     "label": "Dubai Bliss · 18 Jul 2026",
+     "url": "https://dubaibliss.com/dubai-municipality-awards-2026-services/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-02",
+   "stream": "ai",
+   "type": "ai",
+   "country": "",
+   "title": "Cognizant launches EMEA AI Unit to scale agentic AI adoption across enterprise clients",
+   "summary": "Cognizant announced a dedicated EMEA AI Unit bringing together advisory, engineering and delivery capabilities to help clients build, deploy and run agentic AI solutions grounded in their own business context. The unit is structured around Foundation, Accelerate and Transform service tiers, covering strategy, rapid prototyping and multi-agent production squads, and is positioned as platform-, model- and cloud-agnostic. For MECSC members, this is a relevant signal of how global systems integrators are packaging agentic-AI delivery for EMEA enterprises, including Gulf banks, telcos and retailers scaling CX-facing AI agents beyond pilot stage.",
+   "article_date": "2026-07-28",
+   "sources": [
+    {
+     "label": "Cognizant Newsroom · 28 Jul 2026",
+     "url": "https://news.cognizant.com/2026-07-28-Cognizant-launches-EMEA-AI-Unit-to-help-enterprises-scale-agentic-ai-adoption"
+    },
+    {
+     "label": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/cognizant-launches-emea-ai-unit-to-help-enterprises-scale-agentic-ai-adoption-302835936.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-03",
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "title": "UAE firms step up AI investment, but engagement maturity lags customer expectations",
+   "summary": "Khaleej Times reports that 76% of UAE businesses plan to invest in AI-powered customer engagement in 2026, with an equal share investing in omnichannel technologies and 74% saying AI will be critical for acquiring and retaining customers. Despite the spend, only 15% of UAE marketers achieved a high engagement-maturity score; more than half of surveyed enterprises said they cannot access and use real-time data, and 64% report \"dark data\" collected but never used. The piece frames a widening gap between board-level AI investment expectations and the operational data work required to convert that spend into seamless CX, a useful data point for MECSC members benchmarking their own AI/CX maturity.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Khaleej Times · date unverified",
+     "url": "https://www.khaleejtimes.com/business/uae-firms-step-up-ai-investments-as-customer-expectations-outpace-business-capabilities"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Qatar",
+   "title": "Visit Qatar's \"Hala Summer\" turns Doha malls into family-activity hubs through September",
+   "summary": "Qatar Tribune reports Visit Qatar has partnered with Doha Mall and other retail destinations on a three-month \"Hala Summer\" campaign (July–September 2026), featuring a dedicated family activity zone, roaming parades, interactive games with shopping-voucher prizes, and a dedicated Hala Summer Shopping Festival running 1–31 August. The campaign leans on experience programming, activations, entertainment and retail promotions layered onto existing malls, rather than new construction, reinforcing Doha's positioning of its retail destinations as family/lifestyle hubs during peak summer footfall. See mecsr-weekly-intel-report for any related property/development tracking on Doha Mall or comparable GCC retail destinations.",
+   "article_date": "2026-07-27",
+   "sources": [
+    {
+     "label": "Qatar Tribune · 27 Jul 2026",
+     "url": "https://www.qatar-tribune.com/article/242141/nation/visit-qatar-brings-hala-summer-to-life-with-family-friendly-mall-hotel-activations"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-05",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Emaar tops Dubai developer sales-value rankings for 2026 Financial 23 Jul 2026",
+   "summary": "Company: Emaar Properties / Emaar Development (Priority 1 member, Dubai). A market analysis from fäm Properties, based on DXBinteract transaction data as of 22 July 2026, shows Emaar recorded the highest value of Dubai residential sales transactions year-to-date at AED30.6 billion, 83.2% ahead of DAMAC in second place (AED16.7bn). Emaar also led the luxury segment (properties above AED15 million) with 387 transactions worth AED8.4 billion, ahead of Omniyat, and topped the market in delivered projects (9) and units (3,819) and in active projects under construction (150). Azizi led on overall transaction volume, driven by the affordable (sub-AED2m) segment. While a residential-market data point rather than a retail-specific announcement, the ranking is directory-relevant given Emaar's parallel mall and community-retail portfolio, which typically tracks residential absorption across its master-planned communities. This is distinct from Emaar's AED200bn Dubai masterplan (first reported 3 Jul) and the Emaar–ADCB mortgage partnership (reported 29 Jul), today's item is the fäm Properties developer-ranking report specifically, not previously carried in this series.",
+   "article_date": "2026-07-23",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya (press release) · 23 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/research-studies/emaar-leads-the-way-as-developers-show-dubai-real-estate-strength-in-depth-407156"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-06",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Lulu Retail partners with Naseej Initiative on textile circularity Deal / JV 07 Jul 2026",
+   "summary": "Company: Lulu Retail Holdings / Lulu International Holdings (Priority 2 member, Abu Dhabi). Lulu has partnered with the UAE's Naseej Initiative to promote textile circularity, supporting the UAE's circular-economy and Net Zero goals. Under the partnership, Lulu will introduce in-store textile recycling collection points across selected stores, allowing customers to drop off used clothing and textiles for recycling rather than disposal. The initiative sits alongside Lulu's other 2026 sustainability and community moves (Hajj-season store openings, SWFT convenience-store rollout in Saudi Arabia) but is a distinct, newly captured item not previously carried in this report series.",
+   "article_date": "2026-07-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "Lulu Retail (official) · 07 Jul 2026",
+     "url": "https://www.luluretail.com/media/news/lulu-partners-with-uaes-naseej-initiative-to-promote-textile-circularity-partnership-supports-the-uaes-circular-economy-and-net-zero-goals-with-lulu-set-to-introduce-textile-recycling-collection-points-across-selected-stores/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-31-07",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS SAUDI ARABIA Qiddiya awards viewing-lounge contract at Speed Park New Project 03 Jul 2026",
+   "summary": "Company: Qiddiya Investment Company (Priority 1 member, Riyadh). QIC has awarded El-Seif Engineering Contracting a contract to build a four-storey Exclusive Viewing Lounge within the Speed Park development at Qiddiya Entertainment City, near Riyadh. The building will provide race-day spectator areas, indoor lounges, guest hospitality amenities and service spaces supporting major motorsport events (Speed Park is anchored by Saudi Arabia's new F1-standard circuit). Ammico Contracting had already completed enabling works ahead of the main build. While primarily an entertainment/motorsport facility rather than a retail-specific structure, it is directory-relevant as part of Qiddiya's broader mixed-use entertainment-city pipeline, which includes retail and F&B components under the same masterplan. Distinct from Qiddiya's Six Flags/Aquarabia theme-park openings and high-speed-rail PPP news; not previously carried in this series.",
+   "article_date": "2026-07-03",
+   "member": true,
+   "sources": [
+    {
+     "label": "El-Seif Engineering (official)",
+     "url": "https://www.el-seif.com.sa/en/news/qiddiya"
+    },
+    {
+     "label": "MEED · 03 Jul 2026",
+     "url": "https://www.meed.com/contractor-wins-qiddiya-speed-park-package-deal"
+    },
+    {
+     "label": "Construction Week Saudi",
+     "url": "https://www.constructionweeksaudi.com/projects-tenders/el-seif-wins-qiddiya-f1-contract"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Dubai Municipality Q2 2026 awards, confirm the Ghalia chatbot and Virtual Services Advisor wins via a primary government source (Dubai Government Excellence Program or Dubai Municipality's own newsroom).",
+  "Cognizant EMEA AI Unit, watch for named Gulf client engagements or case studies now that the unit is live.",
+  "UAE AI/CX maturity gap, watch for follow-up survey data or named-brand commentary building on the Khaleej Times findings.",
+  "Hala Summer Shopping Festival (Qatar), watch for footfall/spend results once the 1–31 Aug festival concludes.",
+  "Wealth Mermaid / Saudi wealth-AI, watch for adoption data or a second Gulf wealth manager launching a comparable AI assistant.",
+  "Kuwait, Bahrain, Oman, Egypt, Jordan, no genuinely new, dated CX/AI/retail-experience finding surfaced this cycle; continue monitoring."
+ ]
+}

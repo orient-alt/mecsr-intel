@@ -1,0 +1,132 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-19",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-19.html",
+  "MECSR_Daily_Intel_2026-08-19.html"
+ ],
+ "coverage": {
+  "label": "Tuesday 18 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-19-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Sharjah Airport achieves ACI Level 3 Customer Experience Accreditation",
+   "summary": "Sharjah Airport has achieved Level 3 Airport Customer Experience Accreditation from Airports Council International (ACI), its highest rating since first joining the global evaluation programme in 2022 (Level 1), progressing to Level 2 in 2023 and renewing that rating in 2025. Ali Salim Al Midfa, Chairman of Sharjah Airport Authority, said the accreditation reflects the airport's commitment to making passenger satisfaction central to its operations, in line with its strategy to deliver an integrated travel experience \"built on quality and excellence.\" To reach Level 3, the airport strengthened customer feedback tools to identify improvement areas and enable faster responses, and expanded collaboration with airlines, ground handlers and other stakeholders to ensure consistent service standards throughout the passenger journey. Passenger satisfaction reports are now shared regularly across airport departments, and the accreditation assessed how feedback is collected and used, coordination with service providers, and the airport's ability to deliver a seamless journey from arrival to departure.",
+   "article_date": "2026-08-18",
+   "sources": [
+    {
+     "label": "Emirates 24|7 (WAM) · 18 Aug 2026",
+     "url": "https://www.emirates247.com/business/sharjah-airport-achieves-level-3-customer-experience-accreditation/4662"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Saudi Arabia",
+   "title": "Digital Government Authority's digital experience maturity index rises to 87.06%",
+   "summary": "Saudi Arabia's Digital Government Authority (DGA) has announced that its digital experience maturity index, one of the metrics the DGA uses to track how well government digital services perform for the people who actually use them, rose to 87.06%, as first reported by Gulf Daily News (Bahrain) and picked up by CX-industry aggregator Renascence. The underlying reporting does not detail the specific services, channels or user segments measured, nor the prior-year baseline against which the rise is calculated, so the figure should be read as a headline signal of continued investment in government CX measurement rather than a fully transparent benchmark.",
+   "article_date": "2026-08-13",
+   "sources": [
+    {
+     "label": "Renascence, via Gulf Daily News · 13 Aug 2026",
+     "url": "https://www.renascence.io/news/27113/digital-government-authority-announces-rise-in-digital-experience-maturity-index"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-03",
+   "stream": "ai",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Saudi AI tool adoption more than doubles to 45.2% of internet users",
+   "summary": "The Communications, Space and Technology Commission's (CST) Saudi Internet Report for 2025 shows AI-tool adoption among Saudi internet users more than doubled year-on-year to 45.2%. Usage was highest among 20–29 year-olds (55.7%) and 10–19 year-olds (53.4%), falling to 14.8% among 60–74 year-olds; usage among females (52.8%) outpaced males (39.4%). Information searches were the most common use case (80.8%), followed by idea generation (40.1%) and study/education (37.7%), with 17.3% applying AI to work tasks. A separate GASTAT report cited in the same coverage put business AI adoption at 33.1% in 2025 (+20% year-on-year), led by information and communications (61.1%), financial and insurance activities (52.9%) and education (51%), relevant baseline context for any CX/retail operator gauging how AI-literate the Saudi consumer and workforce base has become.",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "Arab News · 10 Aug 2026",
+     "url": "https://www.arabnews.com/node/2654092/business-economy"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-04",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Sharjah Summer Promotions 2026 extended to 15 September",
+   "summary": "The Sharjah Commerce and Tourism Development Authority (SCTDA), with the Sharjah Chamber of Commerce and Industry (SCCI), has extended the Sharjah Summer Promotions 2026 campaign to Tuesday 15 September, giving shoppers extra time to access discounts, entertainment activities and prize draws across nine participating malls (including City Centre Al Zahia, Mega Mall and Sahara Centre). The extension adds a fourth phase of digital prize draws (700+ prizes, including 30 gold bars and a car) and keeps \"Shamsa Entertainment City\", a family-focused attraction with children's workshops, interactive experiences and mascot appearances, running through the extended period. Experience-angle item only, see mecsr-weekly-intel-report for full property/development tracking.",
+   "article_date": "2026-07-28",
+   "sources": [
+    {
+     "label": "Gulf Business (WAM) · 28 Jul 2026",
+     "url": "https://gulfbusiness.com/en/2026/retail/more-time-more-deals-sharjah-summer-promotions-2026-gets-an-extension/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-05",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "The Grand, Nad Al Sheba Gardens: Phase 1 opens today",
+   "summary": "Shamal Holding's new community retail & lifestyle destination at Nad Al Sheba Gardens begins its phased opening from 19 August 2026, the same day this report is generated. Fully leased ahead of launch, Phase 1 is anchored by the first Waitrose & Partners store in Nad Al Sheba, alongside MMI, Heart Cottage Lane, Maple Bear Nursery, Al Jaber Optical and Fixperts. A further wave of dining, wellness and lifestyle tenants (Tashas, Somewhere, Home Bakery, Kokoro, Blu Pizzeria, Bake My Day, Daima, Staywell Pharmacy, Tips & Toes) follows from early September, with Fitcode and American Hospital completing the destination in early 2027. This project has been on the MECSR watch list since early August; today marks its first verifiable \"open\" status rather than \"upcoming.\"",
+   "article_date": "2026-07-29",
+   "sources": [
+    {
+     "label": "Zawya · 29 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/shamal-unveils-the-grand-a-curated-retail-and-lifestyle-destination-at-nad-al-sheba-gardens-413383"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-06",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "The Galleria, Al Maryah Island: 7 new retail & dining brands announced",
+   "summary": "Al Maryah Retail Company (which operates The Galleria as part of the Aldar–Mubadala Abu Dhabi retail joint venture) is adding six new stores and two new dining concepts. Retail debuts include Skims (its first Abu Dhabi branch), Squatwolf and Limé (both expanding from existing Yas Mall locations), plus luxury entries Parfums de Marly Paris and Guerlain. On the dining side, Dubai favourite Brass Monkey opens its first Abu Dhabi outpost in September, alongside café concept The Good Moon. The additions continue a run of first-to-capital brand launches at the Galleria.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "What's On (Motivate Media Group) · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/new-shops-and-restaurants-coming-to-the-galleria-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-19-07",
+   "stream": "dest",
+   "type": "new",
+   "country": "Libya",
+   "title": "First Mall opens in Tripoli: Libya's largest shopping mall",
+   "summary": "After more than 15 years of stop-start construction, First Mall officially opened in Tripoli in a ceremony attended by Prime Minister Abdel Hamid Aldabaiba. Developed by Al-Sahl Holding Group, the complex covers 6 hectares with over 136,000 sqm of roofed area and houses more than 220 retail outlets alongside administrative offices, bank branches, medical clinics and event/conference facilities. It is described by the developer as one of the largest and most important investment and commercial complexes in the country, and a signal of renewed private-sector confidence in the Libyan market. Libya is one of MECSR's most thinly represented markets (3 directory properties); this is a first-captured finding for the country in the daily series and merits directory follow-up.",
+   "article_date": "2026-06-27",
+   "sources": [
+    {
+     "label": "Libya Herald · 27 Jun 2026",
+     "url": "https://libyaherald.com/2026/06/first-mall-opens-as-libyas-largest-shopping-mall-after-a-hiatus-of-more-than-15-years-of-stop-start-construction"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Whether Saudi Arabia's Digital Government Authority publishes the underlying services/channels breakdown behind its 87.06% digital experience maturity index, the current figure lacks a stated baseline.",
+  "Sharjah Summer Promotions 2026's final prize draw at 06 Mall on 15 September, and whether Sharjah Airport's Level 3 accreditation prompts comparable announcements from other UAE airports (Dubai, Abu Dhabi, Ras Al Khaimah).",
+  "Saudi Arabia's business AI adoption trajectory (33.1% in 2025, +20% YoY) as the Kingdom's \"Year of AI\" initiatives mature through H2 2026.",
+  "CEM Africa 2026's full conference output (19–20 Aug) for any Middle East-relevant case studies or speaker commentary once sessions conclude.",
+  "Whether any UAE, Qatari, Kuwaiti, Bahraini, Omani, Egyptian or Jordanian outlet publishes a fresh, non-duplicate CX/AI/retail-experience item, this is the second consecutive run where those seven markets returned no qualifying finding.",
+  "The Grand (Nad Al Sheba Gardens): confirm Phase 1 opening actually proceeded on 19 Aug; monitor for Phase 2 (early Sept, Tashas, Somewhere, Home Bakery, Kokoro, Blu Pizzeria, Bake My Day, Daima, Staywell Pharmacy, Tips & Toes) and early-2027 wellness component (Fitcode, American Hospital).",
+  "The Galleria, Al Maryah Island: Brass Monkey opening confirmed for September 2026, track exact date.",
+  "First Mall, Tripoli: single-sourced to Libya Herald; cross-reference recommended against a second outlet before directory entry is finalised. Watch for tenant list and opening-phase details.",
+  "Continued scarcity of items dated precisely to the daily coverage window (recurring pattern since mid-August), flagged for possible adjustment of search cadence or source list in a future review.",
+  "Monitor Cenomi Centers, Aldar and Mabanee IR pages for Q3 pre-announcements expected in the coming weeks."
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-06-16",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Weekly_Intel_2026-06-16.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-06-16-01",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Westfield Jeddah: Jeddah, Saudi Arabia",
+   "summary": "Developer: Cenomi Centers | GLA: 104,000 sqm | Pre-leased: 95% | Structural completion: 99% Cenomi's flagship Westfield brand launch in KSA. 300 stores including 50 flagship stores and 10 brands new to Jeddah. Expected opening: May 2026. Verify directory, likely listed as upcoming; update status to opening.",
+   "article_date": "2026-03-30",
+   "sources": [
+    {
+     "label": "Zawya / Cenomi · 30 Mar 2026",
+     "url": "https://www.zawya.com/en/projects/construction/cenomi-centers-says-westfield-malls-in-jeddah-and-riyadh-almost-complete-xrz1ff57"
+    },
+    {
+     "label": "Arab News · ~Mar 2026",
+     "url": "https://www.arabnews.com/node/2576514/corporate-news"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-02",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Westfield Riyadh: Riyadh, Saudi Arabia",
+   "summary": "Developer: Cenomi Centers | GLA: 220,000 sqm | Pre-leased: 90% | Structural completion: 98% Largest Westfield in the region. Expected opening: September 2026. Major anchor tenants include Spinneys. ⚠ Not yet in directory, add as upcoming/opening 2026.",
+   "article_date": "2026-03-30",
+   "sources": [
+    {
+     "label": "Zawya / Cenomi · 30 Mar 2026",
+     "url": "https://www.zawya.com/en/projects/construction/cenomi-centers-says-westfield-malls-in-jeddah-and-riyadh-almost-complete-xrz1ff57"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-03",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Riyadh Retail Market: Rents Up 4% YoY",
+   "summary": "Rising demand in Riyadh has pushed mall rents up 4% year-on-year as of Q1 2026. Strong occupancy driven by Vision 2030 tourism and F&B expansion. Context for directory valuations.",
+   "article_date": "2026-04",
+   "sources": [
+    {
+     "label": "Arab News · ~Apr 2026",
+     "url": "https://www.arabnews.com/node/2603093/business-economy"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-04",
+   "stream": "dest",
+   "type": "new",
+   "country": "GCC",
+   "title": "Nad Al Sheba Mall: Dubai",
+   "summary": "Developer: Dubai Holding Asset Management | Size: 500,000 sq ft | Units: 100+ outlets Lifestyle hub combining retail, dining, entertainment, fitness, healthcare, rooftop gym, swimming pool, and padel courts. Already opened (2025). Check directory status, may be unlisted or listed as upcoming.",
+   "article_date": "2026-01-08",
+   "sources": [
+    {
+     "label": "Gulf News · 8 Jan 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    },
+    {
+     "label": "Zawya / Dubai Holding · date unverified",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/dubai-holding-opens-new-mixed-use-lifestyle-hub-at-nad-al-sheba-xu61848g"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-05",
+   "stream": "dest",
+   "type": "",
+   "country": "GCC",
+   "title": "Ghaf Woods Mall: Sheikh Mohammed Bin Zayed Road, Dubai",
+   "summary": "Developer: Majid Al Futtaim (30th MAF mall) | Community: 15M+ sq ft with 30,000+ trees World's first forest-integrated retail destination. Forest-centric design blending nature with retail and leisure, sustainability focus. Announced Oct 2025; opening in 2026.",
+   "article_date": "2025-10-07",
+   "sources": [
+    {
+     "label": "MAF / Zawya · Oct 2025",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-announces-ghaf-woods-mall-n9k37k6e"
+    },
+    {
+     "label": "The National · 7 Oct 2025",
+     "url": "https://www.thenationalnews.com/lifestyle/2025/10/07/ghaf-woods-mall-dubai-forest-majid-al-futtaim/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-06",
+   "stream": "dest",
+   "type": "",
+   "country": "GCC",
+   "title": "Sobha Mall: Sobha Hartland, Dubai",
+   "summary": "Size: ~339,000 sq ft | Crowd: Neighbourhood + wider visitors Community mall combining boutique shopping, supermarket, gym, play courts, 10+ dining spots, lifestyle and family zones. One of 7 new UAE malls slated for 2026.",
+   "article_date": "2026-01-08",
+   "sources": [
+    {
+     "label": "Gulf News · 8 Jan 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-07",
+   "stream": "dest",
+   "type": "",
+   "country": "GCC",
+   "title": "South Bay Mall: Dubai South Residential District",
+   "summary": "Size: ~200,000 sq ft across 3 levels | Units: 60 retail outlets Set above lagoon views with open-air walkways, premium food hall, gym, spa, clinic. Lifestyle hub above waterfront. Opening 2026.",
+   "article_date": "2026-01-08",
+   "sources": [
+    {
+     "label": "Gulf News · 8 Jan 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-08",
+   "stream": "dest",
+   "type": "",
+   "country": "GCC",
+   "title": "Le Meryeme Liwan Mall: Wadi Al Safa 2, Dubai",
+   "summary": "Size: ~113,674 sq ft | Concept: Spanish-inspired boutique Boutique-style mall with Spanish-inspired architecture, café culture, landscaped leisure spaces. Opening 2026.",
+   "article_date": "2026-01-08",
+   "sources": [
+    {
+     "label": "Gulf News · 8 Jan 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-09",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "GCC",
+   "title": "Mall of the Emirates: AED 5 Billion Transformation",
+   "summary": "Developer: Majid Al Futtaim | Investment: AED 5bn (~USD 1.36bn) | New GLA: +20,000 sqm | New Stores: 100 Major expansion adding luxury precinct, New Covent Garden theatre (soft launch mid-2025), new lifestyle/entertainment (2026), additional dining 'North End' (early 2027). Brands confirmed: Primark, Skims, Ulta Beauty. ⚠ Update directory GLA figure.",
+   "article_date": "2025-04-16",
+   "sources": [
+    {
+     "label": "MAF Official · 16 Apr 2025",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2025/04/majid-al-futtaim-announces-aed-5-billion-transformation-of-mall-of-the-emirates-to-redefine-retail-and-lifestyle-experiences"
+    },
+    {
+     "label": "The National · 16 Apr 2025",
+     "url": "https://www.thenationalnews.com/business/property/2025/04/16/dubais-mall-of-the-emirates-to-undergo-136bn-makeover-to-mark-20th-anniversary/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-10",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "GCC",
+   "title": "Dubai Mall: 240 New Luxury Shops",
+   "summary": "Developer: Emaar | New Units: 240 luxury shops Major expansion of luxury retail wing due for completion around 2026. Culture hubs, wellness clubs, outdoor courtyards and fresh retail districts. ⚠ Verify GLA change and update directory.",
+   "article_date": "2026-01-08",
+   "sources": [
+    {
+     "label": "Gulf News · 8 Jan 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-11",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kuwait",
+   "title": "Aventura Mall: Jaber Al-Ahmad Residential City, Kuwait",
+   "summary": "Developer: United Buildings Company / Mabanee (lead), National Industries Group, Privatization Holding Company Anchor tenant deal: Alshaya Group (Starbucks, H&M, Primark, Ulta Beauty, American Eagle, Foot Locker, Victoria's Secret, Bath & Body Works + 20 more brands; 10,000+ sqm leasable) Positioned as a pioneering entertainment and commercial hub. Expected opening: Q3 2026. Add to directory if absent.",
+   "article_date": "2024-12-19",
+   "sources": [
+    {
+     "label": "Zawya / Alshaya · 19 Dec 2024",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alshaya-group-signs-agreement-with-mabanee-to-open-h-and-m-primark-ulta-beauty-and-over-20-more-stores-at-aventura-mall-abxq0khf"
+    },
+    {
+     "label": "Zawya / Kuwait Gov · ~Dec 2024",
+     "url": "https://www.zawya.com/en/economy/gcc/the-aventura-mall-project-reflects-kuwaits-future-vision-for-development-wf2lwkhz"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-12",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Egypt",
+   "title": "Cairo Festival City Mall: New Cairo, Egypt",
+   "summary": "Developer: Al-Futtaim | Expanding to meet changing customer needs and growing demand in New Cairo. Expansion confirmed by Zawya Sep 2024. Scope details pending, flag for Pass 2 verification via Al-Futtaim official site. ⚠ Update directory if GLA changes.",
+   "article_date": "2024-09-20",
+   "sources": [
+    {
+     "label": "Zawya · 20 Sep 2024",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/cairo-festival-city-mall-expands-to-meet-changing-customer-needs-gyyo3jm6"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-13",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Mall of Saudi: Riyadh, Saudi Arabia",
+   "summary": "Developer: Majid Al Futtaim | Investment: SR 16 billion (USD 4.3bn) | BUA: 214,000 sqm Mega integrated destination including world's largest indoor ski slope & snow park in the Middle East, 6 hotels (~2,000 keys), ~1,600 residential units, flagship Carrefour, 31 VOX screens (incl. world's largest IMAX), Magic Planet. Target opening: 2026. ⚠ Verify current status via MAF official site before updating directory, original article is from Dec 2022.",
+   "article_date": "2022-12",
+   "sources": [
+    {
+     "label": "MAF Official · date unverified",
+     "url": "https://www.majidalfuttaim.com/docs/default-source/press-releases/maf-appointment-of-aecom-for-mall-of-saudi-development.pdf"
+    },
+    {
+     "label": "Arab News · Dec 2022",
+     "url": "https://www.arabnews.com/node/2187711/business-economy"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-14",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Barakah Mall: Makkah, Saudi Arabia",
+   "summary": "Operator: Cenomi Centers | GLA: 80,000 sqm | Total BUA: 250,000 sqm Strategically located near Masjid Alharam. Cenomi Centers signed non-binding agreement with GIB Capital to operate. Opening 2026. Significant pilgrim/visitor footfall location. ⚠ Original MOU article was February 2024, seek more recent Cenomi update for confirmation.",
+   "article_date": "2024-02-08",
+   "sources": [
+    {
+     "label": "Zawya / Cenomi · 8 Feb 2024",
+     "url": "https://www.zawya.com/en/press-release/companies-news/cenomi-centers-to-operate-iconic-new-barakah-mall-in-makkah-ct2i4nzv"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-15",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "White Eagle New Administrative Capital Mall: New Admin Capital, Egypt",
+   "summary": "Developer: White Eagle Developments New mall launched in Egypt's New Administrative Capital. Part of the first wave of retail development in the new city zone east of Cairo. ⚠ Article is from September 2022. Current status unknown, full Pass 2/3 research required before adding to directory.",
+   "article_date": "2022-09-13",
+   "sources": [
+    {
+     "label": "Zawya · 13 Sep 2022",
+     "url": "https://www.zawya.com/en/projects/construction/egypts-white-eagle-developments-launches-new-mall-in-the-new-administrative-capital-ou9d1d06"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-16",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Alef Group Community Mall: Hayyan, Sharjah",
+   "summary": "Developer: Alef Group | Location: Hayyan integrated community, Sharjah Community mall announced as part of Hayyan master-planned development. Expanding Sharjah's integrated lifestyle offering.",
+   "sources": [
+    {
+     "label": "Zawya / Alef · date unverified",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alef-group-to-develop-community-mall-at-hayyan-expanding-sharjahs-integrated-lifestyle-offering-h54ojpic"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-17",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Westfield Jeddah & Riyadh: Near-Complete Status Confirmed",
+   "summary": "Cenomi Centers confirmed Westfield Jeddah (104,000 sqm GLA, 95% pre-leased, 99% structurally complete) and Westfield Riyadh (220,000 sqm GLA, 90% pre-leased, 98% structurally complete) are on schedule for 2026 openings. These represent the Westfield brand's KSA debut. Cenomi also recently signed an agreement to operate Barakah Mall near Masjid Alharam in Makkah (80,000 sqm GLA).",
+   "article_date": "2026-03-30",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya / Cenomi · 30 Mar 2026",
+     "url": "https://www.zawya.com/en/projects/construction/cenomi-centers-says-westfield-malls-in-jeddah-and-riyadh-almost-complete-xrz1ff57"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-18",
+   "stream": "member",
+   "type": "deal",
+   "country": "Kuwait",
+   "title": "Major Anchor Lease Signed at Aventura Mall, Kuwait",
+   "summary": "Alshaya Group signed a significant lease agreement with Mabanee (developer of Aventura Mall) to operate H&M, Primark, Ulta Beauty, Starbucks, American Eagle, Foot Locker, Victoria's Secret, Bath & Body Works and 20+ additional brands across 10,000+ sqm of leasable area at the new Aventura Mall in Jaber Al-Ahmad City. Opening expected Q3 2026.",
+   "article_date": "2024-12-19",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya / Alshaya · 19 Dec 2024",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alshaya-group-signs-agreement-with-mabanee-to-open-h-and-m-primark-ulta-beauty-and-over-20-more-stores-at-aventura-mall-abxq0khf"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-19",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "AED 5 Billion Mall of the Emirates Transformation Announced",
+   "summary": "Majid Al Futtaim announced a major AED 5 billion (~USD 1.36bn) phased transformation of Mall of the Emirates to mark its 20th anniversary. The expansion adds +20,000 sqm GLA, 100 new stores, a luxury precinct, New Covent Garden theatre (soft-launched mid-2025), new lifestyle/entertainment zones (2026), and 'North End' dining (early 2027). Confirmed brands include Primark, Skims, and Ulta Beauty.",
+   "article_date": "2025-04-16",
+   "member": true,
+   "sources": [
+    {
+     "label": "MAF Official · 16 Apr 2025",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2025/04/majid-al-futtaim-announces-aed-5-billion-transformation-of-mall-of-the-emirates-to-redefine-retail-and-lifestyle-experiences"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-20",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "Ghaf Woods Mall Announced: MAF's 30th Mall Globally",
+   "summary": "MAF announced Ghaf Woods Mall, described as the world's first forest-integrated retail destination, as part of a 15M+ sq ft community development with 30,000+ trees along Sheikh Mohammed Bin Zayed Road, Dubai. This is MAF's 30th mall globally. Opening planned for 2026.",
+   "article_date": "2025-10",
+   "member": true,
+   "sources": [
+    {
+     "label": "MAF / Zawya · Oct 2025",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-announces-ghaf-woods-mall-n9k37k6e"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-16-21",
+   "stream": "member",
+   "type": "new",
+   "country": "GCC",
+   "title": "Nad Al Sheba Mall Opened: New Lifestyle Hub for Dubai",
+   "summary": "Dubai Holding Asset Management opened Nad Al Sheba Mall, a 500,000 sq ft lifestyle hub featuring 100+ retail, dining and wellness outlets including a rooftop gym, swimming pool, padel courts, healthcare facilities, and a mix of neighbourhood convenience and aspirational retail. A new addition to Dubai's retail landscape outside the traditional mall belt.",
+   "article_date": "2026-01-08",
+   "member": true,
+   "sources": [
+    {
+     "label": "Gulf News · 8 Jan 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  }
+ ],
+ "watch": []
+}

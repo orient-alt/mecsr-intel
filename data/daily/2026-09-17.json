@@ -1,0 +1,141 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-17",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-09-17.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 16 September 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-17-01",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "title": "Global Village confirms Season 31 opens 14 October 2026",
+   "summary": "Global Village, Dubai's long-running seasonal shopping, dining and entertainment destination, confirmed its Season 31 will run from 14 October 2026 to May 2027 under the theme \"A More Wonderful World.\" Returning features flagged include Gardens of the World, Dragon Kingdom, an expanded Main Stage and the Dessert District, with a full list of new attractions still to be announced. Ticket pricing: AED 25 weekdays, AED 30 weekends.",
+   "article_date": "2026-09-14",
+   "sources": [
+    {
+     "label": "tbreak · 14 Sep 2026",
+     "url": "https://tbreak.com/global-village-season-31-opening-date-october-2026/"
+    },
+    {
+     "label": "Retail & Leisure International",
+     "url": "https://www.rli.uk.com/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17-02",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "Tashas Group's NALA concept plans 20-site GCC rollout, backed by AED80m from Arada",
+   "summary": "South African hospitality group Tashas, founded by Natasha Sideris, is expanding its fast-casual \"NALA\" concept with AED80m (~US$21.8m) in backing from UAE developer Arada, targeting 20 sites across the GCC over five years. Following its first NALA at Alserkal Avenue, upcoming openings are planned at Mall of the Emirates (September 2026) and First Avenue Mall, Jumeirah (October 2026), both existing MECSR-directory malls gaining a new F&B tenant rather than a new-property finding in themselves.",
+   "article_date": "2026-09-15",
+   "sources": [
+    {
+     "label": "Retail & Leisure International · 15 Sep 2026",
+     "url": "https://www.rli.uk.com/tashas-founder-plots-20-site-expansion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17-03",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Primark confirms first Saudi Arabia store, at Mabanee's The Avenues, Riyadh",
+   "summary": "Primark and Alshaya Group confirmed Primark's entry into Saudi Arabia with a flagship store at The Avenues, Riyadh, the Kuwaiti-developed mall owned by MECSR member Mabanee, opening March 2027. The announcement is part of a wider regional rollout that also confirmed Primark's first Bahrain store (23 Sep 2026) and first Qatar store (29 Oct 2026), both at City Centre-type destinations previously flagged on this report's watch list.",
+   "article_date": "2026-09-10",
+   "sources": [
+    {
+     "label": "Gulf News · 10 Sep 2026",
+     "url": "https://gulfnews.com/business/retail/primarks-saudi-arabia-debut-alshaya-to-open-first-riyadh-store-in-2027-1.500669427"
+    },
+    {
+     "label": "Zawya",
+     "url": "https://www.zawya.com/en/press-release/primark-to-open-in-the-kingdom-of-saudi-arabia-in-partnership-with-alshaya-group-521916"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17-04",
+   "stream": "dest",
+   "type": "new",
+   "country": "Oman",
+   "title": "VA Group secures land rights for 18.5-hectare Muttrah waterfront mixed-use district",
+   "summary": "International developer VA Group, partnering with state developer Omran, secured land rights for an 18.5-hectare (~23-football-field) mixed-use development within the Port Sultan Qaboos Waterfront Masterplan in historic Muttrah, Muscat. The scheme is planned to include premium residences, a waterfront promenade, parks, sports and leisure facilities, and curated retail and cultural attractions. VA Group is described as the first international company to deliver a phase of the masterplan, aligned with Oman Vision 2040. Project name and further detail are still to be announced.",
+   "article_date": "2026-09-14",
+   "sources": [
+    {
+     "label": "Muscat Daily · 14 Sep 2026",
+     "url": "https://www.muscatdaily.com/2026/09/14/va-group-secures-land-rights-for-muttrah-waterfront-development/"
+    },
+    {
+     "label": "TradeArabia",
+     "url": "https://tradearabia.com/News/486127/VA-Group-to-develop-key-mixed-use-project-in-Oman%E2%80%99s-historic-Muttrah-waterfront/LIFE"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17-05",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "title": "Majid Al Futtaim posts record H1 2026 EBITDA of AED2.5bn, up 11%",
+   "summary": "Majid Al Futtaim (member) reported record first-half EBITDA of AED2.5 billion (+11% YoY) and net operating profit after tax up 25% to AED1.8 billion, on revenue of AED17.5 billion (+1%). The Group's AED100 billion development pipeline advanced with AED2.8 billion in construction contracts awarded during the period, including continued work on Ghaf Woods and the Mall of the Emirates redevelopment, plus the start of JUNCTION, a mixed-use business park in West Cairo (first phase >EGP20bn). Mall/retail revenue fell 6% YoY, though non-GCC markets grew 4%; five new Lifestyle stores opened including the first international Pacsun, and Primark and Ulta Beauty joined the destination portfolio as new tenants.",
+   "article_date": "2026-09-09",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim (official) · 9 Sep 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/09/majid-al-futtaim-delivers-record-h1-2026-ebitda-of-aed-2.5-billion--up-11"
+    },
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/business/economy/2026/09/09/majid-al-futtaim-expects-strong-2026-performance-as-first-half-profit-jumps-25/"
+    },
+    {
+     "label": "AGBI",
+     "url": "https://www.agbi.com/real-estate/2026/09/malls-and-real-estate-lift-majid-al-futtaim-profit-by-a-quarter/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-17-06",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "Dubai Retail (Dubai Holding Asset Management) unveils \"The Yard\" at Palm Jebel Ali",
+   "summary": "Dubai Retail, the unified retail brand of MECSR member Dubai Holding Asset Management, unveiled \"The Yard,\" Palm Jebel Ali's first retail and lifestyle destination, expanding its portfolio to 57 retail destinations across Dubai. The waterfront hub spans roughly 70,000 sq ft of leasable area across 26 concepts (confirmed tenants include Waitrose, American Hospital, Piccoli, Jumeirah International Nursery, Bateel Café and Friends Avenue), designed to serve around 20,000 residents with open terraces and a promenade connection. McLaren Construction is the main contractor; opening is planned for 2027.",
+   "article_date": "2026-09-10",
+   "member": true,
+   "sources": [
+    {
+     "label": "Gulf News · 10 Sep 2026",
+     "url": "https://gulfnews.com/business/property/palm-jebel-alis-first-retail-hub-revealed-with-26-new-concepts-1.500669544"
+    },
+    {
+     "label": "Arabian Business",
+     "url": "https://www.arabianbusiness.com/real-estate/palm-jebel-alis-first-retail-and-lifestyle-destination-to-bring-26-concepts-and-serve-20000-people"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "The Yard, Palm Jebel Ali (Dubai Retail): confirm final tenant roster and firm opening date as 2027 approaches.",
+  "Primark Bahrain (23 Sep 2026) and Qatar (29 Oct 2026): confirm both openings proceed on the dates announced.",
+  "VA Group / Muttrah Waterfront, Oman: awaiting project name and retail-component detail.",
+  "Cenomi Centers / Westfield Riyadh: September 2026 opening guidance (from a Feb 2026 CBDO interview) remains unconfirmed as actually met, check for a primary Cenomi opening announcement.",
+  "Cenomi Al Noor Mall, Medina: design/contractor award still pending.",
+  "Lulu Bahrain's six-store, BD62m expansion: named locations and opening dates still pending.",
+  "Al Khail Avenue (Dubai Retail): no fresh 2026 brand-mix or opening update located this run; last available detail is a stale 2015 article, needs a fresh check.",
+  "Al-Futtaim Group \"Everest\" ransomware claim: still Category D dark-web/threat-intel sources only, no established-media corroboration.",
+  "Bloom Mall, Shorouk City (Egypt): still pending pickup by an established outlet."
+ ]
+}

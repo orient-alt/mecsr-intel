@@ -1,0 +1,165 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-07",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-07.html"
+ ],
+ "coverage": {
+  "label": "Monday 6 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-07-01",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Oman",
+   "title": "Mall of Muscat launches Century Cinemas: 14-screen multiplex",
+   "summary": "Mall of Muscat (Tamani Global) has opened Century Cinemas, a 14-screen multiplex seating 1,100+, including a Premium Large Format screen with laser projection and Dolby Atmos, two Platinum Suites and a dedicated kids' screen. Strengthens the mall's leisure anchor mix.",
+   "article_date": "2026-07-06",
+   "sources": [
+    {
+     "label": "Oman Observer · 6 Jul 2026",
+     "url": "https://www.omanobserver.om/article/1192359/oman/community/mall-of-muscat-launches-century-cinemas"
+    },
+    {
+     "label": "GCC Business News · 6 Jul 2026",
+     "url": "https://www.gccbusinessnews.com/mall-of-muscat-launches-century-cinemas"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07-02",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Saudi June project awards top $7.9bn; construction takes 56% share",
+   "summary": "25 projects worth SAR 29.5bn+ ($7.9bn) were awarded in June, the highest monthly count of 2026, per Saudi Press Agency / Saudi Contractors Authority data. Construction led with 14 projects (SAR 20.6bn); NHC was the top awarder. 23 further awards are forecast for July, 60%+ in construction. Signals continued pipeline depth behind retail/mixed-use delivery.",
+   "article_date": "2026-07-06",
+   "sources": [
+    {
+     "label": "TradeArabia · ≈6 Jul 2026",
+     "url": "https://tradearabia.com/News/464756/Saudi-Arabia-sees-June-project-awards-top-$7.9bn,-says-report/IND"
+    },
+    {
+     "label": "GDN Online · ≈6 Jul 2026",
+     "url": "https://www.gdnonline.com/Details/1399877"
+    },
+    {
+     "label": "Zawya · ≈6 Jul 2026",
+     "url": "https://www.zawya.com/en/economy/gcc/saudi-arabia-sees-june-project-awards-top-79bln-says-report-nz45fans"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07-03",
+   "stream": "dest",
+   "type": "status",
+   "country": "Egypt",
+   "title": "JUZUR signs MoU with Hossam Fahmy Consultancy for \"Neo\", New Cairo",
+   "summary": "Developer JUZUR signed an MoU appointing Hossam Fahmy Consultancy to shape the strategic vision, operational concept, tenant mix and leasing strategy for Neo, its ~4.5-feddan mixed-use commercial hub (retail, clinics, offices) on Al Nasr Road, New Cairo. Construction began earlier in 2026; ~30% sold; delivery expected 2028. Narrow-miss from Monday's window, not previously reported.",
+   "article_date": "2026-07-05",
+   "sources": [
+    {
+     "label": "Daily News Egypt · 5 Jul 2026",
+     "url": "https://www.dailynewsegypt.com/2026/07/05/juzur-signs-mou-with-hossam-fahmy-consultancy-for-new-cairo-mixed-use-project/"
+    },
+    {
+     "label": "INTLBM · 1 Jul 2026",
+     "url": "https://intlbm.com/2026/07/01/juzur-seals-mou-collaboration-with-hossam-fahmy-consultancy/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07-04",
+   "stream": "dest",
+   "type": "market",
+   "country": "Oman",
+   "title": "MoCIIP launches \"Live the Vibe\" national discounts campaign (1 Jul – 31 Aug)",
+   "summary": "Oman's Ministry of Commerce, Industry and Investment Promotion invited retailers, hospitality and F&B operators nationwide to run promotions through the summer, in partnership with the Ministry of Heritage & Tourism, Consumer Protection Authority and Oman Chamber. Direct footfall driver for Omani malls including MECSR members' assets.",
+   "article_date": "2026-07-01",
+   "sources": [
+    {
+     "label": "Muscat Daily · 1 Jul 2026",
+     "url": "https://www.muscatdaily.com/2026/07/01/mociip-launches-national-discounts-campaign-to-boost-retail-activity/"
+    },
+    {
+     "label": "Zawya · Jul 2026",
+     "url": "https://www.zawya.com/en/economy/gcc/oman-mociip-launches-national-discounts-campaign-to-boost-retail-activity-lgaaixn3"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07-05",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "UAE non-oil PMI slips to 50.8: weakest June in over five years",
+   "summary": "S&P Global UAE PMI fell from 52.6 (May) to 50.8 (June); employment contracted at the sharpest rate since Aug 2020, and Dubai's PMI eased to 50.7. Regional-conflict fallout weighed on demand, though domestic spending and public investment stayed resilient. Relevant headwind context for UAE retail leasing and footfall expectations.",
+   "article_date": "2026-07-03",
+   "sources": [
+    {
+     "label": "The National · 3 Jul 2026",
+     "url": "https://www.thenationalnews.com/business/economy/2026/07/03/uaes-non-oil-business-activity-grows-at-slowest-pace-in-five-years-in-june-amid-fallout-of-iran-war/"
+    },
+    {
+     "label": "Arab News · 3 Jul 2026",
+     "url": "https://www.arabnews.com/node/2649522/business-economy"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07-06",
+   "stream": "member",
+   "type": "award",
+   "country": "MENA",
+   "title": "Majid Al Futtaim: VOX Cinemas at Mall of the Emirates certified first fully accessible cinema in the Middle East",
+   "summary": "VOX Cinemas at Mall of the Emirates earned Dubai Municipality's Wosool accessibility certification, the first cinema in the GCC to do so, covering all auditoriums and formats (ramps, accessible facilities, dedicated counters, wayfinding). MAF says the upgrades will roll out across its remaining VOX locations. Positive ESG/accessibility differentiator for the flagship asset.",
+   "article_date": "2026-07-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya (press release) · 6 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaims-vox-cinemas-at-mall-of-the-emirates-recognised-as-the-first-fully-accessible-cinema-in-the-middle-east-p954llq7"
+    },
+    {
+     "label": "TradeArabia · 6 Jul 2026",
+     "url": "https://tradearabia.com/News/464714/VOX-Cinemas-at-Mall-of-the-Emirates-becomes-'first-fully-accessible-cinema'-in-Middle-East"
+    },
+    {
+     "label": "Gulf Tech News · 6 Jul 2026",
+     "url": "https://gulftech-news.com/en/2026/07/06/majid-al-futtaims-vox-cinemas-at-mall-of-the-emirates-recognised-as-the-first-fully-accessible-cinema-in-the-middle-east/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-07-07",
+   "stream": "member",
+   "type": "new",
+   "country": "Global",
+   "title": "Tamani Global / Mall of Muscat: Century Cinemas launch expands leisure portfolio",
+   "summary": "MECSR member Tamani Global's Mall of Muscat opened the 14-screen Century Cinemas (see Section A for detail), a significant entertainment-anchor addition following the mall's recent retail expansion activity covered in the 3 July report.",
+   "article_date": "2026-07-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Oman Observer · 6 Jul 2026",
+     "url": "https://www.omanobserver.om/article/1192359/oman/community/mall-of-muscat-launches-century-cinemas"
+    },
+    {
+     "label": "Zawya (press release) · 6 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/mall-of-muscat-expands-premium-retail-and-leisure-portfolio-with-the-launch-of-century-cinemas-vbr917uk"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Knowledge Economic City (KSA): verify possible new SAIB facility (~$40.44m headline on Zawya) vs. the 17 Jun Riyad Bank SAR 150m IWD facility, avoid double-count.",
+  "Cenomi Retail (KSA): CMA referred 17 individuals incl. former/current board members to prosecution (Argaam · 21 May 2026), monitor for impact on Cenomi group entities.",
+  "Westfield Riyadh (Cenomi Centers): September 2026 opening, expect pre-opening announcements.",
+  "Aventura Mall, Kuwait (Mabanee): Q2 2026 completion stated, confirm opening date.",
+  "Seef Mall – Seef District (Bahrain): two-year revamp underway, watch for phase milestones.",
+  "Carried over: Mall of Al Ain redevelopment (Q4 2026 start) · Morocco Mall Marrakech (spring 2027) · Dubai Development's 3 further Cairo malls · First Mall Tripoli tenant fill-out · Qiddiya racecourse award confirmation · Sharjah Summer Promotions venues (to 15 Sep) · Al Khiran hybrid outlet mall, Kuwait (Tamdeen)."
+ ]
+}

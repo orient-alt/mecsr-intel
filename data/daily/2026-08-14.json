@@ -1,0 +1,67 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-14",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-14.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-14-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Bahrain",
+   "title": "Zain Bahrain's OneCX launches first professional CX training programme with The CX Clinic",
+   "summary": "Zain Bahrain, through its dedicated customer experience portfolio OneCX, ran a three-day professional CX training programme from 9–11 August at its Manama headquarters in partnership with The CX Clinic, a Bahrain-based regional CX advisory and training firm. The programme brought together Zain Bahrain staff and professionals from other industries to cover CX fundamentals, customer journey mapping, Voice of the Customer, CX strategy, customer-centric culture, and CX metrics/KPIs, combining international frameworks with workshop-based case studies. Zain framed the initiative as part of its shift from telecom operator to technology-solutions provider, and both partners said it is the first in a planned portfolio of CX training, certification and advisory offerings for the Bahraini and regional market.",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "The24X7News · 10 Aug 2026",
+     "url": "https://twentyfoursevennews.com/2026/08/zain-bahrains-onecx-launches-the-first-customer-experience-training-programme-in-partnership-with-the-cx-clinic/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-14-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Bahrain",
+   "title": "stc pay Bahrain integrates eKey 2.0 to streamline customer registration",
+   "summary": "stc pay Bahrain has integrated its customer registration journey with Bahrain's national eKey 2.0 digital identity platform (developed by Beyon Connect with the Information & eGovernment Authority), enabling eligible customers to verify identity through government-backed eKYC and cutting the number of manual onboarding steps. stc pay and Beyon Connect framed the move explicitly as a customer-experience and trust play, faster, more secure account opening, while iGA officials positioned it as part of Bahrain's wider push to extend national digital-identity infrastructure across more service platforms.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "The24X7News · 12 Aug 2026",
+     "url": "https://twentyfoursevennews.com/2026/08/stc-pay-bahrain-integrates-ekey-2-0-to-simplify-customer-registration-process/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-14-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Islamic community bank ruya partners with Magure to run agentic AI in production",
+   "summary": "UAE digital-first Islamic community bank ruya (Ajman-headquartered, launched 2024) has entered a long-term strategic partnership with Dubai-based enterprise AI company Magure to expand agentic AI across its banking operations, after three agentic AI use cases already went into production. The technology currently automates business-account onboarding, document analysis, verification checks and case-summary preparation, with a human reviewer retained at each decision point, running on open-source LLMs inside ruya's private cloud so personally identifiable information never leaves the bank's infrastructure. The two companies' roadmap explicitly extends into customer service, personalization and customer analytics via Magure's MagOneAI governance platform, positioning this as an early, bank-wide (rather than single-function) agentic AI deployment relevant to CX leaders tracking regional financial-services AI adoption.",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "The American Bazaar · 10 Aug 2026",
+     "url": "https://americanbazaaronline.com/2026/08/10/ruya-partners-with-magure-to-deploy-agentic-ai-across-its-uae-banks-486119/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "DGA Digital Government Award 2026 (Saudi Arabia), fifth edition submissions close 27 Aug; watch for new government-services/AI-adoption categories and any CX-relevant winners once judged.",
+  "SDAIA AI Creativity Boot Camp (Saudi Arabia), three-day content-creator bootcamp ran 10–12 Aug; tangential to core CX/retail remit but worth monitoring for any follow-on customer-facing AI content initiatives.",
+  "The Grand at Nad Al Sheba Gardens (Dubai), phased opening begins 19 Aug; confirm additional tenants opening in the early-September second wave.",
+  "Westfield Riyadh (Sep 2026 opening) and The Avenues – Riyadh (Q4 2026), watch for experience-angle detail (tenant mix, tech-enabled features) as opening dates approach, distinct from the property-tracking already covered in mecsr-weekly-intel-report.",
+  "Magure/ruya roadmap, bank said further agentic AI use cases (customer AI assistant, personalization, customer analytics) are planned; watch for go-live announcements.",
+  "GAIN 2026, Riyadh (15–17 Sep), Saudi's Global AI Summit in its declared \"Year of AI\"."
+ ]
+}

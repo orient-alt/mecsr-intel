@@ -1,0 +1,155 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-28",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-28.html",
+  "MECSR_Daily_Intel_2026-07-28.html"
+ ],
+ "coverage": {
+  "label": "Monday 27 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-28-01",
+   "stream": "cx",
+   "type": "leadership",
+   "country": "Qatar",
+   "title": "Qatar Airways names Calum Laming as Chief Customer Officer",
+   "summary": "Qatar Airways appointed Calum Laming, formerly Chief Customer Officer at British Airways, with earlier senior CX roles at Etihad Airways and Air New Zealand, as its new Chief Customer Officer, tasked with aligning brand, customer experience and service touchpoints under one strategy. He takes up the role on 1 November 2026, reporting to Group CEO Hamad Al-Khater. The appointment ran alongside Abdulla Ali's promotion to the airline's first-ever Chief Operating Officer, as part of a wider leadership expansion tied to the airline's network recovery.",
+   "article_date": "2026-06-18",
+   "sources": [
+    {
+     "label": "paddleyourownkanoo.com · 18 Jun 2026",
+     "url": "https://www.paddleyourownkanoo.com/2026/06/18/qatar-airways-has-picked-the-brunchgate-executive-as-its-new-chief-customer-officer/"
+    },
+    {
+     "label": "Aviation Week",
+     "url": "https://aviationweek.com/air-transport/airlines-lessors/qatar-airways-expands-leadership-team-restores-85-network"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "KAIYI rolls out dedicated Middle East summer service campaign",
+   "summary": "Chinese automaker KAIYI launched a dedicated summer customer-service campaign (July–September 2026) for the UAE, offering free vehicle inspections, extended service hours and proactive maintenance support to help owners manage extreme-heat conditions. The campaign is being extended to Bahrain, Qatar and Saudi Arabia, a straightforward but concrete example of a global auto brand localising its customer-service playbook for GCC climate and market conditions.",
+   "article_date": "2026-07-22",
+   "sources": [
+    {
+     "label": "GlobeNewswire · 22 Jul 2026",
+     "url": "https://www.globenewswire.com/news-release/2026/07/22/3331133/0/en/Keeping-Middle-East-Owners-Cool-and-Confident-KAIYI-Launches-Dedicated-Summer-Service-Campaign.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Ajman completes UAE's first \"headless\" Agentic AI government transaction",
+   "summary": "The Government of Ajman, via Digital Ajman, completed the UAE's first trade-licence renewal handled end-to-end by Agentic AI, a proactive, \"headless\" service model in which the system identifies a customer's need, maps the service journey, requests approvals and coordinates across departments (including Ajman Municipality and the Planning Department for lease-dependent renewals) with no human intervention. Customers are notified ahead of expiry and directed into the intelligent assistant inside the unified AjmanOne app to complete renewal. Corroborated independently by The National, Khaleej Times and Gulf News.",
+   "article_date": "2026-07-23",
+   "sources": [
+    {
+     "label": "The National · 23 Jul 2026",
+     "url": "https://www.thenationalnews.com/news/uae/2026/07/23/ajman-uses-agentic-ai-to-renew-trade-licence-in-uae-government-first/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-04",
+   "stream": "ai",
+   "type": "cx",
+   "country": "UAE",
+   "title": "UAE Ministry of Finance call centre beats every H1 2026 target on generative AI",
+   "summary": "The Ministry of Finance reported that generative-AI integration into its call centre pushed First Contact Resolution to 97.11%, cut Average Speed of Answer to 8 seconds, lifted Customer Happiness to 95.43% and Service Quality to 92.41%, while limiting Call Abandonment to 1.88%, all beating approved H1 2026 targets. A concrete, quantified government benchmark that GCC contact-centre operators can use to gauge realistic gains from generative-AI deployment.",
+   "article_date": "2026-07-23",
+   "sources": [
+    {
+     "label": "Zawya · 23 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/government-news/ministry-of-finance-integrates-generative-ai-into-call-centre-delivering-operational-performance-beyond-all-h1-2026-targets-407062"
+    },
+    {
+     "label": "Economy Middle East",
+     "url": "https://economymiddleeast.com/news/uae-mof-resolves-97-11-percent-of-calls-as-generative-ai-cuts-wait-time-to-8-seconds-lifts-customer-happiness-to-95-43-percent/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-05",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "NAS Gardens Community Mall confirmed for August 2026 opening",
+   "summary": "Meraas developer Shamal confirmed NAS Gardens Community Mall, inside the Nad Al Sheba Gardens villa community (about 10 minutes from Downtown Dubai), will open in August 2026. Waitrose (under Spinneys' UAE licence) anchors as supermarket, alongside a nursery, health and fitness facilities, cafés and restaurants, and two local F&B concepts (Kokoro Handroll Bar, Bake My Day) in a permanent dual space. Notably, the mall is open to non-residents despite sitting inside a gated community, an experience choice worth watching as more UAE developers build neighbourhood-scale retail. Experience-angle summary only; see mecsr-weekly-intel-report for development/investment tracking.",
+   "sources": [
+    {
+     "label": "Time Out Dubai · 2026",
+     "url": "https://www.timeoutdubai.com/news/nas-gardens-community-mall"
+    },
+    {
+     "label": "PRNewswire/Shamal",
+     "url": "https://www.prnewswire.com/news-releases/shamal-announces-nad-al-sheba-gardens-mall-bringing-a-new-retail-and-lifestyle-experience-to-the-community-302291323.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-06",
+   "stream": "dest",
+   "type": "market",
+   "country": "Qatar",
+   "title": "QATAR Visit Qatar launches Hala Summer Shopping Festival across 11 malls Market 27 Jul 2026",
+   "summary": "As part of the wider Hala Summer campaign (running to end of September), Visit Qatar unveiled the Hala Summer Shopping Festival, a month-long shopping and dining activation from 1–31 August 2026. The festival unites Qatar's leading shopping malls, Place Vendôme, Doha Festival City, Mall of Qatar, Villaggio, City Center, Landmark, Doha Mall, West Walk, Gewan, Hyatt Plaza and Al Hazm, with restaurants from the Taste of Qatar network, offering exclusive promotions, set menus and discounts. Shoppers spending a minimum of QR200 can redeem stamped receipts for raffle coupons; four weekly draws will be hosted at Doha Festival City, Mall of Qatar, Place Vendôme and Villaggio, with prizes including five cars. The activation gives all eleven participating destinations a coordinated footfall driver through August, directly relevant to MECSR's Qatar-listed directory properties.",
+   "article_date": "2026-07-27",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 27 Jul 2026",
+     "url": "https://thepeninsulaqatar.com/article/27/07/2026/visit-qatar-unveils-hala-summer-shopping-festival-across-qatars-malls-and-restaurants"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-07",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS SAUDI ARABIA Jabal Omar Development Company signs MoU with Al Othaim Entertainment New Project 15 Jul 2026",
+   "summary": "Companies: Jabal Omar Development Company and Al Othaim Entertainment (both Priority 1 members, Saudi Arabia). The two signed a Memorandum of Understanding to develop and operate what is described as the first dedicated entertainment destination of its kind in Makkah's central area, located within Souq Bab Makkah at the Jabal Omar Destination. The venue is aimed at providing children a safe, enjoyable experience while their families perform their rituals and visit the Grand Mosque, and forms part of Jabal Omar's strategy of partnering with specialised operators to broaden Souq Bab Makkah's retail, dining, entertainment and service offering. A notable pairing of two Priority-1 MECSR members on a single project. No opening date disclosed yet.",
+   "article_date": "2026-07-15",
+   "member": true,
+   "sources": [
+    {
+     "label": "Jabal Omar Development Company (official) · 15 Jul 2026",
+     "url": "https://jabalomar.com.sa/en/jabal-omar-development-company-signs-a-memorandum-of-understanding-with-abdullah-al-othaim-entertainment/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-28-08",
+   "stream": "member",
+   "type": "market",
+   "country": "Qatar",
+   "title": "MEMBER NEWS QATAR Landmark Group announces \"Shukran Millionaire\" campaign winner Market 22 Jul 2026",
+   "summary": "Company: Landmark Group (Priority 2 retail brand, regional). Landmark Group announced Mooza Alnaemi as winner of its \"Shukran Millionaire – Shop & Win\" campaign in Qatar, taking home 1 million Shukran Points (QR50,000), following an e-raffle draw held 5 July 2026. The campaign, which ran to 30 June 2026, rewarded QR250+ spend at Landmark brands including Centrepoint, Babyshop, Splash, Shoemart, Lifestyle, Max, Home Centre, Home Box, Shoexpress, Pablosky and Emax. A customer-loyalty/marketing result rather than a property or corporate milestone, but a dated, verifiable signal of active in-market promotional investment by a Priority 2 member.",
+   "article_date": "2026-07-22",
+   "member": true,
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 22 Jul 2026",
+     "url": "http://thepeninsulaqatar.com/article/22/07/2026/landmark-group-announces-winner-of-the-shukran-millionaire-shop-win-campaign-in-qatar"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Qatar Airways, watch for Calum Laming's formal start (1 Nov 2026) and any early CX-strategy announcements.",
+  "Ajman / Digital Ajman, watch for expansion of headless Agentic AI to other transaction types or other UAE emirates following this \"first.\"",
+  "UAE federal/local ministries, watch for other entities publishing H1 2026 AI-driven contact-centre performance data following the Ministry of Finance disclosure.",
+  "NAS Gardens Community Mall, confirm exact August opening date and any additional tenant announcements.",
+  "KAIYI service campaign, track confirmed launch dates in Bahrain, Qatar and Saudi Arabia as the rollout continues."
+ ]
+}

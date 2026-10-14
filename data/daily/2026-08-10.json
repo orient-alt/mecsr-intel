@@ -1,0 +1,248 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-10",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-10.html",
+  "MECSR_Daily_Intel_2026-08-10.html"
+ ],
+ "coverage": {
+  "label": "Friday 7 August – Sunday 9 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-10-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Egypt",
+   "title": "Sahl digital bill-payment platform extended to Egyptians living abroad",
+   "summary": "Egypt has expanded its Sahl application so citizens overseas, including the large Egyptian communities across the GCC, can pay utility and government-related bills remotely, with no need to be physically present in Egypt or rely on family intermediaries. For MECSC members this is a clean example of a government extending a domestic self-service channel to a diaspora customer base, removing one of the most common cross-border service pain points in the region.",
+   "article_date": "2026-08-08",
+   "sources": [
+    {
+     "label": "Arabian Reseller · 8 Aug 2026",
+     "url": "https://arabianreseller.com/2026/08/08/egypt-expands-digital-services-for-citizens-abroad-with-sahl-bill-payment-platform/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Egypt",
+   "title": "QR-code digital tourist visa goes live at Cairo International Airport",
+   "summary": "Egypt has launched a QR-code-based tourist visa that visitors can obtain digitally before travelling or on arrival at Cairo International Airport, part of a modernisation of border procedures supporting the target of 30 million tourists annually by 2030. Alongside the Sahl expansion, it signals a sustained push to digitise citizen- and visitor-facing services. Exact publication day unconfirmed on-page; the article sits immediately before Gulf News' 5 Aug VAT story in the publisher's sequence.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Gulf News · ~6 Aug 2026 (date unverified)",
+     "url": "https://gulfnews.com/business/tourism/egypt-launches-qr-code-tourist-visa-system-1.500629232"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-03",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "CKYC 2.0: NRIs in the UAE to escape repeat KYC checks with Indian banks from August",
+   "summary": "India's upgraded Central KYC registry (CKYC 2.0), rolling out from August 2026, will let non-resident Indians in the UAE reuse verified KYC records across Indian banks and insurers instead of repeating document checks with every institution. With NRIs a major banking segment in the UAE, this is a meaningful customer-effort reduction story for cross-border financial services, the kind of interoperability regional banks are increasingly measured against.",
+   "article_date": "2026-08",
+   "sources": [
+    {
+     "label": "Gulf News · ~Aug 2026 (date unverified)",
+     "url": "https://gulfnews.com/business/banking/ckyc-20-nris-in-uae-can-soon-avoid-repeated-kyc-checks-in-india-1.500625854"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-04",
+   "stream": "ai",
+   "type": "cx",
+   "country": "Qatar",
+   "title": "Ooredoo, Nvidia and Nokia unveil multi-billion-dollar 1 GW AI compute platform",
+   "summary": "Qatar's Ooredoo announced a partnership with Nvidia and Nokia to build a 1-gigawatt AI compute platform, starting in Indonesia, in a multi-billion-dollar push targeting Southeast Asia. For CX watchers, this is the infrastructure layer behind Ooredoo's \"AI-Native Telco\" transformation programme (announced May 2026) and its Evee customer-service assistant (June 2026, both logged in prior dossiers), the group is now securing the compute to run AI-driven service at scale.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Fortune · 6 Aug 2026",
+     "url": "https://fortune.com/2026/08/06/qatar-ooredoo-nvidia-nokia-unveil-multi-billion-dollar-ai-compute-platformand-southeast-asia-is-their-target/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-05",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "title": "SoundHound–LivePerson merger heads to a 20 August shareholder vote",
+   "summary": "LivePerson is urging shareholders to approve its acquisition by voice-AI firm SoundHound at a Special Meeting on 20 August. The deal (announced 21 Apr, ~$3.33/share, 22% premium) would combine SoundHound's billions of annual voice interactions with LivePerson's ~1 billion monthly digital messages and 25 Fortune 100 customers between them. Both vendors are active in GCC enterprise CX stacks; the outcome will shape voice + digital conversational AI roadmaps regionally.",
+   "article_date": "2026-07-23",
+   "sources": [
+    {
+     "label": "PR Newswire · 23 Jul 2026",
+     "url": "https://www.prnewswire.com/news-releases/liveperson-sends-letter-to-stockholders-highlighting-benefits-of-pending-transaction-with-soundhound-ai-302832794.html"
+    },
+    {
+     "label": "SEC 8-K (FY2026)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001102993/000119312526313370/d861476dex991.htm"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-06",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Dubai's nine-mall pipeline: community, wellness and nature-led retail concepts dominate",
+   "summary": "Gulf News mapped nine new malls and community retail hubs coming to Dubai. The experience signal for MECSC members: nearly all are community/lifestyle formats rather than mega-malls, Sobha Mall (Dh210m, late 2026), two Spanish-inspired Le Meryeme malls (H2 2026), South Bay Mall's rooftop/lagoon-view format, HAYAT's retail boulevard, and Majid Al Futtaim's forest-integrated Ghaf Woods Mall (\"moving away from the conventional enclosed mall format\"), plus Emaar's tech-led Dubai Square indoor city (2028). The Grand's 19 Aug phased opening was covered in earlier runs. See mecsr-weekly-intel-report for full property/development tracking.",
+   "article_date": "2026-08-01",
+   "sources": [
+    {
+     "label": "Gulf News · 1 Aug 2026",
+     "url": "https://gulfnews.com/business/retail/dubai-is-getting-9-new-malls-and-retail-hubs-here-is-what-is-opening-and-where-1.500626799"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-07",
+   "stream": "ai",
+   "type": "ai",
+   "country": "",
+   "title": "Retail tech week in numbers: robots, micro-fulfilment and 3D imaging scale up",
+   "summary": "Retail Technology Innovation Hub's weekly numbers round-up (6 Aug) captured where US retail tech budgets are going: HomeBase expanded Simbe's Tally inventory robots chain-wide, Walgreens opened a new micro-fulfilment centre in Kent, WA, and La-Z-Boy is rolling 3D Cloud API-based product imagery across all digital channels. Directionally relevant for GCC retailers weighing in-store automation and richer digital merchandising.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Retail Technology Innovation Hub · 6 Aug 2026",
+     "url": "https://retailtechinnovationhub.com/home/2026/8/6/challenging-long-standing-online-delivery-experience-assumptions-the-retail-technology-week-in-numbers"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-08",
+   "stream": "ai",
+   "type": "ai",
+   "country": "GCC",
+   "title": "EU AI Act transparency rules for customer-facing AI apply from August 2026",
+   "summary": "Industry coverage of contact-centre AI notes that under the EU AI Act, transparency obligations for AI systems that interact directly with people are among the provisions applying from August 2026, bots must be disclosed as bots. GCC organisations serving European customers, and regulators drafting regional AI codes, are watching this as the de facto global baseline for conversational-AI disclosure.",
+   "article_date": "2026-08",
+   "sources": [
+    {
+     "label": "CMSWire · 2026 (date unverified)",
+     "url": "https://www.cmswire.com/contact-center/customer-contact-week-2026-capturing-the-ai-announcements-in-contact-center-technology/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-09",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "Market Emaar Properties Q2: profit up 9% despite regional tensions: Dubai Mall owner's results a key retail health signal",
+   "summary": "Dubai-listed Emaar Properties reported Q2 2026 net profit attributable to shareholders of AED 3.67bn ($999m), up 9% year on year, with H1 net profit of AED 8.67bn. Emaar Development posted AED 2.64bn. As owner of Dubai Mall and a major UAE retail landlord, Emaar's resilience through the regional conflict period is a positive indicator for UAE mall performance. Emaar is not a MECSR member but is tracked as a listed mall owner under the stock-exchange watch brief.",
+   "article_date": "2026-08-07",
+   "sources": [
+    {
+     "label": "Zawya · 7 Aug 2026",
+     "url": "https://www.zawya.com/en/capital-markets/corporate-earnings/dubais-emaar-properties-q2-profit-rises-9-on-strong-demand-424665"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-10",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "Market Dubai Summer Surprises: Back-to-School Carnival across city malls, 7–8 Aug",
+   "summary": "Dubai Festivals and Retail Establishment's DSS 2026 (3 Jul–30 Aug) staged a Back-to-School Carnival with family entertainment and live shows across Dubai malls on 7–8 August, a footfall driver in the coverage window. Event dates fall in the window; the press release's own publication date could not be confirmed.",
+   "sources": [
+    {
+     "label": "Zawya · date unverified",
+     "url": "https://www.zawya.com/en/press-release/events-conferences/dubai-summer-surprises-2026-unveils-an-action-packed-calendar-of-shopping-dining-entertainment-staycations-and-family-fun-331897"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-11",
+   "stream": "dest",
+   "type": "market",
+   "country": "Bahrain",
+   "title": "Market entry: context Primark's GCC rollout: Qatar (Doha Festival City) and Bahrain (City Centre Bahrain) stores due by end-2026",
+   "summary": "Context for H2 2026 anchor watch: Primark confirmed in January that, following its UAE debut at Dubai Mall (26 Mar) and stores at City Centre Mirdif and Mall of the Emirates, it will open at Doha Festival City (Qatar) and City Centre Bahrain by end-2026, under its Alshaya Group partnership. Both host malls should be monitored for opening-date announcements.",
+   "article_date": "2026-01-29",
+   "sources": [
+    {
+     "label": "Gulf Business · 29 Jan 2026",
+     "url": "https://gulfbusiness.com/primark-qatar-bahrain-stores/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-12",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Iraq",
+   "title": "Member News Expansion Iraq's first IMAX cinema opens at Iraq Mall, Baghdad",
+   "summary": "Iraq inaugurated its first IMAX theater, an IMAX with Laser auditorium, at member property Iraq Mall in Baghdad's Al-Dora district on 9 August. The new Iraqi Cinema branch was formally opened by Acting Minister of Culture, Tourism and Antiquities Sarwa Abdul Wahid, and launched with daily IMAX screenings of Christopher Nolan's \"The Odyssey\". A significant entertainment-anchor milestone for the country's largest mall (550,000+ m², 1,000+ retail units), which held its grand opening on 21 February 2026 ( Iraqi News · 21 Feb 2026, historic context).",
+   "article_date": "2026-02-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "Iraqi News · 21 Feb 2026",
+     "url": "https://www.iraqinews.com/iraq/iraq-mall-baghdad-grand-opening/"
+    },
+    {
+     "label": "Iraqi News · 9 Aug 2026",
+     "url": "https://www.iraqinews.com/iraq/iraq-opens-its-first-imax-cinema-in-baghdad/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-13",
+   "stream": "member",
+   "type": "financial",
+   "country": "Kuwait",
+   "title": "Member News Financial Mabanee Q2: profit slips 8% as war hits hotels: The Avenues holds 98% occupancy",
+   "summary": "Mabanee reported Q2 net profit down 8% year on year to KD 15.5m ($50.5m) on revenue of KD 32.2m (−6%), driven by a 78% drop in hospitality gross profit as airport closures and event cancellations tied to the regional conflict hit its Hilton Garden Inn and Waldorf Astoria properties. Mall gross profit slipped just 1.7%; flagship The Avenues held occupancy at 98% with footfall slightly up. H1 attributable net profit fell 36% to KD 32.4m. AGBI article published August 2026; exact publication date could not be confirmed (article paywalled on re-fetch), figures cross-referenced via search excerpt. Believed to fall in or immediately before the coverage window.",
+   "article_date": "2026-08",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · Aug 2026",
+     "url": "https://www.agbi.com/real-estate/2026/08/developer-mabanees-profits-slide-as-war-hurts-kuwait-hotels/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-10-14",
+   "stream": "member",
+   "type": "deal",
+   "country": "Bahrain",
+   "title": "Member News Deal / Lease stc Bahrain launches next-generation flagship store at The Avenues – New Extension",
+   "summary": "Telecom operator stc Bahrain opened a next-generation flagship store at The Avenues Mall – New Extension, a tenant win for member property The Avenues – Bahrain and confirmation that the mall's new extension is actively trading up its tenancy mix. Source: Zawya press release, publication date unverified; cross-reference recommended before directory action.",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · date unverified",
+     "url": "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-launches-next-generation-flagship-store-at-the-avenues-mall-new-extension-wmwrrk11"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "SoundHound–LivePerson shareholder vote, 20 Aug, approval would create one of the largest voice+digital CX AI vendors; watch for GCC customer implications.",
+  "The Grand, Nad Al Sheba, phased opening from 19 Aug, first Waitrose & Partners in the area; watch opening-week shopper-experience coverage.",
+  "Saudi DGA Digital Government Award, submissions close 27 Aug (logged 7 Aug run); expect entrant/winner news to follow.",
+  "Dubai Summer Surprises Back-to-School campaign (3–30 Aug), mall activation and retail-promotion coverage likely through the month.",
+  "e&, du, stc AI customer-service moves, regional telco AI announcements were thin this window; Ooredoo's compute deal may prompt competitive responses.",
+  "MENA Stevie Awards (gala 11 Sep, Istanbul), regional customer-service category winners relevant to members.",
+  "The Grand, Nad Al Sheba Gardens (UAE / Shamal Holding): phase 1 opens 19 Aug, anchored by Waitrose & Partners with member Al Jaber Optical among first tenants, confirm opening next week.",
+  "Lulu Retail Holdings (UAE, member group): H1/Q2 2026 results expected mid-August on ADX.",
+  "Aventura Mall (Kuwait / Mabanee, member): Q3 2026 opening in Jaber Al-Ahmad City; 20+ Alshaya stores signed.",
+  "Westfield Riyadh (Cenomi Centers, member): September 2026 opening target.",
+  "The Avenues – Riyadh (Mabanee, member): Q4 2026 opening; SAR 11.4bn financing in place.",
+  "Dubai Summer Surprises close (30 Aug): expect retailer/mall performance wrap-ups in early September."
+ ]
+}

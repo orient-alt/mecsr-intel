@@ -1,0 +1,138 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-13",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-13.html",
+  "MECSR_Daily_Intel_2026-08-13.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 12 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-13-01",
+   "stream": "ai",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "NextGen AI Summit Riyadh 2026 brings bank, utility and PIF leaders together on generative AI and governance",
+   "summary": "The one-day NextGen AI Summit Riyadh 2026 was held on 12 August at voco Riyadh, convening speakers from Saudi Electricity Company, Riyad Bank, the Public Investment Fund and the Ministry of Health to discuss generative AI, automation, smart governance and data ethics within the Vision 2030 framework, with sector applications highlighted across finance, healthcare and education. Sourcing note: this item is drawn from the organiser's own event listing (Inc. Arabia), not independent press coverage, included as a directional signal of Saudi AI-agenda activity rather than a confirmed news development; no specific CX/retail deployment was announced.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "Inc. Arabia (event listing) · 12 Aug 2026",
+     "url": "https://events.incarabia.com/nextgenaisummitriyadh/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-13-02",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "Egypt's North Coast becomes a luxury-retail battleground: but is the footfall converting?",
+   "summary": "Luxury and premium brands are increasingly opening seasonal stores in North Coast resort developments (e.g. Marassi, Fouka Bay and similar destinations) to reach Egypt's affluent, seasonally concentrated shoppers rather than relying solely on year-round Cairo footprints. The piece raises a genuine CX/retail question relevant to MECSC members: whether these seasonal, experience-forward retail formats are actually converting browsers into buyers, or mainly generating social-media visibility without commensurate sales, a useful cautionary data point for members evaluating pop-up or seasonal experiential retail formats.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "EnterpriseAM Egypt · 12 Aug 2026",
+     "url": "https://enterpriseam.com/egypt/2026/08/12/egypts-north-coast-has-become-a-luxury-retail-battleground-is-it-actually-worth-it-for-the-brands/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-13-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Jordan",
+   "title": "Valu Jordan and Majid Al Futtaim's HyperMax launch BNPL to smooth everyday grocery checkout",
+   "summary": "Valu Jordan and HyperMax, the grocery retail brand wholly owned and operated by Majid Al Futtaim in Jordan, with 29 stores nationwide, have partnered to make Valu's Buy Now, Pay Later option available at point-of-sale terminals in all HyperMax branches and on its e-commerce platform. The move is explicitly framed by both companies around improving the everyday shopping and checkout experience rather than just financing bigger-ticket purchases, reflecting a broader regional trend of embedding flexible payment options directly into the customer journey.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "Zawya · 12 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/valu-jordan-and-hypermax-partner-to-bring-greater-flexibility-to-everyday-shopping-429008"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-13-04",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Member News Deal Mubadala raises stake in Aldar to 28.03%",
+   "summary": "Abu Dhabi sovereign wealth fund Mubadala Investment Company , through subsidiary Mamoura Diversified Global, increased its shareholding in member Aldar Properties from 27.01% to 28.03% of issued share capital, Aldar disclosed to the Abu Dhabi Securities Exchange. The roughly 1-percentage-point increase (approximately 78.6 million shares) resulted from independent market purchases executed between 8 May and 11 August 2026. Aldar stated the change \"results solely from independent market transactions undertaken by Mubadala and is neither the outcome of, nor related to, any corporate action initiated or undertaken by Aldar.\" The developer's biggest shareholder remains Alpha Dhabi Holding. Aldar and Mubadala have an active joint-venture relationship spanning a Dh10 billion retail platform (Yas Mall and The Galleria Luxury Collection) completed in February 2026 and an April 2026 acquisition of The Link at Masdar City.",
+   "article_date": "2026-08-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "The National · 12 Aug 2026",
+     "url": "https://www.thenationalnews.com/business/markets/2026/08/12/mubadala-raises-stake-in-abu-dhabi-developer-aldar/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-13-05",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "Member News Financial CMA approves Cenomi Centers' 9% capital hike via bonus shares",
+   "summary": "Saudi Arabia's Capital Market Authority approved member Cenomi Centers' (Arabian Centres Co.) application to raise capital from SAR 4.75 billion to SAR 5.18 billion via a 1-for-12 bonus share distribution, an increase of 42.66 million shares (475 million → 517.66 million shares). The increase will be funded by capitalising SAR 426.6 million from retained earnings: 39.58 million shares as bonus shares to existing holders and 3.08 million shares allocated to a proposed employee share programme. Eligibility falls to shareholders registered with the Securities Depository Center (Edaa) as of a record date to be set by the board. The company's board recommended the increase in June 2026; an extraordinary general meeting to formalise it must be held within six months of this approval. This is distinct from Cenomi Centers' H1 2026 earnings (net profit down 18% YoY on higher finance costs) already covered in the 6–7 August reports.",
+   "article_date": "2026-08-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "Argaam · 12 Aug 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1928878"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-13-06",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "Member News Financial Jabal Omar turns profitable as Hajj and mall occupancy lift H1 2026 results",
+   "summary": "Member Jabal Omar Development Company reported Q2 2026 revenue up 43% year-on-year to SAR 715 million ($191m), driven by stronger hotel performance during Hajj season and the January opening of its Rotana Hotel. The Mecca-based developer turned profitable in Q2, posting SAR 158 million in income versus a SAR 42 million net loss a year earlier. H1 revenue rose 16% YoY to SAR 1.5 billion (hotels +17%, malls +6%). The commercial centres (malls) segment grew on a 10% increase in occupied gross leasing area, though group net profit for H1 fell 70% due to non-recurring land-sale gains booked in the prior year. CEO Saleh Al-Habdan said management is targeting domestic demand as regional conflict affects international tourist arrivals, and flagged Saudi Arabia's new non-Saudi property-ownership rules as a potential boost to Jabal Omar's investor base.",
+   "article_date": "2026-08-03",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 3 Aug 2026",
+     "url": "https://www.agbi.com/tourism/2026/08/hajj-and-domestic-tourists-drive-jabal-omar-growth/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-13-07",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Member News New Project Al Othaim Park in Dammam passes 64% completion ahead of 2027 opening",
+   "summary": "Member Abdullah Al Othaim Investment Company announced that Al Othaim Park , a SAR 2.34 billion entertainment and retail destination in Dammam, has surpassed 64% physical completion, keeping the project on track for a 2027 opening. This is a distinct project from the previously tracked Al Othaim Park development in Hail; the Dammam destination had not previously appeared in this report series. Al Othaim Investment separately operates 11 malls, 420 fashion stores, 90 entertainment facilities, 140 F&B outlets and four cinemas across Saudi Arabia.",
+   "article_date": "2026-06-14",
+   "member": true,
+   "sources": [
+    {
+     "label": "Maaal · 14 Jun 2026",
+     "url": "https://maaal.com/en/news/details/al-othaim-park-surpasses/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "The Grand at Nad Al Sheba Gardens (Dubai), phased opening begins 19 Aug; confirm which additional tenants (Tashas, Kokoro, Bake My Day, etc.) open in the early-September second wave.",
+  "Smart Data & AI Summit, Saudi Arabia (26–27 Aug), watch for any concrete CX/retail AI deployment announcements rather than general governance discussion.",
+  "CEM Africa 2026, Cape Town (18–20 Aug), not GCC, but a relevant cross-market CX benchmarking event for MECSC members.",
+  "Saudi Customer Experience Awards 2027 cycle, nomination/judging timeline to confirm as it opens.",
+  "Dubai Summer Surprises finale (to 30 Aug) and Sharjah Summer Promotions draws (to 15 Sep), final prize draws and any customer-turnout reporting.",
+  "GAIN 2026, Riyadh (15–17 Sep), Saudi's Global AI Summit in its declared \"Year of AI\".",
+  "Al Othaim Markets (Tadawul 4001, member group): H1 2026 results expected on/around 12 August per earnings calendar, confirm release and figures next run.",
+  "Lulu Retail Holdings (ADX: LULU, member group): H1 2026 results due 19 August 2026.",
+  "The Grand, Nad Al Sheba Gardens (UAE): phase 1 opens 19 August, anchored by Waitrose & Partners.",
+  "Aventura Mall (Mabanee, Kuwait): opening retargeted to October 2026, confirm final date closer to launch.",
+  "Hilton Kuwait Mangaf (Mabanee): resort opening slipped to December 2026.",
+  "Cenomi Centers capital increase: monitor for EGM date and bonus-share record date (due within 6 months of 12 Aug 2026 CMA approval)."
+ ]
+}

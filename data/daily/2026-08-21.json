@@ -1,0 +1,221 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-21",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-21.html",
+  "MECSR_Daily_Intel_2026-08-21.html"
+ ],
+ "coverage": {
+  "label": "Thursday 20 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-21-01",
+   "stream": "cx",
+   "type": "leadership",
+   "country": "Bahrain",
+   "title": "stc Bahrain appoints Khalid Alia as Chief Digital and Customer Experience Officer",
+   "summary": "stc Bahrain has announced the appointment of Khalid Alia as Chief Digital and Customer Experience Officer, part of the company's strategy to accelerate digital growth and deliver more seamless, customer-centric experiences. Khalid previously served as Senior Director of Consumer Marketing and Customer Experience at stc Bahrain, where he played a key role in driving the company's consumer strategy, enhancing the customer journey, and delivering several successful product and service launches. With extensive international experience across strategic commercial and marketing roles in telecommunications, he will now lead stc Bahrain's combined digital and customer experience agenda, with a stated focus on innovation, digital adoption, and continued development of solutions that meet customers' evolving needs.",
+   "article_date": "2026-08-20",
+   "sources": [
+    {
+     "label": "The24X7News · 20 Aug 2026",
+     "url": "https://twentyfoursevennews.com/2026/08/stc-bahrain-appoints-khalid-alia-as-chief-digital-and-customer-experience-officer/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Bahrain",
+   "title": "NBB launches \"Use Our App & Win\" campaign to drive digital-channel adoption",
+   "summary": "The National Bank of Bahrain (NBB) has launched its \"Use Our App & Win\" campaign, offering eligible NBB App users the chance to win cash prizes distributed across 12 winners simply by using the app. Running from 1 August to 31 December 2026, eligible users are automatically entered into monthly prize draws when they log in during the campaign period. NBB frames the campaign as following \"recent enhancements to the NBB App's interface and overall user experience,\" positioning it as part of a broader digital-transformation strategy that pairs platform development with customer-focused incentives. Subah Abdullatif Al Zayani, Chief Executive – Retail Banking at NBB, said the initiative rewards customers \"embracing digital transformation and adopting the NBB App as their primary banking channel,\" as part of ongoing efforts to deliver \"a simpler and more secure digital banking experience.\"",
+   "article_date": "2026-08-20",
+   "sources": [
+    {
+     "label": "The Daily Tribune (Bahrain) · 20 Aug 2026",
+     "url": "https://www.newsofbahrain.com/business/139764.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-03",
+   "stream": "ai",
+   "type": "market",
+   "country": "Bahrain",
+   "title": "Grant Thornton Bahrain: AI is changing cybersecurity risk: and customer-service continuity along with it",
+   "summary": "Grant Thornton Bahrain has warned that artificial intelligence is transforming how businesses in the Kingdom operate while also changing the cybersecurity landscape around them. While AI gives organisations faster threat-detection capabilities, it also lets bad actors automate attacks with unprecedented scale and speed, according to senior partner Jatin Karia: \"AI is fundamentally changing the cybersecurity landscape, creating both opportunities and new areas of risk.\" The firm flags that operational risk now extends beyond traditional IT failure, disruptions to cloud providers or vendor networks can \"instantly freeze customer services and financial workflows\", while autonomous AI agents introduce further exposure through prompt-injection attacks, AI-driven data exposure, identity breaches, and ungoverned \"shadow AI\" tools used by employees without authorisation. Technology advisory director Shams Khan said securing these systems \"requires ongoing monitoring rather than a single assessment,\" while senior manager Vitesh Sharma called for a balance between innovation and governance, identity controls, data protection and human oversight. The piece is a useful governance-side counterpart to the many customer-facing AI/CX deployment stories this series otherwise tracks, a reminder that GCC organisations scaling agentic AI into service channels are also being urged to build resilience so those same channels don't become a single point of failure.",
+   "article_date": "2026-08-16",
+   "sources": [
+    {
+     "label": "Gulf Daily News (Bahrain) · 16 Aug 2026",
+     "url": "https://www.gdnonline.com/Details/1403536"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Bahrain",
+   "title": "LuLu Hypermarket turns Bahrain stores into festive destinations for \"Onam with LuLu 2026\"",
+   "summary": "LuLu Hypermarket has launched \"Onam with LuLu 2026\" across all its Bahrain stores, running until 26 August, bringing customers themed food, fashion and market experiences built around Kerala's Onam harvest festival. The celebrations were inaugurated at LuLu's Dana Mall store in the presence of Rajiv Kumar Mishra, Chargé d'Affaires at the Embassy of India to Bahrain. Stores have been reconfigured into \"Onam Fresh Markets\" with fresh produce, flowers and festive essentials, alongside a Payasam Mela (nine dessert varieties, including a \"Baklava Payasam\" fusion dish) and a Pickle Mela of traditional pickles. The centrepiece is LuLu's Traditional Onam Sadhya, a 24-dish set meal offered at a \"Happiness Price\" of BD 2.990, which director Juzer Rupawala described as \"one of the most famous and eagerly awaited food experiences in Bahrain.\" A parallel ethnic-fashion promotion (BD 20 for BD 15, valid to 29 August) rounds out the activation. As a tenant-mix and in-store experience play rather than a property story, this sits squarely in MECSC's experience-angle remit, see mecsr-weekly-intel-report for any related property/development tracking.",
+   "article_date": "2026-08-20",
+   "sources": [
+    {
+     "label": "The Daily Tribune (Bahrain) · 20 Aug 2026",
+     "url": "https://www.newsofbahrain.com/business/139769.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-05",
+   "stream": "dest",
+   "type": "new",
+   "country": "Qatar",
+   "title": "Nesto opens first Qatar hypermarket in Al Gharrafa, Doha",
+   "summary": "Nesto Group (Western International Group) entered the Qatari market with the opening of its first hypermarket, located in Al Gharrafa, Doha, on the site of the former Passport Office building, the group's 152nd store worldwide. The store offers fresh produce, groceries, household essentials, fashion, electronics and lifestyle products, and was inaugurated in the presence of Qatar Chamber board member Mohammed bin Ahmed Al Obaidli, Sheikh Hamad bin Thani Al Thani, Western International Group Chairman K.P. Basheer and Nesto Group Managing Director Jamal Kunhiparambath. The company confirmed eight further outlets are in the pipeline in Qatar, with other coverage citing a QR2bn investment plan targeting up to 10 hypermarkets in the country by 2026, four of which are already under way.",
+   "article_date": "2026-08-20",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 20 Aug 2026",
+     "url": "http://thepeninsulaqatar.com/article/20/08/2026/nesto-opens-first-qatar-hypermarket-plans-eight-more-outlets"
+    },
+    {
+     "label": "Zawya · 20 Aug 2026",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/nesto-group-expands-into-qatar-with-new-hypermarket-and-plans-for-10-stores-by-2026-uo4p9sx9"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-06",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Qatar",
+   "title": "Doha Festival City announces QR400m mall-wide transformation",
+   "summary": "Al-Futtaim's Doha Festival City unveiled a landmark transformation programme backed by combined investment of up to QR400 million from the mall and participating retail partners, its most significant upgrade since opening. Headline additions include Primark's first store in Qatar (three levels, its largest in the country), the market debut of Ulta Beauty, and a refurbishment and expansion of Zara's flagship store. The programme also covers mall-wide upgrades to visitor comfort, accessibility and technology, plus a broader evolution of the dining line-up across casual, café and elevated culinary concepts. Distinct from the previously-reported Hala Summer Shopping Festival activation at the same mall.",
+   "article_date": "2026-08-02",
+   "sources": [
+    {
+     "label": "Zawya · 2 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/doha-festival-city-announces-mall-wide-transformation-programme-worth-up-to-qar-400mln-417946"
+    },
+    {
+     "label": "The Peninsula Qatar · 2 Aug 2026",
+     "url": "http://thepeninsulaqatar.com/article/02/08/2026/doha-festival-city-announces-mall-wide-transformation-programme-worth-up-to-qr400m-in-retailer-investment"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-07",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Cenomi Centers signs agreements with Saudi Downtown Company for new Medina mall",
+   "summary": "Cenomi Centers (Arabian Centres Co.) signed two agreements with PIF unit Saudi Downtown Company on 18 August 2026: a Development Services Agreement covering planning, design, consultant/contractor engagement and procurement for the retail component of the Al Madinah Downtown Project, and a Promise-to-Lease Agreement. On completion, Cenomi will enter a 25-year lease and operation agreement for the shopping mall. Contract value is expected to exceed 5% of Cenomi Centers' 2025 annual revenue (approximately SAR115m). This is a distinct Medina project from the previously-reported Al Khobar Downtown mall deal and the SAR1.3bn Al Khobar construction contract award; exact final mall naming was not consistently confirmed across sources and should be verified before directory use.",
+   "article_date": "2026-08-18",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 19 Aug 2026",
+     "url": "https://www.agbi.com/retail/2026/08/cenomi-centers-agrees-deal-with-pif-for-mall-in-medina/"
+    },
+    {
+     "label": "Saudi Exchange (Tadawul)",
+     "url": "https://www.saudiexchange.sa"
+    },
+    {
+     "label": "SaudiGulf Projects",
+     "url": "https://www.saudigulfprojects.com/2026/08/saudi-downtown-signs-development-and-lease-agreements-with-cenomi-centers-for-al-madinah-downtown-retail-centre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-08",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "Jabal Omar Development Company names new CEO",
+   "summary": "Jabal Omar's board accepted the resignation of Eng. Saleh Habdan Alhabdan as CEO for personal reasons, effective 3 September 2026; he remains a board member. Eng. Waleed Ali Al-Harthi, most recently CEO of Abraj Al-Saa'ah Company under the King Abdulaziz Endowment for the Two Holy Mosques, with 20+ years in hospitality and asset management, was named successor, effective 6 September 2026. Distinct from the previously-reported Q2/H1 2026 results and the Al Othaim Entertainment MoU for Souq Bab Makkah.",
+   "article_date": "2026-08-11",
+   "member": true,
+   "sources": [
+    {
+     "label": "Argaam · 12 Aug 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1928078"
+    },
+    {
+     "label": "Saudi Exchange announcement",
+     "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anId=83748&anCat=1&cs=4250&locale=en"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-09",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "Al Othaim Investment CEO adds Managing Director role at Al Othaim Markets",
+   "summary": "Al Othaim Markets' board approved the resignation of Executive Board Member Muaffaq Abdullah Mobarah (personal reasons, effective 12 Aug) and appointed Abdulmalik Abdullah Al Othaim, currently CEO of MECSR member Abdullah Al Othaim Investment Company, as Executive Board Member and Managing Director of Al Othaim Markets, to complete the current board term. The appointment is subject to ratification at the next General Assembly. Distinct from the previously-reported Al Othaim Investment/Alpha Capital stake acquisition and the Al Othaim Park Dammam construction-progress item.",
+   "article_date": "2026-08-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "Sahm Capital · 12 Aug 2026",
+     "url": "https://www.sahmcapital.com/news/content/al-othaim-markets-appoints-abdulmalik-al-othaim-as-managing-director-2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-10",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Knowledge Economic City signs SAR91m infrastructure contract for Madinah district",
+   "summary": "KEC subsidiary Algharraa International Real Estate Development Company signed a SAR91m contract with SALCO Saudi Contracting Company covering roads, water and sewerage, stormwater drainage, electrical networks, ICT infrastructure and district cooling for KEC's Southeastern District in Madinah, a 24-month scope supporting the future Knowledge Gardens development area. Distinct from the previously-reported BSF Capital/Knowledge Gardens fund LOI and the Apparel Group retail-partner deal at Multaqa AlMadinah Mall.",
+   "article_date": "2026-07-27",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 28 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/knowledge-economic-city-signs-sar-91mln-infrastructure-contract-with-salco-saudi-contracting-417987"
+    },
+    {
+     "label": "TradeArabia",
+     "url": "https://tradearabia.com/News/465754/Salco-Saudi-lands-Knowledge-Economic-City-project-work-deal"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-21-11",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Oman",
+   "title": "Lulu Retail opens Lulu Express in Al Murooj, Salalah",
+   "summary": "Lulu Retail Holdings (member) opened a new Lulu Express convenience-format store in Al Murooj, Salalah, a 3,000 sqm outlet continuing the group's smaller-format expansion strategy in Oman's southern Dhofar region, alongside its established hypermarket network in Muscat.",
+   "article_date": "2026-07-09",
+   "member": true,
+   "sources": [
+    {
+     "label": "Times of Oman · 9 Jul 2026",
+     "url": "https://timesofoman.com"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Whether Khalid Alia's appointment at stc Bahrain is followed by visible changes to stc Bahrain's digital/CX roadmap, given his internal promotion from a customer-experience-facing role.",
+  "Engagement results from NBB's \"Use Our App & Win\" campaign (running to 31 Dec 2026) as an indicator of digital-channel adoption among Bahraini retail-banking customers.",
+  "Whether Grant Thornton Bahrain's cybersecurity/AI-governance warning is followed by concrete guardrail announcements from Bahraini regulators (CBB) or telecom/banking operators.",
+  "Whether the UAE, Saudi Arabia, Qatar, Kuwait, Oman, Egypt or Jordan, all quiet this run, produce a fresh, non-duplicate CX/AI/retail-experience item next cycle; this is the first run this series has been entirely Bahrain-sourced.",
+  "The Grand at Nad Al Sheba Gardens' second-phase opening in early September (dining/wellness tenants) as the next genuinely new dated milestone for that property.",
+  "Cenomi Centers, Al Madinah Downtown mall (Medina): confirm official project/mall name and target completion date; verify whether this is branded separately from Cenomi's existing Al Noor Mall in Medina before any directory entry.",
+  "Nesto Qatar: track the eight additional planned outlets and any confirmed site locations as the QR2bn, 10-hypermarket pipeline progresses.",
+  "Doha Festival City: monitor for confirmed opening dates on Primark and Ulta Beauty as the QR400m transformation progresses.",
+  "Jabal Omar Development Company: confirm CEO transition completes as scheduled on 6 Sep 2026.",
+  "Continued scarcity of items dated precisely to the daily coverage window (recurring pattern since mid-August); three of the last four runs (14, 18, 20 Aug) fell below the 3-finding publication threshold and were logged as skips, flagged for possible adjustment of search cadence or source list in a future review."
+ ]
+}

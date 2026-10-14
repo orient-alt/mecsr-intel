@@ -1,0 +1,111 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-18",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-18.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-18-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai triples \"A Dubai Invite\" capacity after ~20,000 applications",
+   "summary": "Dubai's Department of Economy and Tourism (DET) has tripled the capacity of its \"A Dubai Invite\" programme after roughly 20,000 successful applications since its 20 July launch. The initiative lets Dubai residents, representing close to 200 nationalities, invite family and friends to visit the emirate, with guests unlocking vouchers and offers across participating hotels, restaurants, attractions and lifestyle destinations. Noor Al Geziry, AVP for Special Projects and MENA at DET, said the response demonstrates the role residents play as ambassadors for the city's experience; DET has worked with partners to expand the benefit pool as registrations approach the new, expanded cap. Registrations for guests arriving between 20 July and 31 October 2026 remain open, with offers valid through 31 December 2026.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "Business Today Middle East · 17 Aug 2026",
+     "url": "https://businesstoday.me/travel-hospitality/travel-tourism/a-dubai-invite/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-18-02",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Dubai Customs' AI-driven Smart Risk Engine credited in 2026 Competitiveness Report",
+   "summary": "The UAE's 2026 Competitiveness Report, drawing on 30 international reports and 69 indicators, singles out Dubai Customs' shift to an AI-enabled operating model as a driver of the emirate's global competitiveness gains. Its \"Smart Risk Engine\" applies data analytics and AI to assess shipments and direct inspections more precisely, working alongside the \"Advance Cargo Information\" initiative to analyse shipment data before cargo reaches port. Director General Dr Abdulla Busenad said the transformation spans \"the strategic use of data and artificial intelligence\" alongside \"an enhanced customer experience.\" The report credits the approach with a 12.5-point jump in the customs security pillar (37.5% to 50%) and continued high marks on trade facilitation (91.5%) and support services (100%, second year running); the \"Mirsal\" platform is cited for accelerating responses to customer inquiries.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "Business Today Middle East · 17 Aug 2026",
+     "url": "https://businesstoday.me/logistics-news/powering-uae-edge-how-dubai-customs-turns/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-18-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "CBD becomes first UAE bank to enable cross-bank payments via its mobile app",
+   "summary": "Commercial Bank of Dubai (CBD) has become the first bank in the UAE to let customers initiate payments from accounts held at other banks directly through its mobile app, following its approval as a Third-Party Provider under the Central Bank of the UAE's Open Finance Initiative. Building on its December 2025 live activation of Open Finance, CBD customers can now view balances and initiate payments across banks from a single app, with CEO Dr Bernd van Linder and Chief Digital Officer Vladislavs Mironovs both framing it as a step toward more connected, data-driven customer experiences, with further Open Finance services planned later in 2026.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "Business Today Middle East · 17 Aug 2026",
+     "url": "https://businesstoday.me/business/fintech/cbd-become-first-uae-bank-to-en/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-18-04",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "First Avenue Mall, Jumeirah lines up a foodie-led tenant mix for a tentative September opening",
+   "summary": "After several years under construction, First Avenue Mall on Jumeirah Road (not to be confused with the existing First Avenue Mall in Motor City) is tentatively set to open in September. Confirmed concepts lean heavily on dining as the experience driver: celebrity hangout Jon & Vinny's, the \"fancy canteen\" concept Nala from the team behind Tashas, and a permanent outpost of Lost in Tokyo. Experience-angle item only, see mecsr-weekly-intel-report for full property/development tracking.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "What's On Dubai · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/5-new-dubai-mall-openings-still-to-come-this-year/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-18-05",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Le Meryeme Mall (The Villa & Liwan) pairs retail with gym, rooftop pool and wellness offerings",
+   "summary": "Le Meryeme Mall's first location, inside The Villa community, is slated to open in Q3 2026 (124,000 sq ft), followed by a second, larger Liwan location (113,000 sq ft) in Q4 2026 serving Dubai Silicon Oasis residents. Rather than a standard retail line-up, both lean into an experience-first, resort-style brief: a gym, rooftop pool and wellness offerings at The Villa location, and a hypermarket, medical centre, sports areas, kids' spaces and outdoor events plaza planned for Liwan. Confirmed tenants so far include Mumso, Dastaan: Barbers & Beyond, Katrina Coffee & Cakes and Carnival soft play. Experience-angle item only, see mecsr-weekly-intel-report for full property/development tracking.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "What's On Dubai · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/5-new-dubai-mall-openings-still-to-come-this-year/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-18-06",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Sobha Hartland Community Mall (Dhs210m) confirmed for a 2026 opening",
+   "summary": "Sobha Hartland's Dhs210 million community mall is confirmed to open before the end of 2026, though an exact date has not been set. The centre will bring 35 shops to residents alongside a supermarket, gym, play zones and more than 10 dining spots, a convenience-plus-lifestyle mix rather than a destination retail play. Experience-angle item only, see mecsr-weekly-intel-report for full property/development tracking.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "What's On Dubai · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/5-new-dubai-mall-openings-still-to-come-this-year/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "CBD's further Open Finance capabilities promised \"later this year\", watch for the next feature drop and whether other UAE banks follow with their own TPP approvals.",
+  "Dubai Customs' Smart Risk Engine and Mirsal platform as the 2026 Competitiveness Report's underlying data feeds into future customer-facing service metrics.",
+  "First Avenue Mall Jumeirah's September (TBC) opening and Le Meryeme Mall (The Villa)'s Q3 2026 opening, both tentative dates worth confirming as they approach.",
+  "\"A Dubai Invite\" registration numbers as they approach the newly tripled capacity ahead of the 31 October cut-off for guest arrivals.",
+  "Whether AI-native contact-centre pricing pressure (Telecom Reseller, 17 Aug) starts showing up in GCC systems-integrator commentary specifically."
+ ]
+}

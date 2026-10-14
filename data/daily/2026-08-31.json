@@ -1,0 +1,89 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-31",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-31.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-31-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "UAE",
+   "title": "Dubai's GDRFA sweeps the Gulf Customer Experience Awards 2026 with six accolades",
+   "summary": "The General Directorate of Residency and Foreigners Affairs (GDRFA) Dubai, the same border authority whose post-summer \"border hospitality\" push was covered in the 28 August dossier, won six awards at the Gulf Customer Experience Awards 2026 (GCXA 26): four Golds (\"Customer at the Heart of Everything\", \"Best Digital CX\", \"Best Use of Customer Insight and Feedback\", \"Best Innovation in CX\"), a Silver (\"Best CX Strategy\"), and the event's overall \"Highest Number of Awards\" recognition. The source article does not state the ceremony's exact date or venue. For MECSC members, this is a useful data point on where Gulf public-sector CX investment is concentrating: a government service-delivery agency, not a bank or telecom, took the top overall honour at a regional CX awards programme, reinforcing the \"border hospitality\" theme already being tracked as a live GDRFA priority.",
+   "article_date": "2026-06-17",
+   "sources": [
+    {
+     "label": "UAE Vartha · 17 Jun 2026",
+     "url": "https://english.uaevartha.com/dubai-gdrfa-sweeps-gulf-customer-experience-awards-2026-with-six-major-accolades/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-31-02",
+   "stream": "ai",
+   "type": "cx",
+   "country": "UAE",
+   "title": "DEWA's AI cuts customer refund processing from four days to eight minutes",
+   "summary": "Dubai Electricity and Water Authority has automated security-deposit refunds (up to AED 4,000) with AI, cutting turnaround from four business days to roughly eight minutes, a 99% reduction, as part of its stated ambition to be \"the world's first AI-powered utility.\" The move sits alongside DEWA's long-running virtual assistant Rammas, which has handled more than 13 million customer enquiries since 2017 and has recently been upgraded with generative AI. The practical read for MECSC members: this is backend process automation rather than a customer-facing chatbot launch, and it's a useful reminder that \"AI in CX\" wins for utilities and government services increasingly show up as invisible speed improvements (refunds, approvals, verifications) rather than new conversational interfaces.",
+   "article_date": "2026-08-03",
+   "sources": [
+    {
+     "label": "Zawya · 3 Aug 2026",
+     "url": "https://www.zawya.com/en/projects/technology-telecom/dubais-dewa-says-ai-cuts-customer-refund-time-from-four-days-to-eight-minutes-417963"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-31-03",
+   "stream": "ai",
+   "type": "market",
+   "country": "GCC",
+   "title": "LEAP 2026 opens today in Riyadh, betting the Gulf's AI story has moved past big numbers",
+   "summary": "LEAP 2026, Saudi Arabia's flagship technology and AI conference, now in its fifth edition, opens today in Riyadh and runs through 3 September, rescheduled from its original April slot due to regional disruption. Organisers expect roughly 200,000 visitors, 1,800 exhibitors, 600 startups and 1,900 investors; the prior edition (LEAP25) announced $14.9bn in AI investment on opening day alone, against a cumulative $42.4bn committed since 2022. Confirmed CX/enterprise-relevant exhibitors already pre-announced include Liferay (AI Hub for governed, data-grounded AI agents, covered 28 Aug), NTT DATA and Mannai IT. A Wamda analysis published 24 August argues the more useful signal this year isn't the headline investment total but whether commitments convert into working products: the piece frames this as watching for \"integration schedules, costs and ownership\" conversations rather than demos, Arabic-first products built for Arabic speakers (not merely localised Western tools) as a marker of genuine regional tech creation, and how many people in the region ship software for the first time this year. For MECSC members tracking vendor pitches this week, that's a useful filter for separating substance from investment-figure headlines.",
+   "article_date": "2026-08-14",
+   "sources": [
+    {
+     "label": "Noqta · 14 Aug 2026",
+     "url": "https://noqta.tn/en/news/leap-2026-riyadh-august-saudi-year-of-ai"
+    },
+    {
+     "label": "Wamda · 24 Aug 2026",
+     "url": "https://www.wamda.com/2026/08/i-ll-watching-leap-2026-billions-big-announcements"
+    },
+    {
+     "label": "LEAP official event info",
+     "url": "https://onegiantleap.com/about-us/key-information"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-31-04",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Bawabat Al Sharq Mall (Sharjah) runs a \"Big Dreams Take Flight\" back-to-school experience",
+   "summary": "Bawabat Al Sharq Mall hosted a back-to-school activation from 21–30 August built around a giant hot-air-balloon installation and four interactive games (\"Hop to the Top\", \"Adventure Chase\", \"Catch Your Dream\", \"Sky Runner\"), plus a dedicated arts-and-crafts zone, layered over its everyday retail mix of 350+ brands for stationery, electronics, fashion and accessories, along with dining and a Novo Cinemas anchor.",
+   "article_date": "2026-08-13",
+   "sources": [
+    {
+     "label": "Observer Dubai · 13 Aug 2026",
+     "url": "https://observerdubai.com/where-big-dreams-take-flight-bawabat-al-sharq-mall-unveils-its-2026-back-to-school-experience/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "LEAP 2026, Riyadh (31 Aug – 3 Sep), opens today. Liferay, NTT DATA and Mannai IT have all pre-announced; expect a concentrated burst of Saudi CX/AI news across the next 1–2 runs, likely including day-one investment figures.",
+  "Ooredoo Qatar's Obot avatar expansion to retail customers, carried over again; still no confirmable publication date.",
+  "First Avenue Mall & Le Meryeme (The Villa), both targeting September openings; watch for confirmed dates and opening-day tenant lists.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep, 5th edition), supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "GITEX Tech-cation 2026, Dubai (7–11 Dec), Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; too early for CX-specific exhibitor news but worth a placeholder watch as the date approaches."
+ ]
+}

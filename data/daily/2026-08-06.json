@@ -1,0 +1,121 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-06",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-06.html",
+  "MECSR_Daily_Intel_2026-08-06.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 5 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-06-01",
+   "stream": "ai",
+   "type": "ai",
+   "country": "MENA",
+   "title": "Jordan Ahli Bank launches \"ahliGPT,\" first AI-integrated bank customer service system in the Middle East",
+   "summary": "Jordan Ahli Bank has rolled out ahliGPT, an AI system designed to give customers fast, accurate answers to banking and financial-service queries, which the bank says makes it the first Middle East bank to embed generative AI directly into its customer service function. The launch is a notable regional first for MECSC members benchmarking bank-sector AI adoption in smaller Levant markets, alongside the more heavily covered UAE and Saudi rollouts.",
+   "article_date": "2026-07-04",
+   "sources": [
+    {
+     "label": "Jordan Ahli Bank newsroom · 4 Jul 2026",
+     "url": "https://ahli.com/jordan-ahli-bank-becomes-the-first-bank-in-the-middle-east-to-integrate-artificial-intelligence-in-customer-service-with-ahligpt-system/"
+    },
+    {
+     "label": "Jordan News",
+     "url": "https://www.jordannews.jo/Section-113/All/Jordan-Ahli-Bank-to-roll-out-AI-customer-service-system-28142"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-06-02",
+   "stream": "ai",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Mannai Information Technology opens Riyadh regional headquarters",
+   "summary": "Mannai Information Technology Saudi Arabia (MIT KSA), part of Qatar's Mannai Corporation, has opened a new regional headquarters in Riyadh, which the company says will serve as a platform for strengthening customer partnerships and accelerating local delivery capabilities across government, banking, healthcare and smart-city sectors. The relevance to MECSC members is indirect, this is a corporate expansion story rather than a CX product launch, but it signals continued regional-HQ investment by IT/digital-transformation vendors specifically framed around customer support capacity in Saudi Arabia's \"Year of AI.\"",
+   "article_date": "2026-08-05",
+   "sources": [
+    {
+     "label": "Biz Today · 5 Aug 2026",
+     "url": "https://www.biztoday.news/2026/08/05/mannai-information-technology-opens-regional-headquarters-in-riyadh-to-support-saudi-vision-2030/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-06-03",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "ROX opens first Abu Dhabi showroom, largest UAE service centre and new Jebel Ali parts hub",
+   "summary": "Luxury automotive brand ROX, working with exclusive UAE distributor Futures Trans Motors, has opened its first Abu Dhabi showroom and begun operations at a regional parts hub in Jebel Ali, with its largest dedicated UAE aftersales service centre due to open within days. The rollout is framed explicitly around a \"faster, more seamless ownership experience,\" extending the retail-experience lens beyond malls to specialist automotive retail, a segment MECSC members increasingly track for service-centre CX benchmarks. See mecsr-weekly-intel-report for any related property/investment detail on the Jebel Ali hub.",
+   "article_date": "2026-08-05",
+   "sources": [
+    {
+     "label": "Emirates 24|7 · 5 Aug 2026",
+     "url": "https://www.emirates247.com/business/rox-brings-luxury-experience-closer-with-its-first-abu-dhabi-showroom-next-day-uae-parts-hub-as-its-largest-uae-service-centre-nears-opening/4273"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-06-04",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "The Grand",
+   "summary": "A 339,000 sq ft community mall begins a phased opening from 19 August 2026, fully leased with 35 retail and F&B outlets, a supermarket, gym, play courts and indoor entertainment area. First-phase tenants include Waitrose & Partners (its first Nad Al Sheba branch), MMI, Al Jaber Optical, Maple Bear Nursery and Fixperts, with Tashas, Kokoro, Blu Pizzeria and other F&B brands following from early September.",
+   "article_date": "2026-08-03",
+   "sources": [
+    {
+     "label": "What's On Dubai · 03 Aug 2026",
+     "url": "https://whatson.ae/2026/08/the-grand-inside-dubais-newest-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-06-05",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Westfield Jeddah",
+   "summary": "Cenomi Centers confirmed in a Tadawul disclosure that Westfield Jeddah (formerly Jawharat Jeddah, rebranded in 2024 under a Unibail-Rodamco-Westfield agreement) has completed construction, received its occupancy certificate, and began its on-site operational phase on 30 July 2026 with a pre-leasing rate of nearly 96%. It is expected to be the first mall in Jeddah to carry the global Westfield brand and the first in the Kingdom targeting LEED Gold certification, featuring Saudi Arabia's first internationally branded luxury retail wing.",
+   "article_date": "2026-08-04",
+   "sources": [
+    {
+     "label": "Argaam · 04 Aug 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1925958"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-06-06",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Cenomi Centers",
+   "summary": "In an Aug. 4 statement to Tadawul, Cenomi Centers confirmed the completion and occupancy certification of Westfield Jeddah, with the on-site operational phase underway since 30 July and pre-leasing at ~96%. Once the mall reaches a stable operating phase, management expects it to contribute approximately SAR 350 million in additional annual EBITDA, strengthening net profit and cash flow. This follows the company's earlier July disclosure that its second Westfield-branded project, Westfield Riyadh, had also secured a SAR 2.7bn facility ahead of a 2026 opening.",
+   "article_date": "2026-08-04",
+   "member": true,
+   "sources": [
+    {
+     "label": "Argaam · 04 Aug 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1925958"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "ROX UAE aftersales service centre, watch for confirmation once the \"largest in UAE\" service centre opens (expected within days of 5 Aug).",
+  "ahliGPT, watch for usage/adoption metrics or expansion to additional Ahli Bank markets (Egypt, UAE).",
+  "Saudi Customer Experience Awards, a \"2027\" edition is already being promoted (saudicxa.com); watch for the 2026 award-cycle results if not yet covered.",
+  "Kuwait, Bahrain, Oman, Egypt, no genuinely new, dated CX/AI/retail-experience finding surfaced this cycle; continue monitoring.",
+  "Westfield Jeddah commercial launch. Fit-out coordination with tenants is ongoing following the 30 Jul operational-phase start; confirm the formal commercial opening date and initial tenant roster next cycle.",
+  "Westfield Riyadh. Cenomi Centers secured a SAR 2.7bn facility in mid-July for its second Westfield project; track for a firm 2026 opening date and pre-leasing figures.",
+  "The Grand (Nad Al Sheba Gardens). Phased opening begins 19 Aug 2026 with a second wave of F&B tenants from early September, revisit for confirmed opening-day coverage and directory intake.",
+  "Regional conflict impact. EASA's aviation advisory for UAE/Bahrain/Qatar/Kuwait airspace runs through 31 Aug 2026; continue monitoring for knock-on effects on retail footfall, tourism-linked mall performance and project timelines (as already flagged for Mabanee's Aventura Mall and Hilton Kuwait Mangaf delays).",
+  "Broader country coverage gap. No verifiable, independently dated findings surfaced this cycle for Kuwait, Qatar, Bahrain, Jordan, Türkiye, Egypt, Pakistan or the CIS/Africa markets despite targeted searches, prioritise dedicated per-country sweeps next run."
+ ]
+}

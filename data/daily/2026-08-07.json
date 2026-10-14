@@ -1,0 +1,235 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-07",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-07.html",
+  "MECSR_Daily_Intel_2026-08-07.html"
+ ],
+ "coverage": {
+  "label": "Thursday 6 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-07-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Bahrain",
+   "title": "Qatar Airways resumes Bahrain, Kuwait and Erbil flights from 8 August",
+   "summary": "Qatar Airways announced it will restore passenger services to Bahrain (BAH), Kuwait (KWI) and Erbil (EBL) from 8 August, ending a suspension that ran \"until and including August 7\" as Gulf carriers adjusted to airspace restrictions triggered by regional hostilities. Passengers are directed to the airline's website for updates. For MECSC members, this is the first concrete step in normalising cross-Gulf service levels after weeks of cancellations and rebooking pressure on contact centres across GCC aviation.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Gulf Business · 6 Aug 2026",
+     "url": "https://gulfbusiness.com/en/2026/aviation/qatar-airways-to-resume-bahrain-kuwait-and-erbil-flights-from-august-8/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "FTA's tourist VAT-refund network hits 19,340 outlets: with a world-first Noon e-commerce integration",
+   "summary": "The Federal Tax Authority reported the Digital Tourist VAT Refund System grew 5.9% year-on-year to roughly 19,340 connected retail outlets by end-June 2026, with self-service kiosks up to 100 across malls, hotels and departure points. Standout CX developments: the integration of the Noon e-commerce platform, described as the first scheme globally letting tourists reclaim VAT on qualifying online purchases, and an upgraded Planet app now supporting 12 languages. Top beneficiary nationalities: India, Russia, Turkey, China and the US.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Gulf Business (via WAM) · 6 Aug 2026",
+     "url": "https://gulfbusiness.com/en/2026/retail/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-03",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai RTA expands Bus-On-Demand to 20 areas as ridership jumps 25%",
+   "summary": "RTA added Al Satwa, Al Quoz and Mirdif to its app-based Bus-On-Demand network, taking coverage to 20 communities. The service carried 527,000 passengers in H1 2026 (+25.1% YoY) with June its strongest month (105,990 riders), on a fleet grown to 55 buses. RTA credits growing public confidence plus a 54% expansion in coverage, a useful benchmark for members tracking government service-design and first/last-mile CX in the Gulf.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Gulf Business · 6 Aug 2026",
+     "url": "https://gulfbusiness.com/en/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-04",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Jordan",
+   "title": "Jordan reaches 85.5% digital government, targets full rollout by end-2026",
+   "summary": "Jordan has digitised 85.5% of public services as of Q2 2026 (up from 82.5% in Q1) and remains on track for full digital government by year-end, a citizen-experience milestone for a market where MECSC coverage is usually thin. Publication day within August could not be confirmed from metadata; treat as current-month reporting.",
+   "article_date": "2026-08",
+   "sources": [
+    {
+     "label": "Biometric Update · Aug 2026 (day unverified)",
+     "url": "https://www.biometricupdate.com/202608/jordan-reaches-85-5-digital-government-targets-full-rollout-this-year"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Egypt",
+   "title": "KONE Egypt launches myKONE portal to give customers real-time service visibility",
+   "summary": "KONE Egypt announced a digital-innovation push centred on myKONE, a customer portal giving building owners and facility managers real-time visibility into project delivery, equipment status and service activity. A B2B example of the \"self-service transparency\" trend reaching Egypt's built-environment sector, relevant to members benchmarking digital service portals beyond banking and retail.",
+   "article_date": "2026-08-02",
+   "sources": [
+    {
+     "label": "PR Newswire · ~2 Aug 2026 (metadata-dated)",
+     "url": "http://www.prnewswire.com/news-releases/kone-egypt-strengthens-customer-experience-through-digital-innovation-302840561.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-06",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Egypt",
+   "title": "Foundever scales AI-powered CX operations in Egypt: Giza hub, Luxor growth, AgentTech AI",
+   "summary": "Following engagement with Egypt's MCIT and a renewed four-year ITIDA MoU, CX outsourcer Foundever announced plans for a new Giza operational hub, growth of its Luxor site toward 1,000 employees (Upper Egypt's first offshore CX hub), and 5,000 new jobs over four years. It is deploying AgentTech AI, its proprietary platform for agent efficiency and customer experience. Signals Egypt's consolidation as the region's AI-enabled contact-centre delivery base. Note: announcements cluster around May 2026, close to the 90-day boundary; exact article date unverified.",
+   "article_date": "2026-05",
+   "sources": [
+    {
+     "label": "Foundever newsroom · May 2026",
+     "url": "https://foundever.com/news/foundever-opens-first-offshore-cx-hub-in-upper-egypt-with-new-luxor-contact-center/"
+    },
+    {
+     "label": "ITIDA",
+     "url": "https://itida.gov.eg/English/PressReleases/Pages/foundever-announces-the-opening-of-a-new-hub-in-egypt.aspx"
+    },
+    {
+     "label": "Egypt SIS",
+     "url": "https://sis.gov.eg/en/media-center/news/foundever-expands-in-egypt-tripling-luxor-workforce-deploying-ai-talent/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-07",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Dhs80m \"Dubai Creek Lights\" to turn the Creek into a world-class nighttime experience",
+   "summary": "Dubai Municipality has begun the Dhs80m Dubai Creek Lights project: 5,000+ lighting units across 8km and six zones (Creek Quay, Gold Souq promenade, Infinity Bridge entrance, Al Shindagha, Bur Dubai Souq, Al Seef Marina), designed to extend souq and waterfront visitor activity into the evening. Completion is targeted for Q1 2027. Shopper-experience angle: a deliberate play to lengthen dwell time around the heritage retail districts after sunset.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Gulf Business · 6 Aug 2026",
+     "url": "https://gulfbusiness.com/en/"
+    },
+    {
+     "label": "Dubai Media Office · 4 Aug 2026",
+     "url": "https://www.mediaoffice.ae/en/news/2026/august/04-08/dubai-municipality-dubai-creek-lights-project"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-08",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Sharjah Summer Promotions 2026 extended to 15 September",
+   "summary": "SCTDA and the Sharjah Chamber extended the emirate-wide campaign to 15 Sep: 700+ prizes across five digital draws, children's workshops, mascot activations and Shamsa Mobile Store pop-ups across nine participating malls including City Centre Al Zahia, Sahara Centre and 06 Mall, an experience-led footfall play through late summer. See mecsr-weekly-intel-report for full property/development tracking.",
+   "article_date": "2026-07-28",
+   "sources": [
+    {
+     "label": "Gulf Business (via WAM) · 28 Jul 2026",
+     "url": "https://gulfbusiness.com/en/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "Saudi Arabia",
+   "title": "Cenomi development pipeline: Westfield Jeddah operational; five projects to lift GLA >50% by 2029",
+   "summary": "Cenomi Centers' H1 2026 disclosure confirms Westfield Jeddah became operational on 30 July 2026 with pre-leasing close to 96%. The company expects gross leasable area to grow by more than 50% by 2029 on completion of two flagship centres, Westfield Riyadh and Al Khobar, and three lifestyle centres: U Walk Qassim , Murcia Mall and Barakah Mall . Portfolio now stands at 20 assets and 4,250+ stores across nine Saudi cities.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "AGBI · 6 Aug 2026",
+     "url": "https://www.agbi.com/retail/2026/08/expansion-costs-bite-into-earnings-at-cenomi-centers/"
+    },
+    {
+     "label": "Saudi Exchange filing · 6 Aug 2026",
+     "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anId=97328&anCat=1&cs=4321&locale=en"
+    },
+    {
+     "label": "Argaam · 30 Jul 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1925958"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-10",
+   "stream": "dest",
+   "type": "market",
+   "country": "Morocco",
+   "title": "Morocco Mall, Casablanca: MANGO relocates to prime new unit",
+   "summary": "MANGO reopened at Morocco Mall on 18 July 2026 in a relocated 405 m² space showcasing the brand's Mediterranean-inspired \"New Med\" retail concept, a leasing-quality signal for the Casablanca flagship (a MECSR directory property).",
+   "article_date": "2026-07-20",
+   "sources": [
+    {
+     "label": "Hudson Holdings (MANGO franchise partner) · 20 Jul 2026",
+     "url": "https://hudson.com.mt/blog/2026/07/20/mango-relocates-to-a-prime-new-location-at-morocco-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-11",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "H1 2026 results: net profit −18% as expansion borrowing costs bite",
+   "summary": "Cenomi Centers reported H1 2026 net profit down 18% year-on-year, with finance costs up 50% on borrowing to fund its new-centre pipeline. Revenue slipped 2% to SAR 569m (like-for-like +3% on visitor growth, media sales and stable rents). Footfall reached 70 million (vs 66.5m a year earlier); net debt rose to SAR 14.5bn from SAR 12.4bn in June 2025. Shares traded ~1% higher Thursday morning; stock down ~15% YTD.",
+   "article_date": "2026-08-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 6 Aug 2026",
+     "url": "https://www.agbi.com/retail/2026/08/expansion-costs-bite-into-earnings-at-cenomi-centers/"
+    },
+    {
+     "label": "Saudi Exchange (Tadawul) filing · 6 Aug 2026",
+     "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anId=97328&anCat=1&cs=4321&locale=en"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-07-12",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "AED 1.2 billion investment plan; 115 new outlets over the coming year",
+   "summary": "Chairperson Renuka Jagtiani, in an interview with the Government of Dubai Media Office, said Landmark Group will invest more than AED 1.2 billion in its next growth phase, opening 115 new outlets over the coming year. The group operates 2,500+ outlets across 11 countries with annual revenues exceeding US$7.5bn, a significant leasing-demand signal for regional mall operators.",
+   "article_date": "2026-07-13",
+   "member": true,
+   "sources": [
+    {
+     "label": "Emirates 24|7 · 13 Jul 2026",
+     "url": "https://www.emirates247.com/business/dubai-based-landmark-group-plans-aed12-billion-investment-115-new-stores/3592"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "The Grand, Nad Al Sheba (Dubai), opening confirmed for 19 Aug with a Waitrose-led line-up (What's On, Jul 2026). Already logged in earlier dossiers as a pipeline item; watch for opening-day experience/tenant coverage.",
+  "Qatar Airways network normalisation, resumptions begin 8 Aug; watch Emirates, Etihad, flydubai and Air Arabia for matching restorations, and the EASA Gulf airspace warning due to lapse 31 Aug.",
+  "Saudi DGA Digital Government Award 2026, submissions close 27 Aug; winner announcements will be a CX/GovEx story.",
+  "Foundever Giza hub, formal launch and AgentTech AI deployment details.",
+  "Dubai Mallathon / Dubai Summer Surprises, DSS runs to 30 Aug and the Mallathon to 15 Sep; closing-phase results may carry footfall/experience data.",
+  "Jordan digital government, Q3 figure and full-rollout confirmation expected before year-end.",
+  "The Grand, Nad Al Sheba (Shamal Holding, UAE), phased opening begins 19 Aug 2026; fully leased, Waitrose-anchored; member Al Jaber Optical among first-phase tenants. Expect opening-day coverage.",
+  "Emaar Properties (UAE), H1 2026 results due 12 Aug 2026; watch mall-segment performance.",
+  "Lulu Retail Holdings (UAE), H1 2026 results expected mid-August; Q1 revenue was $2.0bn (−2.9%).",
+  "Al Othaim Markets / Al Othaim Investment (KSA), Q2/H1 2026 results pending (Q1 profit fell 30% to SAR 53.7m).",
+  "Aventura Mall, Jaber Al-Ahmad City (Mabanee, Kuwait), 96% construction at last update; opening targeted H2 2026.",
+  "The Avenues – Riyadh (Mabanee, KSA), ~370,000 m² GLA; opening targeted Q4 2026."
+ ]
+}

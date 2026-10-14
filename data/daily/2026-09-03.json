@@ -1,0 +1,359 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-03",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-03.html",
+  "MECSR_Daily_Intel_2026-09-03.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 2 September 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-03-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Abu Dhabi's world-first AI judicial platform begins rollout this month",
+   "summary": "Abu Dhabi's judicial department confirmed its integrated AI judicial platform, described as the first fully integrated system of its kind, starts an 18-month phased rollout beginning September 2026. The system applies AI across litigation stages, including preliminary case analysis and administrative workflow, aiming to accelerate case resolution and improve judicial accuracy, with all final decisions remaining under human judicial oversight. The rollout lands within the UAE's wider push (per President Sheikh Mohamed bin Zayed's April 2026 directive) to convert 50% of government services and operations to autonomous AI within two years. The practical read for MECSC members: a concrete example of AI doing the case-analysis \"back office\" work while a human keeps the final call, a governance pattern worth studying for any regulated service function considering agentic AI.",
+   "article_date": "2026-07-28",
+   "sources": [
+    {
+     "label": "Khaleej Times · 28 Jul 2026",
+     "url": "https://www.khaleejtimes.com/uae/abu-dhabi-first-ai-judicial-platform-september-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-02",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "UAE Cabinet launches AI Advisor System with 32 specialised advisors",
+   "summary": "The UAE Cabinet approved a new AI Advisor System comprising 32 specialised AI advisors tasked with analysing policy and legislation, assessing impact, reviewing global best practice, and issuing recommendations, operating continuously to track how government decisions are executed. Sheikh Mohammed bin Rashid Al Maktoum linked the launch to a broader push toward \"faster, more precise decision-making,\" and the same Cabinet session approved AI training for 22,000 teachers plus a nationwide AI school curriculum. The announcement lands almost exactly at the two-year mark set by the President's April 2026 directive to convert 50% of government services to autonomous AI. Not customer-facing on its own, but a strong signal of how quickly agentic AI is moving from pilot into standing government infrastructure in the UAE, relevant context for members benchmarking public-sector AI maturity, and a plausible precursor to citizen-facing recommendation or self-service tools down the line.",
+   "article_date": "2026-09-02",
+   "sources": [
+    {
+     "label": "Dubai Eye 103.8 · 2 Sep 2026",
+     "url": "https://www.dubaieye1038.com/news/local/uae-advances-ai-and-government-development-initiatives/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Saudi Arabia",
+   "title": "estaie raises $5.2m to expand AI-driven booking experience into Saudi Arabia",
+   "summary": "Announced on LEAP 2026's third and final day in Riyadh, Dubai-founded estaie closed a $5.2 million seed round to expand its AI-powered flexible-accommodation booking platform (hotels, serviced apartments, residential rentals) into Saudi Arabia. The company applies AI to pricing, inventory management and the booking experience itself. It's adjacent to core retail/CX rather than squarely inside it, but illustrative of how AI-personalization funding at LEAP isn't limited to headline compute and cloud deals (Khuzam Digital Valley, SAR 3.3bn; AWS's Saudi cloud region, $5.3bn), smaller CX-adjacent product bets are landing alongside them. Worth a watch-list mention for members in travel, hospitality or mixed-use guest-experience roles tracking AI-personalization vendors entering the GCC.",
+   "article_date": "2026-09-02",
+   "sources": [
+    {
+     "label": "entARABI · 2 Sep 2026",
+     "url": "https://entarabi.com/en/2026/09/billions-of-dollars-in-technology-investments-announced-on-day-three-of-leap-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Qatar",
+   "title": "Back-to-school shopping surge continues at Qatari malls",
+   "summary": "The Peninsula Qatar reported on 2 September that back-to-school shopping activity continues to surge at malls across the country, tracking the seasonal footfall pattern as families complete uniform, stationery and device purchases ahead of the new school term. The article's full text could not be retrieved via automated fetch at time of writing (the source blocked repeated automated requests), so this entry is limited to the confirmed, dated headline rather than mall names or specific promotions, flagged transparently rather than embellished. Included as a genuine, dated in-window signal for Qatar (a market with thin coverage in recent runs) rather than a fully-detailed experience-concept finding; worth a follow-up read directly from the source.",
+   "article_date": "2026-09-02",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 2 Sep 2026",
+     "url": "http://thepeninsulaqatar.com/article/02/09/2026/back-to-school-shopping-drives-continue-to-surge-at-malls"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-05",
+   "stream": "dest",
+   "type": "market",
+   "country": "Qatar",
+   "title": "HMK Capital completes QR1.8bn acquisition to seed Qatar's first listed REIT: Salwa REIT",
+   "summary": "HMK Capital, a QFC-licensed asset manager, has completed a Sharia-compliant QR1.8 billion (~$495m) acquisition of 51 properties across Mseimeer, Al Rayyan and Al Dafna/West Bay to seed Salwa REIT, positioned as Qatar's first exchange-listed real estate investment trust. The fully-leased portfolio comprises roughly 1,500 residential units, over 100 retail shop spaces, and ~25,000 sqm of commercial office space. HMK Capital intends to pursue a Qatar Stock Exchange listing. Distinct from the fund's initial QFC registration reported in May 2026 (now historic); this is the new, dated acquisition-completion milestone.",
+   "article_date": "2026-08-25",
+   "sources": [
+    {
+     "label": "Qatar Tribune · 25/26 Aug 2026",
+     "url": "https://www.qatar-tribune.com/article/250593/business/hmk-capital-completes-qr18-billion-real-estate-acquisitions-for-salwa-reit/amp"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-06",
+   "stream": "dest",
+   "type": "status",
+   "country": "Türkiye",
+   "title": "Battalgazi mayor: \"Malatya Park AVM era is ending\" as rebuilt city-centre retail district draws shoppers back downtown",
+   "summary": "Battalgazi (Malatya) Mayor Bayram Taşkın says a rebuilt city-centre shopping district, part of post-6 February-earthquake reconstruction, is drawing shoppers back downtown, helped by a new 4,000-vehicle parking facility and expanded pedestrian areas, at the expense of the existing Malatya Park AVM. No completion date given for the new district. Local-outlet-only coverage; flagged for cross-reference before wider citation.",
+   "article_date": "2026-08-24",
+   "sources": [
+    {
+     "label": "Yeni Malatya Gazetesi · 26 Aug 2026",
+     "url": "https://www.yenimalatya.com.tr/haber/28573726/belediye-baskani-acikladi-malatya-park-avm-donemi-kapaniyor"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-07",
+   "stream": "dest",
+   "type": "new",
+   "country": "Türkiye",
+   "title": "Battalgazi's \"third mall\": 348 shops, 384 offices, 3 hotels: targets a late Aug/Sep 2026 opening",
+   "summary": "A mixed-use development on the former municipal market site in Battalgazi, Malatya, billed locally as the district's third mall, comprises 348 retail shops, 384 offices, 3 hotels, 1,200-vehicle parking, 8 trade offices and 4 commercial centres. A local neighbourhood chief cited a \"late August or September\" 2026 opening target as of the 15 Jun update; no confirmed opening-day report was found in this run. No developer named.",
+   "article_date": "2026-06-15",
+   "sources": [
+    {
+     "label": "Yeni Malatya Gazetesi · 15 Jun 2026",
+     "url": "https://www.yenimalatya.com.tr/haber/27912404/acilis-icin-gun-sayiliyor-malatyanin-3uncu-avmsi-ne-zaman-hizmete-girecek"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-08",
+   "stream": "dest",
+   "type": "new",
+   "country": "Azerbaijan",
+   "title": "New shopping centre under construction on Baku's \"Bravo\" hypermarket site: first-ever Azerbaijan destination finding in this series",
+   "summary": "A new shopping centre is under construction on the site of the existing \"Bravo\" hypermarket in Baku's Əhmədli (Ahmadli) district. Construction work began April 2026; an August update retargets the opening to \"early 2027.\" The centre will house a mix of international and local brand stores plus a bank branch. Developer not named in either source reviewed.",
+   "article_date": "2026-08-20",
+   "sources": [
+    {
+     "label": "bakivaxti.az · 20 Aug 2026",
+     "url": "https://bakivaxti.az/az/posts/detail/bakida-bu-mallin-fealiyyete-baslama-tarixi-aciqlandi-1787217802"
+    },
+    {
+     "label": "Globalinfo.az (16 Apr 2026)",
+     "url": "https://globalinfo.az/bakida-yeni-ticaret-merkezi-tikilir/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "Jordan",
+   "title": "Jordan Gate reports 100% Phase One sales at Lucent Residences; integrated Tria Mall on track for 2026 handover: Jordan's first-ever series finding",
+   "summary": "Jordan Gate Company's \"Sixth Towers\" mixed-use development in Amman (two 42-storey towers, 28.5 dunams, 215 residential units, 1,700+ parking bays) includes an integrated retail component, Tria Mall. The developer announced 100% of Phase One residential units at its Lucent Residences tower sold out, triggering a second sales phase; construction was previously reported at 82% complete (Aug 2025 update) and on track for a 2026 handover. Jordan has not previously registered a verified finding in this report series (cross-checked against the 26 Jul–2 Sep 2026 archive).",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "Jordan Gate Company (developer official site) · 10 Aug 2026",
+     "url": "https://jordangate.jo/news/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-10",
+   "stream": "dest",
+   "type": "status",
+   "country": "Uzbekistan",
+   "title": "Tashkent to privatize 35 city markets and shopping complexes: Uzbekistan's second-ever series finding",
+   "summary": "Under a presidential decree tied to a development-through-2027 programme, Tashkent will auction 35 city markets and shopping complexes via JSC Tashkent Invest Company (electronic auctions against appraised values). Buyers must redevelop sites into \"modern eco-markets, retail and service facilities, entertainment centres and multi-storey parking.\" Named markets include Orikzor, Qoyliq, Aviasozlar, Sergeli, Parkent, Yangiobod, Qora-qamish and Farhod. Uzbekistan's first-ever series finding was Tashkent's 2024 retail-GLA growth data, reported 17 Jul 2026.",
+   "article_date": "2026-07-30",
+   "sources": [
+    {
+     "label": "Kun.uz · 30 Jul 2026",
+     "url": "https://kun.uz/en/news/2026/07/30/tashkent-to-privatize-35-markets-and-shopping-complexes"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-11",
+   "stream": "dest",
+   "type": "status",
+   "country": "Libya",
+   "title": "Beurer opens Libya's first official flagship store, inside Tripoli's First Mall",
+   "summary": "United Medical Company opened Libya's first official Beurer (German medical/wellness equipment) retail store inside First Mall, Tripoli, marking the start of a planned multi-city expansion. The event was attended by German Embassy Chargé d'affaires Daniel Schemske and Commercial Attaché Sheraz Qazi, framed as a signal of returning foreign-brand investment confidence in Libya's retail market. Distinct from First Mall's own opening (already covered in this series as historic context).",
+   "article_date": "2026-07-25",
+   "sources": [
+    {
+     "label": "Libya Herald · 25 Jul 2026",
+     "url": "https://libyaherald.com/2026/07/first-official-beurer-store-opens-at-tripolis-first-mall-in-presence-of-german-charge-daffaires"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-12",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kyrgyzstan",
+   "title": "Bishkek Arena Mall tracks toward a late-September public opening: first-ever Kyrgyzstan destination finding in this series",
+   "summary": "A three-storey retail complex, \"Bishkek Arena Mall,\" is being built inside/alongside the Bishkek Arena stadium; retail-space sales reportedly began 1 April 2026. The stadium hosted the World Nomad Games opening ceremony on 31 August 2026, with a separate full public \"grand opening\" celebration planned for late September 2026. No mall-specific size, developer or brand list has been confirmed.",
+   "article_date": "2026-07-10",
+   "sources": [
+    {
+     "label": "AKIpress · 10 Jul 2026",
+     "url": "https://akipress.com/news:906821"
+    },
+    {
+     "label": "MTS.kg (16 Mar 2026)",
+     "url": "https://mts.kg/en/ekonomika/24674-vnutri-stadiona-bishkek-arena-postrojat-bishkek-arena-mall.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-13",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kazakhstan",
+   "title": "MEGA Center founder unveils 130,000 sqm Astana mall with Central Asia's first large-scale indoor tropical garden",
+   "summary": "Nurlan Smagulov (founder, MEGA Center Management) announced \"MEGA Garden,\" a 130,000 sqm shopping and entertainment centre in Astana's Esil district, featuring a ~10,000 sqm indoor tropical garden inspired by Singapore's Changi/Marina Bay, a category-first concept for Central Asia. Investment is put at 100 billion tenge, with roughly 3,300 jobs and a construction start around April 2026; opening is targeted for December 2027. Carried here as historic context (>90 days old) given its scale and high-profile developer, and because it is not carried in any prior report in this series.",
+   "article_date": "2026-03-11",
+   "sources": [
+    {
+     "label": "Forbes Kazakhstan · 11 Mar 2026",
+     "url": "https://forbes.kz/articles/novyy-proekt-nurlana-smagulova-v-astane-otkroetsya-trts-s-tropicheskim-sadom-df5529"
+    },
+    {
+     "label": "Newtimes.kz (18 Mar 2026)",
+     "url": "https://newtimes.kz/eksklyuziv/217060-vtoraia-mega-v-astane-trts-s-tropicheskim-sadom-postroiat-u-aeroporta"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-14",
+   "stream": "dest",
+   "type": "market",
+   "country": "Kazakhstan",
+   "title": "Astana retail pipeline update: Ellington Mall (with waterpark), Dostyk Plaza and a further MEGA-branded centre",
+   "summary": "A pipeline roundup reports Ellington Mall, at the intersection of Uly Dala Avenue and Ch. Aitmatov Street, as \"actively under construction\" with an integrated waterpark. Separately, Dostyk Plaza Astana is planned on the \"Eurasia\" site with an international architect line-up (US, Germany, Türkiye, China), and documentation for a further \"MEGA Astana\" centre is being finalised. No developer, size or completion dates were given for any of the three. Distinct from the dedup'd Kursiv H1 macro-investment data point, this is project-level detail, not aggregate figures. Single-sourced; recommend cross-referencing each named project before directory action.",
+   "article_date": "2026-06-03",
+   "sources": [
+    {
+     "label": "24.kz · 3 Jun 2026",
+     "url": "https://24.kz/ru/news/polezno-znat/772320-astana-na-maksimalkakh-kuda-pereselyat-dachnikov-i-gde-postroyat-mega-trts-s-akvaparkom"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-15",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "New Murabba Development Company replaces CEO amid PIF-wide giga-project spending cuts",
+   "summary": "New Murabba Development Company (member) has replaced CEO Michael Dyke (in role since Jan 2024) with acting CEO Sabah Barakat, a senior PIF executive who also serves as acting group CEO of Roshn Group. The change comes amid PIF-wide spending cuts of at least ~20% ordered across 100+ portfolio companies in 2025; New Murabba's overall completion timeline is reported to have been pushed from 2030 to 2040. The company states its operations, partnerships and strategic direction \"remain firmly in place.\" Distinct from the previously-reported Almana Medical Group hospital JV.",
+   "article_date": "2026-08-28",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 28 Aug 2026",
+     "url": "https://www.agbi.com/construction/2026/08/saudi-giga-project-new-murabba-replaces-chief-executive/"
+    },
+    {
+     "label": "Business Recorder",
+     "url": "https://www.brecorder.com/news/40437032/saudi-arabia-real-estate-gigaproject-developer-replaces-chief-executive"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-16",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "Knowledge Economic City sells two Madinah land plots for SAR229.1m",
+   "summary": "Knowledge Economic City Co (member) announced the sale of two land plots within its Madinah masterplan for a combined SAR229.1 million. Distinct from the previously-reported SALCO infrastructure contract, the Apparel Group/Multaqa AlMadinah retail-partner deal, and the Future Hospitality Summit portfolio showcase, this is a fresh, standalone land-sale transaction.",
+   "article_date": "2026-07-19",
+   "member": true,
+   "sources": [
+    {
+     "label": "Sahm Capital · 19 Jul 2026",
+     "url": "https://www.sahmcapital.com/news/content/knowledge-economic-city-sells-madinah-land-plots-for-sar-229m-2026-07-19"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-17",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "Jabal Omar plans 400 hotel-residential unit sales after Saudi eases foreign ownership rules",
+   "summary": "Following the Saudi Council of Ministers' 23 June 2026 approval permitting non-Saudi real-estate ownership in designated zones, now including Jabal Omar, the company (member) disclosed a strategy to sell 400 existing hotel-residential units during 2026, with proceeds directed toward debt reduction, and to develop Phase 7 with an emphasis on off-plan/hotel-residential sales. The company operates 6,500+ hotel rooms/suites, rising to 7,700 on Phase 4 completion. Explicitly contingent on further regulatory approvals; distinct from the previously-reported CEO succession and Q2/H1 results.",
+   "article_date": "2026-06-28",
+   "member": true,
+   "sources": [
+    {
+     "label": "Saudi Exchange (Tadawul) issuer disclosure · 28 Jun 2026",
+     "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anId=96407&anCat=1&cs=4250&locale=en"
+    },
+    {
+     "label": "Zawya",
+     "url": "https://www.zawya.com/projects/construction/jabal-omar-plans-hotel-unit-sales-after-saudi-eases-foreign-property-ownership-rules-p4ubrbp3"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-18",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "The Galleria, Al Maryah Island adds Skims, Guerlain and further new tenants",
+   "summary": "Al Maryah Retail Company (member) is adding several new retail and F&B tenants to The Galleria on Al Maryah Island: Skims (its Abu Dhabi debut), Squatwolf, Limé (a second Abu Dhabi location), Parfums de Marly, Guerlain, plus the Brass Monkey entertainment/dining venue (opening September 2026) and The Good Moon café. Distinct from the previously-reported brand additions at the same property (Skims/Guerlain/Parfums de Marly/Brass Monkey were reported once before in this series for a different mall, this item is specific to The Galleria's own tenant roster update).",
+   "article_date": "2026-08-17",
+   "member": true,
+   "sources": [
+    {
+     "label": "What's On · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/new-shops-and-restaurants-coming-to-the-galleria-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-19",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "title": "Aldar generates AED1.5bn in sales launching \"The Canopies\" at Yas Point",
+   "summary": "Aldar Properties (member) generated AED1.5 billion (~$408m) in sales during the launch of \"The Canopies,\" a six-building apartment community and the first residential release at Yas Point. 84% of buyers were first-time Aldar customers and 60% were expatriate/overseas buyers. Distinct from the general Yas Point unveiling and the Mubadala/Mamoura 28.03% stake disclosure already carried in this series, this is a specific, dated sales-performance milestone.",
+   "article_date": "2026-07-31",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 31 Jul 2026",
+     "url": "https://www.zawya.com/en/business/construction/aldar-generates-408mln-in-sales-during-launch-of-the-canopies-at-yas-point-416554"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-03-20",
+   "stream": "member",
+   "type": "new",
+   "country": "Egypt",
+   "title": "Majid Al Futtaim signs US$3.1bn \"Mada City\" partnership with Egypt's MIDAR",
+   "summary": "Majid Al Futtaim (member) signed a strategic partnership with Egyptian state developer MIDAR for a US$3.1 billion mixed-use urban development within New Cairo's \"Mada City\" masterplan. Distinct from the already-covered JUNCTION West Cairo groundbreaking (EGP500m, a different site and Egyptian partner, and a much smaller scale).",
+   "article_date": "2026-06-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim (official press release) · 21 Jun 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/06/majid-al-futtaim-announces-strategic-partnership-with-midar-for-usd-3.1-billion-mixed-use-development-in-new-cairo"
+    },
+    {
+     "label": "The National",
+     "url": "https://www.thenationalnews.com/business/2026/06/21/uaes-majid-al-futtaim-signs-31bn-urban-development-project-in-egypt/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Abu Dhabi's AI judicial platform go-live. Phased rollout begins this month; watch for the first reported case-processing time improvements once live.",
+  "UAE Cabinet AI Advisor System. Watch for the first named policy decision or recommendation publicly attributed to the 32 AI advisors.",
+  "estaie's Saudi Arabia expansion. Watch for launch markets, named property partners and any published booking-experience metrics.",
+  "First Avenue Mall & Le Meryeme (The Villa). Both still targeting September openings, unconfirmed; watch for firm dates and opening-day tenant lists.",
+  "Ulta Beauty's second UAE flagship (Dubai Mall). No confirmed opening date as of this run; the only sourced timeline is over a year old.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep, 5th edition). Supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "GITEX Global 2026, Dubai (7–11 Dec). Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still too early for CX-specific exhibitor news.",
+  "Salwa REIT (Qatar): watch for confirmation of a Qatar Stock Exchange listing.",
+  "Battalgazi's \"third mall\" (Malatya, Türkiye): confirm the actual opening date against the local \"late Aug/Sep 2026\" target; a firm opening was not yet found in this run.",
+  "Əhmədli (Ahmadli) Mall, Baku (Azerbaijan): confirm developer identity and track toward the retargeted early-2027 opening.",
+  "Tria Mall / Jordan Gate Sixth Towers (Jordan): confirm 2026 handover and cross-check via a second independent source.",
+  "Tashkent market privatization (Uzbekistan): monitor individual auction outcomes and redevelopment plans as they are announced."
+ ]
+}

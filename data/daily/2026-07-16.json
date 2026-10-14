@@ -1,0 +1,118 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-16",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-16.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 15 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-16-01",
+   "stream": "dest",
+   "type": "",
+   "country": "GCC",
+   "title": "Fynd launches \"Fynd Create\" in the GCC: AI-native fashion design, sourcing and production platform 15 Jul 2026",
+   "summary": "Mumbai-based Fynd, backed by Reliance Retail Ventures, launched Fynd Create across the GCC, a platform unifying AI trend intelligence, design, sourcing (800+ vendors), production and logistics for fashion retailers. The launch material cites GCC apparel market growth from $34.9bn (2023) to a projected $44.4bn (2030) and claims up to 60% design-productivity gains. Relevance: a competitive signal for MECSR Priority 4 tech members (Xpandretail, Reland, Mallsense et al.) and for mall retailers' private-label sourcing economics. Quote: Ronak Modi, Chief Business Officer – Global.",
+   "article_date": "2026-07-15",
+   "sources": [
+    {
+     "label": "Zawya · 15 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/fynd-launches-fynd-create-in-gcc-an-ai-native-platform-for-fashion-design-sourcing-and-production-xy4nq6b7"
+    },
+    {
+     "label": "TradingView/Reuters newsml · 15 Jul 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-07-15:newsml_Zaw2QQfy6:0-zawya-fynd-launches-fynd-create-in-gcc-an-ai-native-platform-for-fashion-design-sourcing-and-production/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-16-02",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Palmonas makes Middle East debut: first-ever international store at Reem Mall 14 Jul 2026, 23:03 GST",
+   "summary": "Indian demi-fine jewellery brand Palmonas (9kt gold with lab-grown diamonds; co-founded and fronted by Bollywood actress Shraddha Kapoor; CEO Pallavi Mohadikar) opened its first store outside India at Reem Mall, Abu Dhabi, with a second store at Mall of the Emirates, Dubai \"set to open soon.\" A tenant-mix data point for Reem Mall (directory property) and a further sign of Indian D2C brands using Abu Dhabi as a regional launchpad. Caveat: single PR-sourced outlet (Biz Today, Karachi-based, byline \"editor\"), credibility low-to-moderate; verify with Reem Mall leasing before directory action. Published 23:03 GST on 14 July, inside yesterday's window but surfaced only in today's sweep, so genuinely new to this report.",
+   "article_date": "2026-07-14",
+   "sources": [
+    {
+     "label": "Biz Today · 14 Jul 2026",
+     "url": "https://www.biztoday.news/2026/07/14/palmonas-debuts-in-middle-east-with-first-ever-international-store-at-reem-mall-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-16-03",
+   "stream": "dest",
+   "type": "",
+   "country": "GCC",
+   "title": "Gulf security situation whipsaws: direct near-term risk to mall footfall, tourism and logistics 12 Jul 2026 + evolving",
+   "summary": "Iran launched missile and drone attacks on Qatar, Bahrain and the UAE on Sunday 12 July (Kuwait also intercepted an attack), hours after a third round of US airstrikes that followed an IRGC attack on a container ship in the Strait of Hormuz; Tehran declared the strait closed \"until further notice\" (Arab News, 12 Jul, citing AFP/CENTCOM). Mid-week wires reported further escalation (Bahrain sirens, Kuwait engaging incoming projectiles) and EASA airspace warnings for Bahrain, Kuwait, Qatar, UAE and the Gulf of Oman until at least 29 July, followed by a Zawya headline that Iran now says Hormuz is open again after a Lebanon deal, with a US–Iran agreement expected \"soon\" (date on that item unverified). Implication for members: insurance, shipping and stocking costs, tourist arrivals and evening footfall across GCC malls remain volatile; Qatar has warned of a major economic downturn if the war is not resolved. This is context, not a property finding, flagged because it moved from background noise to direct strikes on four MECSR-covered countries.",
+   "article_date": "2026-07-12",
+   "sources": [
+    {
+     "label": "Arab News · 12 Jul 2026",
+     "url": "https://www.arabnews.com/node/2650589/middle-east"
+    },
+    {
+     "label": "Zawya · date unverified",
+     "url": "https://www.zawya.com/en/world/middle-east/iran-says-hormuz-strait-open-after-lebanon-deal-trump-expects-iran-deal-soon-tsvvodnv"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-16-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Türkiye",
+   "title": "AYD: five new malls (~212,000 sqm GLA) due across Türkiye in 2026 30 Jul 2025",
+   "summary": "Per AYD (Shopping Centers and Investors Association) chairman Nuri Şapkacı, via Anadolu Agency: seven new AVMs by end-2026, two (~42,000 sqm) in 2025 and five (~212,000 sqm GLA) in 2026, in Istanbul, Ankara, Muğla, Elazığ and Düzce. Türkiye has ~450 operating malls; 2024 mall turnover ~US$55bn. Included despite age because Türkiye (125 directory properties, 3rd largest country block) has had no destination finding in this report series to date; this AYD list is the baseline to verify city-by-city in a future deep-dive. Separately, the Florentia Village luxury designer outlet (Kalyon Kampüs × RDM-Fingen, €160m, 300+ stores, Arnavutköy/Istanbul) was slated to open March 2026, opening status unconfirmed and worth checking next run.",
+   "article_date": "2025-07-30",
+   "sources": [
+    {
+     "label": "Anadolu Agency via Malatya Söz · 30 Jul 2025",
+     "url": "https://www.malatyasoz.com/turkiyede-2026-sonuna-kadar-7-yeni-avm-acilacak"
+    },
+    {
+     "label": "Mall Report · 28 Nov 2025",
+     "url": "https://mallreport.com.tr/2025/11/28/turkiyenin-ilk-luks-outlet-avmsi-2026da-istanbulda-acilacak/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-16-05",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS AFG International (Cenomi Retail) appoints Sameer Jain as CEO Leadership 22 Jun 2026",
+   "summary": "AFG International, the renamed Cenomi Retail, in which MECSR member Al-Futtaim acquired a 49.95% strategic stake in 2025, appointed Sameer Jain as CEO effective 1 July 2026, following the resignation of Salim Fakhouri. Jain joins from Landmark Group (also a member), where he was CEO of New Business and Home Centre Middle East; earlier career at McKinsey, A.T. Kearney and EY. AFG operates 808 stores across 165 malls in 8 countries (~332,000 sqm GLA, 47 brands, 7,000+ staff). Chairman Hussein Shobokshi: Jain's \"proven ability to drive business performance… will be instrumental.\" Not previously captured, earlier reports covered the Al-Futtaim/Cenomi deal itself but not this leadership change. Touches three member organisations (Al-Futtaim, Cenomi, Landmark).",
+   "article_date": "2026-06-22",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya press release · 22 Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/people-in-the-news/afg-international-appoints-sameer-jain-as-ceo-to-lead-next-phase-of-transformation-and-growth-aqmon5mi"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-16-06",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Lulu opens first store in a Cenomi mall: Aziz Mall, Jeddah (72nd KSA store) Expansion date unverified",
+   "summary": "Lulu Retail opened its 72nd Saudi store at Al Faisaliyyah, Jeddah, its first inside a Cenomi Centers property (Aziz Mall) and its 267th across the GCC. The 10,157+ sq ft hypermarket was inaugurated by Jeddah Chamber president Mohammed Yousuf Naghi alongside Lulu Group chairman Yusuffali M.A., who restated Lulu's target of 100 stores in the Kingdom. Significance: a new anchor-tenant relationship between two Priority 1 members (Lulu × Cenomi). The Zawya/Saudi Gazette page carries no publication date, the 72nd-store count places it in 2026, but confirm via the LuLu Retail newsroom or Cenomi IR before updating the directory tenant mix.",
+   "member": true,
+   "sources": [
+    {
+     "label": "Saudi Gazette via Zawya · date unverified",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/lulu-further-strengthens-jeddah-presence-with-opening-its-first-store-at-aziz-mall-marking-its-partnership-giqt23n6"
+    }
+   ]
+  }
+ ],
+ "watch": []
+}

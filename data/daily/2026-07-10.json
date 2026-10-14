@@ -1,0 +1,122 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-10",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-10.html"
+ ],
+ "coverage": {
+  "label": "Thursday 9 July 2026 (plus items since last run, 9 July)"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-10-01",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Diriyah awards $105m park construction contract to Satco 9 Jul 2026",
+   "summary": "Saudi contractor Satco has won a $105m contract for park construction at the Diriyah giga-project. While a public-realm rather than a retail award, the works sit within the masterplan that contains Diriyah Square, one of the Kingdom's largest upcoming retail districts, and signal continued delivery momentum around the retail core.",
+   "article_date": "2026-07-09",
+   "sources": [
+    {
+     "label": "TradeArabia · 9 Jul 2026",
+     "url": "https://tradearabia.com/News/464942/Satco-wins-%24105-Diriyah-park-construction-contract-"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-10-02",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Dubai Q1 2026 GDP up 2.4% to $63.17bn 9 Jul 2026",
+   "summary": "Dubai's economy grew 2.4% year-on-year in Q1 2026 to AED 232bn ($63.17bn). Wholesale and retail trade remains one of the emirate's largest GDP contributors, making this a relevant demand-side indicator for mall operators and leasing teams.",
+   "article_date": "2026-07-09",
+   "sources": [
+    {
+     "label": "TradeArabia · 9 Jul 2026",
+     "url": "https://tradearabia.com/News/464902/Dubai-Q1-GDP-up-2.4-Percent%2c-reaches-%2463.17bn"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-10-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Regional risk: Gulf conflict escalation touches Bahrain and Kuwait 7–9 Jul 2026",
+   "summary": "Regional media reported a sharp escalation of the Gulf conflict during the coverage window, including US strikes on Iran (8 Jul) and reported attacks affecting Bahrain and Kuwait (9 Jul). S&P (7 Jul) assessed GCC sovereigns as resilient but flagged risks from a prolonged conflict. Operationally relevant for members in Bahrain and Kuwait (footfall, insurance, tourist flows); monitor official channels for any mall operating-hour or safety directives.",
+   "article_date": "2026-07-07",
+   "sources": [
+    {
+     "label": "TradeArabia · 9 Jul 2026",
+     "url": "https://tradearabia.com/News/464901/US-launches-fresh-strikes-on-Iran%3b-Tehran-attacks-Bahrain%2c-Kuwait"
+    },
+    {
+     "label": "TradeArabia (S&P) · 7 Jul 2026",
+     "url": "https://tradearabia.com/News/464804/GCC-sovereigns-resilient-but-prolonged-conflict-poses-risks--SandP-"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-10-04",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "O1NE District: AED 6bn ($1.6bn) mixed-use destination with integrated retail unveiled 8 Jul 2026",
+   "summary": "AVENEW Development and KORA Properties launched O1NE District in Dubai Motor City, six commercial towers, an integrated retail destination , healthcare facilities and landscaped public spaces adjacent to Dubai Autodrome. Sales opened for DAWN, the first office tower. Retail relevance is high: KORA Properties carries the retail expertise of APPCORP Holding, parent of Apparel Group (2,500+ stores, 85+ brands), suggesting a serious retail component in later phases. Published 8 Jul, missed by yesterday's run, so new to this report.",
+   "article_date": "2026-07-08",
+   "sources": [
+    {
+     "label": "TradeArabia · 8 Jul 2026",
+     "url": "https://tradearabia.com/News/464855/Avenew%2c-Kora-unveil-%241.6bn-mixed-use-destination-at-Dubai-Motor-City"
+    },
+    {
+     "label": "Gulf News · 8 Jul 2026",
+     "url": "https://gulfnews.com/business/property/avenew-development-and-kora-properties-unveil-o1ne-district-as-sales-commence-for-dawn-1.500601076"
+    },
+    {
+     "label": "Khaleej Times · 8 Jul 2026",
+     "url": "https://www.khaleejtimes.com/business/property/avenew-development-and-kora-properties-unveil-o1ne-district-as-sales-commence-with-dawn-its-first-office-tower"
+    },
+    {
+     "label": "Zawya · 8 Jul 2026",
+     "url": "https://www.zawya.com/en/economy/gcc/avenew-kora-unveil-16bln-mixed-use-destination-at-dubai-motor-city-cpgoysh7"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-10-05",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Cenomi Centers: Jawharat Al Khobar lease termination (context) Deal / Strategy 8 Jan 2026",
+   "summary": "Background verified while checking the Al Khobar pipeline: Cenomi terminated its 2022 land-lease and investment agreement for Jawharat Al Khobar Mall (~300,000 sqm, Al Corniche District) on 8 January 2026, citing a change in investment strategy, later replaced by the Saudi Downtown Company (PIF) partnership for the Al Khobar Downtown Mall and Boulevard (covered 3 Jul report). Clarifies that the SDC scheme supersedes, not supplements, Jawharat Al Khobar.",
+   "article_date": "2026-01-08",
+   "member": true,
+   "sources": [
+    {
+     "label": "Argaam · 8 Jan 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1871400"
+    },
+    {
+     "label": "Sahm Capital · 8 Jan 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-centers-terminates-al-khobar-mall-development-plan-2026-01-08"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Gulf conflict impact on retail operations (Bahrain, Kuwait, Saudi), monitor official directives, footfall commentary and any mall closures; new this run.",
+  "O1NE District retail phase: GLA, anchor strategy and timeline for the \"integrated retail destination\"; Apparel Group involvement.",
+  "Mall of Dilmunia outlet conversion (Al Ahli Holding): a fresh TradeArabia item was headlined but the article is no longer available, date unverified; seek confirmation.",
+  "Seef Properties \\ GFH: full terms of voluntary offer; SICO independent-advisor opinion; regulatory timeline. No new disclosure found 9–10 Jul.",
+  "Emaar \"AED 200bn mega city\" masterplan, still needs primary-source confirmation.",
+  "Mall of Saudi (MAF): seek Q2/Q3 2026 status update vs \"completion early 2026\" claim.",
+  "Primark: firm opening dates at Doha Festival City and City Centre Bahrain.",
+  "Mabanee (Kuwait/Bahrain) and Tamdeen, quiet again; check Boursa Kuwait filings, especially given 9 Jul events in Kuwait.",
+  "Avenues Riyadh ($6bn, Al Shaya), monitor construction milestones.",
+  "Cenomi Centers Oct 2026 international sukuk redemption."
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-25",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-25.html",
+  "MECSR_Daily_Intel_2026-09-25.html"
+ ],
+ "coverage": {
+  "label": "Thursday 24 September 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-25-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "DCT Abu Dhabi rolls out Visitor Experience Guidelines and an AI-powered training academy",
+   "summary": "The Department of Culture and Tourism – Abu Dhabi (DCT Abu Dhabi) introduced destination-wide Visitor Experience Guidelines spanning 11 tourism touchpoints, from airports and hotels to museums and attractions, setting consistent service-quality expectations across the emirate's tourism ecosystem. Alongside the guidelines, DCT Abu Dhabi launched the Visitor Experience (VX) Academy, an AI-powered e-learning initiative delivering role-specific professional-development training to frontline tourism workers. The academy has already enrolled 38,643 learners from 260 participating organisations, including 149 hotels, 27 attractions and 18 cultural sites. Saleh Mohamed Al Geziry, DCT Abu Dhabi's Director General for Tourism, said: \"Every memorable visitor experience begins with the people who welcome our guests. The Visitor Experience Academy equips thousands of tourism frontliners with the knowledge, skills and confidence to consistently deliver the warm hospitality, service excellence and cultural understanding that define Abu Dhabi.\" This is the first time this initiative has cleared the bar for this dossier series, despite the Guidelines having first surfaced in searches on 19 Sep. It sits alongside DCT Abu Dhabi's inaugural Visitor Experience Awards (announced 17 Aug), which invited 400+ tourism organisations to compete across eight categories, with 24 winners due at a gala later in 2026, together forming a three-part government CX programme (standards, training, recognition) that MECSC members in tourism, hospitality and destination management can benchmark against.",
+   "article_date": "2026-09-19",
+   "sources": [
+    {
+     "label": "Gulf News · 19 Sep 2026",
+     "url": "https://gulfnews.com/business/tourism/abu-dhabi-launches-academy-to-train-thousands-of-tourism-frontliners-1.500680693"
+    },
+    {
+     "label": "Arabian Business",
+     "url": "https://www.arabianbusiness.com/business/tourism-hospitality/abu-dhabi-unveils-new-visitor-experience-guidelines-for-tourism-sector"
+    },
+    {
+     "label": "Travel Daily News",
+     "url": "https://www.traveldailynews.com/destinations/abu-dhabi-visitor-experience-guidelines-tourism-standards/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-25-02",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "UAE AI Office partners with Dell Technologies to scale agentic AI in government services",
+   "summary": "The Artificial Intelligence Office in the UAE Government, led by Dr. Abdulrahman Al Mahmoud, signed a strategic collaboration with Dell Technologies to advance agentic AI in government operations and services. The partnership will focus on developing prototypes and implementation-ready AI solutions, run specialised agentic-AI training sessions for government entities, and introduce federal and local teams to Dell's AI Factory ecosystem for building and deploying AI models. The announcement followed a delegation of more than 50 chief AI officers from federal and local government entities, organised by the AI Office and the Dubai Centre for Artificial Intelligence, who toured Dell's US operations. Dr. Al Mahmoud said cooperation with global technology companies is \"a key element in accelerating the exchange of knowledge and expertise,\" while Dell's Walid Yehia noted that \"the real impact of these technologies lies in the ability to transform ambitions and ideas into practical, scalable applications.\" This lands against the backdrop of the UAE's public target, flagged in earlier dossier cycles, of routing 50% of government services through agentic AI within two years. A vendor-and-enablement deal of this scale is a concrete step toward that target, and worth watching for the first named public-service use case to go live under it.",
+   "article_date": "2026-09-21",
+   "sources": [
+    {
+     "label": "TechAfrica News · 21 Sep 2026",
+     "url": "https://techafricanews.com/2026/09/21/uae-government-dell-technologies-agentic-ai-public-services/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-25-03",
+   "stream": "ai",
+   "type": "market",
+   "country": "",
+   "title": "CMSWire opens 2027 IMPACT Awards with new agentic-AI categories",
+   "summary": "CMSWire opened submissions for its sixth annual IMPACT Awards, adding three new categories for the 2027 cycle: agentic AI customer-service strategies, AI applications to customer data and personalization, and AI-powered self-service capabilities, alongside existing categories spanning contact centres, conversational AI/chatbots and digital-experience analytics. Vendor early-entry closes 30 September 2026, the general submission deadline is 20 November 2026, and winners are announced in spring 2027. Submissions are reviewed by a pool of more than 140 vetted industry judges against measurable outcomes and supporting evidence, with winners receiving feature coverage, digital badges and trophies. Not a GCC-specific story, but a directly relevant one: it gives Middle East contact-centre and retail AI teams already investing in agentic AI (see the Dell/UAE AI Office item above, and mazeed's \"Matha\" agent logged in the 24 Sep dossier) a named, globally-judged benchmark to enter and cite in board-level AI-ROI conversations.",
+   "article_date": "2026-09-23",
+   "sources": [
+    {
+     "label": "Manila Times · 23 Sep 2026",
+     "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/plentisoft/cmswire-opens-2027-impact-awards-across-customer-experience-ai-customer-journey-platforms-and-digital-experience-categories/2431403"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-25-04",
+   "stream": "dest",
+   "type": "market",
+   "country": "Kazakhstan",
+   "title": "Kazakhstan's wholesale trade turnover rises 6.7% in Jan–Aug 2026",
+   "summary": "Kazakhstan's Bureau of National Statistics data, reported by Trend.Az, showed the country's trade sector recording a physical volume index of 106% for the January–August 2026 period compared with the same months of 2025, with wholesale trade turnover up 6.7% in real terms. The story names no specific shopping destination or MECSR member company; it is a market-level finding relevant to Kazakhstan's retail operating environment and the first Kazakhstan finding to clear this report series' bar since early September.",
+   "article_date": "2026-09-14",
+   "sources": [
+    {
+     "label": "Trend.Az · 14 Sep 2026",
+     "url": "https://www.trend.az/casia/kazakhstan/4223619.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-25-05",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "GASTAT: Saudi wholesale & retail trade operating-revenues index up 3.2% in Q2 2026, retail e-sales +13.4%",
+   "summary": "Saudi Arabia's General Authority for Statistics (GASTAT) reported its General Index of Operating Revenues for the wholesale and retail trade sector rose 3.2% year-on-year in Q2 2026 (down 0.6% quarter-on-quarter versus Q1). The e-commerce sales index grew 9.8% annually overall, with retail trade e-sales up 13.4% and wholesale trade e-sales up 6.5%; the employee compensation index rose 9.0% annually, driven by a 10.8% increase in retail trade wages. The release names no specific shopping destination or MECSR member company; it is a national market-level indicator relevant to Saudi Arabia's retail operating environment.",
+   "article_date": "2026-08-30",
+   "sources": [
+    {
+     "label": "GASTAT (stats.gov.sa) · 30 Aug 2026",
+     "url": "https://www.stats.gov.sa/en/w/news/212"
+    },
+    {
+     "label": "Zawya · 31 Aug 2026",
+     "url": "https://www.zawya.com/en/business/saudi-e-sales-surge-9.8-in-q2-as-retail-trade-jumps-13.4-471740"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-25-06",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Knowledge Economic City signs SAR2.8bn ($746m) Madinah mixed-use JV with Dar Al Majdiah and Capital Hill Financial",
+   "summary": "Knowledge Economic City Company (KEC, member) signed a memorandum of understanding with Dar Al Majdiah Real Estate Co. and Capital Hill Financial Company to develop a mixed-use real-estate project on roughly 97,000 sqm within KEC's Madinah masterplan. The development will comprise approximately 2,700 residential apartments, primarily targeting non-Saudi Muslim buyers, plus a commercial component with a net leasable area of around 8,000 sqm and more than 3,500 parking spaces. The estimated total project cost is approximately SAR2.8bn ($746.25m); KEC anticipates revenue exceeding SAR4bn. The venture will be structured through a closed-ended real-estate investment fund in which KEC holds roughly 80% (contributing land in kind) and Al Majdiah roughly 20% (contributing cash and serving as development manager), with Capital Hill establishing and managing the fund. This is primarily a residential-led mixed-use project; the confirmed 8,000 sqm retail/commercial component is modest relative to a standalone mall and is flagged here as a member-company project update rather than a new shopping-destination finding.",
+   "article_date": "2026-09-15",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 15 Sep 2026",
+     "url": "https://www.zawya.com/en/projects/construction/saudi-developers-co-launch-746mln-mixed-use-project-in-madinah-646299"
+    },
+    {
+     "label": "Mubasher/Tadawul disclosure · 15 Sep 2026, 08:03",
+     "url": "https://english.mubasher.info/news/4672248/Dar-Al-Majed-Real-Estate-Company-Announces-the-Signing-of-a-Memorandum-of-Understanding-with-Knowledge-Economic-City-Company-and-Capital-Hill-Financial-Company-to-Develop-a-Real-Estate-Project-in-Madi/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "DCT Abu Dhabi Visitor Experience Awards. 24 winners across 8 categories due at a gala later in 2026, watch for the announcement and named winners.",
+  "UAE AI Office × Dell Technologies. Watch for the first named public-service agentic AI prototype or pilot to emerge from this collaboration.",
+  "CMSWire 2027 IMPACT Awards. Vendor early-entry closes 30 Sep 2026, watch for GCC-based vendor or practitioner submissions.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep). Supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements, Saudi Arabia has returned nil in this dossier for several cycles.",
+  "Seamless Middle East 2026, Dubai. Event closed 24 Sep, watch for closing-day/post-event exhibitor coverage in the next cycle.",
+  "Global Village Dubai, Season 31. Expected mid-October 2026 opening; exact date and new attractions still unconfirmed as of this run.",
+  "GITEX Global 2026, Dubai (7–11 Dec). Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still early for CX-specific exhibitor news.",
+  "Korea Town by Boutiqaat (Bahrain): still no confirmed mall/venue for its first GCC store outside Kuwait, five days after the initial 23 Sep announcement.",
+  "Knowledge Economic City / Dar Al Majdiah / Capital Hill (Madinah): track through fund-close and construction; confirm final retail/commercial tenant mix and launch date for the 8,000 sqm component.",
+  "Egypt's \"BN Mall\" (New Administrative Capital): confirm actual publication/launch date and licensing status before including as a fresh finding.",
+  "United Real Estate Company's Sharq seafront project (Kuwait): confirm current phase-three status and date directly from URC or Boursa Kuwait disclosures.",
+  "Cenomi Al Noor Mall, Medina: design/contractor award still pending confirmation."
+ ]
+}

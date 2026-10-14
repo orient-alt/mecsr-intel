@@ -1,0 +1,122 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-08",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-08.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-08-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Oman",
+   "title": "Dhofar Islamic launches Braille debit card for visually impaired customers",
+   "summary": "Dhofar Islamic, the Islamic banking division of BankDhofar, introduced a Braille-embossed debit card described as \"a pioneering initiative\" reflecting the bank's commitment to inclusivity. Its tactile features let customers independently read the card number, security code and expiry date, reducing reliance on others and protecting transaction privacy at ATMs and points of sale. The launch is backed by staff training programmes across all branch levels, upgraded ATM interfaces, Braille keypads and audio support services, plus simplified digital-banking interfaces with multiple language options, across Dhofar Islamic's 30+ branches in Oman. For members, this is a clean, single-day accessibility-CX case study: a physical product change (the card itself) paired with the operational changes, staff training, branch equipment, digital simplification, needed to make an accessibility feature actually usable end to end, rather than a standalone gadget.",
+   "article_date": "2026-09-07",
+   "sources": [
+    {
+     "label": "TechAfrica News · 7 Sep 2026",
+     "url": "https://techafricanews.com/2026/09/07/dhofar-islamic-launches-braille-debit-card-inclusive-banking-oman/"
+    },
+    {
+     "label": "GCC Business News · 7 Sep 2026",
+     "url": "https://www.gccbusinessnews.com/dhofar-islamic-braille-debit-card/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-08-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Global",
+   "title": "Bahrain International Airport secures four ACI recognitions",
+   "summary": "Bahrain International Airport (BIA) received four Airports Council International (ACI) recognitions: Customer Experience Accreditation at Level 5, the programme's highest tier, for a second consecutive year, reflecting CX embedded \"across strategy, governance, operations, service design, and corporate culture\"; the Airport Service Quality (ASQ) award for Best Airport at Arrivals Globally, also a second consecutive year, based on worldwide passenger feedback; a renewed Public Health & Safety Readiness Accreditation; and a 2026 Accessibility Enhancement Accreditation at Level 2, recognising inclusive-travel planning and staff training. CEO Ahmed Mohamed Janahi tied the recognitions to \"continuously enhancing the passenger journey\" across every stage of the airport experience. Coming the same week as Oman's ACI sweep for Muscat and Salalah (logged 7 Sep run), this extends a clear pattern of Gulf airports treating ACI's ASQ and CX-accreditation programmes as the primary external benchmark for passenger-facing investment.",
+   "article_date": "2026-09-05",
+   "sources": [
+    {
+     "label": "Zawya · 5 Sep 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/bahrain-international-airport-receives-four-prestigious-aci-recognitions-479084"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-08-03",
+   "stream": "cx",
+   "type": "award",
+   "country": "Qatar",
+   "title": "Emirates, Qatar Airways and Etihad sweep the Middle East & Africa top three in the 2026 Flyers' Choice Awards",
+   "summary": "AirlineRatings.com's traveller-voted 2026 Flyers' Choice Awards placed Emirates first, Qatar Airways second and Etihad third in the Middle East & Africa category. Emirates additionally took first place for Preferred Premium Economy and second for both Business and Economy, plus second for best cabin crew service. Etihad placed third globally in the \"Peace of Mind\" category (behind Singapore Airlines and Qantas) and third for aircraft livery design. Singapore Airlines led the global rankings overall with four category wins. A useful, if slightly dated, cross-check for members benchmarking Gulf aviation CX against passenger-vote (rather than institutional-award) methodology, the ranking order mirrors, but doesn't duplicate, the ACI-judged CX/ASQ awards logged for Oman and Bahrain this cycle.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "Gulf News · 12 Aug 2026",
+     "url": "https://gulfnews.com/business/aviation/emirates-etihad-rank-among-middle-easts-top-3-airlines-in-2026-flyers-choice-awards-1.500638210"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-08-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Jordan",
+   "title": "Jordan launches AI spokesperson \"Farah\" for government updates",
+   "summary": "Jordan's government introduced Farah, an AI-generated digital avatar that delivers official announcements and updates through AI-generated video and interactive presentation formats, positioning the Kingdom among a small group of nations experimenting with AI avatars as an alternative to conventional press briefings. Coverage frames the core challenge as behavioural rather than technical: whether citizens extend the same credibility to a synthetic presenter that they grant accountable human officials, with success resting on transparency about how Farah operates and continued human oversight for sensitive matters. Members should treat this as an early trust-and-adoption test case rather than a proven CX win, the tell will be whether Jordan publishes any citizen-trust or engagement metrics once Farah has been live for a few months.",
+   "article_date": "2026-09-05",
+   "sources": [
+    {
+     "label": "Renascence · 5 Sep 2026",
+     "url": "https://www.renascence.io/news/52615/jordan-launches-ai-spokesperson-farah-for-government-updates"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-08-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Kuwait",
+   "title": "Warba Bank launches agentic AI banking assistant \"Bdr AI\" in Kuwait",
+   "summary": "Warba Bank integrated Bdr AI, an agentic assistant, into its mobile banking app, letting retail customers complete supported banking transactions through conversational voice or text, in both Kuwaiti-dialect Arabic and English, without navigating traditional app menus. The bank's deputy CEO framed it as delivering \"a faster and more flexible way to complete supported banking transactions,\" part of a push toward automated digital banking support around the clock. The Kuwaiti-dialect design detail echoes the Arabic-dialect-native positioning MECSC flagged for stc Bahrain's Bayan (logged 7 Sep run), a second regional data point that Gulf-dialect fluency, not just Arabic-language support in general, is becoming a specific vendor-selection criterion.",
+   "article_date": "2026-08-04",
+   "sources": [
+    {
+     "label": "Warba Bank Newsroom · 4 Aug 2026",
+     "url": "https://www.warbabank.com/english/news/warba-bank-launches-agentic-ai-banking-assistant-bdr-ai"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-08-06",
+   "stream": "dest",
+   "type": "",
+   "country": "Global",
+   "title": "KBLT Congress 2026, Riyadh signals a shift from brand-led to \"experience-narrative\" luxury consumption",
+   "summary": "The 5th Annual Kingdom Business & Luxury Travel Congress convened over 100 Saudi buyers with international travel brands in Riyadh (6–7 Sep), against a backdrop of Saudi outbound tourism spending projected at $30.7bn for 2026 (luxury segment alone $13.5bn). The event's advisory board argued that affluent Saudi consumers have moved beyond standardised five-star amenities: as Zahid Travel Group's Daniel Ponzo put it, \"Saudi travellers are increasingly choosing destinations based on the experience narrative, not just hotel brand but authentic moments.\" Framed as travel/tourism rather than retail proper, but the underlying behavioural signal, curated, personalised, story-driven experience over standardised branding, is exactly the shift Saudi luxury-retail and mixed-use operators are also chasing; worth flagging for members tracking how Riyadh's premium retail destinations differentiate their in-mall experience programming.",
+   "article_date": "2026-09-06",
+   "sources": [
+    {
+     "label": "Zawya · 6 Sep 2026",
+     "url": "https://www.zawya.com/en/press-release/events-conferences/kblt-congress-2026-opens-in-riyadh-as-saudi-arabias-luxury-traveller-outpaces-the-worlds-biggest-travel-brands-479229"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Jordan's AI spokesperson \"Farah.\" Watch for the first citizen-trust or engagement metrics, and for whether other GCC/MENA governments follow with their own AI-avatar communicators.",
+  "Warba Bank's \"Bdr AI,\" Kuwait. Watch for adoption figures and whether other Kuwaiti banks respond with dialect-native agentic assistants of their own.",
+  "Primark Qatar opening, 29 October 2026 (Doha Festival City). Watch for opening-day activation details and early footfall/experience commentary.",
+  "Primark Kuwait (Aventura Mall) and second Qatar store (Villaggio Mall), 2027. Named sites, watch for confirmed opening dates.",
+  "Primark Mall of the Emirates second floor (Nov 2026). Watch for confirmed opening date and expanded menswear/home assortment.",
+  "stc Bahrain's Bayan rollout. Phased from Q4 2026; watch for the first reported customer-satisfaction or resolution-time metrics once live.",
+  "MEBIS 2026, Dubai (16–17 Sep). Dedicated \"Customer Experience in Banking\" session confirmed; likely venue for named bank-CX announcements.",
+  "ServiceNow–Aramco Digital rollout. Watch for the first named business unit or country entity to go live under the unified CX/service-management standard.",
+  "First Avenue Mall & Le Meryeme (The Villa). Both still targeting September openings, unconfirmed; watch for firm dates and opening-day tenant lists.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep, 5th edition). Supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "GISEC Global 2026, Dubai (16–18 Sep). Cybersecurity/digital-resilience conference with direct bearing on customer-data trust and secure digital CX.",
+  "GITEX Global 2026, Dubai (7–11 Dec). Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still too early for CX-specific exhibitor news."
+ ]
+}

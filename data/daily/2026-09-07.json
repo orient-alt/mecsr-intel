@@ -1,0 +1,86 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-07",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-07.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-07-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "Global",
+   "title": "Muscat and Salalah airports sweep nine ACI Customer Experience Awards",
+   "summary": "Oman Airports secured nine Airports Council International (ACI) Customer Experience Awards at ACI's 2026 global summit in Istanbul, presented through the Airport Service Quality (ASQ) programme. Muscat International Airport, competing in the 5-million-plus-passenger tier for Asia Pacific and the Middle East, won four awards: Most Enjoyable Airport, Cleanest Airport, Airport with the Most Dedicated Staff, and Best Departure Airport. Salalah Airport, in the sub-5-million tier, took five: the same four categories plus Easiest Journey Through Airport. Acting CEO Saud bin Nasser Al Hubaishi singled out the \"Most Dedicated Staff\" award as especially meaningful, calling it direct recognition of the human element behind airport service delivery. For members, this is a clean, internationally-benchmarked signal of where Gulf CX investment is paying off in aviation, and a useful case study on how passenger-facing \"soft\" categories (cleanliness, staff warmth, journey ease) are increasingly where regional airports differentiate, alongside the harder infrastructure metrics MECSC members usually track.",
+   "article_date": "2026-09-06",
+   "sources": [
+    {
+     "label": "Muscat Daily · 6 Sep 2026",
+     "url": "https://www.muscatdaily.com/2026/09/06/muscat-salalah-airports-win-9-global-customer-experience-awards/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-07-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai Customs' H1 2026 report shows 24-second average contact-centre wait time",
+   "summary": "Dubai Customs' first-half 2026 performance review reports a unified Contact Centre average wait time of just 24 seconds, handling over 61,000 calls (average duration ~2 minutes 33 seconds) at a 96.17% customer satisfaction rate, alongside 42,000+ customer emails processed. The authority also cites a 98% score on Dubai Government's Instant Happiness Index and a 96% supplier-satisfaction rating. The report references an AI-driven \"Voice of Customer\" platform, the same initiative whose original October 2025 launch was excluded from prior runs as Historic Context, now shown analysing feedback across channels to drive service improvements as part of Dubai Customs' 2026–2030 strategy. Useful as an update rather than a new initiative: it confirms the Voice of Customer platform has moved from launch to measurable operational impact, with a wait-time figure members can benchmark against other Gulf government contact centres.",
+   "article_date": "2026-07-26",
+   "sources": [
+    {
+     "label": "GCC Business News · 26 Jul 2026",
+     "url": "https://www.gccbusinessnews.com/dubai-customs-smart-services-cut-wait-time/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-07-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Bahrain",
+   "title": "stc Bahrain launches \"Bayan,\" the Kingdom's most advanced digital contact centre",
+   "summary": "stc Bahrain unveiled Bayan, describing it as the Kingdom's most advanced digital contact centre and the first fully integrated, Arabic-dialect-native contact-centre deployment by a Bahraini telecom operator. The platform combines AI-powered voice and digital agents offering \"instant, always-on\" support with real-time human-agent assistance and automated quality/sentiment analytics running throughout the service journey. Bahrain's CTO framed the technology deliberately as \"an empowering tool for our agents, not a replacement\", an explicit human-in-the-loop positioning rather than a headcount-reduction story. Rollout is phased: it begins in Q4 2026, with full deployment across all care channels through 2027. The Arabic-first design detail is the standout for MECSC members, most regional AI-contact-centre launches lead with English-language capability first and Arabic as an add-on; Bayan inverts that, which is notable for a membership base focused on Gulf-dialect customer service quality.",
+   "article_date": "2026-09-06",
+   "sources": [
+    {
+     "label": "GCC Business News · 6 Sep 2026",
+     "url": "https://www.gccbusinessnews.com/stc-bahrain-launches-bayan-at-leap-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-07-04",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Kuwait",
+   "title": "Primark confirms Qatar's 29 October opening, names Kuwait and second Qatar site",
+   "summary": "Following its 3 September Bahrain debut announcement, Primark (via Alshaya Group) confirmed on 5 September that its first Qatar store will open 29 October 2026 at Doha Festival City. The retailer also named its next GCC sites for 2027: Kuwait's Aventura Mall and a second Qatar location at Villaggio Mall, alongside the previously-confirmed Mall of the Emirates second-floor expansion (November 2026). Company leadership framed the openings as \"creating exciting destinations where customers can discover fashion, beauty and homeware at exceptional value,\" with both Bahrain and Qatar launches set to feature entertainment, giveaways and activations. For members tracking Alshaya's rollout playbook, the shift from vague \"2027\" language to named malls (Aventura, Villaggio) is the useful update, it gives a concrete site to watch for opening-day experience programming rather than a placeholder date.",
+   "article_date": "2026-09-05",
+   "sources": [
+    {
+     "label": "Zawya · 5 Sep 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/primark-announces-opening-dates-for-bahrain-and-qatar-markets-as-regional-expansion-continues-479039"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Primark Qatar opening, 29 October 2026 (Doha Festival City). Watch for opening-day activation details and early footfall/experience commentary.",
+  "Primark Kuwait (Aventura Mall) and second Qatar store (Villaggio Mall), 2027. Now named sites, watch for confirmed opening dates.",
+  "Primark Mall of the Emirates second floor (Nov 2026). Watch for confirmed opening date and expanded menswear/home assortment.",
+  "stc Bahrain's Bayan rollout. Phased from Q4 2026; watch for the first reported customer-satisfaction or resolution-time metrics once live.",
+  "MEBIS 2026, Dubai (16–17 Sep). Dedicated \"Customer Experience in Banking\" session confirmed; 500+ pre-registered executives, a likely venue for named bank-CX announcements.",
+  "ServiceNow–Aramco Digital rollout. Watch for the first named business unit or country entity to go live under the unified CX/service-management standard.",
+  "First Avenue Mall & Le Meryeme (The Villa). Both still targeting September openings, unconfirmed; watch for firm dates and opening-day tenant lists.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep, 5th edition). Supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "GISEC Global 2026, Dubai (16–18 Sep). Cybersecurity/digital-resilience conference with direct bearing on customer-data trust and secure digital CX.",
+  "GITEX Global 2026, Dubai (7–11 Dec). Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still too early for CX-specific exhibitor news."
+ ]
+}

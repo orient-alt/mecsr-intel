@@ -1,0 +1,160 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-06",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-06.html"
+ ],
+ "coverage": {
+  "label": "Fri 3 Jul – Sun 5 Jul 2026 (plus one narrow-miss item from 2 Jul not captured by last report)"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-06-01",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "Dubai Development Launches \"Walk'n\" Mixed-Use Project, West Cairo",
+   "summary": "Dubai Development, a Saudi-linked developer (investment partner: Rsoukh), not to be confused with the UAE's Dubai Development Authority, launched Walk'n , a roughly 10-feddan mixed-use project in 6th of October City combining retail, offices, medical clinics, serviced apartments and entertainment. The company confirmed further 2026 launches including The Address Mall, Dubai Mall (West Cairo) and Strip 13 Mall, plus planned expansion into East Cairo and the North Coast, signalling a new, fairly aggressive retail-development entrant in the Cairo market.",
+   "article_date": "2026-07-05",
+   "sources": [
+    {
+     "label": "Daily News Egypt · 5 Jul 2026",
+     "url": "https://www.dailynewsegypt.com/2026/07/05/dubai-development-launches-walkn-mixed-use-project-in-west-cairo/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-02",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Mall of Al Ain: Threefold Redevelopment & Expansion Announced",
+   "summary": "MAIR Group PJSC, via its commercial real estate arm Makani Real Estate , announced a major redevelopment and expansion of Mall of Al Ain ahead of its 25th anniversary, its first major investment in the asset since acquiring it in 2024. Plans include a full façade transformation and an enlarged, relocated ice rink expected to be one of the largest in Al Ain, plus hotel services. Construction begins Q4 2026; the mall stays open throughout. Disclosed via an Abu Dhabi Securities Exchange (ADX) filing, published one day before this run's strict coverage window and missed by the 3 July report.",
+   "article_date": "2026-07-02",
+   "sources": [
+    {
+     "label": "AGBI · 2 Jul 2026",
+     "url": "https://www.agbi.com/real-estate/2026/07/abu-dhabis-mall-of-al-ain-to-start-expansion-work-this-year/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Libya",
+   "title": "First Mall Opens in Tripoli: Libya's Largest Shopping Complex",
+   "summary": "First Mall , developed by Al-Sahl Holding Group, opened in Tripoli after a stop-start construction history of more than 15 years. The 136,000 sqm complex (on a 6-hectare site) houses 220+ retail outlets, administrative offices, bank branches, medical clinics and event halls. Prime Minister Abdel Hamid Aldabaiba attended the opening ceremony. This is a distinct property from Zumurrud Mall, Tripoli (already tracked in MECSR reporting), the two should not be conflated in the directory.",
+   "article_date": "2026-06-26",
+   "sources": [
+    {
+     "label": "Libya Herald · 27 Jun 2026 (event: 26 Jun)",
+     "url": "https://libyaherald.com/2026/06/first-mall-opens-as-libyas-largest-shopping-mall-after-a-hiatus-of-more-than-15-years-of-stop-start-construction"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Morocco",
+   "title": "Morocco Mall Marrakech Opening Delayed to Spring 2027",
+   "summary": "Aksal Group (led by Saloua Idrissi Akhannouch) has pushed back the opening of the ~130,000 sqm Morocco Mall Marrakech from summer 2026 to spring 2027. Shell/construction work is reported essentially complete; the delay is described as a deliberate decision to secure a stronger pre-leasing occupancy rate amid a fragile Moroccan retail climate (brand exits, spending pressure), rather than a technical setback. This reverses the \"on track for summer 2026\" narrative and is a genuine status change worth flagging.",
+   "article_date": "2026-04-22",
+   "sources": []
+  },
+  {
+   "id": "2026-07-06-05",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "Multiply Media Group Launches BackLite KSA at Four Cenomi Destinations",
+   "summary": "Multiply Media Group (MMG), a subsidiary of UAE-listed 2PointZero Group PJSC, entered Saudi Arabia through a strategic partnership with Cenomi Centers, creating BackLite KSA to manage and commercialise a premium digital out-of-home (DOOH) advertising network of 80+ screens across four Riyadh/Jeddah destinations, explicitly naming the upcoming Westfield Riyadh and Westfield Jeddah malls, plus U Walk Riyadh and U Walk Jeddah. Distinct from the previously-reported Cenomi–MBC Group studio partnership; this is a new retail-media monetisation deal.",
+   "article_date": "2026-07-03",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 3 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/multiply-media-group-expands-into-saudi-arabia-through-strategic-partnership-with-cenomi-centers-ow7rhyw5"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-06",
+   "stream": "member",
+   "type": "new",
+   "country": "Bahrain",
+   "title": "Second Edition of \"Taasis\" National Talent Program Launched",
+   "summary": "Bahrain Bourse-listed Seef Properties launched the second consecutive edition of its Taasis program, a two-month professional development track for Bahraini university students covering real estate, asset management and mall operations. Confirmed by CEO Ahmed Yusuf as a repeat annual initiative.",
+   "article_date": "2026-07-03",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 3 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-launches-second-edition-of-taasis-program-to-train-young-national-cadres-hp54ea24"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-07",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "Shareholders Approve Remuneration Policy Amendment",
+   "summary": "KEC shareholders approved an amendment to the company's board and executive remuneration policy. A minor governance/procedural disclosure, distinct from the previously-reported $6.3bn Madinah masterplan showcase, included for completeness of member-company monitoring.",
+   "article_date": "2026-07-01",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-07-06-08",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "$1.1bn Racecourse Construction Contract Awarded",
+   "summary": "Qiddiya Investment Company awarded an estimated SAR 4.3bn ($1.1bn) main construction contract for the Qiddiya Racecourse to Taj Dhabi, the Saudi subsidiary of UAE-based Trojan Construction. The 1.3 million sqm venue will include the region's first straight-mile turf course and a 21,000-seat grandstand expandable to 70,000 for major race days, reinforcing Qiddiya's positioning as a broader leisure/retail-adjacent giga-project. Exact award date could not be pinned beyond \"MEED's July 2026 edition\"; flagged for follow-up confirmation.",
+   "article_date": "2026-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "MEED · Jul 2026",
+     "url": "https://www.meed.com/qiddiya-awards-estimated-1bn-racecourse-deal"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-09",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Sharjah Summer Promotions 2026 Draws Strong Turnout Across Emirate's Malls",
+   "summary": "The 2026 Sharjah Summer Promotions (launched 1 Jul, running to 15 Sep) is reporting strong visitor turnout, with discounts up to 75% and 700 prizes across five digital raffle draws hosted at directory-relevant properties: Mega Mall (18 Jul), Sahara Centre (1 Aug), Sharjah Central Mall (15 Aug), Rahmania Mall (29 Aug) and 06 Mall (grand draw, 15 Sep). A footfall-relevant market signal for Sharjah retail assets through Q3.",
+   "article_date": "2026-07-05",
+   "sources": [
+    {
+     "label": "Zawya (government press release) · 5 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/government-news/sharjah-summer-promotions-2026-attracts-strong-visitor-turnout-with-massive-discounts-700-valuable-prizes-f1hsi9uz"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-06-10",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Parkin Rolls Out AI-Powered Ticketless Parking at Al Ghurair Centre",
+   "summary": "Dubai's Parkin deployed an AI-powered ticketless parking system at Al Ghurair Centre (Priority 1 member Al Ghurair Real Estate). An operational/customer-experience upgrade at a flagship member asset, minor news value but relevant to member-asset monitoring. Published one day before this run's strict coverage window.",
+   "article_date": "2026-07-02",
+   "member": true,
+   "sources": [
+    {
+     "label": "Construction Week Online · 2 Jul 2026",
+     "url": "https://www.constructionweekonline.com/news/parkin-al-ghurair-centre"
+    }
+   ]
+  }
+ ],
+ "watch": []
+}

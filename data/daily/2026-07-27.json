@@ -1,0 +1,196 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-27",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-27.html",
+  "MECSR_Daily_Intel_2026-07-27.html"
+ ],
+ "coverage": {
+  "label": "Monday 27 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-27-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "Oman",
+   "title": "Alizz Islamic Bank wins Oman CX Awards 2026 in Islamic banking category",
+   "summary": "Alizz Islamic Bank was named \"Best Brand in Customer Experience – Islamic Banking\" at the Oman CX Awards 2026, held under the patronage of His Highness Sayyid Numair bin Salim Al Said. The win recognises the bank's customer-facing service standards within Oman's Islamic banking sector, the first Oman-specific CX finding in this dossier series to date.",
+   "article_date": "2026-06-14",
+   "sources": [
+    {
+     "label": "Zawya · 14 Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alizz-islamic-bank-wins-best-brand-in-customer-experience-islamic-banking-at-oman-cx-awards-2026-a6rto2lo"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "UAE Ministry of Sports advances AI-powered government services",
+   "summary": "The UAE Ministry of Sports hosted its 2026 User Experience Lab, aimed at enhancing AI-assisted government services and improving the customer experience of ministry-run digital touchpoints, as part of the ministry's wider digital-transformation commitments.",
+   "article_date": "2026-07-01",
+   "sources": [
+    {
+     "label": "Sharjah24 · 1 Jul 2026",
+     "url": "https://sharjah24.ae/en/Articles/2026/07/01/KMR8"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "",
+   "title": "OpenAI launches ChatGPT Work agent and full-duplex GPT-Live voice model",
+   "summary": "OpenAI launched ChatGPT Work, an agent that takes a described task, researches it, pulls data and hands back finished work, alongside GPT-Live, a full-duplex voice model that listens and speaks simultaneously for more natural, less \"chatbot-like\" conversations. This is distinct from OpenAI's earlier Presence enterprise platform (already logged in the 26 Jul dossier) and is relevant to GCC banks, telcos and retailers evaluating next-generation voice/agent tooling for customer-facing deployments.",
+   "article_date": "2026-07-09",
+   "sources": [
+    {
+     "label": "Enterprise DNA · 9 Jul 2026",
+     "url": "https://enterprisedna.co/resources/news/openai-presence-enterprise-voice-chat-agents-july-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-04",
+   "stream": "ai",
+   "type": "cx",
+   "country": "",
+   "title": "Weekly CX roundup: British Gas job cuts, ServiceNow revenue, and Presence's autonomous-resolution rate",
+   "summary": "CXM's weekly customer-experience roundup for the week ending 24 July reported that British Gas is cutting around 1,300 contact-centre jobs amid an AI-driven restructuring of its customer service operations, alongside ServiceNow posting record quarterly revenue. The roundup also cited a new figure for OpenAI's Presence platform (covered in the 26 Jul dossier): it is now reportedly resolving 75% of inbound calls autonomously, a concrete data point for GCC contact-centre operators benchmarking AI-driven automation targets.",
+   "article_date": "2026-07-24",
+   "sources": [
+    {
+     "label": "CXM · 24 Jul 2026",
+     "url": "https://cxm.world/customer-experience/customer-experience-news-roundup-july-24-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-05",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "On opens first UAE store at Mall of the Emirates",
+   "summary": "Swiss premium sportswear brand On opened its first UAE retail store at Mall of the Emirates, its third GCC location following openings in Riyadh (October 2025) and Kuwait (February 2026). Reported from a store-experience angle only; no leasing or investment detail is tracked here (see mecsr-weekly-intel-report for property-side coverage).",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Retail & Leisure International · Jul 2026",
+     "url": "https://www.rli.uk.com/on-opens-first-uae-store/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-06",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Seven new UAE malls set to open in 2026 lean into experiential retail",
+   "summary": "A round-up of seven landmark malls and retail districts opening across Dubai, Abu Dhabi, Sharjah and Ras Al Khaimah in 2026 highlights a shared emphasis on experiential retail, blending shopping with entertainment and dining, omnichannel buy-online-pickup-in-store services, smart-parking apps, contactless payment ecosystems and social-media-friendly installations. Experience-angle summary only; see mecsr-weekly-intel-report for exhaustive project-by-project development tracking.",
+   "sources": [
+    {
+     "label": "Gulf News · 2026",
+     "url": "https://gulfnews.com/amp/story/business%2Fretail%2F7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-07",
+   "stream": "dest",
+   "type": "",
+   "country": "Global",
+   "title": "Cenomi Centers frames Saudi mall strategy as a shift \"from scale to experience\"",
+   "summary": "At the RLC Global Forum in Riyadh, Cenomi Centers, the Kingdom's largest listed mall operator, described a deliberate pivot from adding retail floor space to improving the in-mall customer experience, as Saudi super-regional malls run near-zero vacancy. Included here as Historic Context given its age; flagged because the experience-strategy framing is still influencing 2026 mall openings.",
+   "article_date": "2026-02",
+   "sources": [
+    {
+     "label": "WWD · Feb 2026",
+     "url": "https://wwd.com/business-news/business-features/retails-leaders-blueprint-saudi-arabia-1238574845/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-08",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "UAE Majid Al Futtaim opens \"Explorers\" indoor kids' destination at City Centre Mirdif Expansion / New Concept 10 Jul 2026",
+   "summary": "Majid Al Futtaim officially opened Explorers at City Centre Mirdif in Dubai, a large-scale indoor destination combining free-play adventure areas with expert-led skill-building workshops for children aged 1–12 and their families. The launch adds a new experiential/entertainment anchor to one of MAF's established Dubai malls, part of the operator's continued push toward retailtainment concepts across its portfolio.",
+   "article_date": "2026-07-10",
+   "sources": [
+    {
+     "label": "Majid Al Futtaim (official press release) · 10 Jul 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/07/majid-al-futtaim-officially-opens-explorers--a-new-era-of-family-entertainment-with-immersive-free-play-and-workshops-all-under-one-roof"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-09",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "UAE On opens first UAE store at Mall of the Emirates Market / Tenant Entry 22 Jul 2026",
+   "summary": "Swiss premium sportswear brand On opened its first store in the UAE at Mall of the Emirates, marking its third store in the GCC following Riyadh (Oct 2025) and Kuwait (Feb 2026). The opening reflects continued international brand demand for premium GCC mall space even as several markets report softer footfall trends.",
+   "article_date": "2026-07-22",
+   "sources": [
+    {
+     "label": "On-Running (official) · 22 Jul 2026",
+     "url": "https://press.on-running.com/on-opens-first-store-in-the-united-arab-emirates-at-dubais-mall-of-the-emirates"
+    },
+    {
+     "label": "Retail & Leisure International · Jul 2026",
+     "url": "https://www.rli.uk.com/on-opens-first-uae-store/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-10",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Majid Al Futtaim: Explorers family entertainment launch New Project 10 Jul 2026",
+   "summary": "See destination write-up above. Also relevant as a member-portfolio investment signal: MAF continues to add experiential/entertainment concepts to existing malls rather than relying solely on new-build openings.",
+   "article_date": "2026-07-10",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim (official) · 10 Jul 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/07/majid-al-futtaim-officially-opens-explorers--a-new-era-of-family-entertainment-with-immersive-free-play-and-workshops-all-under-one-roof"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-27-11",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Majid Al Futtaim enables Jaywan card acceptance across 200+ destinations Deal / JV 15 Jul 2026",
+   "summary": "Majid Al Futtaim became one of the first UAE companies to fully enable acceptance of Jaywan, the UAE's national payment card scheme, across more than 200 of its physical destinations, malls, entertainment venues, cinemas and retail outlets. The move is part of a broader national push (alongside the Central Bank of the UAE) to expand domestic card-scheme usage and reduce reliance on international networks.",
+   "article_date": "2026-07-15",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim (official) · 15 Jul 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/07/majid-al-futtaim-among-the-first-companies-to-enable-jaywan-acceptance--enhancing-payment-convenience-for-over-200-destinations-in-the-uae"
+    },
+    {
+     "label": "Zawya · Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-among-the-first-companies-to-enable-jaywan-acceptance-404273"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "On's UAE store, confirm exact opening date and any additional GCC rollout announcements.",
+  "British Gas AI-driven contact-centre restructuring, watch for GCC utility/telco parallels as regional players weigh similar AI-driven headcount decisions.",
+  "OpenAI ChatGPT Work / GPT-Live, track regional/Arabic-language rollout and any GCC enterprise adoption announcements.",
+  "Cenomi Centers, watch for concrete \"experience\" initiatives (tenant mix, tech features) following its RLC Forum framing.",
+  "Saudi Customer Experience Awards 2027 cycle, monitor for nomination/judging news as the next edition ramps up."
+ ]
+}

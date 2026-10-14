@@ -1,0 +1,115 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-21",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-21.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-21-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "Oman",
+   "title": "Oman Airports wins nine ASQ Customer Experience Awards 2026",
+   "summary": "Oman's two main airports collected nine Airport Service Quality (ASQ) Customer Experience Awards at the ACI Airport Experience Summit in Istanbul. Muscat International Airport (5M+ passenger category) won four awards, Most Enjoyable Airport, Cleanest Airport, Most Dedicated Staff, and Best Airport for Departures, while Salalah Airport (under-5M category) won five, adding Easiest Journey Through the Airport to the same categories. Acting CEO Saud bin Nasser Al Habishi framed the sweep as reflecting \"travellers' confidence in the services provided.\" This is Oman's first finding to clear the bar in several dossier cycles, and a useful passenger-CX benchmark for members tracking how Gulf airports compare on service-quality metrics beyond the more frequently covered UAE and Qatar hubs.",
+   "article_date": "2026-09-06",
+   "sources": [
+    {
+     "label": "GCC Business News · 6 Sep 2026",
+     "url": "https://www.gccbusinessnews.com/oman-airports-in-nine-global-awards/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-21-02",
+   "stream": "cx",
+   "type": "expansion",
+   "country": "Egypt",
+   "title": "ibex opens new 1,000-seat delivery centre in Cairo",
+   "summary": "US-headquartered BPO operator ibex opened a new service-delivery centre at the City Stars complex in Nasr City, Cairo, planning to scale to roughly 1,000 employees within the first nine months of operation from an October 2026 start. CEO Bob Dechant pointed to Egypt's \"young, multilingual, and highly educated workforce\" and growing digital infrastructure; the centre will support outsourced business services and AI-powered customer-experience solutions for HealthTech, Technology and Retail clients. This is a third independent data point, after InteLogix's New Cairo centre and Concentrix's previously-logged $1bn Egypt CX/BPO commitment, that Egypt's contact-centre talent pool is actively drawing fresh multinational investment, not simply retaining existing capacity. Three different operators expanding in the same city within weeks of each other is worth flagging as a trend rather than three isolated stories.",
+   "article_date": "2026-09-02",
+   "sources": [
+    {
+     "label": "GlobeNewswire · 2 Sep 2026",
+     "url": "https://www.globenewswire.com/news-release/2026/09/02/3355200/0/en/ibex-expands-global-service-delivery-network-with-new-state-of-the-art-center-in-egypt.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-21-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Saudi Arabia",
+   "title": "Vision Bank partners with Publicis Sapient on AI innovation hub",
+   "summary": "Vision Bank, Saudi Arabia's first AI-powered Islamic bank, announced a partnership with Publicis Sapient at Money20/20 Middle East in Riyadh to design and operationalise the bank's Innovation Hub and Strategy. The collaboration focuses on developing differentiated banking solutions for individual customers and SMEs, strengthening digital and product capabilities, and using AI to reimagine business operations and customer interactions. Vision Bank's CEO said the bank was \"built around intelligence rather than adding it afterwards.\" This lands the same week as the MEBIS 2026 banking summit (logged in the 18 Sep dossier) and reinforces a pattern of GCC banks treating agentic-AI-ready innovation infrastructure, not just chatbot deployment, as the current competitive frontier.",
+   "article_date": "2026-09-15",
+   "sources": [
+    {
+     "label": "TechAfrica News · 15 Sep 2026",
+     "url": "https://techafricanews.com/2026/09/15/vision-bank-publicis-sapient-ai-banking-innovation-saudi-arabia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-21-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Bahrain",
+   "title": "BCFC upgrades \"Suhail\" and \"Suhaila\" AI assistants in the Sahel app",
+   "summary": "Bahrain Commercial Facilities Company (BCFC) released upgrades to its AI assistants Suhail and Suhaila within its Sahel financing-and-insurance app. The enhancements let the AI understand customer context in real time and accompany users through the entire financing-application journey, from initial questions to completion, rather than operating as a standalone query tool, while preserving direct access to human representatives. CTO Ali Al Marzooq framed the goal as making \"artificial intelligence work for the customer at the very moment they need it.\" This adds a fourth Bahraini data point (after stc Bahrain's Bayan, Bahrain-based DOO's dialect engine, and now BCFC) that the market is converging on AI that owns an entire customer journey end-to-end rather than a single interaction point.",
+   "article_date": "2026-08-30",
+   "sources": [
+    {
+     "label": "Daily Tribune Bahrain · 30 Aug 2026",
+     "url": "https://www.newsofbahrain.com/business/140215.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-21-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "UAE targets 50% of government services via agentic AI within two years",
+   "summary": "The National reported the UAE ranks first globally in digital skills, digital-government institutional framework and AI adoption (second for government-service satisfaction), citing $4 billion in savings already generated through government digitisation. The UAE plans to deliver half of all government services through agentic AI within two years, autonomous systems handling individualised, cross-department transactions with minimal human intervention, and is training 80,000 government employees accordingly. This builds on an August design-guide workshop (100+ officials) that set core principles: never re-asking for information already provided, keeping citizens informed throughout, and a \"human leads, AI enables\" rule for sensitive interactions. Arthur D Little's Dr Raymond Khoury framed the UAE as positioned to move \"from a world-class digital government to the world's most seamless and intelligent government\", a claim worth testing against actual named service migrations as the two-year clock runs.",
+   "article_date": "2026-09-04",
+   "sources": [
+    {
+     "label": "The National · 4 Sep 2026",
+     "url": "https://www.thenationalnews.com/news/uae/2026/09/04/moving-early-on-ai-put-uae-at-front-of-digital-race-expert-says/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-21-06",
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "title": "72% of UAE shoppers used AI for their most recent purchase",
+   "summary": "PYMNTS Intelligence and Visa Acceptance Solutions' \"2026 Global Digital Shopping Index: UAE Playbook\" found 72% of UAE shoppers used AI in their most recent purchase, with UAE consumers averaging 2.3 digital shopping activities daily (up 5% from 2024), ahead of the study's US and Brazil comparison markets. Separately, 82% of respondents said they would allow an AI agent to make unsupervised purchases if they could set spending limits, with over half capping that at $100; 74% want digital coupons, though only 60% of merchants currently offer them. This is a genuine market-data point (not a vendor claim) that UAE consumer appetite for agentic shopping AI may already be ahead of the retailer/merchant side's ability to serve it, a gap worth watching alongside the UAE's parallel government-AI push logged above.",
+   "article_date": "2026-09-03",
+   "sources": [
+    {
+     "label": "PYMNTS · 3 Sep 2026",
+     "url": "https://www.pymnts.com/consumer-insights/2026/72-of-uae-shoppers-used-ai-for-their-latest-purchase"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Vision Bank's Innovation Hub, Saudi Arabia. Watch for named AI-driven product launches stemming from the Publicis Sapient partnership.",
+  "BCFC's Sahel app, Bahrain. Watch for confirmation of a \"phase two\" transaction-completion capability beyond guided journeys.",
+  "UAE's 50%-agentic-government-services target. Two-year clock now running; watch for named service migrations and completion-rate data, not just adoption announcements.",
+  "ibex Cairo centre, Egypt. Watch for headcount ramp toward 1,000 by mid-2027 and whether it competes with or complements InteLogix and Concentrix's Egypt expansions.",
+  "Oman Airports' ASQ standing, Oman. Watch whether Muscat and Salalah sustain the sweep into the 2027 award cycle.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep). Supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "Global Village Dubai, Season 31. Confirmed opening 14 October 2026; watch for opening-day experience and attraction details.",
+  "First Avenue Mall & Le Meryeme (The Villa), UAE. Both still unopened; watch for firm dates and opening-day tenant lists.",
+  "GITEX Global 2026, Dubai (7–11 Dec). Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still too early for CX-specific exhibitor news."
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-14",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-14.html"
+ ],
+ "coverage": {
+  "label": "Monday 13 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-14-01",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Sharjah Summer Promotions 2026 reports strong turnout: discounts to 75%, 700 prizes date unverified",
+   "summary": "The Sharjah Government press office reports strong visitor turnout at the 2026 Sharjah Summer Promotions, with discounts of up to 75% across fashion, electronics, fragrance and home categories and 700 prizes, running until 15 September 2026. A useful mid-summer footfall-stimulus signal for Sharjah's mall cluster (Sahara Centre, Mega Mall, City Centre Al Zahia et al.). The release surfaced on Zawya's government-news wire during the 13–14 July cycle; the page shows no confirmable publication date.",
+   "article_date": "2026-07-13",
+   "sources": [
+    {
+     "label": "Zawya (Sharjah Government press release)",
+     "url": "https://www.zawya.com/en/press-release/government-news/sharjah-summer-promotions-2026-attracts-strong-visitor-turnout-with-massive-discounts-700-valuable-prizes-f1hsi9uz"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-14-02",
+   "stream": "dest",
+   "type": "",
+   "country": "Oman",
+   "title": "MoCIIP launches national discounts campaign to boost retail activity date unverified",
+   "summary": "Oman's Ministry of Commerce, Industry and Investment Promotion has launched a nationwide discounts campaign to stimulate retail activity, relevant to Omani members (Mall of Muscat / Tamani Global, Lulu Muscat, Sabco) and Muscat's mall stock generally. The item appears on Zawya's current GCC-economy cycle; publication date could not be confirmed on-page, so it is labelled date-unverified pending re-check next run.",
+   "sources": [
+    {
+     "label": "Zawya · GCC economy",
+     "url": "https://www.zawya.com/en/economy/gcc/oman-mociip-launches-national-discounts-campaign-to-boost-retail-activity-lgaaixn3"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-14-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Iraq",
+   "title": "SOUEAST opens first Iraqi mall showroom at Iraq Mall: anchor-leasing signal Jun 2026",
+   "summary": "Chinese auto brand SOUEAST (Chery group) opened its first mall showroom in Iraq at Iraq Mall, Baghdad, the country's largest integrated commercial complex and an MECSR member property. Automotive mall showrooms are a leasing-mix trend worth tracking regionally; this is a positive tenanting signal for Iraq Mall five months after its February opening. Source is the company's own release distributed via EIN Presswire (press-release aggregator), credibility acceptable as a first-party statement, but cross-reference against Iraqi media is recommended before directory notes are updated.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "SOUEAST official site",
+     "url": "https://www.soueast-motor.com/detail/?id=335"
+    },
+    {
+     "label": "EIN Presswire",
+     "url": "https://www.einpresswire.com/article/920103556/soueast-opens-first-mall-showroom-in-iraq-accelerating-middle-east-channel-expansion"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-14-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Oman",
+   "title": "Gulf's first Anne Klein store opens at Avenues Mall (Apparel Group) 9 Apr 2026",
+   "summary": "Apparel Group opened the first-ever Gulf store for US fashion brand Anne Klein at Avenues Mall, Muscat, a 1,600 sq ft handbags/accessories format and the start of the brand's GCC rollout. At 96 days old this narrowly exceeds the 90-day background window, but it is included as it is new to MECSR reporting and a regional-first brand entry at a directory property. Avenues Mall Oman continues to attract first-to-market concepts (Centrepoint's newest format also landed there this year).",
+   "article_date": "2026-04-09",
+   "sources": [
+    {
+     "label": "Zawya (Apparel Group press release) · 9 Apr 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/apparel-group-launches-the-first-anne-klein-store-in-the-gulf-at-avenues-mall-oman-ksx9rqmk"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-14-05",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "MEMBER NEWS Lulu opens new-format hypermarket at Festival Plaza, Jebel Ali Expansion 7 Jul 2026",
+   "summary": "Priority-1 member Lulu (Lulu International Holdings / LuLu Retail) opened a new hypermarket at Festival Plaza Mall in Dubai South, inaugurated by H.E. Dawoud Al Hajri, Director General of Dubai Municipality, with chairman Yusuff Ali M.A. present. The store debuts Lulu's new design format alongside IKEA and ACE within the Al-Futtaim-operated Festival Plaza lifestyle complex, reinforcing Dubai South's fast-growing residential retail catchment. Not previously reported in this series.",
+   "article_date": "2026-07-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "LuLu Retail newsroom · 7 Jul 2026",
+     "url": "https://www.luluretail.com/media/news/lulu-opens-new-hypermarket-at-festival-plaza-jebel-ali-dubai/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-14-06",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "MEMBER NEWS Dubai Holding Asset Management unifies 40+ destinations under 'Dubai Retail'; Nakheel Mall renamed Palm Jumeirah Mall New Project / Rebrand 4 Sep 2025",
+   "summary": "Priority-1 member Dubai Holding Asset Management launched Dubai Retail as the unified brand for its portfolio: 10 malls (Palm Jumeirah Mall, formerly Nakheel Mall, Nad Al Sheba Mall, The Outlet Village, Circle Mall, Ibn Battuta Mall, Dragon Mart and others), 15 lifestyle destinations (Bluewaters, JBR, Souk Madinat Jumeirah, Boxpark…) and 18 community retail centres, 6,500+ retailers across 13m+ sq ft GLA. Al Khail Avenue will add 1.2m sq ft GLA on completion. Announced September 2025 following the Nakheel/Meydan integration, this had not yet been captured in MECSR reporting; the renaming and the Al Khail Avenue pipeline both carry directory-update implications for multiple listed properties.",
+   "article_date": "2025-09-04",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya / WAM (Emirates News Agency) · 4 Sep 2025",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/dubai-holding-asset-management-launches-dubai-retail-as-unified-brand-c3sq2ail"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Cenomi Centers (KSA): post-AGM follow-through and Westfield Riyadh (Sep 2026) leasing news; H1 results season approaching.",
+  "Q2/H1 2026 earnings wave: Mabanee, Seef Properties, Al Othaim, Aldar, Emaar, exchange filings expected mid-July onward (SABIC Q2 previews already circulating).",
+  "Qatar excise tax on sweetened drinks: now in effect, monitor F&B tenant impact commentary (date unverified this run).",
+  "Sharjah Summer Promotions / DSS 2026: re-verify publication dates and capture any mall-level footfall disclosures.",
+  "NAS Gardens Community Mall (Dubai): August 2026 opening approaching, check for confirmed date.",
+  "Geopolitical overhang: renewed US–Iran escalation (13 Jul) hit GCC equity sentiment, watch for retail-REIT/mall-stock commentary and any impact on Gulf consumer-confidence reporting."
+ ]
+}

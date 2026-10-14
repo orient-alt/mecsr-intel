@@ -1,0 +1,135 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-28",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-28.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-28-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai Airports and GDRFA brace for the post-summer travel surge with a \"border hospitality\" push",
+   "summary": "As Dubai International handles the wave of returning holidaymakers, GDRFA Dubai has deployed additional frontline officers and technical support units, opened dedicated arrival channels and express corridors, and trained border personnel in what it calls \"border hospitality\", balancing security with a service-first tone. The agency is coordinating closely with Dubai Airports, Dubai Police, customs and airlines to keep queues moving through the surge. The push builds on infrastructure already in place: Dubai's biometric Smart Gates processed 9.4 million travellers in H1 2026 (9,024,736 through Smart Gates, 439,321 through the \"Red Carpet\" corridor), with Red Carpet clearance time cut to 3.4 seconds from 12.5 seconds, a 60% reduction achieved with zero documents and zero physical touchpoints. A July addition, the Smart Gates Eligibility Pre-Check tool (via the Pocket Flights portal or in-terminal QR codes), lets travellers confirm Smart Gates eligibility on their phone before reaching passport control, aimed at DXB's peak days of 265,000+ daily passengers. For MECSC members in aviation, hospitality and government service delivery, it's a clear example of pairing automation (biometrics, self-check tools) with a deliberate human-service layer for the moments automation can't smooth over.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "UAE Vartha · 17 Aug 2026",
+     "url": "https://english.uaevartha.com/dubai-airports-ready-for-post-vacation-travel-surge-with-enhanced-biometric-and-smart-gate-services/"
+    },
+    {
+     "label": "Gulf News · 6 Jul 2026",
+     "url": "https://gulfnews.com/business/aviation/dubai-smart-gates-process-94-million-travellers-in-6-months-1.500598379"
+    },
+    {
+     "label": "Khaleej Times · 24 Jul 2026",
+     "url": "https://www.khaleejtimes.com/uae/dubai-dxb-new-tool-pre-check-smart-gates"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Emirates lets UAE customers pay in crypto and redeem miles for European rail",
+   "summary": "Emirates now accepts Crypto.com Pay for AED flight bookings on emirates.com and the Emirates App, a regulator-compliant option positioned against Dubai's Cashless Strategy target of 90% digital transactions in 2026. Separately, Skywards Rail launched, letting members redeem or combine miles and cash for train travel across 12,000+ destinations on 40+ operators in 12 European countries, booked independently through the Skywards platform. Deputy President Adnan Kazim framed both moves as \"expanding customer choice in how they pay for travel\", a useful reminder for MECSC members that loyalty-programme value is increasingly measured by breadth of redemption options, not just miles accrued.",
+   "article_date": "2026-07-29",
+   "sources": [
+    {
+     "label": "Gulf Business · 29 Jul 2026",
+     "url": "https://gulfbusiness.com/en/2026/travel/emirates-just-changed-how-you-pay-and-travel-heres-what-it-means-for-customers/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-03",
+   "stream": "cx",
+   "type": "leadership",
+   "country": "Bahrain",
+   "title": "stc Bahrain promotes Khalid Alia to Chief Digital and Customer Experience Officer",
+   "summary": "stc Bahrain named Khalid Alia, previously Senior Director of Consumer Marketing and Customer Experience, where he drove consumer strategy and several product/service launches, to the newly elevated role of Chief Digital and Customer Experience Officer. He brings international telecom sector experience across commercial and marketing leadership roles and will now oversee stc Bahrain's digital transformation agenda alongside its customer-focused strategy, with an explicit brief to accelerate digital adoption and build solutions around changing customer demands. A useful regional data point: this is the second Gulf telecom CX-leadership elevation MECSC has tracked in recent weeks (following similar structural moves at other operators), suggesting operators are formally merging the \"digital\" and \"customer experience\" mandates into one seat rather than running them as separate functions.",
+   "article_date": "2026-08-20",
+   "sources": [
+    {
+     "label": "Zawya · 20 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/people-in-the-news/stc-bahrain-appoints-khalid-alia-as-chief-digital-and-customer-experience-officer-462487"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Saudi Arabia",
+   "title": "Liferay unveils AI Hub ahead of LEAP 2026, betting Saudi enterprises are past the \"whether\" question",
+   "summary": "Liferay is heading into LEAP 2026 (Riyadh, 31 Aug–3 Sep, Booth H4.E70) with two flagship offerings: AI Hub, a standalone low-code SaaS product for building, deploying and managing AI agents while keeping them grounded in an organisation's own data and existing access controls; and a Data Platform giving B2B teams unified account intelligence from CRM, marketing automation and behavioural data. The framing from Moussalam Dalati, Liferay's MEA/France General Manager, is the sharper point for MECSC members: \"the priority now is making AI work, securely, governed and grounded in the right data to produce business value\", i.e. Saudi enterprise buyers have largely moved past pilots and are being sold on governance and data-grounding as the differentiator, not raw AI capability. Worth watching whether this framing repeats across other LEAP 2026 exhibitors (MIT KSA is also confirmed to showcase AI/digital innovation) once the event opens next week.",
+   "article_date": "2026-08-24",
+   "sources": [
+    {
+     "label": "CXO Insight ME · 24 Aug 2026",
+     "url": "https://www.cxoinsightme.com/future/tech/liferay-spotlights-enterprise-ai-governance-at-leap-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-05",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "title": "Five9, Cisco and Meta show three different stages of agentic CX maturity",
+   "summary": "Global item, included for relevance to GCC contact-centre and retail buyers. Three simultaneous data points from CX Today's roundup sketch where agentic AI in customer service actually stands. Five9 signed a five-year, US$100m CCaaS contract with a Fortune 100 financial services firm, ramping to US$25m in annual recurring revenue, transacted through the Google Cloud Marketplace, a channel-fit test as much as a product win. Cisco disclosed that its agentic AI independently resolved 145,000 support cases with zero human intervention in FY2026, with CEO Chuck Robbins tying this to faster quote turnaround, case resolution and higher renewal rates rather than headcount reduction. Meta's Mark Zuckerberg, meanwhile, previewed a consumer-side shift: personal \"superintelligent\" AI agents that manage information and screen brand interactions on a customer's behalf. The practical read for MECSC members: the vendor conversation has moved from \"does agentic AI work\" (Cisco's case-resolution number) to \"will it scale commercially\" (Five9's marketplace-routed deal) to \"what happens when customers put their own AI agent in front of yours\" (Meta's framing), three different maturity questions that GCC service and retail leaders should expect to be asked about in the same vendor pitch within the next year.",
+   "article_date": "2026-08-14",
+   "sources": [
+    {
+     "label": "CX Today · 14 Aug 2026",
+     "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-five9-cisco-meta/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-06",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "First Avenue Mall, Jumeirah heads for a September opening built around dining, not fashion",
+   "summary": "First Avenue Mall in Jumeirah is on track for a September 2026 opening with a tenant mix led by restaurants, Jon & Vinny's, Nala (from the team behind Tashas) and Lost in Tokyo among the confirmed names, rather than the fashion-anchor format typical of earlier Dubai malls. The experience angle worth noting for members: it reads as a neighbourhood dining-and-lifestyle destination for the Jumeirah community rather than a traditional retail draw, a format shift several of Dubai's newer, smaller-format community centres (The Grand, Le Meryeme) are also following.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "What's On Dubai · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/5-new-dubai-mall-openings-still-to-come-this-year/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-28-07",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Le Meryeme's two community malls bet on everyday services over fashion retail",
+   "summary": "Two Le Meryeme community malls are in Dubai's near-term pipeline: The Villa location (Q3/September 2026) with a gym, rooftop pool and a retail mix including barbers, a coffee/cake concept and a Carnival soft-play area for children; and Liwan (Q4 2026), built around a hypermarket, medical centre, sports areas, kids' spaces and an outdoor events plaza. Both continue the everyday-services-first template already seen at The Grand (Nad Al Sheba Gardens), grocery, healthcare, family amenities, rather than fashion-led retail, reinforcing that this is now the default format for new Dubai community centres rather than a one-off.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "What's On Dubai · 17 Aug 2026",
+     "url": "https://whatson.ae/2026/08/5-new-dubai-mall-openings-still-to-come-this-year/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "LEAP 2026, Riyadh (31 Aug – 3 Sep), imminent. Liferay, MIT KSA, NTT DATA and Mannai IT have all pre-announced; expect a concentrated burst of Saudi CX/AI news across the next 1–2 runs.",
+  "First Avenue Mall & Le Meryeme (The Villa), both targeting September openings; watch for confirmed dates and opening-day tenant lists.",
+  "Ooredoo Qatar's Obot avatar expansion to retail customers, surfaced this run via Zawya but without a confirmable publication date; revisit once dated, as it would be a strong Section B item (voice + avatar AI across social channels).",
+  "Gulf Customer Experience Awards 2026 (GCXA 26) finalists, an awards-body social post referenced finalists being announced; needs confirmation via a primary source (gulfcxawards.com / augustawards.com) before it can run as a finding.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep, 5th edition), supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "Whether other Gulf telecoms follow stc Bahrain in merging \"digital\" and \"customer experience\" into a single C-suite mandate."
+ ]
+}

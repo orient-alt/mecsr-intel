@@ -1,0 +1,124 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-13",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-13.html"
+ ],
+ "coverage": {
+  "label": "Friday 10 July – Sunday 12 July 2026 (weekend edition, plus items published since last run)"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-13-01",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Aldar unveils Yas Point: AED 6bn ($1.63bn) waterfront destination with 700m retail promenade 10 Jul 2026",
+   "summary": "MECSR member Aldar launched Yas Point, a 600,000 sqm waterfront development on the northern shore of Yas Island: circa 1,600 branded residences, a five-star resort hotel, a school, and retail, dining and leisure outlets organised around a 700-metre promenade activated by retail, dining and public spaces , plus two public parks and the island's first north-shore beach. Positioned near the upcoming Disneyland Abu Dhabi and Sphere Abu Dhabi, it extends Yas Island's retail-and-leisure cluster. Retail GLA has not yet been disclosed, a candidate for the directory pipeline once leasing details emerge.",
+   "article_date": "2026-07-10",
+   "sources": [
+    {
+     "label": "The National · 10 Jul 2026",
+     "url": "https://www.thenationalnews.com/business/2026/07/10/aldar-unveils-plans-for-163bn-yas-point-to-boost-abu-dhabis-lifestyle-appeal/"
+    },
+    {
+     "label": "Zawya (Aldar press release) · Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/aldar-unveils-yas-point-aed-6bln-waterfront-destination-on-the-northern-shore-of-yas-island-ttn4udr3"
+    },
+    {
+     "label": "Gulf News · Jul 2026",
+     "url": "https://gulfnews.com/business/property/aldar-unveils-dh6b-yas-point-waterfront-destination-1.500603725"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-13-02",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Souq Al Jubail passes 2 million visitors in H1 2026 date unverified",
+   "summary": "Sharjah's Souq Al Jubail (261 shops; fresh produce, meat and seafood plus hypermarket and services) welcomed more than two million visitors in the first half of 2026, per Sharjah Markets senior management, a useful footfall benchmark for Sharjah destination retail. The release surfaced on Zawya's retail wire during 12–13 July; exact publication date could not be confirmed on the article page, so it is labelled date-unverified. (The 2025 equivalent release was issued in late July, suggesting this is a genuinely fresh 2026 disclosure.)",
+   "article_date": "2026-07-12",
+   "sources": [
+    {
+     "label": "Zawya (press release) · date unverified, surfaced 12–13 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/souq-al-jubail-in-sharjah-welcomes-more-than-two-million-visitors-in-the-first-half-of-2026-h7hk2t4s"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-13-03",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "UAE 2026 mall pipeline: seven openings mapped: NAS Gardens due August 2026 date unverified",
+   "summary": "A Gulf News pipeline roundup maps seven UAE malls opening in 2026, including three not yet in the MECSR directory pipeline notes: Sobha Hartland Community Mall (Sobha Realty's first retail asset, 339,000 sq ft BUA, 115,000 sq ft leasable, ~35 outlets, H2 2026), NAS Gardens Community Mall (August 2026) and Le Meryeme Mall – Liwan (Wadi Al Safa 2, H2 2026). Article publication date not shown on page, treat details as leads for verification against developer sources.",
+   "sources": [
+    {
+     "label": "Gulf News · date unverified (2026)",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-13-04",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Knowledge Economic City signs $400m fund term sheet with Albilad Capital: Multaqa Mall connectivity Deal / JV 13 Jul 2026",
+   "summary": "Priority-1 member Knowledge Economic City Co disclosed to Tadawul a non-binding term sheet with Albilad Capital to establish a closed-ended private real estate fund financing phase 1 of its Multaqa Hospitality project in Madinah, development value ~SAR 1.5bn ($400m), comprising a 288-key JW Marriott, a 327-key Marriott and ~295 branded residences on King Abdulaziz Road. Directly relevant to the retail directory: the cluster will be connected to Multaqa Mall , the Hilton Hotel Tower and Hilton Branded Residences via a pedestrian skybridge, reinforcing the mall's anchor position in the Multaqa Almadinah masterplan. Albilad Capital would act as fund manager, subject to regulatory approvals; a six-month exclusivity period applies.",
+   "article_date": "2026-07-13",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya / TradeArabia · 13 Jul 2026",
+     "url": "https://www.zawya.com/en/business/real-estate/knowledge-economic-city-plans-400mln-hospitality-project-fund-with-albilad-usma4enk"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-13-05",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Fitch revises Cenomi Centers outlook to Stable, affirms 'BB' Financial 9 Jul 2026",
+   "summary": "Fitch Ratings revised the outlook on Priority-1 member Cenomi Centers (Arabian Centres) to Stable and affirmed its 'BB' long-term IDR. Published late on 9 July, after Friday's report had closed its sweep, so recorded here as new. A constructive credit signal for the Kingdom's largest listed mall operator as it delivers Westfield Jeddah and Westfield Riyadh; complements the 2 Jul Westfield Jeddah luxury-brands unveiling and 3 Jul Multiply/BackLite DOOH partnership covered in earlier reports.",
+   "article_date": "2026-07-09",
+   "member": true,
+   "sources": [
+    {
+     "label": "Maaal English (Fitch Ratings) · 9 Jul 2026",
+     "url": "https://maaal.com/en/news/details/fitch-revises-cenomi-cent/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-13-06",
+   "stream": "member",
+   "type": "award",
+   "country": "UAE",
+   "title": "MEMBER NEWS Dalma Mall receives Platinum Impact Seal: UAE's highest federal CSR honour Award 8 Jul 2026",
+   "summary": "Priority-1 member Dalma Mall was awarded the Platinum Impact Seal , the UAE's highest federal recognition for CSR and sustainability, issued by Majra (National CSR Fund) and presented by HH Sheikh Mansour bin Zayed Al Nahyan at Qasr Al Watan alongside the launch of the UAE Companies for Good 2031 Strategy. Hamad Jassim Al Darwish received the honour on the mall's behalf. Published 8 July but missed by the 9–10 July sweeps, new to this report. Strong member-recognition item for MECSR communications.",
+   "article_date": "2026-07-08",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya (AETOSWire press release) · 8 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/dalma-mall-awarded-uaes-highest-federal-csr-honor-the-prestigious-platinum-impact-seal-d2kijumu"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Seef Properties / GFH Bank takeover offer (Bahrain): SICO appointed independent advisor (Jun); no new disclosure found this weekend; SEEF traded 0.126 BHD on 8 Jul. Watch Bahrain Bourse disclosures.",
+  "Lulu × Al Lul Group, new retail destination, Baniyas, Abu Dhabi: undated announcement on LuLu Retail's newsroom, verify date and scope next run; possible new directory property.",
+  "Oman MoCIIP national discounts campaign: Zawya item surfaced this weekend, date unverified, confirm and capture for Oman market context.",
+  "Cenomi Centers GA related-party approvals (Maaal): confirm date and whether it adds to the 3–9 Jul coverage.",
+  "Qatar Hala Summer activations (1 Jul–30 Sep): running across 11 malls incl. members Hyatt Plaza and City Center Doha, watch for footfall disclosures.",
+  "O1NE District, Dubai Motor City: retail-phase details expected after DAWN tower launch (8 Jul).",
+  "Mall of Dilmunia outlet conversion (Bahrain), progress check.",
+  "Qatar note: former Emir Sheikh Hamad bin Khalifa died (reported 13 Jul), possible mourning-period adjustments to mall hours/events in Qatar; check official channels next run."
+ ]
+}

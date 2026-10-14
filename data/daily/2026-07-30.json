@@ -1,0 +1,235 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-30",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-30.html",
+  "MECSR_Daily_Intel_2026-07-30.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 29 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-30-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "Oman",
+   "title": "Mitsubishi Motors Oman wins Best CX in Crossover SUV category",
+   "summary": "Mitsubishi Motors Oman was recognised with the 'Best Brand in Customer Experience – Crossover SUV Category' award as part of the Times of Oman Best Brand in CX Awards 2026, presented alongside the Oman CX Forum. The awards recognise leading brands across 40+ product and service categories based on nationwide consumer voting, a distinct category win from Alizz Islamic Bank's Islamic-banking CX award at the same event already logged in the 27 Jul dossier, indicating the breadth of categories the ceremony covers across Oman's retail, automotive, banking and services sectors.",
+   "article_date": "2026-06-11",
+   "sources": [
+    {
+     "label": "Muscat Daily · 11 Jun 2026",
+     "url": "https://www.muscatdaily.com/2026/06/11/mitsubishi-motors-oman-wins-best-customer-experience-award/"
+    },
+    {
+     "label": "Times of Oman",
+     "url": "https://timesofoman.com/article/172705-oman-cx-forum-awards-2026-to-bring-together-industry-leaders-to-advance-customer-experience"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-02",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "UAE retail moves agentic AI from pilot to production: and flags a \"shadow AI\" risk",
+   "summary": "Computer Weekly reports that UAE retailers are increasingly deploying agentic AI across pricing, inventory and merchandising as operations spread across physical stores, marketplaces and regional supply chains. Per Sulaiman Yusuf, UiPath's MEA regional VP, agents can now evaluate price elasticity, competitor activity and inventory in real time and either recommend or automatically execute pricing/replenishment decisions within governance thresholds. The piece also warns of an emerging \"shadow AI\" governance risk, echoing shadow-IT concerns from the cloud era, where organisations lose visibility into which AI agents can access customer data or take autonomous action, a relevant caution for GCC retailers and banks scaling agentic deployments.",
+   "article_date": "2026-07-27",
+   "sources": [
+    {
+     "label": "Computer Weekly · 27 Jul 2026",
+     "url": "https://www.computerweekly.com/news/366646185/AI-agents-move-from-experiment-to-operations-in-UAE-retail"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Saudi Arabia",
+   "title": "Saudi financial sector uses agentic and voice AI to redefine premium banking CX",
+   "summary": "Arab News spoke with Bain & Co., Dyna.Ai and Vault Saudi executives on how AI is changing premium and wealth-management customer experience in Saudi Arabia. Key points: Saudi banks are using agentic AI, voice AI and always-on advisory to deliver \"Arabic-first,\" real-time relationship-manager support rather than replacing human advisers; Dyna.Ai's Carlton Liew flagged unified platforms (voice, agents, QA, fraud detection) as the next competitive frontier; and Vault Saudi's Abdulrahman Al-Sudairy pointed to open-banking data sharing as the next accelerant for personalized wealth CX, all framed against Vision 2030's digital-transformation goals.",
+   "article_date": "2026-07-11",
+   "sources": [
+    {
+     "label": "Arab News · 11 Jul 2026",
+     "url": "https://www.arabnews.com/node/2650496/business-economy"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-04",
+   "stream": "ai",
+   "type": "cx",
+   "country": "",
+   "title": "Sprinklr's Summer '26 release adds agentic Voice AI and brings CX data into Copilot/ChatGPT/Claude",
+   "summary": "Sprinklr shipped its Summer '26 platform update on 15 July, adding next-generation agentic Voice AI (sub-second response, improved turn-taking), an MCP (Model Context Protocol) integration that surfaces live customer intelligence directly inside Microsoft Copilot, ChatGPT and Claude, and video-based customer intelligence following its ViralMoment acquisition. For GCC contact-centre and CX-ops leaders, the release is a useful benchmark for where global CXM vendors are pushing agentic voice and cross-platform AI-assistant integration, relevant context alongside the region's own agentic-AI retail push (see above).",
+   "article_date": "2026-07-16",
+   "sources": [
+    {
+     "label": "MarketScale · 16 Jul 2026",
+     "url": "https://www.marketscale.com/industries/marketing-tech/sprinklrs-summer-26-release-pushes-cxm-from-dashboards-to-real-time-ai-action"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-05",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "\"The Grand\" confirmed for 19 August opening in Nad Al Sheba, Dubai",
+   "summary": "What's On Dubai confirmed that The Grand, a new neighbourhood mall in the Nad Al Sheba residential district, will welcome its first visitors on 19 August 2026, opening in stages. The first phase is anchored by Waitrose alongside MMI, Maple Bear Nursery, Al Jaber Optical and Fixperts, with homegrown dining brands (Tashas, Kokoro, Blu Pizzeria and others) following from early September, and health/wellness tenants (Fitcode, American Hospital) planned for early 2027. Rather than a traditional retail-first mall, the developer has framed it as a day-to-day community hub with open green spaces and a \"shop, coffee, errands in one place\" positioning, a lighter-touch experience concept than the destination/tourism malls covered in the sister property-tracking report.",
+   "article_date": "2026-07-29",
+   "sources": [
+    {
+     "label": "What's On Dubai · 29 Jul 2026",
+     "url": "https://whatson.ae/2026/07/the-grand-dubais-newest-mall-is-opening-next-month/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-06",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "UAE The Grand: fully-leased community mall opens 19 August in Nad Al Sheba Gardens New Property Jul 2026",
+   "summary": "Shamal Holding has unveiled The Grand, a new community retail and lifestyle destination at Nad Al Sheba Gardens, Dubai, confirmed as fully leased ahead of its 19 August 2026 opening. The first phase brings Waitrose & Partners as anchor, alongside MMI, Heart Cottage Lane, Maple Bear Nursery, Al Jaber Optical and Fixperts, with a second wave of dining brands, including Tashas, Kokoro, Blu Pizzeria and Bake My Day, following from early September. Positioned as a neighbourhood hub rather than a conventional shopping centre, with open green spaces and a health/wellness component (Fitcode, American Hospital) extending into early 2027. Distinct from the previously-reported Sobha Mall and Le Meryeme Mall – Liwan pipeline items; not previously captured in this report series. Corroborated via Shamal Holding's own Zawya press release, Gulf News, TradeArabia and What's On Dubai.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Zawya (Shamal Holding release) · Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/shamal-unveils-the-grand-a-curated-retail-and-lifestyle-destination-at-nad-al-sheba-gardens-413383"
+    },
+    {
+     "label": "Gulf News · Jul 2026",
+     "url": "https://gulfnews.com/business/retail/new-community-mall-in-dubai-the-grand-to-open-in-august-1.500623954"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-07",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "UAE NAS Gardens Community Mall confirmed for August 2026 opening New Property Jul 2026",
+   "summary": "NAS Gardens Community Mall is set to open in August 2026, featuring a mix of local retail favourites and a leading supermarket brand, as part of a wider wave of new community-scale malls entering the Dubai market in the second half of 2026 (alongside The Grand, above, and the previously-reported Sobha Mall and Le Meryeme Mall – Liwan). Flagged via a Time Out Dubai / Gulf News pipeline round-up of new Dubai malls; exact developer and tenant roster not yet confirmed via a primary source, cross-reference recommended before directory action.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Time Out Dubai · Jul 2026",
+     "url": "https://www.timeoutdubai.com/news/new-malls-dubai-coming-soon"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-08",
+   "stream": "dest",
+   "type": "market",
+   "country": "Morocco",
+   "title": "MOROCCO Morocco Mall (Casablanca): MANGO relocates to prominent new location Market 18 Jul 2026",
+   "summary": "MANGO has relocated and reopened at a more prominent location within Morocco Mall, Casablanca, Africa's largest shopping mall at 590,000 sqm. A tenant-repositioning signal at an established directory property rather than a new-build finding, distinct from the previously-reported Morocco Mall Marrakech (Aksal Group), whose opening has been delayed from summer 2026 to spring 2027. Single-sourced via a retail-leasing trade page with clear byline and dated metadata, cross-reference recommended before any directory note.",
+   "article_date": "2026-07-18",
+   "sources": [
+    {
+     "label": "Hudson Holdings · 18 Jul 2026",
+     "url": "https://hudson.com.mt/blog/2026/07/20/mango-relocates-to-a-prime-new-location-at-morocco-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-09",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Aldar Properties reports H1 2026 net profit up 18% to AED 4.9bn Financial 29 Jul 2026",
+   "summary": "Company: Aldar Properties (Priority 1 member, Abu Dhabi). Aldar announced H1 2026 results: net profit after tax up 18% year-on-year to AED 4.9 billion, on revenue exceeding AED 16 billion; earnings per share grew 17% to AED 0.53. Group development sales reached AED 12.1 billion in H1, a measured pace of new UAE launches given regional market conditions, with three successful project launches in Q2. Development backlog stood at AED 71.6 billion at end-June (AED 59.9bn in the UAE), supporting revenue recognition over the next 2–3 years. UAE sales to overseas/expat buyers reached AED 7.6 billion (80% of total UAE sales), and international arms SODIC and London Square grew H1 sales contributions 171% and 236% respectively. The results commentary references Aldar's previously-announced retail-adjacent projects, the AED 100bn Marsa Al Saadiyat waterfront masterplan and the AED 6bn Yas Island branded-residences scheme, both already captured in this series (22 Jul and 10 Jul reports respectively); today's finding is the H1 financial results themselves, not a new project announcement.",
+   "article_date": "2026-07-29",
+   "member": true,
+   "sources": [
+    {
+     "label": "The National · 29 Jul 2026",
+     "url": "https://www.thenationalnews.com/business/property/2026/07/29/aldars-second-quarter-profit-rises-10-on-revenue-boost-from-property-sales/"
+    },
+    {
+     "label": "Aldar (official) · 29 Jul 2026",
+     "url": "https://www.aldar.com/en/news-and-media/aldar-h1-2026-financial-results"
+    },
+    {
+     "label": "AGBI · 29 Jul 2026",
+     "url": "https://www.agbi.com/real-estate/2026/07/aldar-backlog-shields-profits-as-war-hits-new-sales/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-10",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Emaar Development and ADCB launch strategic mortgage-financing partnership Deal / JV 29 Jul 2026",
+   "summary": "Company: Emaar Development (Priority 1 member, Dubai). Emaar Development and Abu Dhabi Commercial Bank (ADCB) announced a strategic collaboration to streamline home-buying financing across Emaar's portfolio of ready and off-plan premium residential communities in Dubai. The tie-up combines ADCB's mortgage expertise with Emaar's development pipeline, offering eligible buyers market-leading financing rates and an off-plan financing solution featuring annually-renewable pre-approval until handover, with financing available up to 50% of a property's value. While primarily a residential-financing announcement, the partnership is directory-relevant given Emaar's parallel retail/mall portfolio (Dubai Mall, Dubai Marina Mall, community retail centres) that typically follows residential absorption in Emaar master-planned communities.",
+   "article_date": "2026-07-29",
+   "member": true,
+   "sources": [
+    {
+     "label": "Emaar (official press-release listing) · 29 Jul 2026",
+     "url": "https://www.emaar.com/en/press-release-listing/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-11",
+   "stream": "member",
+   "type": "financial",
+   "country": "Bahrain",
+   "title": "MEMBER NEWS BAHRAIN Seef Properties reports H1 2026 net profit of BD 1.9m, down 29.7% YoY Financial 28 Jul 2026",
+   "summary": "Company: Seef Properties (Priority 1 member, Manama). Seef Properties announced financial results for the six-month period ending 30 June 2026: net profit attributable to shareholders of BD 1.9 million, down from BD 2.7 million in H1 2025 (-29.7%); operating profit of BD 5.0 million (down 14.0%) on revenue of BD 6.6 million (down 12.9%). Earnings per share fell to 4.2 Bahraini fils from 5.9 fils. Management attributed the decline to heightened competition and softer consumer spending across retail, hospitality and entertainment, compounded by regional developments over the period, while noting that Seef's projects remain on track against approved plans. This is distinct from, and updates, Seef's ongoing GFH voluntary-offer discussions and contractor-appointment news already carried in the 26 July report.",
+   "article_date": "2026-07-28",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 28 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-announces-financial-results-for-the-six-month-period-ending-on-30-june-2026-412374"
+    },
+    {
+     "label": "Daily Tribune · 28 Jul 2026",
+     "url": "https://www.newsofbahrain.com/business/138344.html"
+    },
+    {
+     "label": "Seef Properties (official)",
+     "url": "https://seef.com.bh/seef-properties-announces-financial-results-for-the-six-month-period-ending-on-30-june-2026-with-bd-1-9-million-net-profit-attributable-to-shareholders/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-30-12",
+   "stream": "member",
+   "type": "status",
+   "country": "Kuwait",
+   "title": "MEMBER NEWS KUWAIT Mabanee's Aventura Mall reaches 96% construction completion Status Update 7 May 2026",
+   "summary": "Company: Mabanee Company K.P.S.C. (Priority 1 member, Kuwait). Per Mabanee's Q1 2026 investor presentation, construction at Aventura Mall in Jaber Al-Ahmad City (the \"J3\" development) has reached 96% completion, up from previous updates that referenced only a 20+ store leasing commitment from Alshaya Group (H&M, Primark, Ulta Beauty) without a completion figure. The mall spans a 104,000 sqm plot with 299,000 sqm built-up area and 108,000 sqm GLA across 377 retail units, including an ice-skating rink and cinema; opening remains targeted for H2 2026. Mabanee holds a 35% stake in J3. This item is distinct from the Hilton Kuwait Resort renovation (39% complete), which was already captured in the 20 July report, only the new Aventura completion percentage is reported here to avoid duplication.",
+   "article_date": "2026-05-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 7 May 2026",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    },
+    {
+     "label": "Kanebridge News",
+     "url": "https://kanebridgenewsme.com/smart-kuwaiti-urban-project-aventura-by-mabanee-progresses-as-planned/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "UAE retail agentic AI, watch for named retailer case studies (beyond the UiPath commentary) confirming production-scale pricing/inventory agent deployments.",
+  "Sprinklr MCP (Beta), watch for GCC customer or partner announcements now that Copilot/ChatGPT/Claude integration is live.",
+  "Saudi premium banking AI, watch for a named bank (rather than vendor/consultant commentary) confirming a live agentic-AI wealth-management deployment.",
+  "The Grand, Nad Al Sheba, confirm the 19 Aug opening date holds and watch for additional tenant announcements ahead of the September dining phase.",
+  "Mitsubishi Motors Oman / Oman CX Awards 2026, watch for further category winners from the same ceremony not yet logged in this series.",
+  "Bahrain, watch for a genuinely new, dated CX or AI finding; this cycle's Bahrain item (BisB's Al Murshid) is Historic Context only."
+ ]
+}

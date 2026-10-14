@@ -1,0 +1,245 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-10-13",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-10-13.html"
+ ],
+ "coverage": {
+  "label": "Monday 12 October 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-10-13-01",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "Ibn Battuta Mall, Dubai: 38 new outlets and the return of cinema",
+   "summary": "Dubai Retail announced a redevelopment of its 2005-opened Ibn Battuta Mall taking in 38 new and upcoming retail, dining, entertainment and service outlets. Twenty-one have already opened and the remaining 17 are scheduled by the end of 2027. The headline addition is Roxy Cinemas, which restores a cinema offer the mall had lost, alongside the Hopa Loompa family entertainment centre, Zamania by Leo & Loona and Toy Station. New retail includes Jack & Jones, Anta, Tanishq, Magrabi, OWNDAYS, Mumuso and Chemist Warehouse; F&B additions include Five Guys, Marugame Udon, Caribou Coffee, Peet's Coffee and Ocean Basket. Dubai Retail puts the mall at more than 350 businesses and an average of roughly 1.5 million visits a month. Several outlets framed the announcement as a direct rebuttal to social-media claims that the mall was in decline.",
+   "article_date": "2026-10-12",
+   "sources": [
+    {
+     "label": "Gulf News · 12 Oct 2026",
+     "url": "https://gulfnews.com/business/retail/dubais-ibn-battuta-mall-brings-back-cinemas-adds-38-new-brands-1.500707871"
+    },
+    {
+     "label": "Khaleej Times · 12 Oct 2026",
+     "url": "https://khaleejtimes.com/uae/no-dubais-ibn-battuta-mall-is-not-dying-38-new-openings-announced"
+    },
+    {
+     "label": "Gulf Business · 12 Oct 2026",
+     "url": "https://gulfbusiness.com/en/2026/retail/a-new-era-for-retail-in-dubai-what-ibn-battuta-and-palm-jumeirah-malls-have-planned/"
+    },
+    {
+     "label": "Communicate Online · 12 Oct 2026",
+     "url": "https://communicateonline.me/news/ibn-battuta-mall-adds-38-outlets-in-retail-expansion"
+    },
+    {
+     "label": "Amusements & Attractions · 13 Oct 2026",
+     "url": "https://www.amusementsandattractions.com/amusements/news/uae-shopping-centre-to-expand-attraction-lineup"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Medium",
+    "listed_as": "Ibn Battuta Mall",
+    "field": "Tenants · leisure anchor",
+    "change": "Add Roxy Cinemas and Hopa Loompa to anchors; 38 new outlets (21 open, 17 by end-2027); 350+ businesses."
+   }
+  },
+  {
+   "id": "2026-10-13-02",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "Saadiyat Grove, Abu Dhabi: luxury brand line-up revealed ahead of Q4 2026 opening",
+   "summary": "Aldar's experiential luxury retail and fine-dining destination in the Saadiyat Cultural District had its tenant line-up revealed in first-look coverage on 12 October, ahead of a fourth-quarter 2026 opening. Confirmed maisons include Louis Vuitton, Dior, Cartier, Bvlgari, Van Cleef & Arpels, Fendi, Loewe, Tiffany & Co., Valentino, Chaumet, Audemars Piguet and Brunello Cucinelli. The scheme also brings Abu Dhabi its first Time Out Market, plus restaurants, cafés, wellness facilities, luxury hotels, branded residences (Louvre Abu Dhabi Residences, Baccarat Residences Saadiyat, The Arthouse) and premium office space. It sits between the Louvre Abu Dhabi, the forthcoming Guggenheim Abu Dhabi and the Zayed National Museum. The project itself was launched by Aldar on 18 September 2026 with a stated 100+ brands; the 12 October reporting is the brand-level reveal.",
+   "article_date": "2026-10-12",
+   "sources": [
+    {
+     "label": "FashionNetwork · 12 Oct 2026",
+     "url": "https://in.fashionnetwork.com/news/Saadiyat-grove-to-open-in-abu-dhabi-with-luxury-brand-line-up,1874818.html"
+    },
+    {
+     "label": "WWD · Oct 2026 (date unverified, page not fetchable)",
+     "url": "https://wwd.com/business-news/retail/abu-dhabi-saadiyat-grove-first-look-1239244151/"
+    },
+    {
+     "label": "Aldar press release · 18 Sep 2026",
+     "url": "https://www.aldar.com/en/news-and-media/aldar-unveils-saadiyat-grove-an-experiential-luxury-retail-and-fine-dining-destination-in-abu-dhabi-s-saadiyat-cultural-district"
+    },
+    {
+     "label": "The National · 18 Sep 2026",
+     "url": "https://www.thenationalnews.com/business/property/2026/09/18/aldar-launches-new-luxury-retail-project-with-more-than-100-brands-in-saadiyat/"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Add to pipeline",
+    "property": "Saadiyat Grove",
+    "developer": "Aldar",
+    "status": "Under construction · brand line-up revealed 12 Oct 2026",
+    "opening": "Q4 2026",
+    "size": "100+ brands (GLA not disclosed)",
+    "check": "Not in the 2027 dataset or on Brilliant (checked 14 Oct).",
+    "next": "Ask Aldar for GLA and confirmed opening date; consider Add now if it opens before the data freeze."
+   }
+  },
+  {
+   "id": "2026-10-13-03",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "title": "Palm Jumeirah Mall, Dubai: Beauty Unbound returns for a fifth edition",
+   "summary": "Palm Jumeirah Mall is running the fifth edition of its Beauty Unbound activation from 14 October to 1 November 2026. The free, travel-themed programme covers brand activations and product showcases plus two masterclasses, KIKO Milano on 16 October and Dyson on 24 October. A modest item in isolation, but it is the second Dubai Retail-portfolio footfall initiative reported on the same day and is included as a directory status update rather than a project finding.",
+   "article_date": "2026-10-12",
+   "sources": [
+    {
+     "label": "Gulf Business · 12 Oct 2026",
+     "url": "https://gulfbusiness.com/en/2026/retail/a-new-era-for-retail-in-dubai-what-ibn-battuta-and-palm-jumeirah-malls-have-planned/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-04",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "Skylight Mall, Al Khail Road, Dubai: 1.3m sq ft super-regional mall for 2027",
+   "summary": "Dubai Retail unveiled Skylight Mall, a super-regional destination on Al Khail Road with 1.3 million sq ft of gross leasable area and more than 360 stores, targeted to open in 2027. It is positioned to serve Jumeirah Village Triangle, Jumeirah Islands and The Springs alongside citywide catchment, combining retail with dining, entertainment and everyday services. No anchor tenants have been named. This item has appeared in discovery feeds since 6 October but has not previously been carried in a saved MECSR report, so it is logged here as recent background and is a candidate for directory addition.",
+   "article_date": "2026-10-06",
+   "sources": [
+    {
+     "label": "Dubai Holding press release · 6 Oct 2026",
+     "url": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027"
+    },
+    {
+     "label": "Khaleej Times · 6 Oct 2026",
+     "url": "https://www.khaleejtimes.com/uae/dubai-retail-announces-skylight-mall-al-khail-road"
+    },
+    {
+     "label": "Zawya press release · 6 Oct 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027-1510990"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Add to pipeline",
+    "property": "Skylight Mall, Al Khail Road",
+    "developer": "Dubai Retail (Dubai Holding Asset Management)",
+    "status": "Announced 6 Oct 2026",
+    "opening": "2027",
+    "size": "1.3m sq ft GLA · 360+ stores",
+    "check": "Not in the 2027 dataset or on Brilliant (checked 14 Oct).",
+    "next": "Confirm GLA in sqm, opening quarter and whether Dubai Retail wants it pre-listed as Upcoming."
+   }
+  },
+  {
+   "id": "2026-10-13-05",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "Mall of the Emirates, Dubai: The Hangout precinct within the AED5bn transformation",
+   "summary": "Majid Al Futtaim unveiled The Hangout by Mall of the Emirates, an indoor-outdoor lifestyle and entertainment precinct forming part of the AED5 billion transformation of the mall. It carries four entertainment concepts, Activate (12 light-up rooms, 50+ challenges, opening October 2026), SOCO (2,700 sq m; bowling, simulators, AR darts, karaoke, Q4 2026), Explorers (2,500 sq m family play for ages 1–12, Q1 2027) and a reimagined Magic Planet (2027), plus 18 F&B experiences across 12 restaurants, four kiosks and two in-venue outlets, including Fatt Pundit, Apollo, Crystal Jade Noodle Bar and Public Pizzeria. It introduces the mall's first dedicated outdoor F&B courtyard with operable façades and a climate-controlled pedestrian link to the New Covent Garden Theatre and Fashion Dome. This item sat on the watch list from the 6 and 9 October runs; it is now published as recent background with the developer's own release as the primary source.",
+   "article_date": "2026-10-01",
+   "sources": [
+    {
+     "label": "Majid Al Futtaim press release via Zawya · 1 Oct 2026",
+     "url": "https://www.zawya.com/en/press-release/majid-al-futtaim-unveils-the-hangout-by-mall-of-the-emirates-a-new-indoor-outdoor-lifestyle-and-entertainment-destination-1459987"
+    },
+    {
+     "label": "TradeArabia · 1 Oct 2026",
+     "url": "https://tradearabia.com/News/487326/Majid-Al-Futtaim-unveils-new-indoor-outdoor-lifestyle-and-leisure-destination/RET"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Low",
+    "listed_as": "Mall Of The Emirates",
+    "field": "Leisure · F&B",
+    "change": "Note The Hangout precinct (4 entertainment concepts, 18 F&B) within the AED5bn transformation; Activate opens Oct 2026."
+   }
+  },
+  {
+   "id": "2026-10-13-06",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "Two portfolio moves inside a fortnight",
+   "summary": "The member's retail arm announced a new super-regional development (Skylight Mall, 6 October) and a 38-outlet redevelopment of an existing asset (Ibn Battuta Mall, 12 October) within seven days. Taken together these signal an active capital-deployment phase across the Dubai Retail portfolio rather than two isolated announcements, and they put two MECSR directory-relevant assets into play at once. Dubai Retail declined to answer press questions on the social-media claims about Ibn Battuta's performance, responding instead with the redevelopment programme and a 1.5m monthly visits figure.",
+   "article_date": "2026-10-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "Khaleej Times · 12 Oct 2026",
+     "url": "https://khaleejtimes.com/uae/no-dubais-ibn-battuta-mall-is-not-dying-38-new-openings-announced"
+    },
+    {
+     "label": "Khaleej Times · 6 Oct 2026",
+     "url": "https://www.khaleejtimes.com/uae/dubai-retail-announces-skylight-mall-al-khail-road"
+    },
+    {
+     "label": "Dubai Holding press release · 6 Oct 2026",
+     "url": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-07",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "Saadiyat Grove brand line-up confirmed for Q4 2026 opening",
+   "summary": "Aldar's first dedicated luxury retail district moved from launch announcement (18 September) to confirmed tenant line-up on 12 October, with 100+ brands including the major LVMH and Richemont maisons and Abu Dhabi's first Time Out Market. The scheme extends Aldar beyond its established super-regional assets (Yas Mall, Al Jimi, Al Hamra) into a curated luxury format, and follows the AED10bn Abu Dhabi retail joint venture it completed with Mubadala in February 2026. It positions Aldar directly against Dubai's luxury retail cluster for the first time.",
+   "article_date": "2026-10-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "FashionNetwork · 12 Oct 2026",
+     "url": "https://in.fashionnetwork.com/news/Saadiyat-grove-to-open-in-abu-dhabi-with-luxury-brand-line-up,1874818.html"
+    },
+    {
+     "label": "Aldar press release · 18 Sep 2026",
+     "url": "https://www.aldar.com/en/news-and-media/aldar-unveils-saadiyat-grove-an-experiential-luxury-retail-and-fine-dining-destination-in-abu-dhabi-s-saadiyat-cultural-district"
+    },
+    {
+     "label": "Abu Dhabi Media Office · 18 Sep 2026",
+     "url": "https://www.mediaoffice.abudhabi/en/infrastructure/aldar-launches-saadiyat-grove-lifestyle-destination-bringing-global-luxury-and-new-to-region-concepts-to-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-08",
+   "stream": "member",
+   "type": "new",
+   "country": "",
+   "title": "The Hangout unveiled at Mall of the Emirates",
+   "summary": "Majid Al Futtaim Asset Management and Majid Al Futtaim Entertainment and Lifestyle jointly unveiled The Hangout precinct, with phased openings running through 2026 into early 2027. Khalifa Bin Braik, CEO of Majid Al Futtaim Asset Management, framed it as ensuring the asset's \"next chapter is as transformative as its first\"; Ignace Lahoud, CEO of Majid Al Futtaim Entertainment and Lifestyle, tied it to customer demand for active, social and shared experiences. The wider AED5bn programme also covers a luxury wellness club, new dining precincts, a new theatre, accessibility works and barrierless parking.",
+   "article_date": "2026-10-01",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim press release via Zawya · 1 Oct 2026",
+     "url": "https://www.zawya.com/en/press-release/majid-al-futtaim-unveils-the-hangout-by-mall-of-the-emirates-a-new-indoor-outdoor-lifestyle-and-entertainment-destination-1459987"
+    },
+    {
+     "label": "TradeArabia · 1 Oct 2026",
+     "url": "https://tradearabia.com/News/487326/Majid-Al-Futtaim-unveils-new-indoor-outdoor-lifestyle-and-leisure-destination/RET"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Saadiyat Grove (Aldar), Abu Dhabi, confirm the exact Q4 2026 opening date, GLA and final tenant count; chase Aldar IR and Abu Dhabi Media Office.",
+  "Skylight Mall (Dubai Retail), Dubai, anchor tenants and a firm 2027 opening date remain unnamed.",
+  "The Hangout, Mall of the Emirates (MAF), Activate was due to open in October 2026; watch for the opening confirmation and the SOCO Q4 date.",
+  "Ibn Battuta Mall (Dubai Retail), Roxy Cinemas opening date and screen count not disclosed; 17 outlets still to land through 2027.",
+  "Westfield Riyadh (Cenomi Centers), a September 2026 opening was indicated in February; no confirmation of an opening has surfaced. Long-running open item.",
+  "Primark Qatar, Doha Festival City, 29 October 2026 opening previously reported; due for confirmation this month.",
+  "Lulu Bahrain BD62m expansion, named locations and dates still pending.",
+  "Al Khail Avenue (Dubai Retail), brand mix and opening update still outstanding; note the Skylight Mall announcement covers the same corridor.",
+  "SIA Boulevard, West Cairo (Zawaya Developments/EDIC), still awaiting a second independent source.",
+  "Q3 2026 earnings season, Mabanee, Seef Properties, Aldar, Cenomi Centers and Lulu Retail results due late October; schedule dedicated IR checks."
+ ]
+}

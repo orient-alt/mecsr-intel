@@ -1,0 +1,219 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-17",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-17.html",
+  "MECSR_Daily_Intel_2026-08-17.html"
+ ],
+ "coverage": {
+  "label": "Friday 14 – Sunday 16 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-17-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Saudi Arabia",
+   "title": "KONE inaugurates enhanced Customer Service Center in Jeddah",
+   "summary": "KONE marked the official inauguration of its enhanced Customer Service Center in Jeddah, reinforcing its regional commitment to customer support in Saudi Arabia. The center provides round-the-clock phone support for service requests, maintenance inquiries and equipment-related assistance, staffed by locally based bilingual (Arabic/English) care professionals who handled approximately 11,000 customer interactions in 2025. KONE has set a target of answering customer calls within 20 seconds, part of a broader push to make expert elevator/escalator support more accessible to residential, commercial and landmark-development customers across the Kingdom.",
+   "article_date": "2026-08-02",
+   "sources": [
+    {
+     "label": "PR Newswire · 2 Aug 2026",
+     "url": "https://www.prnewswire.com/ae/news-releases/kone-strengthens-customer-support-to-deliver-greater-peace-of-mind-in-saudi-arabia-302839278.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Saudi Arabia",
+   "title": "Johnson Controls Arabia sustains all four customer-experience ISO certifications for a fifth year",
+   "summary": "Johnson Controls Arabia has renewed all four internationally recognized ISO certifications tied to customer experience and satisfaction, ISO 10001 (Code of Conduct), ISO 10002 (Complaint Handling), ISO 10003 (Dispute Resolution) and ISO 10004 (Customer Satisfaction Monitoring), for the fifth consecutive year. The company says it remains the first and only Saudi company to sustain all four certifications continuously across five years, reflecting institutionalised complaint-handling and satisfaction-monitoring practices rather than a one-off audit result.",
+   "article_date": "2026-07-07",
+   "sources": [
+    {
+     "label": "Zawya · 7 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/johnson-controls-arabia-achieves-leading-milestone-as-first-saudi-company-to-sustain-all-customer-experience-iso-certifications-qsud80k1"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-03",
+   "stream": "cx",
+   "type": "policy",
+   "country": "UAE",
+   "title": "Emirates introduces unlimited free flight-date changes across all fares",
+   "summary": "From 10 August 2026, customers travelling to Dubai on Emirates can change their travel dates as many times as needed, free of charge, across every fare type, from Saver through Flex in Economy, and Special, Saver and Flex in Business Class. The move is framed by the airline as a direct response to demand for greater booking flexibility and confidence amid a period of regional travel disruption, extending an existing run of customer-facing policy easing (following earlier Skywards/payment-related changes logged in prior cycles).",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "Gulf Business · 10 Aug 2026",
+     "url": "https://gulfbusiness.com/en/2026/aviation/from-free-flight-changes-to-more-miles-emirates-and-etihad-roll-out-big-benefits-for-travellers/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "UAE launches strategic government workstream of its national Agentic AI Project",
+   "summary": "More than 100 federal officials attended a workshop launching the strategic government track of the UAE's national Agentic AI Project, organised by the National Committee for the Agentic AI Project. The initiative aims to convert 50% of government operations, services and tasks into agentic-AI-driven models within two years, under the UAE Government 4.0 framework, and covers seven pillars including strategy, foresight, policy, governance and government performance. It builds on the UAE's first cohort of specialised AI agents (procurement, tax auditing, customer happiness and technical support) launched in May 2026 and the HR AI Agent already serving 50,000+ federal employees, this run's news is the formal kickoff of the follow-on strategic/government-services workstream rather than a repeat of those earlier launches.",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "ANI · 10 Aug 2026",
+     "url": "https://aninews.in/news/world/middle-east/uae-advances-integration-of-agentic-ai-across-federal-government20260810032412/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-05",
+   "stream": "ai",
+   "type": "cx",
+   "country": "Jordan",
+   "title": "Zain Jordan deepens Ericsson partnership for AI-ready customer experience infrastructure",
+   "summary": "Zain Jordan and Ericsson have entered the next phase of a long-running Business Support Systems (BSS) transformation, extending scope to the postpaid line of business. The upgrade includes cloud-native billing on Red Hat OpenShift and Ericsson's Telco DataOps Platform, which enables real-time data streaming, proactive customer-experience management and network optimisation, explicitly described by both parties as laying the groundwork for AI-driven autonomous networks and more personalised digital services at scale as Zain Jordan moves into the 5G era.",
+   "article_date": "2026-08-13",
+   "sources": [
+    {
+     "label": "Zawya (Ericsson) · 13 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/zain-jordan-selects-ericsson-to-elevate-next-generation-digital-services-platform-430514"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-06",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Reem Mall appoints TGP International to shape new food & beverage hub",
+   "summary": "Abu Dhabi-based Reem Mall has appointed hospitality consultancy TGP International to lead the strategy and concepting process for a new food & beverage hub within the mall, an experience-led addition to its tenant mix rather than a construction/expansion announcement. See mecsr-weekly-intel-report for full property/development tracking of Reem Mall and comparable GCC retail destinations.",
+   "article_date": "2026-08-11",
+   "sources": [
+    {
+     "label": "Consultancy-me.com · 11 Aug 2026",
+     "url": "https://www.consultancy-me.com/news/14003/reem-mall-appoints-tgp-international-to-lead-strategy-for-new-food-beverage-hub"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-07",
+   "stream": "dest",
+   "type": "",
+   "country": "Kuwait",
+   "title": "Lulu Hypermarket opens new store at Jaber Mall",
+   "summary": "Lulu Hypermarket has expanded its presence in Kuwait with a new store opening at Jaber Mall, continuing the group's steady footprint growth across the GCC. Light-touch item flagged for the shopper-experience angle (in-store format, tenant mix) rather than as a construction/investment story.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "Lulu Retail newsroom · 12 Aug 2026",
+     "url": "https://www.luluretail.com/media/news/lulu-expands-its-presence-in-kuwait-opens-new-store-at-jaber-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-08",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Market Knight Frank: Saudi retail spending and mall occupancy climb in H1 2026",
+   "summary": "Knight Frank's Summer 2026 Saudi Arabia retail market report found consumer spending rose 6.8% year-on-year to SAR 425 billion in Q1 2026, with e-commerce spending up 42% to SAR 98.4 billion. Mall occupancy held stable at 91% in Riyadh (average lease rates up 1.2% YoY to SAR 2,650/sqm), improved to 88% in Jeddah, and reached 94% in Dammam. Riyadh's \"super-regional\" lifestyle retail stock stands at roughly 485,000 sqm across 28 schemes at 96% occupancy; Jeddah's lifestyle retail stock is around 291,000 sqm across 19 schemes, with a further 277,600 sqm due by 2029. This is a distinct Knight Frank release from the Riyadh GLA-growth forecast already reported on 3 August 2026, the two cover different data sets (occupancy/spending vs. pipeline GLA).",
+   "article_date": "2026-08-05",
+   "sources": [
+    {
+     "label": "Construction Business News ME · 5 Aug 2026",
+     "url": "https://www.cbnme.com/news/saudi-retail-and-fb-sector-maintains-strong-growth-in-h1-2026-according-to-knight-frank/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "Saudi Arabia",
+   "title": "Status Update The Avenues – Khobar tracking ahead of schedule, targeting Q1 2027",
+   "summary": "Mabanee's SAR 7.3 billion ($1.95bn) mixed-use development in Khobar's Eastern Province (167,000 sqm GLA on a 197,670 sqm plot) is running slightly ahead of its construction programme, 5.25% physical completion against a planned 4.92%, with roughly 50% of blinding works and 37% of raft works complete. The project is targeted to open in Q1 2027. This update had not previously appeared in this report series by name.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "Gulf Construction Online (Bina Goveas) · 17 Aug 2026",
+     "url": "https://www.gulfconstructiononline.com/Article/388014/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-10",
+   "stream": "dest",
+   "type": "status",
+   "country": "Morocco",
+   "title": "Status Update Morocco Mall Marrakech opening pushed back again: now spring 2027",
+   "summary": "Aksal Group, led by Salwa (Saloua) Idrissi Akhannouch, has postponed the opening of its Marrakech shopping complex, a 130,000+ sqm scheme on the Ourika road, over 1 billion dirhams in investment, from the previously targeted summer 2026 to spring 2027. The delay is described as a deliberate decision rather than a technical one: construction (shell and core, landscaping, finishing touches) is largely complete, but the developer wants to avoid opening with high vacancy amid softer Moroccan consumer spending, tied in part to regional conflict effects on purchasing power and the recent closure/departure of several apparel brands in Morocco (Jennyfer, Terranova, Tape-à-l'œil). This resolves a \"summer 2026, unconfirmed\" watch-list item first flagged in the 10 and 12 August reports.",
+   "article_date": "2026-04-22",
+   "sources": [
+    {
+     "label": "Challenge.ma (Rachid Boutaleb) · 22 Apr 2026",
+     "url": "https://www.challenge.ma/morocco-mall-marrakech-une-inauguration-repoussee-a-2027-319369/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-11",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "title": "Member News Financial Lulu Retail profit falls as shoppers cut non-food spending",
+   "summary": "Member Lulu Retail Holdings filed Q2 2026 results with the Abu Dhabi Securities Exchange on 13 August, covered by regional media the next day. Revenue fell 2.3% year-on-year to $2.0 billion as consumer spending weakened, particularly in non-food and electronics categories. Saudi Arabia revenue dropped 11% to $338 million; UAE revenue was nearly flat at $756 million. Net profit fell more than a quarter in the quarter (six-month bottom line down 30%). E-commerce revenue grew 53% year-on-year. Despite a 20% decline in cash, the board approved an $84 million H1 dividend. CEO Saifee Rupawala said the company \"returned to modest growth in July.\" This result arrives roughly a week earlier than the \"H1 results due 19 August\" date carried on this report's watch list since 11 August, the earlier date should be treated as superseded.",
+   "article_date": "2026-08-14",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 14 Aug 2026",
+     "url": "https://www.agbi.com/retail/2026/08/lulu-profit-falls-as-shoppers-cut-non-food-spending/"
+    },
+    {
+     "label": "LuLu Retail IR · 13 Aug 2026",
+     "url": "https://www.luluretail.com/investors/results-reports/financial-results/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-17-12",
+   "stream": "member",
+   "type": "deal",
+   "country": "Egypt",
+   "title": "Member News Deal Magrabi Retail to acquire 51% of Egypt's Baraka Optics Group",
+   "summary": "Member Magrabi Retail Group signed an agreement to acquire a 51% majority stake in Baraka Optics Group , an established Egyptian optical retailer, pending clearance from the Egyptian Competition Authority. This is Magrabi's third acquisition in as many years, following its purchase of the Rivoli Vision division (2024) and Kefan Optics (2025), continuing a pattern of consolidation in the regional eyewear/optical retail sector. The item had not previously appeared in this report series; it falls just outside the standard 90-day background window (117 days would apply to the Morocco item above, this Magrabi item is 91 days) but is included here as newly surfaced background given the lack of any more recent Magrabi corporate news.",
+   "article_date": "2026-05-18",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 18 May 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/magrabi-retail-signs-agreement-to-acquire-a-majority-stake-of-leading-egyptian-retailer-baraka-optics-group-340189"
+    },
+    {
+     "label": "EnterpriseAM Egypt · 18 May 2026",
+     "url": "https://enterpriseam.com/egypt/2026/05/18/magrabi-retail-acquires-51-stake-in-egyptian-retailer-baraka-optics-group/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Saudi Arabia's E3 Customer Experience Conference (Riyadh, 29–30 Sep 2026), 5th edition, Vision 2030-aligned CX/AI programming.",
+  "MENA Stevie Awards gala (Istanbul, 11 Sep 2026), customer-service category results for Qatar/Jordan entrants (DHL Express Doha and Amman shortlisted).",
+  "Rollout progress of the UAE's strategic agentic-AI government workstream against its two-year, 50%-of-operations target.",
+  "Reem Mall's F&B hub concept as it moves from strategy to tenant announcements.",
+  "Zain Jordan–Ericsson BSS/DataOps project milestones as the postpaid rollout progresses.",
+  "Continued Saudi CX-certification/service-centre investment pattern (KONE, Johnson Controls), watch for similar moves from other multinationals operating in the Kingdom.",
+  "The Avenues – Khobar (Mabanee): monitor construction progress against the Q1 2027 target.",
+  "Morocco Mall Marrakech (Aksal Group): confirmed retarget to spring 2027, monitor for a firmer date as pre-leasing progresses.",
+  "Magrabi Retail Group / Baraka Optics Group: monitor for Egyptian Competition Authority clearance and deal completion.",
+  "Al Othaim Markets (Tadawul 4001, member group): H1 2026 results expected on/around 12 August per earnings calendar, still unconfirmed as of this run; confirm release and figures next run.",
+  "Cenomi Centers capital increase: monitor for EGM date and bonus-share record date (due within 6 months of the 12 Aug 2026 CMA approval).",
+  "Westfield Riyadh (Cenomi Centers, member): September 2026 opening target."
+ ]
+}

@@ -1,0 +1,441 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-06-22",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Weekly_Intel_2026-06-22.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-06-22-01",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Bahrain",
+   "title": "Seef Mall – Seef District Redevelopment",
+   "summary": "Seef Properties signed a main construction agreement with Mohammed Jalal Contracting in mid-June 2026 to begin the full redevelopment of Seef Mall in Bahrain's Seef District. The project aims to deliver a modernised mall with upgraded shopping, entertainment and hospitality facilities. A parallel mixed-use project in Dammam (Saudi Arabia), developed in JV with Majd Investment Company, has entered the design phase with construction start targeted for Q4 2026.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-mohammed-jalal-contracting-to-execute-main-construction-works-qmr0qro3"
+    },
+    {
+     "label": "News of Bahrain · Jun 2026",
+     "url": "https://www.newsofbahrain.com/business/135371.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-02",
+   "stream": "dest",
+   "type": "status",
+   "country": "Qatar",
+   "title": "Villaggio Mall: First carpo Store in Qatar",
+   "summary": "Americana Restaurants and carpo opened the first carpo store in Qatar on 11 June 2026, located at Vio Dome, the luxury zone near Gate 6 of Villaggio Mall in Doha. The outlet offers carpo's signature range of nuts, coffee, chocolates and curated gift sets.",
+   "article_date": "2026-06-11",
+   "sources": [
+    {
+     "label": "Zawya · 11 Jun 2026",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/americana-restaurants-opens-first-carpo-store-in-qatar-gpric8me"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-03",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "title": "Dubai Hills Mall: Crate&Barrel + CB2 Side-by-Side Launch",
+   "summary": "Crate&Barrel and CB2 have launched the first combined side-by-side retail experience in the region at Dubai Hills Mall, offering both brands under one roof in a joint format unique to the Middle East market.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/crate-and-barrel-and-cb2-bring-a-new-side-by-side-retail-experience-to-dubai-hills-mall-fyw1j829"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-04",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "NAS Gardens Community Mall: Opening August 2026",
+   "summary": "The NAS Gardens Community Mall (branded Nad Al Sheba Gardens Mall by Shamal) is set to open in August 2026 inside Meraas' Nad Al Sheba Gardens gated villa community, approximately 10 minutes from Downtown Dubai. The two-storey mall is open to non-residents and will be anchored by a Waitrose supermarket, Kokoro Handroll Bar, and Bake My Day. Other amenities include cafés, restaurants, health and fitness spaces, and a nursery.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Arabian Business · Jun 2026",
+     "url": "https://www.arabianbusiness.com/business/retail/new-mall-set-to-open-in-dubai-in-august-2026"
+    },
+    {
+     "label": "Time Out Dubai · Jun 2026",
+     "url": "https://www.timeoutdubai.com/news/nas-gardens-community-mall"
+    },
+    {
+     "label": "Shamal IR · 2026",
+     "url": "https://www.shamal.com/media/shamal-announces-nad-al-sheba-gardens-mall-bringing-a-new-retail-and-lifestyle-experience-to-the-community"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-05",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "Mall of the Emirates: AED 5 Billion Transformation",
+   "summary": "Majid Al Futtaim announced a landmark AED 5 billion investment to transform Mall of the Emirates, marking its 20th anniversary. Phase 2 of the expansion is now underway. Key additions include: 100 new stores (luxury, fashion, lifestyle), the world's most advanced IMAX at VOX Cinemas (opening late 2026), a New Covent Garden 600-seat theatre, the SEVEN Wellness Club, a luxury dining precinct, and Parkin barrierless parking with new bridge access upgrades in collaboration with RTA (expected September 2026). In recent months, new global brands including Skims, Ulta Beauty, Primark, PacSun, Gymshark, and H&M (refurbished) have already opened.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/mall-of-the-emirates-unveils-a-new-wave-of-luxury-lifestyle-and-wellness-concepts-p0z932ft"
+    },
+    {
+     "label": "Gulf Business · May 2026",
+     "url": "https://gulfbusiness.com/mall-of-the-emirates-revamp-majid-al-futtaim/"
+    },
+    {
+     "label": "Gulf News · 2026",
+     "url": "https://gulfnews.com/business/retail/dubais-moe-expansion-kim-kardashians-skims-primark-ulta-beauty-opening-dates-revealed-1.500283532"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-06",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "Dubai Square: World's First Drive-Through Mall (Creek Harbour)",
+   "summary": "Emaar Properties and Dubai Holding have unveiled Dubai Square at Dubai Creek Harbour, a 2.6-million sqm retail, hospitality, and commercial district designed as the world's first drive-through mall. The project is a centrepiece of the $49 billion Dubai Creek Harbour megaproject, with integrated EV facilities, tech-driven retail concepts, and a 3-year construction timeline.",
+   "sources": [
+    {
+     "label": "Arabian Business · 2026",
+     "url": "https://www.arabianbusiness.com/industries/retail/emaar-unveils-dubai-square-the-worlds-first-drive-through-mall"
+    },
+    {
+     "label": "Dubai Holding IR · 2026",
+     "url": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-emaar-champion-new-era-retail-dubai-square-tech-driven-retail-destination-dubai-creek-harbour"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-07",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Westfield Jeddah: Opening Imminent (Q2 2026)",
+   "summary": "Cenomi Centers' Westfield Jeddah is 99% structurally complete as of December 2025 and is targeting a Q2 2026 (May–June) opening. The mall spans 104,000 sqm GLA with 95% pre-leasing, a 22,000 sqm skylight, 27m floor-to-ceiling heights, a 20,000 sqm luxury precinct, and LEED Gold certification, the first in Jeddah. It is expected to contribute SAR 650M+ to Cenomi's EBITDA.",
+   "article_date": "2025-12",
+   "sources": [
+    {
+     "label": "Zawya · Dec 2025 / verified Jun 2026",
+     "url": "https://www.zawya.com/en/projects/construction/cenomi-centers-says-westfield-malls-in-jeddah-and-riyadh-almost-complete-xrz1ff57"
+    },
+    {
+     "label": "The Saudi Times · 2026",
+     "url": "https://thesauditimes.net/en/cenomi-centers-eyes-sar-800-million-ebitda-as-westfield-jeddah-riyadh-set-for-2026-openings/"
+    },
+    {
+     "label": "Cenomi Instagram · 2026",
+     "url": "https://www.instagram.com/p/DOFwC59iN7s/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-08",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Westfield Riyadh: Opening September 2026",
+   "summary": "Westfield Riyadh (formerly Cenomi's flagship Riyadh project) is 98% structurally complete with a September 2026 target opening. At 220,000 sqm GLA it will be one of the largest malls in the Kingdom. Together, the two Westfield properties are expected to deliver a combined EBITDA impact exceeding SAR 800M once fully stabilised.",
+   "sources": [
+    {
+     "label": "Retail Management Middle East · 2026",
+     "url": "https://www.retailmanagementmiddleeast.com/news/cenomi-nears-completion-of-westfield-malls-in-saudi-arabia"
+    },
+    {
+     "label": "Eye of Riyadh · 2026",
+     "url": "https://www.eyeofriyadh.com/news/details/cenomi-centers-westfield-branches-in-jeddah-riyadh-to-raise-2026-ebitda-by-sar-650m"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "Saudi Arabia",
+   "title": "Westfield Dammam: New Brand Launch",
+   "summary": "Cenomi Centers rebranded Nakheel Dammam Mall as Westfield Dammam, making it the first Westfield-branded destination to open in Saudi Arabia. The rebrand marks the launch of Cenomi's Westfield licensing agreement in the Kingdom.",
+   "sources": [
+    {
+     "label": "Saudi Gazette · 2026",
+     "url": "https://saudigazette.com.sa/article/657091/BUSINESS/Westfield-Dammam-unveiled-as-Cenomi-Centers-launches-first-Westfield-branded-destination-in-Saudi-Arabia"
+    },
+    {
+     "label": "Zawya · 2026",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/westfield-dammam-unveiled-as-cenomi-centers-launches-first-westfield-branded-destination-in-saudi-arabia-qpigb7fk"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-10",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kuwait",
+   "title": "Aventura Mall: Opening H2 2026 (96% Complete)",
+   "summary": "Mabanee Company's Aventura Mall in Jaber Al-Ahmad City has reached 96% construction completion and is on track to open in H2 2026. The project occupies 104,000 sqm land with 299,000 sqm built-up area and 108,000 sqm GLA, containing 377 retail units plus an ice-skating rink and cinema. A major deal with Alshaya Group was signed in May 2026 to open 20+ stores spanning 10,000 sqm, including H&M, Primark (opening Q1 2027), Ulta Beauty (Q4 2026), Starbucks, Shake Shack, Chipotle, Victoria's Secret, Bath & Body Works, American Eagle, Foot Locker, and Raising Cane's.",
+   "article_date": "2026-05",
+   "sources": [
+    {
+     "label": "Zawya · May 2026",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    },
+    {
+     "label": "Zawya · 13 May 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alshaya-group-signs-agreement-with-mabanee-to-open-h-and-m-primark-ulta-beauty-and-over-20-more-stores-at-aventura-mall-abxq0khf"
+    },
+    {
+     "label": "Kuwait Times · May 2026",
+     "url": "https://kuwaittimes.com/article/43654/business/alshaya-group-signs-agreement-with-mabanee-to-open-more-than-20-stores-at-aventura-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-11",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kuwait",
+   "title": "Souq Sabah + Hampton Hotel: Sabah Al-Ahmad City",
+   "summary": "Mabanee's mixed-use Souq Sabah project in Sabah Al-Ahmad City has reached 37% construction completion. The development combines a traditional souk, a regional mall, and a 110-key Hampton by Hilton hotel. Opening is targeted for H2 2027.",
+   "article_date": "2026-05",
+   "sources": [
+    {
+     "label": "Zawya · May 2026",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-12",
+   "stream": "dest",
+   "type": "new",
+   "country": "Türkiye",
+   "title": "7 New Shopping Malls Confirmed for 2026",
+   "summary": "Turkey's Council of Shopping Centers has confirmed seven new shopping malls are set to open by year-end 2026, of which five (totalling approximately 212,000 sqm) are scheduled for 2026 and two were planned for 2025. Turkey currently has over 120 operational shopping malls with Istanbul representing the largest concentration.",
+   "sources": [
+    {
+     "label": "Hürriyet Daily News · 2026",
+     "url": "https://www.hurriyetdailynews.com/seven-new-shopping-malls-to-open-by-end-of-2026-212041"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-13",
+   "stream": "dest",
+   "type": "new",
+   "country": "Nigeria",
+   "title": "Ojaja Mall: Lagos (Ogombo-Ajah Axis)",
+   "summary": "Ojaja Mall has opened on the Ogombo-Ajah axis in Lagos, owned by Oba Adeyeye Enitan Ogunwusi (the Ooni of Ife). The ~18,000 sqm mixed-use complex integrates shops, a hotel, leisure facilities, and a small technology hub. The development reflects the sector trend toward diversified revenue streams amid Nigeria's 15.38% inflation environment (March 2026).",
+   "sources": [
+    {
+     "label": "BusinessDay Nigeria · 2026",
+     "url": "https://businessday.ng/bd-weekender/article/beyond-commerce-ojaja-mall-emerges-as-lagos-newest-hub-for-culture-ai-and-community/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-14",
+   "stream": "dest",
+   "type": "new",
+   "country": "MENA",
+   "title": "$3.1bn Egypt Urban Development: Mada City Partnership ≤7 days",
+   "summary": "On 21 June 2026, Majid Al Futtaim and Egyptian developer Midar signed a strategic partnership to develop a mixed-use community in New Cairo's Mada City. The first phase (840,000 sqm) spans four years and will deliver approximately 6,000 homes, a business district, retail, hospitality, and hotel units. Total partnership value: $3.1 billion.",
+   "article_date": "2026-06-21",
+   "sources": [
+    {
+     "label": "The National · 21 Jun 2026",
+     "url": "https://www.thenationalnews.com/business/2026/06/21/uaes-majid-al-futtaim-signs-31bn-urban-development-project-in-egypt/"
+    },
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-officially-breaks-ground-on-junction-with-egp-500mln-in-enabling-works-mixadui5"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-15",
+   "stream": "dest",
+   "type": "new",
+   "country": "MENA",
+   "title": "AED 2bn Ghaf Woods Contract Awarded to ECC ≤7 days",
+   "summary": "Majid Al Futtaim awarded a AED 2 billion main construction contract to Engineering Contracting Company (ECC) for Capria East and Capria West, including Maravelle Residences, at Ghaf Woods, Dubai's first forest living community. This marks a major construction milestone for the project.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-awards-aed-2bln-contract-marking-major-delivery-milestone-for-ghaf-woods-pshwyl5w"
+    },
+    {
+     "label": "MEP Middle East · Jun 2026",
+     "url": "https://www.mepmiddleeast.com/news/majid-al-futtaim-awards-545m-ghaf-woods-construction-contract"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-16",
+   "stream": "dest",
+   "type": "",
+   "country": "MENA",
+   "title": "Tilal Al Ghaf: Construction On Schedule Despite Regional Tensions Recent",
+   "summary": "Majid Al Futtaim publicly confirmed on 12–16 June 2026 that construction at Tilal Al Ghaf continues to progress in line with the established schedule, refuting media reports of delays linked to regional conflict and supply chain pressures.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Construction Week Online · Jun 2026",
+     "url": "https://www.constructionweekonline.com/news/majid-al-futtaim-4"
+    },
+    {
+     "label": "Gulf News · 12 Jun 2026",
+     "url": "https://gulfnews.com/business/property/uaes-majid-al-futtaim-denies-war-related-delays-at-tilal-al-ghaf-homes-1.500572160"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-17",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Al Khobar Mall Development Agreement: Cenomi + Saudi Downtown Co. (PIF) Recent",
+   "summary": "Cenomi Centers signed a development agreement with Saudi Downtown Company (a Public Investment Fund subsidiary) on 1 April 2026 to develop a flagship shopping mall in Al Khobar. The mall will be Cenomi's largest in the Eastern Province. A subsequent lease agreement was also signed on the same date. Note: Cenomi later filed a clarification on the contract details with Tadawul (9 April 2026). A separate termination of an earlier Al Khobar development plan was disclosed in January 2026.",
+   "article_date": "2026-04-01",
+   "sources": [
+    {
+     "label": "Sahm Capital · 1 Apr 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-centers-signs-al-khobar-mall-development-contract-2026-04-01"
+    },
+    {
+     "label": "Sahm Capital · 9 Apr 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-centers-clarifies-saudi-downtown-company-contract-details-2026-04-09"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-18",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Cenomi Plus Loyalty Platform: 1.5M Downloads Recent",
+   "summary": "Cenomi Centers officially launched Cenomi Plus on 11 May 2026, a next-generation digital loyalty platform that has surpassed 1.5 million downloads since its June 2025 debut, ranking #1 in the lifestyle category on both App Store and Google Play in the region.",
+   "article_date": "2026-05-11",
+   "sources": [
+    {
+     "label": "Cenomi Centers IR · 11 May 2026",
+     "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2026/05/Cenomi-Plus-English.pdf"
+    },
+    {
+     "label": "Zawya via TradingView · 11 May 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-05-11:newsml_Zaw9ZCkbZ:0-zawya-cenomi-centers-launches-cenomi-plus-a-new-loyalty-platform-redefining-the-mall-experience/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-19",
+   "stream": "dest",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "AGM Called for 30 June 2026; Q1 Profit Decline Recent",
+   "summary": "Cenomi Centers called its Ordinary General Assembly for 30 June 2026 (virtual, 8:30pm). Q1 2026 financial results showed a decline in net profit and revenue, though management stated that the regional conflict backdrop has had a \"negligible direct impact\" on operations.",
+   "article_date": "2026-06-02",
+   "sources": [
+    {
+     "label": "Sahm Capital · 2 Jun 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-centers-calls-ordinary-general-assembly-meeting-2026-06-02"
+    },
+    {
+     "label": "MEXC / Cenomi Q1 Results · 2026",
+     "url": "https://www.mexc.com/news/1068803"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-20",
+   "stream": "dest",
+   "type": "deal",
+   "country": "Kuwait",
+   "title": "Alshaya Group: 20+ Store Deal at Aventura Mall Recent",
+   "summary": "Mabanee signed a major lease agreement with Alshaya Group in May 2026 to open more than 20 stores totalling over 10,000 sqm at Aventura Mall. Brands include H&M, Primark, Ulta Beauty, Starbucks, Raising Cane's, Shake Shack, Chipotle, Victoria's Secret, Bath & Body Works, American Eagle, and Foot Locker, with Ulta Beauty opening Q4 2026 and Primark Q1 2027.",
+   "article_date": "2026-05-13",
+   "sources": [
+    {
+     "label": "Zawya · 13 May 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alshaya-group-signs-agreement-with-mabanee-to-open-h-and-m-primark-ulta-beauty-and-over-20-more-stores-at-aventura-mall-abxq0khf"
+    },
+    {
+     "label": "Kuwait Times · May 2026",
+     "url": "https://kuwaittimes.com/article/43654/business/alshaya-group-signs-agreement-with-mabanee-to-open-more-than-20-stores-at-aventura-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-21",
+   "stream": "dest",
+   "type": "financial",
+   "country": "Bahrain",
+   "title": "Q1 2026 Results: Net Profit BD 0.97M; Seef Mall Redevelopment Contract Signed Recent",
+   "summary": "Seef Properties reported net profit of BD 0.97 million for Q1 2026 (period ending 31 March 2026), with operating profit of BD 2.13 million, a 10.1% decrease year-on-year. The company simultaneously advanced its flagship Seef Mall – Seef District redevelopment by signing the main construction contract with Mohammed Jalal Contracting in mid-June 2026, signalling active project delivery. A parallel Dammam mixed-use project (JV with Majd Investment) entered the design phase in Q2 2026.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Seef Properties IR · Q1 2026",
+     "url": "https://seef.com.bh/seef-properties-reports-net-profit-attributable-to-shareholders-of-the-parent-of-bd0-97-million-for-the-period-ended-31-march-2026/"
+    },
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-mohammed-jalal-contracting-to-execute-main-construction-works-qmr0qro3"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-22",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Global",
+   "title": "Store Rationalisation + US Flagship + New CEO Strategy Recent",
+   "summary": "Under third-generation CEO Michael Chalhoub (who assumed the role 1 January 2026), the group achieved 8% growth in year one despite global luxury market contraction. Strategic repositioning includes: closing ~35 regional stores by year-end 2026, launching new retail concepts in their place, and planning a Level Shoes US flagship (3,600 sqm) in Bal Harbour, Miami for 2027. The group is pivoting from regional distributor to \"international luxury brand builder.\"",
+   "sources": [
+    {
+     "label": "WWD · 2026",
+     "url": "https://wwd.com/business-news/markets/chalhoub-group-rewriting-the-playbook-1238385687/"
+    },
+    {
+     "label": "Business of Fashion · 2026",
+     "url": "https://www.businessoffashion.com/organisations/chalhoub-group/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-22-23",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Share Price +10% on Foreign Investment Ruling for Makkah/Madinah Recent",
+   "summary": "Following a landmark Saudi Capital Market Authority decision to allow foreign investors to hold shares in listed companies owning real estate in Makkah and Madinah (capped at 49% non-Saudi ownership), Jabal Omar Development Company's share price rose 10% to SAR 25.85. Knowledge Economic City also surged 9.89% to SAR 16.66 on the same announcement. The ruling is intended to boost capital market competitiveness under Vision 2030.",
+   "sources": [
+    {
+     "label": "Arab News · 2026",
+     "url": "https://www.arabnews.com/node/2587967/business-economy"
+    },
+    {
+     "label": "GulfBase · 2026",
+     "url": "https://gulfbase.com/news-announcements-jabal-omar-development-co-jabalomar-622-4-39-2026"
+    }
+   ]
+  }
+ ],
+ "watch": []
+}

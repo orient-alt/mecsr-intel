@@ -1,0 +1,241 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-09",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-09.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 8 July 2026 (plus items since last run, 7 July)"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-09-01",
+   "stream": "dest",
+   "type": "",
+   "country": "Qatar",
+   "title": "Doha Mall reports surging footfall, 30 new brands; launches \"Hala Summer\" with Visit Qatar 2 Jul 2026",
+   "summary": "Doha Mall (Al Mirqab Malls Company) reported footfall up 73% during Eid Al-Fitr and 97% during Eid Al-Adha versus prior periods, with 30 new brands opened in recent months (Vodafone, Stradale Motors, Solitaire, Mlameh, first Qatar location) and 100+ stores now trading. A three-month \"Hala Summer\" campaign with Visit Qatar runs July–September 2026. Qatar's largest Homes R Us store is among upcoming openings. GM Hakan Altin quoted.",
+   "article_date": "2026-07-02",
+   "sources": [
+    {
+     "label": "Qatar Living · 2 Jul 2026",
+     "url": "https://www.qatarliving.com/en/article/doha-mall-strengthens-position-as-south-doha-s-emerging-retail-and-family-destination"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-02",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Foreign real-estate ownership zones open: Qiddiya, New Murabba, Jabal Omar included 24–30 Jun 2026",
+   "summary": "The Saudi Cabinet approved geographic zones where non-Saudis may own property, including MECSR member destinations Qiddiya and New Murabba (Riyadh) and Jabal Omar (Makkah; Muslims only for the holy cities). The Saudi Properties platform is accepting applications. Listed property stocks rallied on the news (MASAR +10% limit-up, 24 Jun). Long-term demand implication for retail components of these giga-projects.",
+   "article_date": "2026-06-24",
+   "sources": [
+    {
+     "label": "Arab News · c. 24 Jun 2026",
+     "url": "https://www.arabnews.com/node/2648393/business-economy"
+    },
+    {
+     "label": "Sahm Capital · 24 Jun 2026",
+     "url": "https://www.sahmcapital.com/news/content/10-limit-up-masar-4325-leads-saudi-property-rally-as-cabinet-approves-non-saudi-ownership-zones-2026-06-24"
+    },
+    {
+     "label": "EnterpriseAM · 30 Jun 2026",
+     "url": "https://enterpriseam.com/ksa/2026/06/30/mapping-the-real-estate-foreign-ownership-zones/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Bahrain",
+   "title": "Primark confirms Qatar and Bahrain debuts by end-2026 date unverified",
+   "summary": "Primark's GCC rollout continues: first Qatar store at Doha Festival City and first Bahrain store at City Centre Bahrain, both due by end-2026, following its regional debut at The Avenues Kuwait (Oct 2025). Anchor-signing relevance for both member malls.",
+   "sources": [
+    {
+     "label": "Gulf Business · 2026 (date unverified)",
+     "url": "https://gulfbusiness.com/primark-qatar-bahrain-stores/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-04",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Dubai pipeline: Sobha Mall and Liwan Mall both slated for H2 2026 date unverified",
+   "summary": "Among seven UAE malls tracked for 2026 openings: Sobha Mall (AED 210m, Sobha Hartland, 339,000 sq ft built-up, 115,000 sq ft GLA, ~35 outlets) and Liwan Mall (Wadi Al Safa 2) are both due in H2 2026. Candidates for directory addition on opening confirmation.",
+   "sources": [
+    {
+     "label": "Gulf News · 2026 (date unverified)",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-05",
+   "stream": "dest",
+   "type": "",
+   "country": "Türkiye",
+   "title": "Five new AVMs (~212,000 sqm) to open by end-2026 date unverified",
+   "summary": "New shopping centres are scheduled in Istanbul, Ankara, Muğla, Elazığ and Düzce, totalling roughly 212,000 sqm, continuing the shift of AVM investment toward Anatolian cities. Türkiye's malls generated ~$55bn revenue in 2024. Retail confidence index at 115.9; JPMorgan expects sector earnings recovery in 2026.",
+   "sources": [
+    {
+     "label": "Hürriyet Daily News · 2026 (date unverified)",
+     "url": "https://www.hurriyetdailynews.com/seven-new-shopping-malls-to-open-by-end-of-2026-212041"
+    },
+    {
+     "label": "Türkiye Today · 2026 (date unverified)",
+     "url": "https://www.turkiyetoday.com/business/jpmorgan-sees-44-growth-for-turkish-economy-in-2026-expects-retail-sector-to-recover-3211127"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-06",
+   "stream": "dest",
+   "type": "",
+   "country": "Oman",
+   "title": "Oman Avenues Mall adds new Centrepoint anchor date unverified",
+   "summary": "Oman Avenues Mall (Muscat) expanded its retail mix with an all-new Centrepoint store (Landmark Group brand, also a MECSR member connection). Anchor refresh strengthens the mall's fashion and home offering.",
+   "sources": [
+    {
+     "label": "Zawya (press release) · 2026 (date unverified)",
+     "url": "https://www.zawya.com/en/press-release/companies-news/oman-avenues-mall-expands-its-retail-landscape-with-the-all-new-centrepoint-store-hcn74wm4"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-07",
+   "stream": "dest",
+   "type": "",
+   "country": "Iraq",
+   "title": "Context items >90 days",
+   "summary": "Aldar–Mubadala AED 10bn retail JV (Yas Mall + The Galleria) completed Feb 2026, backdrop to Abu Dhabi retail consolidation ( Mubadala · Feb 2026 ). Iraq Mall, Baghdad (550,000 sqm, Iraq's largest) opened Feb 2026; Zara, Nike, Spinneys now trading ( Iraqi News · 2026 ). Mall of the Emirates AED 5bn transformation announced 16 Apr 2025; four entertainment offerings and new IMAX due late 2026 ( MAF · 16 Apr 2025 ).",
+   "article_date": "2026-02",
+   "sources": [
+    {
+     "label": "Mubadala · Feb 2026",
+     "url": "https://www.mubadala.com/en/news/aldar-and-mubadala-complete-joint-venture-to-establish-aed-10-billion-retail-champion-in-abu-dhabi"
+    },
+    {
+     "label": "Iraqi News · 2026",
+     "url": "https://www.iraqinews.com/iraq/baghdads-largest-mall-welcomes-zara-nike-and-spinneys/"
+    },
+    {
+     "label": "MAF · 16 Apr 2025",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2025/04/majid-al-futtaim-announces-aed-5-billion-transformation-of-mall-of-the-emirates-to-redefine-retail-and-lifestyle-experiences"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-08",
+   "stream": "member",
+   "type": "deal",
+   "country": "Bahrain",
+   "title": "MEMBER NEWS Seef Properties: update on GFH voluntary offer discussions ~7–8 Jul 2026 Deal / JV",
+   "summary": "A new disclosure, \"Update on Discussions Regarding a Voluntary Offer for a Number of the Issued Shares of Seef Properties B.S.C.\", was posted to the DFM disclosure feed on or about 7 July 2026 (feed shows \"2 days ago\"; exact timestamp not machine-readable, date approximate). Background: GFH Financial Group (~30% shareholder) proposed a voluntary takeover of a portion of Seef shares in May 2026, subject to regulatory, board and shareholder approvals. Seef shares closed at BHD 0.126 on 8 July, up from 0.120, consistent with renewed offer momentum. Seef Properties is a Priority 1 member; also monitor alongside its Seef Mall revamp plan.",
+   "article_date": "2026-07-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "DFM disclosure · c. 7 Jul 2026 (date approximate)",
+     "url": "https://www.dfm.ae/the-exchange/news-disclosures/disclosures/2e6008e3-6c60-4f85-ad7e-2aefa801f4f7"
+    },
+    {
+     "label": "Zawya via TradingView · 13 May 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-05-13:newsml_Zaw4VHXsL:0-zawya-kuwait-listed-gfh-bank-offers-to-increase-stake-in-seef-properties/"
+    },
+    {
+     "label": "Investing.com · 8 Jul 2026",
+     "url": "https://www.investing.com/equities/seef-properties"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-09",
+   "stream": "member",
+   "type": "",
+   "country": "Bahrain",
+   "title": "MEMBER NEWS City Centre Bahrain (Majid Al Futtaim) launches summer raffle campaign from 8 Jul 2026 Campaign",
+   "summary": "City Centre Bahrain's summer promotion runs 8 July – 31 August 2026: shoppers spending BD 30+ enter a grand raffle including a Toyota Prado, with a \"Summer Surprises Activation\" at the Central Galleria from 8 July – 8 August. Campaign start date falls inside the coverage window; the mall is also Primark's confirmed Bahrain entry point by end-2026.",
+   "article_date": "2026-07-08",
+   "member": true,
+   "sources": [
+    {
+     "label": "City Centre Bahrain (official) · campaign live 8 Jul 2026",
+     "url": "https://www.citycentremalls.com/en-bh/city-centre-bahrain"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-10",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Cenomi Retail EGA concludes; Cenomi Centers combination talks suspended 1 Jul 2026 Financial",
+   "summary": "AFG International Co. (Cenomi Retail) announced results of its Extraordinary General Assembly held 30 June 2026 (64.09% quorum). Separately, Saudi Exchange filings show discussions on a potential Cenomi Centers–Cenomi Retail combination have been suspended until further notice . Cenomi Centers (Priority 1 member) otherwise continues its Westfield partnership rollout (up to 20 years, 50+ exclusive concepts) and has an international sukuk maturing 7 Oct 2026 slated for full redemption.",
+   "article_date": "2026-07-01",
+   "member": true,
+   "sources": [
+    {
+     "label": "Sahm Capital · 1 Jul 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-retail-holds-extraordinary-assembly-with-6409-attendance-2026-07-01"
+    },
+    {
+     "label": "Saudi Exchange filing · 2026",
+     "url": "https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/issuer-announcements-details/?anCat=66&anId=77426&cs=4321&locale=en"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-11",
+   "stream": "member",
+   "type": "new",
+   "country": "Qatar",
+   "title": "MEMBER NEWS Lulu Group: QR500m Qatar push: three new hypermarkets; 50 GCC stores by 2028 late Jun 2026 New Project",
+   "summary": "Lulu Group International (member: Lulu International Holdings) will invest QR500m (~$137m) in three Qatar hypermarkets at Baraha Town, Al Waab and Qetaifan Island, opening within 8–10 months. Baraha Town (Q1 2027) is billed as Qatar's largest fully air-conditioned retail/residential/office destination. Group-wide, Lulu Retail plans 50 new stores across UAE, Saudi Arabia, Kuwait and Bahrain in 2026–28; its Happiness loyalty programme passed 1 million members.",
+   "article_date": "2026-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Qatar Tribune · late Jun 2026",
+     "url": "https://www.qatar-tribune.com/article/241047/business/yusuffali-announces-lulu-retail-expansion-plan-marks-one-million-loyalty-members"
+    },
+    {
+     "label": "Gulf Times · late Jun 2026",
+     "url": "https://www.gulf-times.com/article/728082/business/lulu-groups-qr500mn-qatar-investment-underway-says-yusufali"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-09-12",
+   "stream": "member",
+   "type": "",
+   "country": "UAE",
+   "title": "MEMBER NEWS Line Investments & Property wraps Summer Super Sale across 12 malls 2 Jul 2026 Campaign",
+   "summary": "Priority 1 member Line Investments & Property (Lulu Group's mall arm) reported a successful Summer Super Sale, 4–28 June 2026, across its 12 malls in Abu Dhabi, Al Ain and Al Dhafra, a portfolio-scale footfall driver heading into DSS season.",
+   "article_date": "2026-07-02",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya via TradingView · 2 Jul 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-07-02:newsml_Zaw8pbf7q:0-zawya-line-investments-property-celebrates-summer-super-sale-success/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Seef Properties / GFH: full text and terms of the ~7 Jul disclosure; regulatory approvals timeline.",
+  "Emaar \"AED 200bn mega city\" masterplan (reported Jun 2026), needs primary-source confirmation; only secondary/blog sourcing found this run.",
+  "Mall of Saudi (MAF): \"completion early 2026\" claim vs. current status, seek Q2/Q3 2026 update.",
+  "Primark: firm opening dates at Doha Festival City and City Centre Bahrain.",
+  "Homes R Us at Doha Mall, Qatar's largest, opening date TBC.",
+  "Mabanee (Kuwait/Bahrain) and Tamdeen, quiet this run; check Boursa Kuwait filings next run.",
+  "Avenues Riyadh ($6bn, Al Shaya), opening window \"within two years\"; monitor construction milestones.",
+  "Cenomi Centers Oct 2026 international sukuk redemption."
+ ]
+}

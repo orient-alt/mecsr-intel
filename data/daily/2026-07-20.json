@@ -1,0 +1,298 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-20",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-20.html",
+  "MECSR_Daily_Intel_2026-07-20.html"
+ ],
+ "coverage": {
+  "label": "Friday 17 July – Sunday 19 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-20-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Saudi Arabia",
+   "title": "Saudi Arabia's SDAIA wins UN Public Service Award for digital platforms",
+   "summary": "The Saudi Data and Artificial Intelligence Authority (SDAIA) was recognised with a UN Public Service Award for its digital government platforms, with the formal ceremony held on 25 June 2026. The recognition reflects continued momentum behind Saudi Arabia's citizen-facing digital service infrastructure, which underpins many of the Kingdom's AI-enabled public and private-sector CX initiatives.",
+   "article_date": "2026-06-26",
+   "sources": [
+    {
+     "label": "Indiplomacy · 26 Jun 2026",
+     "url": "https://indiplomacy.com/2026/06/26/saudi-arabia-wins-un-public-service-award-for-sdaia-digital-platforms/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Oman",
+   "title": "BankDhofar highlights customer-centric innovation at CX Forum 2026",
+   "summary": "BankDhofar's Sulaiman bin Abdullah Al Oufi joined a panel at the Customer Experience Forum 2026, discussing how to design customer journeys in a digital-first, multi-channel environment, part of a wider push among Omani financial institutions to formalise CX strategy alongside digital transformation.",
+   "article_date": "2026-06-25",
+   "sources": [
+    {
+     "label": "Zawya · 25 Jun 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-06-25:newsml_Zaw5jvs8G:0-zawya-bankdhofar-highlights-customer-centric-innovation-at-customer-experience-forum-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Abu Dhabi Government rolls out Microsoft 365 Copilot to 35,000 civil servants",
+   "summary": "Through the Frontier Employee Programme, the Department of Government Enablement deployed Microsoft 365 Copilot to 26,000 additional civil servants across 27 government entities, bringing the total to 35,000 licences, all provisioned with Advanced Data Residency so AI processing stays within UAE borders. The rollout is explicitly framed around faster, more responsive citizen and business services, and sits alongside a planned \"AI Factory\" targeting 1,000+ deployed agents across government, spanning document processing, constituent query handling and policy analysis.",
+   "article_date": "2026-07-06",
+   "sources": [
+    {
+     "label": "Abu Dhabi Media Office · 6 Jul 2026",
+     "url": "https://www.mediaoffice.abudhabi/en/technology/abu-dhabi-government-partners-with-microsoft-for-frontier-employee-programme-in-one-of-public-sectors-largest-ai-productivity-rollouts/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Bahrain",
+   "title": "Khaleeji Bank launches Bahrain's first AI voice banking assistant, \"Sheikha\"",
+   "summary": "Khaleeji Bank became the first bank in Bahrain to offer 24/7 natural voice conversations over the phone for banking support, via its new AI-powered assistant \"Sheikha.\" Bank leadership framed the launch explicitly as a customer-experience investment, a new communication channel alongside the call centre and branch network, aimed at collecting client feedback continuously as well as answering queries.",
+   "article_date": "2026-06-08",
+   "sources": [
+    {
+     "label": "Zawya · 8 Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/khaleeji-bank-launches-its-ai-powered-smart-voice-assistant-sheikha-uymp90p5"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Kuwait",
+   "title": "Kuwait's Burgan Bank unveils AI chatbot \"Banki\"",
+   "summary": "Burgan Bank introduced \"Banki,\" an AI-powered chatbot for retail banking customer queries, joining a wave of Gulf banks (alongside Khaleeji in Bahrain) launching conversational AI channels in mid-2026. Exact publication date could not be pinned down precisely from available reporting; flagged accordingly.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "GCC Business News · Jun 2026 (exact date unverified)",
+     "url": "https://www.gccbusinessnews.com/kuwaits-burgan-bank-unveils-banki-an-ai-powered-chat-bot-for-users/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-06",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Saudi Arabia",
+   "title": "AI changing Saudi Arabia's premium financial services",
+   "summary": "Arab News reports that artificial intelligence is rapidly changing Saudi Arabia's financial sector, enabling more personalised client experiences and improved operational efficiency, part of a broader Vision 2030-linked push, with the Kingdom's AI market projected to grow from $9.3bn (2025) to $102.8bn by 2033. Separately, Vision Bank is positioning itself as Saudi Arabia's first AI-powered Islamic digital bank, anchored by conversational assistant \"Noura\" (watch item, full launch details not yet independently verified via a preferred-tier source).",
+   "article_date": "2026-07-11",
+   "sources": [
+    {
+     "label": "Arab News · 11 Jul 2026",
+     "url": "https://www.arabnews.com/node/2650496/amp"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-07",
+   "stream": "ai",
+   "type": "market",
+   "country": "",
+   "title": "Forrester & Genesys data quantify AI's impact on contact-centre CX",
+   "summary": "Forrester Research's July report, \"The Quantitative Employment Impact of AI on Customer Service Jobs,\" predicts continued contact-centre job disruption but also new AI-oversight roles, with retail, hospitality and food-service contact centres more exposed than banking and utilities. Separately, Genesys's 2026 State of Customer Experience survey (5,800 consumers, 20 countries; 1,500 CX leaders) found only 24% of CX leaders believe their organisations minimise customer effort, while 95% of consumers expect not to have to repeat themselves to a human agent after an AI handoff, and 85% said they reduced or stopped spending with a brand after poor service.",
+   "article_date": "2026-07-15",
+   "sources": [
+    {
+     "label": "TechTarget · 15 Jul 2026",
+     "url": "https://www.techtarget.com/searchcustomerexperience/news/366645896/World-leaders-confront-AI-layoffs-more-in-store-for-contact-centers"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-08",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "Huna AE Hypermarket opens first branch at Al Khail Mall, Dubai",
+   "summary": "Huna AE Hypermarket opened its first branch at Al Khail Mall in Al Quoz, Dubai, positioning itself around a \"premium shopping experience at affordable prices\" one-stop format spanning groceries, fresh food, household goods, fashion and electronics. The launch included a 4-day promotional period and a raffle draw, standard grand-opening mechanics, but notable as a fresh community-retail entrant in an already saturated Dubai hypermarket segment. See mecsr-weekly-intel-report for any related property/leasing detail, this entry is limited to the customer/shopper-experience angle.",
+   "article_date": "2026-07-17",
+   "sources": [
+    {
+     "label": "UAE Vartha · 17 Jul 2026",
+     "url": "https://english.uaevartha.com/huna-ae-hypermarket-officially-opens-its-first-branch-at-al-khail-mall-al-quoz/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-09",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "\"Dubai Summer Surprises\" 60-day retail & experience festival under way",
+   "summary": "Dubai's flagship summer retail festival runs 2 July – 30 August 2026, combining large-scale mall discounts with cultural performances and family-oriented indoor attractions, a recurring experience-driven programme designed to keep footfall high across malls during the hot season. Relevant to CX/retail members primarily as a seasonal engagement and in-mall experience play rather than a new development.",
+   "article_date": "2026-07-02",
+   "sources": [
+    {
+     "label": "Dubai DET / Gulf News · 2 Jul 2026",
+     "url": "https://www.dubaidet.gov.ae/en/newsroom/press-releases/dubai-unveils-2026-retail-calendar"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-10",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kuwait",
+   "title": "KUWAIT Tamdeen's 360 MALL opens in Kuwait New Property 5 Jul 2026",
+   "summary": "Tamdeen Group's 360 MALL, an 82,000 sqm shopping destination, opened its doors to shoppers on 5 July 2026. At full occupancy the mall will offer a mix of over 130 luxury and upscale brands spanning fashion, accessories, entertainment and dining. First capture of this opening in this report series; a directory pipeline check is recommended given Tamdeen's Priority-1 member status.",
+   "article_date": "2026-07-05",
+   "sources": [
+    {
+     "label": "Tamdeen Group newsroom (official) · 5 Jul 2026",
+     "url": "https://www.tamdeen.com/news/360-mall-to-open-doors-for-shoppers-on-july-5th"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-11",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Kuwait",
+   "title": "KUWAIT Aventura Mall (Mabanee) secures 20+ store commitment from Alshaya Group Expansion / Leasing 13 May 2026",
+   "summary": "Alshaya Group signed an agreement with Mabanee to open more than 20 stores across 10,000+ sqm of leasable area at Aventura Mall in Jaber Al-Ahmad City, including H&M, Primark, Ulta Beauty, Starbucks, American Eagle, Foot Locker, Raising Cane's, Shake Shack, Chipotle, Victoria's Secret and Bath & Body Works. Mabanee's own project update separately put Aventura Mall construction at 96% complete, with a phased opening (mall Q3 2026; Ulta Beauty Q4 2026; Primark Q1 2027). Newly captured leasing detail for a project not previously itemised in this report series.",
+   "article_date": "2026-05-13",
+   "sources": [
+    {
+     "label": "Zawya (Alshaya press release) · 13 May 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/alshaya-group-signs-agreement-with-mabanee-to-open-h-and-m-primark-ulta-beauty-and-over-20-more-stores-at-aventura-mall-abxq0khf"
+    },
+    {
+     "label": "Kuwait Times · May 2026",
+     "url": "https://kuwaittimes.com/article/43654/business/alshaya-group-signs-agreement-with-mabanee-to-open-more-than-20-stores-at-aventura-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-12",
+   "stream": "dest",
+   "type": "status",
+   "country": "Pakistan",
+   "title": "PAKISTAN YSL Beauty opens Pakistan's first official flagship boutique at Dolmen Mall DHA, Lahore Status Update / Leasing 8–15 Jul 2026",
+   "summary": "YSL Beauty (via Yellow Corporation, with L'Oréal Luxe's official Pakistan distributor Eleganz Luxury) opened its first officially licensed boutique in the country at Dolmen Mall DHA, Lahore, on 8 July 2026, running a week-long \"YSL Beauty Light Club\" pop-up through 15 July. It follows an Armani Beauty boutique opening at the same mall. Dawn's Images desk separately examined whether the launches were genuinely official, confirming distributor authorisation. Relevant as continued luxury-beauty anchor activity at a MECSR member property (Dolmen Group, Pakistan).",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Dawn, Images · Jul 2026",
+     "url": "https://images.dawn.com/news/1195528/have-ysl-beauty-and-armani-beauty-actually-launched-in-lahore"
+    },
+    {
+     "label": "Profit by Pakistan Today · 13 Jul 2026",
+     "url": "https://profit.pakistantoday.com.pk/2026/07/13/who-in-pakistan-is-buying-yves-saint-laurent"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-13",
+   "stream": "member",
+   "type": "leadership",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Knowledge Economic City reported to have a new CEO ahead of foreign-ownership rollout Leadership 13 Jul 2026 · cross-ref recommended",
+   "summary": "Company: Knowledge Economic City Co (Priority 1 member, Saudi Arabia). A 13 July 2026 report states KEC has a new chief executive as the company gears up for Saudi Arabia's new foreign real-estate ownership framework in Madinah, succeeding interim/acting CEO Hazem Samir Elbanna (who had run the company since January 2026 following Mohammad Almubarak's non-renewal). The single-source report could not be cross-referenced against a second outlet or KEC's own newsroom within this run; treat the leadership-change detail as unconfirmed pending verification against KEC's investor-relations or Tadawul disclosures.",
+   "article_date": "2026-07-13",
+   "member": true,
+   "sources": [
+    {
+     "label": "enterpriseam.com · 13 Jul 2026, cross-ref recommended",
+     "url": "https://enterpriseam.com/ksa/2026/07/13/knowledge-economic-city-gets-a-new-ceo-ahead-of-foreign-ownership-play/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-14",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Knowledge Economic City secures SAR152m financing for Madinah educational complex Financial 6 Jul 2026",
+   "summary": "Company: Knowledge Economic City Co (Priority 1 member, Saudi Arabia). KEC obtained Shariah-compliant project financing of SAR152m ($40.4m) from The Saudi Investment Bank to complete construction of the Educational Complex within KEC in Madinah, managed by Riyadh Schools Group, part of KEC's broader $6.3bn Madinah mixed-use vision that includes retail components around Multaqa Mall. Distinct from, and additional to, the previously reported Albilad Capital hospitality-fund term sheet (13 Jul, covered in the 13 Jul daily report).",
+   "article_date": "2026-07-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya (via TradingView) · 6 Jul 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-07-06:newsml_Zaw6HJnmF:0-zawya-knowledge-economic-city-gets-40mln-to-fund-educational-complex-in-madinah/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-15",
+   "stream": "member",
+   "type": "market",
+   "country": "UAE",
+   "title": "MEMBER NEWS Al-Futtaim Contracting targets growth on the back of an AED3bn+ backlog and a new AI strategy Market / Strategy 13 Jul 2026",
+   "summary": "Company: Al-Futtaim Group (Priority 1 member, UAE), construction arm. Managing director Murali Serpakkam said Al-Futtaim Contracting is targeting growth in its two core markets while building out an artificial-intelligence strategy, backed by a project backlog exceeding AED3bn ($817m). Relevant to MAF/Al-Futtaim's continued retail-adjacent construction pipeline (e.g. Mall of the Emirates expansion, JUNCTION Cairo) though the article itself focuses on contracting strategy rather than a specific retail project.",
+   "article_date": "2026-07-13",
+   "member": true,
+   "sources": [
+    {
+     "label": "MEED · 13 Jul 2026",
+     "url": "https://www.meed.com/al-futtaim-contracting-eyes-gulf-growth"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-16",
+   "stream": "member",
+   "type": "deal",
+   "country": "Bahrain",
+   "title": "MEMBER NEWS Seef Properties appoints main contractor for Seef Mall – Seef District redevelopment Deal 14–17 Jun 2026",
+   "summary": "Company: Seef Properties (Priority 1 member, Bahrain). Seef Properties signed an agreement with Mohammed Jalal Contracting to execute the main construction works within the Seef Mall – Seef District redevelopment, a milestone moving the project from planning into advanced implementation. First phase upgrades the jewellery section and relaunches Magic Island (expanded to ~3,900 sqm with an extra 600 sqm of children's games). Builds on Seef's previously reported revamp announcement and its ongoing GFH voluntary-offer discussions (both covered in earlier daily reports); this contractor appointment is newly captured.",
+   "article_date": "2026-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Seef Properties (official) · Jun 2026",
+     "url": "https://seef.com.bh/seef-properties-appoints-mohammed-jalal-contracting-to-execute-main-construction-works/"
+    },
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-mohammed-jalal-contracting-to-execute-main-construction-works-qmr0qro3"
+    },
+    {
+     "label": "Trade Arabia · Jun 2026",
+     "url": "https://tradearabia.com/News/463702/Seef-Mall-revitalisation-project-awarded-to-Mohammed-Jalal-Contracting/CONS"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-20-17",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Kuwait",
+   "title": "MEMBER NEWS Mabanee's Hilton Kuwait Resort renovation reaches 39% completion Expansion c. 7 May 2026 · date unverified",
+   "summary": "Company: Mabanee Company (Priority 1 member, Kuwait). Per Mabanee's quarterly project update, renovation works at the Hilton Kuwait Resort, a 331-key beachfront property developed with Touristic Enterprises Company, featuring a 1.3km beach, 330 rooms/chalets/villas and a 2,100 sqm ballroom, have reached 39% completion, with reopening anticipated in H2 2026. Relevant as leisure/retail-adjacent infrastructure for Mabanee's broader Jaber Al-Ahmad City portfolio alongside Aventura Mall.",
+   "article_date": "2026-05-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · c. 7 May 2026, date unverified",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Vision Bank (Saudi Arabia), progress toward launch of its AI-native Islamic digital bank and \"Noura\" conversational assistant; needs a preferred-tier source to confirm.",
+  "Saudi Customer Experience Awards 2027 cycle, watch for nomination/category announcements.",
+  "NAS Gardens Community Mall (Dubai, opening Aug 2026) and Sobha Hartland Community Mall, experience-concept reveals as opening dates near.",
+  "Abu Dhabi \"AI Factory\", rollout of the 1,000+ agent target referenced in the DGE/Microsoft announcement; watch for first agent use-case disclosures.",
+  "Burgan Bank \"Banki\", confirm exact launch date via a preferred-tier outlet (Zawya, Arabian Business, Kuwait Times)."
+ ]
+}

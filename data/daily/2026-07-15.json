@@ -1,0 +1,91 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-15",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-07-15.html"
+ ],
+ "coverage": {
+  "label": "Tuesday 14 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-15-01",
+   "stream": "dest",
+   "type": "",
+   "country": "Bahrain",
+   "title": "Bahrain plans Six Flags theme park in bid to create new GCC entertainment hub 13 Jul 2026, 17:12 GST",
+   "summary": "A proposal by Capital Trustees Board member Dr Bashar Ahmedi, backed by the board's general secretariat and Parliament's financial and economic affairs committee, has been referred to the Sustainable Development Minister and EDB CEO Noor Al Khulaif. The concept deliberately avoids replicating Six Flags Qiddiya City (Saudi Arabia, recently opened), targeting original record-breaking attractions. Candidate sites include coastal zones between Busaiteen–Manama, Manama–Salman Town, Askar–Jaw and near Bilaj Al Jazayer. MP Ahmed Al Salloom highlighted spill-over activity across \"tourism, hospitality, retail, transport and investment\", a significant potential anchor for Bahrain's retail and F&B market. Caveat: proposal stage only; depends on Six Flags Corp's expansion appetite (currently divesting North American parks).",
+   "article_date": "2026-07-13",
+   "sources": [
+    {
+     "label": "Construction Week Online · 13 Jul 2026",
+     "url": "https://www.constructionweekonline.com/news/bahrain-plans-six-flags-theme-park-in-bid-to-create-new-gcc-entertainment-hub"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-15-02",
+   "stream": "dest",
+   "type": "",
+   "country": "Morocco",
+   "title": "LabelVie to be absorbed by parent Retail Holding in all-stock merger: effective Aug 2026 c. 23 May 2026 URL-dated, on-page date unverified",
+   "summary": "Morocco's leading food retailer LabelVie S.A. (411 stores, 10,300 staff, Carrefour's Moroccan partner) will be absorbed by its unlisted parent Retail Holding in an all-stock merger expected to take effect in August 2026, with Retail Holding to be listed on the Casablanca Stock Exchange. The combined entity targets doubling revenue to MAD 47bn (~$5.08bn) by 2030 with continental expansion ambitions. Structural consolidation in North Africa's most advanced organised-retail market, relevant to any member scouting Moroccan anchor tenants. First capture in this report series.",
+   "article_date": "2026-05-23",
+   "sources": [
+    {
+     "label": "Ecofin Agency · c. 23 May 2026 (inferred from URL; on-page date not confirmed)",
+     "url": "https://www.ecofinagency.com/news-services/2305-55863-moroccos-biggest-retailer-bets-on-continental-expansion-but-first-it-must-fix-its-broken-pieces"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-15-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Tunisia",
+   "title": "Tunis Garden City mall to break ground; second Tunisian mall nears completion date unverified",
+   "summary": "Sagaci Research reports that the Tunis Garden City mall is set to break ground before the end of this year, with local franchisees signed for Zara, Mango, Massimo Dutti and Celio, while another Tunisian mall is nearing completion. This is the first Tunisia destination finding in this report series, Tunisia (7 directory properties) has sat on the no-findings list since June. Sagaci is a named Africa-focused market-research firm (Category C discovery source with identifiable publisher); publication date could not be confirmed on-page. Cross-reference against Tunisian media / developer channels recommended before any directory action.",
+   "sources": [
+    {
+     "label": "Sagaci Research · date unverified, credibility acceptable, cross-reference recommended",
+     "url": "https://sagaciresearch.com/one-tunisian-mall-nears-completion-while-another-will-break-ground-soon/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-15-04",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "MEMBER NEWS Majid Al Futtaim opens 'Explorers' family edutainment destination New Project 10 Jul 2026",
+   "summary": "MAF officially opened Explorers on 10 July at City Centre Mirdif, billed as Dubai's only large-scale indoor kids' destination combining free-play adventure (three immersive play zones: Wildwood Treetops, Little Acorns, River Play) with expert-led workshops including Mamalu Kitchen cooking classes, for children aged 1–12. A notable leisure-anchor investment in an existing directory property, and further evidence of MAF's entertainment-led mall-refresh strategy (alongside the parallel Mall of the Emirates transformation). Published 10 Jul (Friday), surfaced this run as the 13–14 Jul runs focused on other UAE items.",
+   "article_date": "2026-07-10",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim press office · 10 Jul 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/07/majid-al-futtaim-officially-opens-explorers--a-new-era-of-family-entertainment-with-immersive-free-play-and-workshops-all-under-one-roof"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-15-05",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Jabal Omar to offer ~400 serviced residential units for sale under new property rules Financial 28 Jun 2026",
+   "summary": "Jabal Omar Development Company (Priority 1 member) plans to offer around 400 serviced residential units for sale in its Makkah masterplan, leveraging the Kingdom's newly approved foreign-ownership property rules (Jabal Omar is inside an approved Makkah zone, ownership limited to Muslims). This is a direct monetisation of the regulatory change captured in earlier reports and complements the SAR 2bn Murabaha refinancing signed 18 June, together signalling an assets-to-cash strategy ahead of further retail/hospitality phases.",
+   "article_date": "2026-06-28",
+   "member": true,
+   "sources": [
+    {
+     "label": "Maaal · 28 Jun 2026",
+     "url": "https://maaal.com/en/news/details/jabal-omar-to-offer-400-s/"
+    }
+   ]
+  }
+ ],
+ "watch": []
+}

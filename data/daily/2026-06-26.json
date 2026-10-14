@@ -1,0 +1,579 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-06-26",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-06-26.html"
+ ],
+ "coverage": {
+  "label": "Thursday 25 June 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-06-26-01",
+   "stream": "dest",
+   "type": "",
+   "country": "Bahrain",
+   "title": "Seef Properties: Shareholder Dividend Approved",
+   "summary": "Seef Properties shareholders approved the distribution of a cash dividend of 6% (BD2.76 million / 6 fils per share) at the company's AGM. Seef Properties is the largest integrated developer of retail and entertainment destinations in Bahrain.",
+   "article_date": "2026-06-25",
+   "sources": [
+    {
+     "label": "Gulf Daily News · 25 Jun 2026",
+     "url": "https://www.gdnonline.com/Details/1038007/Seef-Properties-approves-BD276m-cash-dividend"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-02",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Cabinet Approves Foreign Real Estate Ownership Zones",
+   "summary": "The Saudi Cabinet approved regulations and designated geographic zones allowing non-Saudis to own real estate. MECSR-relevant zones include: • Riyadh: Qiddiya, New Murabba, Diriyah Gate, King Salman Park, King Abdullah Financial District • Makkah: Jabal Omar, Thakher Makkah, Masar • Madinah: Knowledge Economic City (KEC), Rua Al Madinah, Downtown Madinah • Jeddah: Central Jeddah and Development Areas 1–55 Non-Saudi residents apply via the Saudi Properties portal; overseas buyers via digital identity card from a Saudi mission. Muslim-only ownership restriction applies in Makkah and Madinah.",
+   "article_date": "2026-06-23",
+   "sources": [
+    {
+     "label": "Arab News · 23 Jun 2026",
+     "url": "https://www.arabnews.com/node/2648393/business-economy"
+    },
+    {
+     "label": "AGBI · Jun 2026",
+     "url": "https://www.agbi.com/real-estate/2026/06/saudi-arabia-opens-up-property-market-to-foreigners/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-03",
+   "stream": "dest",
+   "type": "",
+   "country": "Bahrain",
+   "title": "Seef Mall: Seef District Redevelopment",
+   "summary": "Seef Properties signed an agreement with Mohammed Jalal Contracting to execute the main construction works for the Seef Mall – Seef District redevelopment project. The signing marks the project's transition to an advanced implementation phase in line with approved timelines. CEO Ahmed Yusuf described it as \"a significant milestone.\" The project aims to revitalise the mall with a modern design, elevating shopping, entertainment, and hospitality in Bahrain.",
+   "article_date": "2026-06-15",
+   "sources": [
+    {
+     "label": "Zawya · 15 Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-mohammed-jalal-contracting-to-execute-main-construction-works-qmr0qro3"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-04",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "Mada City, New Cairo: $3.1bn Mixed-Use Development",
+   "summary": "Majid Al Futtaim and Egyptian state developer MIDAR signed a strategic partnership to develop Mada City , a $3.1bn mixed-use community in New Cairo. Witnessed by the Egyptian Prime Minister, this marks MAF's first residential project in Egypt . Phase 1 (840,000 sqm): ~6,000 homes + business district + retail + hospitality over 4 years. Phase 2 adds 1.26 km² including 252,000 sqm for a shopping and entertainment hub .",
+   "article_date": "2026-06-21",
+   "sources": [
+    {
+     "label": "The National · 21 Jun 2026",
+     "url": "https://www.thenationalnews.com/business/2026/06/21/uaes-majid-al-futtaim-signs-31bn-urban-development-project-in-egypt/"
+    },
+    {
+     "label": "Gulf News · Jun 2026",
+     "url": "https://gulfnews.com/business/property/majid-al-futtaim-signs-31billion-new-cairo-development-deal-1.500582354"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-05",
+   "stream": "dest",
+   "type": "",
+   "country": "Egypt",
+   "title": "JUNCTION Business Park: Groundbreaking, West Cairo",
+   "summary": "Majid Al Futtaim officially broke ground on JUNCTION , its next-generation business park in West Cairo. Enabling works valued at EGP 500 million commenced as the first foundational step within total investments exceeding EGP 20 billion . The mixed-use development will include commercial, retail, and hospitality components.",
+   "article_date": "2026-06-01",
+   "sources": [
+    {
+     "label": "Majid Al Futtaim PR · 1 Jun 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/06/majid-al-futtaim-officially-breaks-ground-on-junction-with-egp-500-million-in-enabling-works"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-06",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "Westfield Jeddah + Westfield Riyadh: Near Completion",
+   "summary": "Westfield Jeddah (Cenomi Centers): 99% structural completion; 104,000 sqm GLA; 95% pre-leased; 20,000 sqm luxury precinct; LEED Gold targeted (first in Jeddah); opening Q2 2026. Westfield Riyadh : targeted September 2026. Both malls expected to generate SAR 800M+ combined EBITDA once operational. Cenomi previously opened Westfield Dammam as first Westfield-branded Saudi destination.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Zawya · May 2026",
+     "url": "https://www.zawya.com/en/projects/construction/cenomi-centers-says-westfield-malls-in-jeddah-and-riyadh-almost-complete-xrz1ff57"
+    },
+    {
+     "label": "Eye of Riyadh",
+     "url": "https://www.eyeofriyadh.com/news/details/cenomi-centers-westfield-branches-in-jeddah-riyadh-to-raise-2026-ebitda-by-sar-650m"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-07",
+   "stream": "dest",
+   "type": "",
+   "country": "Kuwait",
+   "title": "Aventura Mall (Mabanee): Q3 2026 Opening on Track",
+   "summary": "Mabanee's Aventura Mall in Jaber Al-Ahmad City reached 96% construction completion ; opening targeted for Q3 2026. Alshaya Group signed a deal to open 20+ stores spanning 10,000 sqm including H&M, Primark, Ulta Beauty (Q4 2026), Starbucks, American Eagle, Foot Locker, Shake Shack, Chipotle, Victoria's Secret, Bath & Body Works. Mall dimensions: 104,000 sqm land; 108,000 sqm GLA; 377 retail units; ice-skating rink + cinema.",
+   "article_date": "2026-06",
+   "sources": [
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    },
+    {
+     "label": "Kuwait Times · Jun 2026",
+     "url": "https://kuwaittimes.com/article/43654/business/alshaya-group-signs-agreement-with-mabanee-to-open-more-than-20-stores-at-aventura-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-08",
+   "stream": "dest",
+   "type": "",
+   "country": "Kuwait",
+   "title": "Al Khiran: Region's First Hybrid Outlet Mall (Tamdeen)",
+   "summary": "Tamdeen Group (via subsidiary Tamdeen Pearl) launched Al Khiran , described as the region's first hybrid outlet, leisure and lifestyle destination in Sabah Al Ahmad Sea City. Value: $820M (KWD 250M) ; 350,000 sqm; 300+ stores; premium outlet + dining + entertainment + large-format events. Additional features: Kuwait's largest marina (900 berths), 1.25 km landscaped park and boardwalk, Water Gardens, amphitheatre. Opening date unconfirmed. Note: date unverified, cross-reference recommended.",
+   "sources": [
+    {
+     "label": "Tamdeen Group PR",
+     "url": "https://www.tamdeen.com/news/tamdeen-group-launches-al-khiran-the-regions-first-hybrid-outlet-mall"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-09",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Primark UAE: 3-Store Rollout Complete",
+   "summary": "In partnership with Alshaya Group , Primark completed its UAE launch with three successive openings: • The Dubai Mall, March 26, 2026 (60,000+ sq ft; 600 staff; flagship UAE debut) • City Centre Mirdif, April 9, 2026 (2nd UAE store) • Mall of the Emirates, May 2026 (3rd store, pre-Eid opening) Further expansion to Bahrain and Qatar planned for 2026.",
+   "article_date": "2026-05",
+   "sources": [
+    {
+     "label": "Arabian Business · Mar 2026",
+     "url": "https://www.arabianbusiness.com/business/retail/primark-opens-first-uae-store-in-dubai-mall-plans-2-more-dubai-locations-as-middle-east-expansion-accelerates"
+    },
+    {
+     "label": "Primark corporate",
+     "url": "https://corporate.primark.com/en-gb/a/news/corporate-news/primark-opens-its-first-store-in-dubai-in-partnership-with-alshaya-group"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-10",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Ghaf Woods Mall: MAF's Forest-Integrated Flagship Announced",
+   "summary": "Majid Al Futtaim unveiled Ghaf Woods Mall , described as the world's first forest-integrated retail destination and the group's 30th mall (19th in UAE). Located on Sheikh Mohammed Bin Zayed Road (E311), adjacent to the AED 15.4bn Ghaf Woods residential community. The super-regional mall will feature a curated mix of retail, dining, leisure, and lifestyle integrated with 30,000+ trees. The overall community phases through to 2031. Official opening timeline not yet confirmed.",
+   "article_date": "2025-10-06",
+   "sources": [
+    {
+     "label": "Gulf News · Oct 2025",
+     "url": "https://gulfnews.com/business/retail/majid-al-futtaim-group-unveils-ghaf-woods-mall-worlds-first-forest-integrated-retail-destination-1.500296226"
+    },
+    {
+     "label": "Zawya (MAF PR) · Oct 2025",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-announces-ghaf-woods-mall-n9k37k6e"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-11",
+   "stream": "dest",
+   "type": "",
+   "country": "Kazakhstan",
+   "title": "First International Outlet Centre: QSM Group + Ekazent (Almaty)",
+   "summary": "Kazakhstan's first international outlet centre was announced with an agreement between QSM Group and Austria's Ekazent Management GmbH . The development will be located in the Almaty region; scale 80,000–120,000 sqm including shopping galleries, hotels, restaurants, and leisure. No confirmed opening date disclosed. Represents a significant new retail destination format for Kazakhstan's 31 MECSR member-adjacent market.",
+   "article_date": "2025-05",
+   "sources": [
+    {
+     "label": "Times of Central Asia · May 2025",
+     "url": "https://timesca.com/kazakhstan-to-launch-first-international-outlet-center/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-12",
+   "stream": "dest",
+   "type": "",
+   "country": "Saudi Arabia",
+   "title": "The Avenues: Riyadh: SAR 11.4bn Financing Package",
+   "summary": "Mabanee (Kuwait) upsized the financing package for The Avenues – Riyadh to a total of SAR 11.44 billion ($3.04bn) , combining the Avenues Mall loan (SAR 2.38bn upsize) and new Avenues Riyadh Towers facility (SAR 3.45bn). Door-to-door tenor: 14.25 years. Project was 65% complete as of late 2025; mall opening targeted for late 2026 , towers one year later.",
+   "article_date": "2025-11",
+   "sources": [
+    {
+     "label": "Zawya · Nov 2025",
+     "url": "https://www.zawya.com/en/projects/construction/kuwaits-mabanee-upsizes-financing-for-the-avenues-riyadh-project-by-16bln-yrz9hh3n"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-13",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Yas Mall + The Galleria: Aldar / Mubadala Retail JV Completed",
+   "summary": "Aldar and Mubadala completed a Dh10 billion ($2.72bn) retail joint venture , consolidating Yas Mall and The Galleria Luxury Collection (Al Maryah Island) into a single platform managed by Aldar (total 260,000 sqm GLA). Occupancy: Yas Mall 99%; The Galleria 92%. The JV complements a Dh60bn Al Maryah Island development programme.",
+   "article_date": "2026-02-03",
+   "sources": [
+    {
+     "label": "The National · 3 Feb 2026",
+     "url": "https://www.thenationalnews.com/business/economy/2026/02/03/aldar-and-mubadala-complete-joint-venture-to-create-272bn-retail-platform/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-14",
+   "stream": "member",
+   "type": "financial",
+   "country": "Bahrain",
+   "title": "Dividend Approved: BD2.76m (6 fils/share)",
+   "summary": "Seef Properties B.S.C. shareholders approved a cash dividend of BD 2.76 million , equivalent to 6% or 6 fils per share, at the company's Annual General Meeting. Seef Properties is the Bahrain Bourse-listed developer and operator of Seef Mall and other retail destinations in Bahrain.",
+   "article_date": "2026-06-25",
+   "member": true,
+   "sources": [
+    {
+     "label": "Gulf Daily News · 25 Jun 2026",
+     "url": "https://www.gdnonline.com/Details/1038007/Seef-Properties-approves-BD276m-cash-dividend"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-15",
+   "stream": "member",
+   "type": "deal",
+   "country": "Egypt",
+   "title": "$3.1bn Mada City Deal Signed with MIDAR, New Cairo",
+   "summary": "MAF signed a strategic partnership with Egyptian state developer MIDAR for Mada City, MAF's first residential project in Egypt and a major new retail pipeline for the group. Phase 1: 6,000 homes + retail + hospitality (840K sqm over 4 years). Phase 2: 252,000 sqm shopping and entertainment hub. Egyptian Prime Minister Mostafa Madbouly witnessed the signing.",
+   "article_date": "2026-06-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "The National · 21 Jun 2026",
+     "url": "https://www.thenationalnews.com/business/2026/06/21/uaes-majid-al-futtaim-signs-31bn-urban-development-project-in-egypt/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-16",
+   "stream": "member",
+   "type": "status",
+   "country": "UAE",
+   "title": "Tilal Al Ghaf Delivery Delays Denied",
+   "summary": "MAF issued a formal denial to reports (Construction Week Online) suggesting home deliveries at its flagship Tilal Al Ghaf community in Dubai were being delayed due to regional conflict and supply chain disruptions. MAF stated that buyer communications were standard SPA procedural updates, and that construction continues on schedule across all development phases.",
+   "article_date": "2026-06-16",
+   "member": true,
+   "sources": [
+    {
+     "label": "Construction Week Online · 16 Jun 2026",
+     "url": "https://www.constructionweekonline.com/news/majid-al-futtaim-4"
+    },
+    {
+     "label": "Khaleej Times · Jun 2026",
+     "url": "https://www.khaleejtimes.com/business/property/uae-majid-al-futtaim-denies-reports-delay-tilal-al-ghaf-regional-war"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-17",
+   "stream": "member",
+   "type": "new",
+   "country": "Egypt",
+   "title": "JUNCTION Business Park: Groundbreaking",
+   "summary": "MAF officially broke ground on JUNCTION , its next-generation business park in West Cairo . EGP 500m in enabling works commenced; total project investment exceeds EGP 20 billion . The mixed-use development will include commercial, retail, and hospitality uses.",
+   "article_date": "2026-06-01",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim PR · 1 Jun 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/06/majid-al-futtaim-officially-breaks-ground-on-junction-with-egp-500-million-in-enabling-works"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-18",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "AGM Jun 30 | 8.98% Capital Increase | Cenomi Plus Launch",
+   "summary": "AGM (Jun 30, 2026): Board invites shareholders to virtual Ordinary General Assembly; electronic voting via Tadawulaty opens June 26. Capital Increase: Board recommended 8.98% capital hike, from SAR 4.75bn to SAR 5.18bn, via 39.58M bonus shares (1 share per 12 held, 8.33%) plus 3.08M shares for employee share programme (0.65%). Cenomi Plus: New loyalty platform launched May 11 \"redefining the mall experience.\"",
+   "article_date": "2026-05-11",
+   "member": true,
+   "sources": [
+    {
+     "label": "Sahm Capital · 2 Jun 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-centers-calls-ordinary-general-assembly-meeting-2026-06-02"
+    },
+    {
+     "label": "Argaam (capital increase)",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1914108"
+    },
+    {
+     "label": "Zawya · 11 May 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/cenomi-centers-launches-cenomi-plus-a-new-loyalty-platform-redefining-the-mall-experience-dtwgmh2r"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-19",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Aventura Mall Q3 Opening; Avenues Riyadh Financing at SAR 11.4bn",
+   "summary": "Aventura Mall (Kuwait): 96% construction complete; opening Q3 2026; Alshaya Group signed lease for 20+ stores (10,000 sqm), H&M, Primark, Starbucks, Shake Shack, Chipotle, Victoria's Secret, etc. Ulta Beauty Q4 2026; Primark Q1 2027. The Avenues – Riyadh: SAR 11.44bn ($3.04bn) total financing secured; project 65% complete; mall opening late 2026; towers following in 2027.",
+   "article_date": "2026-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · Jun 2026",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    },
+    {
+     "label": "Kuwait Times · Jun 2026",
+     "url": "https://kuwaittimes.com/article/43654/business/alshaya-group-signs-agreement-with-mabanee-to-open-more-than-20-stores-at-aventura-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-20",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Global",
+   "title": "$1bn, 400-Store Global Expansion Plan: Kuwait Rollout Underway",
+   "summary": "Landmark Group, marking its 50th anniversary, announced a $1 billion investment to open 400 new stores across GCC, India, and Southeast Asia over three years. In Kuwait, the Group confirmed five new stores opening in 2026 across flagship brands, growing Kuwait footprint by 20%. UAE execution includes Centrepoint, Home Centre, Babyshop, and the group's newest brand VIVA (launched KSA 2025). The plan also includes digital transformation and supply chain enhancements.",
+   "article_date": "2024-11",
+   "member": true,
+   "sources": [
+    {
+     "label": "Arabian Business · Nov 2024",
+     "url": "https://www.arabianbusiness.com/industries/retail/landmark-group-announces-massive-1bn-global-expansion-plan-with-400-new-stores"
+    },
+    {
+     "label": "Zawya (Kuwait update) · Nov 2025",
+     "url": "https://www.zawya.com/en/press-release/companies-news/landmark-group-reports-strong-growth-in-kuwait-accelerates-expansion-and-digital-transformation-owxl4fjf"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-21",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "title": "Q1 2026 Results: Revenue –2.9%, Net Income –33%",
+   "summary": "Lulu Retail Holdings reported a 2.9% YoY revenue decline and a 33% drop in net income for Q1 2026. EPS fell from US$0.007 (Q1 2025) to US$0.005. The stock closed at AED 0.99 on June 25 (down from AED 1.34 prior close). FY 2026 revenue consensus revised down from US$8.26bn to US$7.81bn. Next earnings report: August 19, 2026 .",
+   "member": true,
+   "sources": []
+  },
+  {
+   "id": "2026-06-26-22",
+   "stream": "member",
+   "type": "",
+   "country": "UAE",
+   "title": "Abu Dhabi Office Opened | Strategy Pivot to Brand Builder",
+   "summary": "Chalhoub Group opened its newly relocated Abu Dhabi offices in January 2026, marking an expansion of its UAE footprint to the capital. Under new CEO Michael Chalhoub (son of co-founder Patrick Chalhoub), the group is executing a strategic transformation: from regional distributor to international luxury brand builder (Vision 2033). The pivot includes closing ~35 underperforming stores, building proprietary brands, and investing in the Abu Dhabi luxury hub aligned with global luxury spend migration to the Gulf.",
+   "article_date": "2026-01",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · Jan 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/chalhoub-group-marks-the-opening-of-its-newly-relocated-abu-dhabi-offices-ft1t5lp0"
+    },
+    {
+     "label": "WWD (strategy overview)",
+     "url": "https://wwd.com/business-news/markets/chalhoub-group-rewriting-the-playbook-1238385687/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-23",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "$2.72bn Mubadala JV | Al Hamra Mall RAK Redevelopment Complete",
+   "summary": "Mubadala JV (Feb 3, 2026): Aldar and Mubadala completed the Dh10bn ($2.72bn) retail joint venture consolidating Yas Mall and The Galleria Luxury Collection (Al Maryah Island) under Aldar management. Combined 260,000 sqm GLA; Yas Mall 99% occupancy, The Galleria 92%. Al Hamra Mall RAK (Oct 2024): Aldar completed the redevelopment of Al Hamra Mall in Ras Al Khaimah as part of a Dh1bn retail investment plan. Acquired for AED 410M in Feb 2022.",
+   "article_date": "2026-02",
+   "member": true,
+   "sources": [
+    {
+     "label": "The National · 3 Feb 2026",
+     "url": "https://www.thenationalnews.com/business/economy/2026/02/03/aldar-and-mubadala-complete-joint-venture-to-create-272bn-retail-platform/"
+    },
+    {
+     "label": "Zawya · Oct 2024",
+     "url": "https://www.zawya.com/en/press-release/companies-news/aldar-completes-redevelopment-of-its-flagship-retail-destination-in-ras-al-khaimah-al-hamra-mall-t4lymjon"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-24",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Max Fashion × Google Cloud: MENA's First Gen AI Virtual Try-On at Scale",
+   "summary": "Max Fashion (Landmark Group) launched Google Cloud's Virtual Try-On API powered by Gemini Enterprise's generative AI vision models across its UAE digital platform. The solution delivers hyper-realistic previews of how garments drape, fit, and move on diverse body types, positioning Max among the first retailers in MENA to deploy Gen AI at scale to solve product fit uncertainty in e-commerce. The rollout spans the UAE and is expected to be extended across the GCC.",
+   "article_date": "2026-06-11",
+   "sources": [
+    {
+     "label": "Zawya · 11 Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/max-and-google-cloud-ignite-a-new-era-of-ai-retail-giyumvqm"
+    },
+    {
+     "label": "Intelligent Retail.tech · 16 Jun 2026",
+     "url": "https://www.intelligentretail.tech/2026/06/16/max-and-google-cloud-ignite-a-new-era-of-ai-retail-launching-one-of-menas-first-virtual-try-on-experience/"
+    },
+    {
+     "label": "Gulf Business · Jun 2026",
+     "url": "https://gulfbusiness.com/en/2026/tech/is-this-what-the-future-of-shopping-looks-like-max-fashion-launches-ai-powered-try-on-experience-in-uae/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-25",
+   "stream": "ai",
+   "type": "policy",
+   "country": "GCC",
+   "title": "BCG: GCC Malls Must Reinvent Revenue Models as AI Disintermediates Shoppers",
+   "summary": "Boston Consulting Group published \"Imagining the Future of Retail: Beyond Space\" , finding that GCC mall developers must rethink revenue models as AI agents become the primary decision-makers in consumer purchase journeys. Key data: up to 25% of revenue at leading assets now comes from non-GLA sources ; >50% of under-34s use AI tools in purchase decisions; retail media revenues forecast to grow $213bn by 2028. BCG warns that luxury retail space in some GCC markets has expanded faster than addressable spending. Operators are urged to develop data analytics, retail media, and omnichannel capabilities.",
+   "article_date": "2026-06-22",
+   "sources": [
+    {
+     "label": "Gulf News · 22 Jun 2026",
+     "url": "https://gulfnews.com/business/retail/gcc-malls-need-new-revenue-models-with-ai-changing-shopper-habits-1.500582833"
+    },
+    {
+     "label": "Zawya (BCG PR) · 22 Jun 2026",
+     "url": "https://www.zawya.com/en/press-release/research-and-studies/middle-east-retail-real-estate-leaders-to-rethink-operating-models-amid-sector-transformation-bcg-report-finds-sme2bmos"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-26",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "MAF Precision Media + Visa AI Commerce White Paper",
+   "summary": "Majid Al Futtaim launched Precision Media , an AI-powered retail media platform connecting brands directly to shoppers within its mall and digital ecosystem. Separately, MAF and Visa co-published a white paper: \"Engineering Trust into the Future of Digital Commerce\", a strategic blueprint for AI-led retail scaling. Earlier deployments include the Store of the Future at That Concept Store (Mall of the Emirates), using AI cameras and sensors for real-time customer movement analytics and dynamic product layout optimisation.",
+   "article_date": "2026-04-30",
+   "sources": [
+    {
+     "label": "Zawya · 30 Apr 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-04-30:newsml_Zaw9qglTV:0-zawya-majid-al-futtaim-and-visa-launch-paper-on-engineering-trust-into-the-future-of-digital-commercewhite/"
+    },
+    {
+     "label": "Retail Tech Innovation Hub",
+     "url": "https://retailtechinnovationhub.com/home/2024/11/14/majid-al-futtaim-precision-media-business-enhances-engagement-between-brands-and-shoppers-using-ai"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-27",
+   "stream": "ai",
+   "type": "policy",
+   "country": "Saudi Arabia",
+   "title": "Saudi Arabia Declares 2026 the Year of AI: Retail Compliance Implications",
+   "summary": "The Saudi Cabinet designated 2026 the Year of Artificial Intelligence . SDAIA issued national guidelines covering AI data governance standards applicable to all sectors, including retail and shopping malls, under the National Strategy for Data & AI (NSDAI). SAMAI 2 , involving 11 ministries, was launched to operationalise AI across government and private sectors. Infrastructure milestones: Hexagon data centre (480 MW, world's largest government facility) and Shaheen III supercomputer reached operational status. For mall operators: AI adoption in visitor analytics, loyalty and smart building management now aligns with a formal national mandate.",
+   "article_date": "2026-03",
+   "sources": [
+    {
+     "label": "Arab News · Mar 2026",
+     "url": "https://www.arabnews.com/node/2636061/amp"
+    },
+    {
+     "label": "Saudi Press Agency (SPA) · Mar 2026",
+     "url": "https://www.spa.gov.sa/en/N2533339"
+    },
+    {
+     "label": "SDAIA official",
+     "url": "https://sdaia.gov.sa/en/default.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-28",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "World's First Agentic Retail Payment: Agent Pay at VOX Cinemas",
+   "summary": "Mastercard completed the world's first live agentic payment transaction outside the US at Dubai Future Forum 2025, in partnership with Majid Al Futtaim . An AI agent autonomously searched, discovered, and purchased movie tickets through VOX Cinemas using Mastercard's Agent Pay platform without any user navigation or payment entry. The pilot involves MAF, Mastercard, and fintech firm Dataiera. UAE Minister of State for AI, Omar Sultan Al Olama, and MAF CEO Ahmed Galal Ismail were present at the launch. Commerce implication: AI agents as end-to-end purchase decision-makers within MECSR-member mall environments.",
+   "article_date": "2025-11-19",
+   "sources": [
+    {
+     "label": "Zawya (Mastercard PR) · Nov 2025",
+     "url": "https://www.zawya.com/en/press-release/companies-news/mastercard-brings-agentic-payments-to-life-with-majid-al-futtaim-in-the-uae-clgyxowu"
+    },
+    {
+     "label": "Gulf News · Nov 2025",
+     "url": "https://gulfnews.com/business/banking/now-use-ai-to-shop-in-dubai-after-new-mastercard-majid-al-futtaim-deal-1.500352104"
+    },
+    {
+     "label": "Arab News · Nov 2025",
+     "url": "https://www.arabnews.com/node/2623041/middle-east"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-29",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Layla: Proprietary Gen AI Beauty Assistant (Faces App) Delivering 2.5× Conversions",
+   "summary": "Chalhoub Group debuted Layla , a fully in-house-built generative AI beauty coach for its Faces beauty retail platform. Layla combines advanced AI with Chalhoub's 70 years of regional luxury expertise and is fluent in Arabic dialects including Arabizi. Performance data: 2.5× conversion rate vs non-AI sessions; shoppers spend 7.4 minutes longer per session; 27% more products explored. The group has also launched ten further AI-driven initiatives across demand forecasting, VIP clienteling, and predictive shopping. AI is central to Chalhoub's Vision 2033 strategy as it transforms from distributor to brand builder.",
+   "article_date": "2025-10-01",
+   "sources": [
+    {
+     "label": "Chalhoub Group PR · Oct 2025",
+     "url": "https://www.chalhoubgroup.com/en/media/330/chalhoub-group-debuts-a-proprietary-generative-ai-engine-that-drives-25x-higher-conversions-and-reshapes-digital-beauty-retail-in-the-middle-east"
+    },
+    {
+     "label": "Beauty Matter",
+     "url": "https://beautymatter.com/articles/how-faces-is-using-ai-to-scale-beauty-advisor-expertise-across-mena/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-30",
+   "stream": "ai",
+   "type": "ai",
+   "country": "GCC",
+   "title": "Lulu × RELEX Solutions: ML-Powered Forecasting Across GCC Store Network",
+   "summary": "Lulu Retail Holdings (ADX: LULU) deployed RELEX Solutions ' machine learning platform for AI-driven demand forecasting and automated replenishment across its UAE, KSA, Kuwait, Bahrain, Oman, and Qatar hypermarket and express store network. The system analyses hundreds of demand factors in real time to maintain optimal inventory levels, reduce excess stock, and improve planning accuracy. Group CIO Anish Mohamed cited RELEX as a \"trusted transformation partner.\" Supply chain implication: The first known ML supply chain deployment at scale by a listed GCC hypermarket operator.",
+   "article_date": "2025-04-22",
+   "sources": [
+    {
+     "label": "RELEX Solutions PR · Apr 2025",
+     "url": "https://www.relexsolutions.com/news/lulu-retail-holdings-to-boost-supply-chain-efficiency-with-relex/"
+    }
+   ]
+  },
+  {
+   "id": "2026-06-26-31",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "Dubai Square: World's First AI-Designed Drive-Through Mall (Dh180bn Project)",
+   "summary": "Emaar Properties (with Dubai Holding) unveiled Dubai Square at Dubai Creek Harbour as the world's first drive-through mega-mall and first major mall designed using AI from inception. Mohamed Alabbar: \"Emaar is implementing and deploying the most advanced AI systems to analyse and predict the needs of retailers and visitors in the future.\" AI is embedded in design tools, construction planning, and will power personalised visitor experiences post-opening. The Dh180bn project will be linked to the new Dubai Creek Tower and is three times the size of Downtown Dubai. Opening targeted within three years.",
+   "article_date": "2026-04",
+   "sources": [
+    {
+     "label": "Zawya (Emaar PR)",
+     "url": "https://www.zawya.com/en/press-release/companies-news/emaar-unveils-dubai-square-a-futuristic-fusion-of-cutting-edge-retail-entertainment-and-technology-in-dubai-creek-harbour-uo2qkgds"
+    },
+    {
+     "label": "Gulf News",
+     "url": "https://gulfnews.com/business/retail/dubai-square-mall-to-open-within-three-years-mohamed-alabbar-1.500352104"
+    },
+    {
+     "label": "Arabian Business",
+     "url": "https://www.arabianbusiness.com/industries/retail/emaar-unveils-dubai-square-the-worlds-first-drive-through-mall"
+    }
+   ]
+  }
+ ],
+ "watch": []
+}

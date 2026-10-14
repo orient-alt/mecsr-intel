@@ -1,0 +1,125 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-12",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-12.html",
+  "MECSR_Daily_Intel_2026-08-12.html"
+ ],
+ "coverage": {
+  "label": "Tuesday 11 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-12-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai Chambers issues 3,223 mystery-shopper reports in H1 2026 to boost service excellence",
+   "summary": "Dubai Chambers said its Service Excellence Programme issued 3,223 mystery-shopper reports to participating companies and their branches in the first half of 2026, giving businesses objective, data-driven feedback on customer interactions. Assessments cover branch appearance, policies, employee performance, service delivery, payment transactions, services for People of Determination and customer-happiness measurement, plus how businesses use digital channels to enhance CX. Khalid AlJarwan, EVP of Commercial and Corporate Services at Dubai Chambers, said the reports help firms \"identify areas for improvement\" and \"respond more effectively to evolving customer expectations.\"",
+   "article_date": "2026-08-11",
+   "sources": [
+    {
+     "label": "Emirates 24|7 · 11 Aug 2026",
+     "url": "https://www.emirates247.com/business/dubai-chambers-issues-3223-mystery-shopper-reports-in-first-half-of-2026-to-boost-customer-service-excellence/4425"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-12-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "GDRFA Dubai launches 2026 Corporate Reputation Survey to refine customer experience",
+   "summary": "Dubai's General Directorate of Residency and Foreigners Affairs (GDRFA) has opened its 2026 Corporate Reputation Survey, inviting residents, travellers and business owners to rate administrative efficiency, digital-portal functionality and staff interactions across entry, visa and residency services. The bilingual (English/Arabic) questionnaire takes about a minute to complete; officials said submissions will directly inform operational updates at entry portals, residency processing centres and customer-happiness platforms. This is distinct from GDRFA's earlier 2026 Gulf Customer Experience Awards sweep (already logged in prior dossiers), a separate, ongoing feedback initiative.",
+   "article_date": "2026-08-11",
+   "sources": [
+    {
+     "label": "UAE Vartha · 11 Aug 2026",
+     "url": "https://english.uaevartha.com/gdrfa-dubai-launches-2026-corporate-reputation-survey-to-refine-customer-experience/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-12-03",
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "title": "UAE: 62% of businesses now optimizing for AI search, Salesforce's State of Commerce report finds",
+   "summary": "Salesforce's fourth edition State of Commerce report (based on a survey fielded April–June 2026 across 20 countries) found that implementing or expanding AI capabilities is now UAE commerce leaders' top priority for the year ahead, ahead of growing the customer base or improving data quality. 62% of UAE businesses have optimized content for conversational/question-based queries, 61% have improved product content quality, and 58% now submit data feeds directly to AI search platforms. Among UAE organizations with unified customer data, 48% report better AI/automation outcomes and 43% have lifted conversion rates, though 35% still can't recognize customer identity consistently across channels, and the same share struggle with inconsistent returns/exchanges.",
+   "article_date": "2026-08-11",
+   "sources": [
+    {
+     "label": "Zawya · 11 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/research-studies/62-of-uae-businesses-are-already-optimizing-for-ai-search-new-salesforce-research-shows-427768"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-12-04",
+   "stream": "dest",
+   "type": "market",
+   "country": "Qatar",
+   "title": "Market Qatar retail real estate holds steady at 5.7m m² GLA in Q2 2026: new brand debuts at Place Vendôme, Msheireb Galleria, The Gate Mall",
+   "summary": "ValuStrat's Q2 2026 retail report, published by The Peninsula Qatar, found the country's total retail real estate supply unchanged at 5.7 million m² GLA (2.5m organised / 3.2m unorganised) with no new completions recorded. Despite the flat supply picture, leasing activity and brand entries continued: luxury jeweller APM Monaco opened at Place Vendôme , beauty retailer XBeauty entered Msheireb Galleria , Em Sherif Deli opened at The Gate Mall , and confectioner Carpo joined Villaggio Mall , alongside smaller additions at UDC Oyster (The Pearl), Doha Mall and the Doha Design District. Median mall rents fell 1% quarter-on-quarter and year-on-year to QR177/m²; ValuStrat's Anum Hasan flagged that geopolitical uncertainty may continue to pressure discretionary spend and rents near-term. Relevant to member-operated destinations City Center Doha, Hyatt Plaza and Lulu Mall Qatar, all named as festival participants in the same reporting period.",
+   "article_date": "2026-08-11",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 11 Aug 2026",
+     "url": "https://thepeninsulaqatar.com/article/11/08/2026/retail-market-holds-steady-in-q2-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-12-05",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Kuwait",
+   "title": "Member News Expansion Mabanee delays Aventura Mall opening to October; Hilton Kuwait Mangaf pushed to December",
+   "summary": "Reporting alongside member Mabanee's Q2 2026 results (net profit down 8% y/y to KD15.5m; The Avenues held 98% occupancy), AGBI disclosed that two Kuwait project timelines have slipped due to supply-chain disruption linked to the regional conflict : the Aventura mall in Jaber Al-Ahmad City now opens in October rather than its earlier August/Q3 target, and the Hilton Kuwait Mangaf resort moves to December from a planned September opening. This updates the watch-list entry carried from the 10–11 August reports, which had Aventura still slotted for \"Q3 2026.\" Mall gross profit was resilient (−1.7%) even as hospitality gross profit dropped 78% on conflict-related travel disruption. Cross-referenced against Mabanee's own Q2 disclosure via Boursa Kuwait and MarketScreener.",
+   "article_date": "2026-08-05",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · c. 5 Aug 2026",
+     "url": "https://www.agbi.com/real-estate/2026/08/developer-mabanees-profits-slide-as-war-hurts-kuwait-hotels/"
+    },
+    {
+     "label": "Boursa Kuwait filing",
+     "url": "https://docs.boursakuwait.com.kw/NewsPDF/413_NEWS_2026_E_106202684530170.pdf"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-12-06",
+   "stream": "member",
+   "type": "new",
+   "country": "Bahrain",
+   "title": "Member News New Project Seef Properties appoints Cinqo Contracting for new construction package at Seef Mall – Seef District",
+   "summary": "Member Seef Properties signed an agreement with Cinqo Contracting to deliver a new construction package within the ongoing comprehensive redevelopment of Seef Mall – Seef District . The package covers a multi-storey car park on the mall's southern side plus new external elevations and main gates, intended to increase capacity, improve accessibility/traffic flow, and refresh the mall's architectural identity. Chairman Essa Mohamed Najibi and CEO Ahmed Yusuf both framed the award as a milestone in the phased redevelopment programme. This is a distinct construction-package announcement from Seef's H1 2026 financial results (covered in the 7 August report) and had not previously appeared in this series.",
+   "article_date": "2026-07-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya (press release) · 21 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-cinqo-contracting-to-execute-new-package-of-construction-works-404062"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Dubai Chambers H2 2026 mystery-shopper data, expect a full-year tally around early 2027; watch for interim sector breakdowns.",
+  "GDRFA 2026 Corporate Reputation Survey results, outcomes and any resulting service changes at entry/residency centres.",
+  "Kempinski E.R.A.s expansion, confirmation of which property (beyond Munich and the newly acquired Augustine Hotel Prague) launches next, and whether any GCC Kempinski property adopts the concept.",
+  "Saudi DGA Digital Government Award deadline (27 Aug), then judging/winners cycle, including the \"Best Adoption of Artificial Intelligence Applications\" category.",
+  "Salesforce State of Commerce, full global report, deeper regional cuts and additional GCC-market breakdowns may follow the UAE release.",
+  "Dubai Summer Surprises finale (to 30 Aug) and Sharjah Summer Promotions draws (to 15 Sep) .",
+  "GAIN 2026, Riyadh (15–17 Sep), Saudi's Global AI Summit in its declared \"Year of AI\".",
+  "Al Othaim Markets (Tadawul 4001, member group): H1/Q2 2026 results were due 12 August, check Tadawul filing for release.",
+  "Aventura Mall (Mabanee, Kuwait): opening now retargeted to October 2026, confirm final date closer to launch.",
+  "Hilton Kuwait Mangaf (Mabanee): resort opening slipped to December 2026.",
+  "The Grand, Nad Al Sheba Gardens (UAE): phase 1 opens 19 August, anchored by Waitrose & Partners.",
+  "Lulu Retail Holdings (ADX, member group): H1 2026 results due 19 August."
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-20",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-20.html"
+ ],
+ "coverage": {
+  "label": "see original report"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-20-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai's robotaxi fleet passes 4 million km with 97% customer satisfaction",
+   "summary": "Dubai's Roads and Transport Authority (RTA) reports its robotaxi fleet has travelled more than 4 million kilometres and completed 7,613 passenger trips since operations began, with a 97% customer satisfaction rate. The fleet currently comprises 144 vehicles, with 48 in active operation completing around 50 trips daily. Ahmed Bahrozyan, CEO of RTA's corporate technology support services sector and chair of the Autonomous Transport and Aerial Taxi Committee, said the figures reflect growing public acceptance of the technology and mark an important step towards Dubai's target of making 25% of all transport trips autonomous by 2030. RTA is working with Baidu's Apollo Go, WeRide and Pony.ai on the programme; Apollo Go's fully driverless vehicles are already bookable through the Uber app in selected areas, operated by New Horizon Luxury Transport. The milestone lands against a backdrop of rising demand, Dubai's population has crossed 4 million, and public transport, shared mobility and taxis carried around 348 million passengers in H1 2026.",
+   "article_date": "2026-08-19",
+   "sources": [
+    {
+     "label": "Khaleej Times · 19 Aug 2026",
+     "url": "https://www.khaleejtimes.com/uae/dubai-robotaxis-travel-four-million-kilometres-customer-satisfaction-at-97"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-20-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Qatar",
+   "title": "Hamad International Airport affirms readiness for peak inbound-arrivals period",
+   "summary": "Hamad International Airport (HIA) has affirmed its full readiness and commitment to providing a smooth, comfortable arrival experience as Doha enters one of its busiest inbound-arrival periods, driven by the end of summer travel and students returning ahead of the new academic year. The airport highlighted practical comfort measures: eligible passengers are advised to use e-gates at the arrival immigration hall, complimentary child strollers are available for families, a complimentary shuttle buggy service runs from designated stations in Concourses D and E, and a bus/taxi pavilion sits on either side of the arrivals hall for onward travel. HIA said staff remain committed to supporting passengers and their families around the clock during the surge. The statement follows HIA's July rollout of a large-scale biometric passenger journey with Qatar Airways and SITA, part of a broader push to streamline the end-to-end passenger experience.",
+   "article_date": "2026-08-18",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar (QNA) · 18 Aug 2026",
+     "url": "https://thepeninsulaqatar.com/article/18/08/2026/hamad-international-airport-shares-arrival-guide-as-it-enters-one-of-its-busiest-arrival-periods"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-20-03",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Egypt",
+   "title": "Ministries advance Government Services Card integration to improve citizen experience",
+   "summary": "Egypt's Minister of Supply and Internal Trade, Sherif Farouk, and Minister of Communications and Information Technology, Raafat Hendy, reviewed progress on the Government Services Card, a single secure digital channel intended to simplify procedures and reduce the time and effort citizens spend accessing government services. The meeting focused on integration and data-sharing mechanisms among participating entities. Farouk said the card would support modernisation of the food-subsidy system, improving the accuracy of subsidy delivery and making it easier for beneficiaries to access entitlements; Hendy framed the initiative as part of building an integrated digital-government services ecosystem. The two ministries agreed to maintain technical coordination as the card's rollout expands, with additional subsidised services expected as implementation progresses. The announcement sits alongside Egypt's wider target of offering 270+ digital government services via the Digital Egypt platform by end-2026.",
+   "article_date": "2026-08-11",
+   "sources": [
+    {
+     "label": "TechAfrica News · 11 Aug 2026",
+     "url": "https://techafricanews.com/2026/08/11/egypt-advances-government-services-card-to-drive-digital-public-services/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-20-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "e& UAE becomes first regional telecom to embed Agentic AI into core plans",
+   "summary": "e& UAE has become the first telecom provider in the region to embed Agentic AI directly into its core mobile and fixed-connectivity plans, bringing intelligent, task-completing capabilities into the everyday services organisations already use rather than requiring a separate AI purchase. The capability will be included in Business Pro fixed-internet services and enterprise connectivity propositions (Digital Internet, Digital Premium Internet), complemented by \"Sovereign AI Compute\", UAE-based GPU capacity paired with secure connectivity so sensitive workloads stay within national borders. Esam Mahmoud, SVP for SMB at e& UAE, said the goal is to make Agentic AI \"as accessible and useful to businesses as connectivity itself,\" reducing the cost and complexity smaller firms face in adopting it and freeing staff time for customer-facing work. PwC estimates AI could contribute nearly 14% of UAE GDP (~US$96bn) by 2030, aligning the launch with the UAE's National Strategy for Artificial Intelligence 2031.",
+   "article_date": "2026-08-17",
+   "sources": [
+    {
+     "label": "TechAfrica News · 17 Aug 2026",
+     "url": "https://techafricanews.com/2026/08/17/e-uae-becomes-first-regional-telecom-provider-to-embed-agentic-ai-in-core-plans/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-20-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Kuwait",
+   "title": "stc completes Kuwait's first AI-powered real-time voice translation trial",
+   "summary": "Kuwait Telecommunications Company (stc) has announced the successful completion of Kuwait's first trial of \"AI Calling,\" an AI-powered real-time voice translation service enabling seamless Arabic-English conversation without language barriers. The advanced AI model reportedly delivers high accuracy with low latency, and stc plans to natively integrate the service into its network ahead of commercial deployment, aiming for scalability, reliability and a consistently high-quality customer experience. stc frames the technology as relevant across e-commerce, delivery and customer-service sectors, where faster, more seamless multilingual interactions can improve operational efficiency alongside customer experience. The company said the trial reinforces its position at the forefront of Kuwait's digital transformation as it continues expanding its broader AI-enabled solutions portfolio.",
+   "article_date": "2026-08-12",
+   "sources": [
+    {
+     "label": "The24X7News · 12 Aug 2026",
+     "url": "https://twentyfoursevennews.com/2026/08/stc-concludes-kuwaits-first-ai-powered-real-time-voice-translation-trial/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Whether e& UAE's Agentic AI embedding into core plans prompts comparable moves from other regional telecoms (du, stc, Ooredoo, Zain), the announcement is framed explicitly as a regional first.",
+  "stc Kuwait's timeline for commercial launch of its AI-powered real-time voice translation service, and whether other GCC telecoms (Zain, Ooredoo, du) announce comparable trials.",
+  "Dubai RTA's robotaxi expansion pace against its 2030 target of 25% autonomous trips, and whether Abu Dhabi or other emirates publish comparable customer-satisfaction figures.",
+  "The Grand's phased opening through early September and 2027 (dining, wellness and healthcare tenants) as a test case for community-mall experience design in Dubai.",
+  "Whether Saudi Arabia, Bahrain, Oman or Jordan publish a fresh, non-duplicate CX/AI/retail-experience item, this is the third consecutive run where at least one of these four markets returned no qualifying finding."
+ ]
+}

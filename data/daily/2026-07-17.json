@@ -1,0 +1,289 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-17",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-17.html",
+  "MECSR_Daily_Intel_2026-07-17.html"
+ ],
+ "coverage": {
+  "label": "Thursday 16 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-17-01",
+   "stream": "cx",
+   "type": "award",
+   "country": "UAE",
+   "title": "Dubai's GDRFA sweeps Gulf Customer Experience Awards 2026",
+   "summary": "The General Directorate of Residency and Foreigners Affairs (GDRFA) Dubai was crowned Overall Winner at the Gulf Customer Experience Awards (GCXA) 2026, taking four gold awards, Customer at the Heart of Everything, Best Digital CX, Best Use of Customer Insight and Feedback, and Best Innovation in CX, plus a silver in Best CX Strategy. Officials tied the win to continuous investment in human-centric, proactive government service design.",
+   "article_date": "2026-06-17",
+   "sources": [
+    {
+     "label": "UAE Vartha · 17 Jun 2026",
+     "url": "https://english.uaevartha.com/dubai-gdrfa-sweeps-gulf-customer-experience-awards-2026-with-six-major-accolades/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Abu Dhabi Award for Excellence in Government Performance 2026",
+   "summary": "Sheikh Khaled bin Mohamed bin Zayed honoured winners at ADNEC. Department of Health – Abu Dhabi took first place (infant mortality down from 6.8 to 3.8 per 1,000 births; 56% IVF success rate); Abu Dhabi Police placed second (emergency response cut to 6.25 minutes). Notably, judging drew on \"advanced AI tools\" for precise, equitable evaluation, and TAMM 3.0 (DGE) won the Digital & AI Initiative Award for serving 3.3 million users across 1,100+ services.",
+   "article_date": "2026-04-24",
+   "sources": [
+    {
+     "label": "GCC News 24 · 24 Apr 2026",
+     "url": "https://www.gccnews24.com/honoring-excellence-abu-dhabi-government-performance-awards"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Saudi Arabia",
+   "title": "Unifonic rebrands as Saudi Arabia's \"AI-native CX platform\"",
+   "summary": "Saudi CX-tech provider Unifonic unveiled a new brand identity positioning itself as an AI-native customer experience platform aimed at emerging markets, reflecting the shift among regional vendors from messaging/API tooling toward full agentic CX stacks.",
+   "article_date": "2026-07-09",
+   "sources": [
+    {
+     "label": "Zawya via Reuters/TradingView · 9 Jul 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-07-09:newsml_Zawc57lkB:0-zawya-unifonic-unveils-new-brand-identity-as-saudi-arabia-s-premier-ai-native-cx-platform/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-04",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "title": "UAE ranks among top global markets for AI-assisted shopping",
+   "summary": "DHL's eCommerce Trends Report 2026 (29,000 shoppers, 5,800 e-commerce businesses, 29 countries) found 51% of UAE shoppers already use AI-powered chat tools when shopping online, and 91% of UAE e-commerce businesses have integrated AI, placing the UAE behind only India and ahead of China globally.",
+   "article_date": "2026-06-24",
+   "sources": [
+    {
+     "label": "Aletihad · 24 Jun 2026",
+     "url": "https://en.aletihad.ae/news/business/4674426/uae-ranks-among-top-markets-for-ai-assisted-shopping--survey"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "MENA",
+   "title": "Max Fashion launches generative-AI Virtual Try-On with Google Cloud",
+   "summary": "Landmark Group's Max Fashion deployed Google Cloud's Virtual Try-On API (built on Gemini Enterprise vision models), among the first at-scale generative AI fit-visualisation tools in MENA. CEO Hani Weiss called it a \"structural upgrade\" to the omnichannel ecosystem; Google Cloud frames it as proof AI-driven personalization is now a core retail imperative, not a luxury add-on.",
+   "article_date": "2026-06-12",
+   "sources": [
+    {
+     "label": "Gulf Business · 12 Jun 2026",
+     "url": "https://gulfbusiness.com/en/2026/tech/is-this-what-the-future-of-shopping-looks-like-max-fashion-launches-ai-powered-try-on-experience-in-uae/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-06",
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "title": "Checkout.com: 79% of UAE shoppers comfortable with AI completing purchases",
+   "summary": "Checkout.com's \"Agentic Commerce 2026\" report found UAE consumers among the world's most receptive to agentic shopping: 79% comfortable letting an AI agent transact on their behalf, 71% would let an AI switch brands for better value, and nearly two-thirds trust an AI shopping agent more than family members to pick clothing. Trust, refund accountability and infrastructure readiness remain open questions.",
+   "article_date": "2026-06-11",
+   "sources": [
+    {
+     "label": "Fast Company Middle East · 11 Jun 2026",
+     "url": "https://fastcompanyme.com/news/uae-emerges-as-one-of-the-worlds-most-receptive-markets-for-ai-powered-shopping/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-07",
+   "stream": "ai",
+   "type": "cx",
+   "country": "Global",
+   "title": "Adobe ships CX Enterprise Coworker (agentic CX orchestration)",
+   "summary": "Adobe announced general availability of CX Enterprise Coworker, an outcomes-based agentic AI layer used by 20,000+ global brands to unify data, generate on-brand content and orchestrate customer experience, part of the wider industry move (also seen at Customer Contact Week 2026, with Salesforce's Agentforce Contact Center and Google's Gemini-powered Customer Engagement Suite) from AI pilots to production deployment. Relevant to GCC enterprises evaluating similar platforms.",
+   "article_date": "2026-06-10",
+   "sources": [
+    {
+     "label": "Adobe Newsroom · 10 Jun 2026",
+     "url": "https://news.adobe.com/news/2026/06/adobe-announces-general-availability-of-cx-enterprise-coworker"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-08",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "AI already handling UAE bank, telecom and airline queries behind the scenes",
+   "summary": "Industry experts (Optro, Endava, Dataiku, Salesforce/Informatica) told Gulf News that AI now quietly manages high-volume, low-risk service interactions across UAE banks, telecoms and airlines, DEWA's \"Rammas\" and Emirates NBD's virtual assistants cited as early examples. 65% of UAE CIOs say AI agents are embedded in business-critical workflows, and 63% fear an explainability failure could trigger a trust crisis, the highest such figure of any country surveyed.",
+   "article_date": "2026-03-16",
+   "sources": [
+    {
+     "label": "Gulf News · 16 Mar 2026",
+     "url": "https://gulfnews.com/business/markets/ai-is-already-deciding-your-bank-calls-flights-and-bills-in-the-uae-1.500468426"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-09",
+   "stream": "ai",
+   "type": "ai",
+   "country": "",
+   "title": "e& and IBM unveil enterprise-grade agentic AI for governance & compliance",
+   "summary": "Unveiled at Davos, e& and IBM built an agentic AI solution on watsonx Orchestrate to automate policy, risk and compliance workflows, e&'s stated move beyond NLP chatbots toward governed, action-oriented enterprise AI. Included here for continuity given ongoing regional agentic-AI momentum (Unifonic, Adobe, above).",
+   "article_date": "2026-01-19",
+   "sources": [
+    {
+     "label": "IBM Newsroom · 19 Jan 2026",
+     "url": "https://newsroom.ibm.com/2026-01-19-e-and-ibm-unveil-enterprise-grade-agentic-AI-to-transform-governance-and-compliance"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-10",
+   "stream": "dest",
+   "type": "report",
+   "country": "UAE",
+   "title": "OMODA & JAECOO opens experience-led showroom at Oasis Mall, Dubai",
+   "summary": "OMODA & JAECOO opened an approximately 800 sqm showroom on Sheikh Zayed Road, designed around digital elements and a \"modern lifestyle experience\" rather than a conventional car-sales floor, part of a broader wave of experiential, tech-enabled tenant concepts entering UAE malls in 2026. See mecsr-weekly-intel-report for full mall/development pipeline tracking, this entry is limited to the customer-experience angle.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "The UAE News · early Jul 2026 (exact date unverified)",
+     "url": "https://theuaenews.com/omoda-jaecoo-strengthens-uae-expansion-with-opening-of-new-landmark-showroom-at-dubais-oasis-mall/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-11",
+   "stream": "dest",
+   "type": "market",
+   "country": "GCC",
+   "title": "GCC Bain: luxury market shows early signs of Q2 recovery despite Middle East war Market c. 16 Jul 2026 · date unverified",
+   "summary": "Bain & Company reports early signs of recovery in the luxury market in Q2 2026 despite the regional conflict, relevant context for luxury-anchored GCC destinations (Dubai Mall's 240-store luxury expansion, Place Vendome, Westfield Riyadh). The article surfaced on Zawya's related-coverage rail on 16 July; the page publication date could not be confirmed from metadata, so it is conservatively counted as 0–1 in-window finding.",
+   "article_date": "2026-07-16",
+   "sources": [
+    {
+     "label": "Zawya (Reuters syndication) · c. 16 Jul 2026, date unverified",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/luxury-market-shows-early-signs-of-recovery-in-q2-despite-middle-east-war-bain-says-rrbd0vv4"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-12",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "title": "UAE Souq Al Jubail network posts H1 2026 footfall across three Sharjah locations Status Update 9–15 Jul 2026",
+   "summary": "Sharjah Markets released H1 2026 results across the Souq Al Jubail network: the flagship Sharjah Corniche souq (261 shops, 400,000+ sq ft) welcomed more than 2 million visitors; Souq Al Jubail Al Dhaid received ~590,000 visitors; and Souq Al Jubail – Kalba welcomed 372,000+. Senior Manager Eng. Abdullah Al Shamsi credited the destination's position as a preferred shopping venue. Useful footfall benchmark for UAE traditional-format retail destinations.",
+   "article_date": "2026-07-09",
+   "sources": [
+    {
+     "label": "Sharjah24 (Sharjah Gov. Media Bureau) · 9 Jul 2026",
+     "url": "https://sharjah24.ae/en/Articles/2026/07/09/AL023"
+    },
+    {
+     "label": "Sharjah24 · 15 Jul 2026",
+     "url": "https://sharjah24.ae/en/Articles/2026/07/15/Souq-Al-Jubail-Al-Dhaid-receives-590000-visitors-in-H1-2026"
+    },
+    {
+     "label": "Zawya · Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/souq-al-jubail-kalba-welcomes-more-than-372-000-visitors-during-the-first-half-of-2026-xlgmwab8"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-13",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "UAE Gulf News maps 7 new malls and retail districts opening across the UAE in 2026 Market / Pipeline Jul 2026 · date unverified",
+   "summary": "A consolidated Gulf News pipeline feature lists seven landmark malls/retail districts due in 2026 across Dubai, Abu Dhabi, Sharjah and Ras Al Khaimah. Notable entries: Sobha Hartland Community Mall (H2 2026; supermarket, 35 retail outlets, 10+ F&B), Ghaf Woods Mall (MAF, see Section B), Reem Mall full completion (Q1 2026), plus expansion programmes at Mall of the Emirates (AED 5bn, +20,000 sqm, ~100 new stores) and Dubai Mall (~240 new luxury shops). Individual projects were previously tracked; the consolidated 7-project mapping is new to this report and useful for directory pipeline reconciliation.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Gulf News · Jul 2026, date unverified",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-14",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Qatar",
+   "title": "QATAR Place Vendome (Lusail) signs 43,500 sq ft of new leases in Q1 2026 Expansion / Leasing Jul 2026 · date unverified",
+   "summary": "Place Vendome secured 43,500 sq ft of new leases in Q1 2026, including New Balance's first \"Grey Store\" in the Middle East , plus openings by Breitling, APM Monaco and LG Electronics, a strong leasing signal for Qatar's luxury mall segment. First capture of Place Vendome leasing data in this report series.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "WWD · Jul 2026, date unverified",
+     "url": "https://wwd.com/business-news/markets/gulf-retail-markets-iran-conflict-reshaping-1238912453/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-15",
+   "stream": "dest",
+   "type": "market",
+   "country": "Kuwait",
+   "title": "KUWAIT Goldman Sachs said to be working on a Kuwait retailer IPO Market / Capital Markets Jul 2026 · date unverified",
+   "summary": "Bloomberg reports Goldman Sachs is working on an IPO for a Kuwaiti retailer, extending the bank's push into Kuwait. Background: convenience-store operator Trolley General Trading raised $193m in its March 2026 IPO (>90 days, historic context). Continued retail listings would broaden the region's investable mall/retail universe alongside Mabanee and Tamdeen.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Bloomberg via Yahoo Finance · Jul 2026, date unverified",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-said-retailer-ipo-boosting-082734056.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-16",
+   "stream": "dest",
+   "type": "market",
+   "country": "Uzbekistan",
+   "title": "UZBEKISTAN Tashkent modern retail supply accelerating: first Uzbekistan finding in this series Market Research data · date unverified",
+   "summary": "CMWP (Commonwealth Partnership Uzbekistan) research: 478,500 sqm of new retail GLA delivered in Tashkent in 2024 (3.5× the 2019 level), with ~100,000 sqm more due in 2025. Malls hold ~13% of retail share (vs ~30% in Kazakhstan) with bazaars at 85%, and quality retail provision of 170 sqm per 1,000 residents is 2.6× below Almaty, indicating substantial headroom for mall development in a MECSR-covered market with 9 member companies.",
+   "sources": [
+    {
+     "label": "CMWP Uzbekistan, date unverified",
+     "url": "https://cmwp.uz/en/article/78"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-17-17",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "MEMBER NEWS Majid Al Futtaim: Ghaf Woods Mall confirmed in UAE 2026 opening pipeline New Project Origin: 6 Oct 2025 Pipeline confirmation: Jul 2026",
+   "summary": "Company: Majid Al Futtaim (Priority 1 member, UAE). Ghaf Woods Mall, the region's first forest-integrated retail destination, anchored in MAF's AED 15.4bn (~$4.2bn) Ghaf Woods community on E311, appears in Gulf News' 2026 pipeline mapping. It will be MAF's 30th mall and 19th in the UAE . The original announcement (MAF press office, 6 Oct 2025) is >90 days old and shown as historic context; the new element is its confirmed inclusion in the 2026 delivery pipeline. Previously captured in the June 2026 weekly series; re-flagged here for directory pipeline reconciliation.",
+   "article_date": "2025-10-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Majid Al Futtaim press office · 6 Oct 2025",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2025/10/majid-al-futtaim-announces-ghaf-woods-mall"
+    },
+    {
+     "label": "Gulf News · Jul 2026, date unverified",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Saudi Customer Experience Awards 2027 cycle opening, watch for nomination/category announcements.",
+  "TM Forum Moonshot Catalyst / STC, progress on Level 4 autonomous, agentic-AI-driven telecom networks.",
+  "NAS Gardens Community Mall (Dubai, opening Aug 2026) and Sobha Hartland mall, experience-concept reveals as opening dates near.",
+  "KPMG UAE Customer Experience Excellence report, next edition/refresh, given last cycle's empathy-over-personalization finding.",
+  "e& / du, any new agentic AI or Samsung/IBM-linked customer-facing rollouts following the governance-focused Davos announcement."
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-11",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-08-11.html",
+  "MECSR_Daily_Intel_2026-08-11.html"
+ ],
+ "coverage": {
+  "label": "Monday 10 August 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-11-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Abu Dhabi launches free tourist visas for Indian travellers: a friction-removal play in the visitor journey",
+   "summary": "The Department of Culture and Tourism (DCT) Abu Dhabi will cover the UAE entry-visa cost (approx. $77 per traveller) for Indian passport holders who book a return flight from India plus at least three nights in an Abu Dhabi hotel through participating travel partners. The pilot runs 1 August – 31 October 2026 with capacity for 20,000 visas (~$1.5m in direct subsidy), processed via appointed Destination Management Companies rather than individual applications. For CX professionals, it is a clear example of a government removing a cost/effort barrier at the very start of the visitor experience to compete for a priority source market.",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "The National · 10 Aug 2026",
+     "url": "https://www.thenationalnews.com/news/uae/2026/08/10/indian-visitors-receive-free-entry-visas-to-abu-dhabi-in-tourism-initiative/"
+    },
+    {
+     "label": "Gulf Today · 10 Aug 2026",
+     "url": "https://www.gulftoday.ae/news/2026/08/10/abu-dhabi-launches-free-visa-offer-for-indian-tourists"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-11-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Egypt",
+   "title": "Egypt orders nationwide SIM re-verification; four mobile operators referred to prosecution",
+   "summary": "Egyptian authorities ordered a re-verification of SIM registrations and referred all four mobile operators to prosecution over registration irregularities, a significant customer-trust and compliance moment in one of the region's largest telecom markets, with direct implications for retail-store and contact-centre verification journeys as millions of subscribers may need to re-confirm identity documents.",
+   "article_date": "2026-08-10",
+   "sources": [
+    {
+     "label": "Ahram Online · 10 Aug 2026",
+     "url": "https://english.ahram.org.eg/News/574354.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-11-03",
+   "stream": "ai",
+   "type": "cx",
+   "country": "Global",
+   "title": "Global: Strada launches multi-channel AI claims intake across voice, chat, email and SMS (Recent Background)",
+   "summary": "Insurance-focused AI firm Strada now automates the full first-notice-of-loss (FNOL) cycle in one workflow, a policyholder can report by phone, receive SMS confirmations and email documents, with structured claim data written straight into carrier systems, replacing manual entry. Most AI service tools still handle one channel; unifying voice + digital in a single automated intake is a marker of where omnichannel service automation is heading for GCC insurers, banks and telecoms.",
+   "article_date": "2026-08-04",
+   "sources": [
+    {
+     "label": "Newsfile · 4 Aug 2026",
+     "url": "https://www.newsfilecorp.com/release/307878/Strada-Launches-MultiChannel-FNOL-Automating-the-Full-Claims-Intake-Cycle-Across-Voice-Chat-Email-and-SMS"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-11-04",
+   "stream": "dest",
+   "type": "market",
+   "country": "UAE",
+   "title": "Market Khalifa Fund's first 'Future Founders Market' activates Bawadi Mall and Reem Mall",
+   "summary": "Khalifa Fund for Enterprise Development (Abu Dhabi government) launched its first 'Future Founders Market', a youth-entrepreneurship retail activation. Stage one ran at Bawadi Mall, Al Ain (7–9 Aug, 4–10pm); stage two runs at Reem Mall, Abu Dhabi (14–18 Aug), with family workshops and community activities. A footfall-driving institutional activation for both host malls during the quiet summer period.",
+   "article_date": "2026-08-06",
+   "sources": [
+    {
+     "label": "Zawya (Khalifa Fund press release) · 6 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/khalifa-fund-launches-future-founders-market-423545"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-11-05",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "Member News Deal / JV KEC signs Apparel Group as premier retail partner at Multaqa AlMadinah Mall: 24 brands, 10 Madinah debuts",
+   "summary": "Member Knowledge Economic City has entered a strategic partnership with UAE-based Apparel Group to bring 24 international retail and dining brands across 8,686 m² to Multaqa AlMadinah Mall, the retail heart of KEC's mixed-use destination inside the Haram Boundary (which also includes a 390-key Hilton hotel and 66 Hilton-branded residences). Apparel Group will introduce 18 fashion/lifestyle brands and 6 F&B concepts; ten brands debut in Madinah for the first time , including Nando's, Wagamama, Koton, Birkenstock, Levi's, Forever New and Rituals. KEC CEO Dr. Moath Al-Yahya called it \"a defining milestone\"; Apparel Group CEO Neeraj Teckchandani cited Saudi Arabia as a key strategic growth market. Published Sunday 9 Aug, surfaced after yesterday's run; cross-referenced via TradeArabia ( TradeArabia ).",
+   "article_date": "2026-08-09",
+   "member": true,
+   "sources": [
+    {
+     "label": "TradeArabia",
+     "url": "https://tradearabia.com/News/466365/KEC-in-deal-with-Apparel-Group-to-bring-24-retail-dining-brands-to-Madinah-mall/RET"
+    },
+    {
+     "label": "Zawya · 9 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/apparel-group-and-knowledge-economic-city-join-forces-to-redefine-destination-retail-in-madinah-425940"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-11-06",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Member News Deal / JV Chalhoub Group partners with Gap Inc. to bring Gap, Banana Republic and Athleta to the GCC",
+   "summary": "Member Chalhoub Group announced a strategic partnership with US retailer Gap Inc. to expand the Gap, Banana Republic and Athleta brands across the GCC. Online launches in the UAE, Saudi Arabia and Kuwait are planned for later in 2026, with physical stores targeted from 2027, a future leasing-demand signal for regional malls and a notable brand-portfolio expansion for the member. Confirmed on Chalhoub Group's own media page ( chalhoubgroup.com ) and reported by WWD.",
+   "article_date": "2026-08-04",
+   "member": true,
+   "sources": [
+    {
+     "label": "chalhoubgroup.com",
+     "url": "https://www.chalhoubgroup.com/en/media/342/chalhoub-group-and-gap-inc-announce-strategic-partnership-to-expand-gap-banana-republic-and-athleta-across-the-gcc"
+    },
+    {
+     "label": "WWD · 4 Aug 2026",
+     "url": "https://wwd.com/sourcing-journal/sj-denim/gap-inc-chalhoub-group-to-grow-middle-east-business-1239094920/"
+    },
+    {
+     "label": "Zawya (press release) · Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/chalhoub-group-and-gap-inc.-announce-strategic-partnership-421710"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Abu Dhabi free-visa pilot uptake, DCT metrics, possible extension to other source markets, and competitor responses from Dubai/Ras Al Khaimah.",
+  "Egypt SIM re-verification fallout, operator responses, store/contact-centre queue pressure, regulator follow-up.",
+  "SoundHound–LivePerson shareholder vote (20 Aug), approval would create an end-to-end omnichannel conversational-AI platform.",
+  "The Grand opening day (19 Aug, Nad Al Sheba), first-phase shopper-experience coverage expected.",
+  "Saudi DGA Digital Government Award deadline (27 Aug), then judging/winners cycle.",
+  "Dubai Summer Surprises finale (to 30 Aug) and Sharjah Summer Promotions draws (to 15 Sep) .",
+  "GAIN 2026, Riyadh (15–17 Sep), Saudi's Global AI Summit in its declared \"Year of AI\".",
+  "Oman \"new centre to streamline municipal services\" (Gulf Insider), held back this run as the publication date could not be verified; recheck.",
+  "Al Othaim Markets (Tadawul 4001, member group): H1/Q2 2026 results expected tomorrow, 12 August, check Tadawul filing.",
+  "The Grand, Nad Al Sheba Gardens (UAE): phase 1 opens 19 August , anchored by Waitrose & Partners with member Al Jaber Optical among first tenants.",
+  "Lulu Retail Holdings (ADX, member group): H1 2026 results due 19 August .",
+  "Reem Mall (Abu Dhabi): Future Founders Market stage two, 14–18 August."
+ ]
+}

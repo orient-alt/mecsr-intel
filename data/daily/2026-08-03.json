@@ -1,0 +1,322 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-08-03",
+ "legacy": true,
+ "origin_files": [
+  "MECSR_Daily_Intel_2026-08-03.html"
+ ],
+ "coverage": {
+  "label": "Friday 31 Jul 2026 – Sunday 02 Aug 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-08-03-01",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "The Grand: Nad Al Sheba Gardens",
+   "summary": "Fully-leased community mall begins phased opening on 19 Aug 2026, anchored by the first Waitrose & Partners in Nad Al Sheba, alongside MMI, Al Jaber Optical and wellness/healthcare tenants.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Gulf News · Jul 2026",
+     "url": "https://gulfnews.com/business/retail/7-new-uae-malls-opening-in-2026-maps-dates-highlights-unveiled-1.500401112"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-02",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "South Bay Mall",
+   "summary": "~200,000 sq ft of shopping, dining and leisure across ground, first and rooftop levels; 60 retail units, a food hall, clubhouse, gym, spa and clinic planned overlooking the South Bay lagoon.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Gulf News · Jul 2026 (day unverified)",
+     "url": "https://gulfnews.com/business/retail/dubai-is-getting-9-new-malls-and-retail-hubs-here-is-what-is-opening-and-where-1.500626799"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-03",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "Le Meryeme Mall (Liwan) & The Villa Mall",
+   "summary": "Two Spanish-inspired luxury malls (~113,700 sq ft and ~124,000 sq ft) in Wadi Al Safa 2, featuring retail, dining, rooftop pools and wellness zones; both slated for H2 2026.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "Gulf News / KeyMavens · Jul 2026 (day unverified)",
+     "url": "https://blog.wego.com/dubai-new-malls/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-04",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "The Avenues – Riyadh",
+   "summary": "1.8m sqm built-up area, ~370,000 sqm GLA comprising a large mall and five towers; targeted to open by Q4 2026.",
+   "sources": [
+    {
+     "label": "RLI / market trackers · 2026 (day unverified)",
+     "url": "https://www.rli.uk.com/anticipated-project-openings-2/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-05",
+   "stream": "dest",
+   "type": "market",
+   "country": "Saudi Arabia",
+   "title": "Riyadh retail market growth",
+   "summary": "Knight Frank forecasts Riyadh's retail space to grow 28% to 4.6 million sqm by 2026, underscoring continued pipeline expansion in the capital.",
+   "sources": [
+    {
+     "label": "Gulf News (Knight Frank) · 2026 (day unverified)",
+     "url": "https://gulfnews.com/business/retail/saudi-arabia-malls-shops-in-riyadh-to-get-28-bigger-by-2026-1.1720597854660"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-06",
+   "stream": "dest",
+   "type": "new",
+   "country": "Egypt",
+   "title": "The Way Mall & POINT HUB Mall",
+   "summary": "TIG Developments launches two new mall projects with combined investment exceeding EGP1.5bn for H2 2026. The Way Mall sits on a 1,680 sqm plot in Badr City near the Russian University.",
+   "article_date": "2026-08",
+   "sources": [
+    {
+     "label": "EgyGateNews · Aug 2026 (date unverified)",
+     "url": "https://www.egygatenews.com/2026/08/tig-developments-launches-way-mall-and.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-07",
+   "stream": "dest",
+   "type": "new",
+   "country": "Qatar",
+   "title": "Downtown Souq: Al Khor",
+   "summary": "New mall opened in Al Khor, becoming the city's second shopping destination after Al Khor Mall (2012); features 300+ retail outlets, a 1,000 sqm entertainment area and 20 F&B outlets.",
+   "article_date": "2026-07",
+   "sources": [
+    {
+     "label": "ILoveQatar.net / Marhaba Qatar · Jul 2026 (day unverified)",
+     "url": "https://www.iloveqatar.net/guide/places/downtown-souq-mall-complex-al-khor"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-08",
+   "stream": "dest",
+   "type": "new",
+   "country": "Qatar",
+   "title": "Qatar Outlet Village",
+   "summary": "Billed as the \"world's first outdoor air-conditioned mall\", 100+ global luxury boutiques, waterside dining and a festival plaza across ~150,000 sqm; set to open in 2026.",
+   "sources": [
+    {
+     "label": "Marhaba Qatar · 2026 (date unverified)",
+     "url": "https://marhaba.qa/a-resilient-retail-market/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "Kuwait",
+   "title": "Aventura Mall",
+   "summary": "Construction 96% complete; project loan financing upsized to help complete the mixed-use lifestyle destination (shopping mall + residential). Opening targeted H2 2026.",
+   "article_date": "2026-04-29",
+   "sources": [
+    {
+     "label": "Zawya via TradingView (Reuters) · 29 Apr 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-04-29:newsml_Zaw1ZnFzk:0-zawya-kuwait-developer-mabanee-upsizes-loan-for-commercial-complex-to-428-9mln/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-10",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kuwait",
+   "title": "S3 Investment Opportunity",
+   "summary": "PPP with Kuwait's Public Authority for Housing Welfare (PAHW) for a traditional souk, regional mall and 110-key Hampton by Hilton hotel.",
+   "article_date": "2026-05-07",
+   "sources": [
+    {
+     "label": "Zawya · 07 May 2026",
+     "url": "https://www.zawya.com/en/projects/construction/mabanees-kuwait-projects-on-track-despite-regional-uncertainties-lagoj7k0"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-11",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Al Khobar mall: Saudi Downtown Company",
+   "summary": "PIF-backed Saudi Downtown Company signs agreement to develop a new shopping mall in Al Khobar, part of the Kingdom's urban-centre revitalisation push. Cross-reference Cenomi Centers item in Section B below.",
+   "article_date": "2026-04",
+   "sources": [
+    {
+     "label": "Construction Week Online · ~Apr 2026",
+     "url": "https://www.constructionweekonline.com/news/pif-saudi-downtown-khobar"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-12",
+   "stream": "dest",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "Baniyas digital mall & hypermarket",
+   "summary": "Lulu partners with Al Lul Group to build a digital mall and a 70,000 sq ft hypermarket in Baniyas, targeted for completion end-March 2026.",
+   "article_date": "2026-03",
+   "sources": [
+    {
+     "label": "LuLu Retail (official) · ~Mar 2026",
+     "url": "https://www.luluretail.com/media/news/lulu-partners-with-al-lul-group-to-develop-new-retail-destination-in-baniyas-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-13",
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "title": "Cenomi Centers",
+   "summary": "Signs deal with PIF-backed Saudi Downtown Company to develop a major destination in Al Khobar, extending the Kingdom's downtown-regeneration retail push.",
+   "member": true,
+   "sources": [
+    {
+     "label": "Maaal · 2026 (date unverified)",
+     "url": "https://maaal.com/en/news/details/cenomi-centers-signs-deal/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-14",
+   "stream": "member",
+   "type": "market",
+   "country": "Bahrain",
+   "title": "Majid Al Futtaim",
+   "summary": "Discontinues Carrefour operations in Kuwait and Bahrain; launches new HyperMax flagship grocery retail brand in Bahrain.",
+   "member": true,
+   "sources": [
+    {
+     "label": "AGBI · 2026 (date unverified)",
+     "url": "https://www.agbi.com/companies/majid-al-futtaim-group/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-15",
+   "stream": "member",
+   "type": "deal",
+   "country": "Egypt",
+   "title": "Majid Al Futtaim / Midar",
+   "summary": "Partnership with Egypt's Midar for Investment and Urban Development to build a $3.1bn mixed-use development in Mada City, New Cairo, witnessed by the Egyptian PM.",
+   "article_date": "2026-06",
+   "member": true,
+   "sources": [
+    {
+     "label": "Egypt Today / AGBI · Jun 2026",
+     "url": "https://www.egypttoday.com/Article/3/147914/PM-witnesses-3-1B-Midar-Majid-Al-Futtaim-partnership-for"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-16",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Saudi Arabia",
+   "title": "Chalhoub Group",
+   "summary": "Inaugurates a regional fulfilment centre in Riyadh's free zone near King Khalid International Airport, designed to enable 90-minute deliveries to major Saudi cities; also progressing Level Shoes' planned Miami flagship and a stake in designer Willy Chavarria.",
+   "member": true,
+   "sources": [
+    {
+     "label": "WWD / AGBI · 2026 (date unverified)",
+     "url": "https://wwd.com/business-news/markets/chalhoub-group-rewriting-the-playbook-1238385687/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-17",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Chalhoub Group",
+   "summary": "Signs solar lease agreement with Yellow Door Energy, supporting the group's net-zero-by-2040 target; solar project construction expected complete early 2026.",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya (press release) · 2026 (date unverified)",
+     "url": "https://www.zawya.com/en/press-release/companies-news/towards-net-zero-chalhoub-group-and-yellow-door-energy-sign-solar-lease-dmkzc0iv"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-18",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Lulu International Holdings",
+   "summary": "Signs strategic MoU with the UAE Food Cluster at \"Make it in the Emirates 2026\" (ADNEC, Abu Dhabi) to champion \"Made in UAE\" food products across its retail network.",
+   "article_date": "2026-05",
+   "member": true,
+   "sources": [
+    {
+     "label": "Gulf News · May 2026",
+     "url": "https://gulfnews.com/business/corporate-news/lulu-signs-strategic-mou-with-uae-food-cluster-to-champion-made-in-uae-globally-1.500530975"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-19",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "Lulu International Holdings",
+   "summary": "Launches Phase 2 of its Al Tayeb food-processing facility in Abu Dhabi, expanding local food-manufacturing capacity.",
+   "member": true,
+   "sources": [
+    {
+     "label": "Company release · 2026 (date unverified)",
+     "url": "https://www.luluretail.com/media/news/"
+    }
+   ]
+  },
+  {
+   "id": "2026-08-03-20",
+   "stream": "member",
+   "type": "expansion",
+   "country": "Kuwait",
+   "title": "Mabanee",
+   "summary": "Hilton Kuwait Resort renovation (331-key beachfront resort, JV with Touristic Enterprises Company) reaches 39% completion; reopening targeted H2 2026.",
+   "article_date": "2026-05-07",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya via TradingView (Reuters) · 07 May 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-05-07:newsml_Zaw1PqB2V:0-zawya-mabanee-s-kuwait-projects-on-track-despite-regional-uncertainties/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Majid Al Futtaim governance claim. Reports of a June 2026 Dubai-government board takeover (new chair Fadel Abdulbaqi Al Ali) could not be corroborated on a Category A/B source and resembles a story previously traced to June 2025. Needs direct verification against MAF official channels before inclusion as fact.",
+  "Qatar Outlet Village. \"World's first outdoor air-conditioned mall\" claim lacks a confirmed opening date or primary-source corroboration, track for firm 2026 opening announcement.",
+  "TIG Developments (Egypt), The Way Mall / POINT HUB Mall. Sourced from a single regional aggregator with an unverified exact publication date; seek confirmation via Egypt-focused Category B media (Daily News Egypt, Enterprise) before next report.",
+  "Cenomi Centers, Al Khobar destination. Cross-reference the Maaal item against the Saudi Downtown Company / Construction Week Online piece to confirm whether these describe the same transaction or two separate Al Khobar mall projects.",
+  "Aldar, Marsa Al Saadiyat launches. AED100bn Saadiyat Island masterplan launches were flagged in H2 2026 guidance; watch for the first formal sales/launch announcement.",
+  "The Grand (Nad Al Sheba Gardens). Phased opening scheduled 19 Aug 2026, confirm on-the-day opening coverage closer to the date."
+ ]
+}

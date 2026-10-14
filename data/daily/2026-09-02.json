@@ -1,0 +1,272 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-02",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-02.html",
+  "MECSR_Daily_Intel_2026-09-02.html"
+ ],
+ "coverage": {
+  "label": "Tuesday 1 September 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-02-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Saudi Arabia",
+   "title": "Tawakkalna platform completes integration across 62 government entities",
+   "summary": "Day two of LEAP 2026 in Riyadh (31 Aug–3 Sep) put a citizen-facing milestone alongside the conference's robotics and infrastructure showcases: Saudi Arabia's Tawakkalna \"super-app\" has completed integration with 62 government entities, consolidating 926 services into a single citizen touchpoint. The platform now serves 36 million users and processes 85 million transactions daily, figures that position it as one of the region's largest single government-CX consolidation efforts to date. Day two's other headline items (AGIBOT and Unitree humanoid robotics, PSYONIC bionic prosthetics, Supermicro infrastructure) were enterprise- and healthcare-facing rather than retail/CX-specific. For MECSC members, the practical takeaway is scale rather than novelty: Tawakkalna's daily-transaction figure gives a concrete benchmark for what \"one citizen, one app\" looks like at national scale, useful for any member benchmarking government or large-enterprise self-service consolidation.",
+   "article_date": "2026-09-02",
+   "sources": [
+    {
+     "label": "entARABI · 2 Sep 2026",
+     "url": "https://entarabi.com/en/2026/09/day-two-of-leap-2026-highlights-ai/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai Police's AI-enhanced protection platform cuts response times, response rate up 200%",
+   "summary": "Dubai Police upgraded its Child Protection and Women's Protection reporting platform with AI and voice-recording technology, adding an \"Instant Assistant\" feature designed to speed response while preserving reporter privacy through encryption. The upgrade drove a 200% increase in response rates to reports involving women. The smart app and Women's Protection platform together accounted for 95% of all women's reports and complaints in 2025, while telephone reporting remains the primary channel for child-protection cases (60% of submissions); emergency cases receive immediate intervention, with non-urgent cases processed within two working days. This is a useful data point for MECSC members on how a public-safety service, not a typical \"CX\" function, is treating response-rate improvement and channel mix as measurable service-experience outcomes, with privacy-by-design built into the AI layer rather than bolted on afterward.",
+   "article_date": "2026-07-20",
+   "sources": [
+    {
+     "label": "Gulf News · 20 Jul 2026",
+     "url": "https://gulfnews.com/amp/story/uae/government/a-200-jump-in-response-dubai-polices-ai-platform-is-transforming-protection-1.500614371"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "UAE",
+   "title": "ruya takes agentic AI live in production, customer-facing assistants next",
+   "summary": "UAE digital bank ruya confirms three agentic-AI use cases are now live in production, covering business-account onboarding and transaction processing, including document analysis, verification checks and case summarisation, moving the bank beyond the pilot/roadmap stage flagged in earlier dossiers (its Magure partnership, logged 10–14 Aug). The AI infrastructure runs inside ruya's private cloud so customer data stays within the bank's own systems, with governance controls, audit trails and human oversight built in to align with UAE Central Bank expectations. The CEO framed it plainly: \"We didn't set out to run AI projects, we set out to build a bank where intelligence is part of the foundation.\" Collections management, compliance support, an internal employee assistant (RuyaAI) and, most relevant to MECSC members, customer-facing AI assistants and personalization are next on the roadmap. The practical read: this is one of the clearer regional examples of agentic AI moving from announcement to measurable production use inside a regulated environment, worth tracking as the customer-facing layer arrives.",
+   "article_date": "2026-08-18",
+   "sources": [
+    {
+     "label": "Khaleej Times · 18 Aug 2026",
+     "url": "https://www.khaleejtimes.com/business/uae-digital-bank-ruya-deploys-agentic-ai-targets-ai-native-future"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-04",
+   "stream": "ai",
+   "type": "ai",
+   "country": "MENA",
+   "title": "Merkle MENA and Adobe launch \"Experience Concierge for Retail\" for the region",
+   "summary": "Merkle MENA, working with Adobe, has built an \"Experience Concierge for Retail\", a multi-agent system designed to orchestrate entire customer journeys rather than isolated chatbot interactions, explicitly aimed at MENA retailers' fragmented legacy-plus-modern tech stacks and multilingual, multi-payment-method customer base. The system targets 15–30% conversion lifts, 10–25% average-order-value growth and 20–40% service-cost reductions. It sits inside a broader global shift the article frames with Deloitte's 2026 outlook (nearly 90% of retail executives expect AI to outpace search engines) and industry estimates that AI agents could handle 15–25% of global e-commerce sales by 2030; roughly 40% of consumers already use AI for product discovery, and 77% say conversational experiences make shopping easier. For MECSC members, this is a concrete, regionally-built example of the \"agentic commerce\" trend rather than a global vendor case study, worth watching for named GCC retailer adopters in coming months.",
+   "article_date": "2026-08-24",
+   "sources": [
+    {
+     "label": "Martechvibe · 24 Aug 2026",
+     "url": "https://martechvibe.com/article/from-chatbots-to-concierge-inside-retails-agentic-cxm-shift/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-05",
+   "stream": "dest",
+   "type": "new",
+   "country": "Afghanistan",
+   "title": "Eight-story, 560-shop commercial market approved for Kabul's Mandawi district",
+   "summary": "Afghanistan's National Procurement Commission, chaired by Deputy Prime Minister Mullah Abdul Ghani Baradar, approved construction of an eight-story commercial market with 560 shops on Ministry of Finance land in Kabul's 1st district (the Mandawi trading area). Total investment is put at roughly 162 million AFN (~US$2.3m). No developer name, design details or construction timeline were disclosed in the announcement; this is a government approval, not yet a groundbreaking.",
+   "article_date": "2026-09-01",
+   "sources": [
+    {
+     "label": "Ariana News · 1 Sep 2026",
+     "url": "https://www.ariananews.af/eight-story-commercial-market-to-be-built-in-kabuls-mandawi-area/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-06",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Qatar",
+   "title": "GWC Group signs 15-year lease with Safari Shopping Centre at Logistics Village Qatar",
+   "summary": "GWC Group has signed a 15-year leasing agreement covering 3,613 sqm of retail space plus roughly 5,000 sqm of parking with Safari Shopping Centre at Logistics Village Qatar (LVQ), the group's roughly 1 million sqm logistics hub near Hamad Port and Hamad International Airport. The deal expands retail and community services aimed at site workers and nearby residents, adding a consumer-retail layer to what is primarily an industrial/logistics development.",
+   "article_date": "2026-08-03",
+   "sources": [
+    {
+     "label": "Zawya (press release) · 3 Aug 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/gwc-group-signs-15-year-leasing-agreement-with-safari-shopping-centre-at-logistics-village-qatar-418500"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-07",
+   "stream": "dest",
+   "type": "market",
+   "country": "Qatar",
+   "title": "Qatar retail market trackers: \"held steady\" in Q2, outlook turns \"cautiously positive\"",
+   "summary": "The Peninsula Qatar, a named national daily, published two retail-market commentary pieces via its dated URL convention: one reporting the retail market \"held steady\" through Q2 2026, a later one describing the near-term outlook as \"cautiously positive.\" Full article text could not be independently fetched for this report, an automated retrieval attempt hit a server redirect loop, so the specifics behind each headline are unconfirmed beyond the outlet's own date-stamped URLs. Flagged as lower-confidence: included because the publisher itself is an established, bylined national outlet, but the underlying detail should be verified directly before being cited further.",
+   "article_date": "2026-08-28",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 11 Aug 2026",
+     "url": "http://thepeninsulaqatar.com/article/11/08/2026/retail-market-holds-steady-in-q2-2026"
+    },
+    {
+     "label": "The Peninsula Qatar · 28 Aug 2026",
+     "url": "http://thepeninsulaqatar.com/article/28/08/2026/retail-outlook-remains-cautiously-positive"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-08",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Nigeria",
+   "title": "Orca Deco to build second mall, in Maitama, Abuja",
+   "summary": "Orca Deco, developer of the 50,000 sqm mall at Lagos's Eko Atlantic, is to build a second, roughly 43,000 sqm mall on Maitama-Asokoro Road in Abuja. Contractor ITB Nigeria has been appointed, with completion targeted for Q2 2027. The move extends the developer's footprint from Lagos into the federal capital.",
+   "article_date": "2026-07-05",
+   "sources": [
+    {
+     "label": "BusinessDay NG · 5 Jul 2026",
+     "url": "https://businessday.ng/life/article/orca-deco-expands-frontiers-set-to-build-its-second-mall-in-abuja/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-09",
+   "stream": "dest",
+   "type": "new",
+   "country": "Algeria",
+   "title": "\"AZ Mall Grand Mosta\" opens in Mostaganem, billed as Algeria's largest",
+   "summary": "AZ Mall Grand Mosta has opened in Mostaganem with investment reported at more than 8 billion Algerian dinars. The opening was announced via Algeria's official Investment Promotion Agency (AAPI) as evidence of growing private investment in the country's retail sector.",
+   "article_date": "2026-07-26",
+   "sources": [
+    {
+     "label": "Algérie Presse Service (APS, official state news agency) · 26 Jul 2026",
+     "url": "https://www.aps.dz/fr/algerie/developpement/ms27hk9h-ouverture-du-plus-grand-centre-commercial-au-niveau-national"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-10",
+   "stream": "dest",
+   "type": "market",
+   "country": "Kazakhstan",
+   "title": "Trade sector leads Kazakhstan's H1 2026 investment growth",
+   "summary": "Kazakhstan's trade sector attracted 637.2bn tenge (~US$1.4bn) in H1 2026 investment, up 22.3% year-on-year; wholesale/retail trade was the single largest category within that at 246.6bn tenge (~US$541m), concentrated in Almaty and the Turkestan region. No specific mall or retail-property project was named, this is a macro/market signal rather than a project announcement, logged here as context for the country's retail-investment trajectory.",
+   "article_date": "2026-08-21",
+   "sources": [
+    {
+     "label": "Kursiv Media (Kazakhstan) · 21 Aug 2026",
+     "url": "https://kz.kursiv.media/en/2026-08-21/engk-nknk-investment-in-kazakhstans-trade-sector-grows/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-11",
+   "stream": "dest",
+   "type": "market",
+   "country": "Türkiye",
+   "title": "Istanbul AVM pipeline update includes Kumburgaz Outlet's 2026 opening target",
+   "summary": "A roundup of Istanbul's shopping-centre pipeline names the 30,000 sqm Kumburgaz Outlet as targeting a 2026 opening, and the V Mall (Başakşehir, İsra Group) among ongoing projects; the piece cites Istanbul as having 93 operating AVMs and 22 shopping-centre investments under way. Note: this article's figures mix fresh reporting with older background statistics (2015–16 and 2023 references), so the citywide totals should be treated with caution pending cross-reference; the Kumburgaz-specific 2026 target is the actionable item. Published one day after the formal 1 Sep coverage-window cut-off, included here for proximity and because it is not carried in any prior report in this series.",
+   "article_date": "2026-09-02",
+   "sources": [
+    {
+     "label": "Emlakkulisi.com · 2 Sep 2026",
+     "url": "https://emlakkulisi.com/guncel/istanbul-yeni-avm-projeleri/1084036"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-12",
+   "stream": "dest",
+   "type": "new",
+   "country": "Iraq",
+   "title": "Iraq Mall opens in Baghdad's Al-Dora district",
+   "summary": "Iraq Mall, a 550,000+ sqm scheme developed by Hassan Al-Lami and billed as the country's largest mall, opened in Baghdad's Al-Dora district. Carried here only as historic context (~193 days old), not a new finding, since it remains one of the region's most significant single mall openings this year and is already an established directory entry per prior reports.",
+   "article_date": "2026-02-21",
+   "sources": []
+  },
+  {
+   "id": "2026-09-02-13",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "Al Othaim Markets posts unexpected SAR107.13m Q2 net loss",
+   "summary": "Abdullah Al Othaim Markets Co. (member) reported Q2 2026 results well below expectations, an unexpected net loss of SAR107.13m, against a Ubhar Capital forecast of roughly SAR3m in profit. The miss follows the company's 12 Aug leadership change (already reported in this series) and has prompted analysts to revisit stock recommendations. Distinct from the earlier-reported managing-director appointment, this is the first report of the quarter's actual financial performance.",
+   "article_date": "2026-08-17",
+   "member": true,
+   "sources": [
+    {
+     "label": "Argaam · 17 Aug 2026",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1929924"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-14",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "Cenomi Retail's net loss narrows as Zara/Inditex portfolio grows",
+   "summary": "Cenomi Retail (Fawaz Alhokair, member) reported Q2 2026 revenue of SAR1.26bn, up 11.5% year-on-year, with its Zara/Inditex brand portfolio delivering approximately 10–13% like-for-like growth. The net loss narrowed to SAR80.9m for the quarter, though the H1 net loss widened to SAR133.9m on higher finance costs. This is a distinct entity from Cenomi Centers (the mall-operator member already covered in this series for its Saudi Downtown Company Medina deal and Westfield Jeddah opening).",
+   "article_date": "2026-08-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "EnterpriseAM · 12 Aug 2026",
+     "url": "https://enterpriseam.com/ksa/2026/08/12/cenomi-retail-al-othaim-markets-saudi-german-health-and-senaat-post-mixed-2q-earnings/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-15",
+   "stream": "member",
+   "type": "award",
+   "country": "Saudi Arabia",
+   "title": "Knowledge Economic City showcases SAR24bn Madinah portfolio at FHS Saudi Arabia",
+   "summary": "Knowledge Economic City Co. (member) served as a Strategic Partner at the Future Hospitality Summit Saudi Arabia 2026 (22–24 Jun), showcasing a SAR24bn (US$6.3bn) Madinah portfolio spanning 6.8m sqm across four destinations, Madinah Gate, Multaqa AlMadinah, Islamic World District and Al Alyaa. Distinct from the previously-reported SAR91m SALCO infrastructure contract for the same overall district. Included as recent background near the edge of the 90-day window (~71 days old at time of writing).",
+   "article_date": "2026-06-23",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya / TradeArabia · 23 Jun 2026",
+     "url": "https://www.zawya.com/en/business/real-estate/saudi-knowledge-economic-city-showcases-63bln-madinah-vision-at-fhs-2026-jhk8e9jd"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-02-16",
+   "stream": "member",
+   "type": "financial",
+   "country": "Egypt",
+   "title": "Elsewedy Electric lifts Q2 sales 36.7% despite margin pressure",
+   "summary": "El Sewedy Industries' listed arm, Elsewedy Electric (member), reported Q2 2026 sales of US$1.76bn, up 36.7% year-on-year, with net income of $101.8m (+11.6%) though margins narrowed. H1 revenue reached $3.27bn, up 31.9%. The stock dipped roughly 2% on the print despite the company's year-to-date gains, reflecting investor focus on the margin compression alongside the strong top-line growth.",
+   "article_date": "2026-08-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "Billionaires.Africa · 12 Aug 2026",
+     "url": "https://www.billionaires.africa/2026/08/12/egyptian-billionaire-ahmed-elsewedys-elsewedy-electric-lifts-sales-37-as-margins-narrow/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "LEAP 2026, Riyadh (31 Aug – 3 Sep), two days remain; watch specifically for retail/CX-facing exhibitor announcements, which have been thinner than the conference's robotics/infrastructure/government news this year.",
+  "ruya's customer-facing AI assistant rollout, production milestone confirmed for onboarding; watch for the promised move into customer-facing assistants and personalization.",
+  "Merkle MENA/Adobe Experience Concierge for Retail, watch for named GCC retailer adopters and any published conversion/AOV results.",
+  "GCXA 26 finalists mystery, still unresolved. LinkedIn posts naming Gulf Customer Experience Awards 2026 finalists remain undated/unconfirmable; still worth checking directly via gulfcxawards.com before citing.",
+  "First Avenue Mall & Le Meryeme (The Villa), both still targeting September openings, unconfirmed; watch for firm dates and opening-day tenant lists.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep, 5th edition), supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements.",
+  "GITEX Global 2026, Dubai (7–11 Dec), Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still too early for CX-specific exhibitor news.",
+  "Mandawi commercial market (Kabul, Afghanistan): watch for a developer name, design details and construction start following the National Procurement Commission's approval.",
+  "Safari Shopping Centre / Logistics Village Qatar: confirm directory status and obtain total retail GLA for the site beyond the newly-leased 3,613 sqm.",
+  "Peninsula Qatar retail-market pieces (11 & 28 Aug): re-fetch full article text once the outlet's redirect issue clears, to confirm the specifics behind \"held steady\" and \"cautiously positive.\"",
+  "Orca Deco, Maitama, Abuja (Nigeria): monitor for a construction-start announcement ahead of the Q2 2027 completion target.",
+  "AZ Mall Grand Mosta (Algeria): obtain GLA and tenant-mix detail from a second source to support a directory entry."
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-26",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-26.html",
+  "MECSR_Daily_Intel_2026-07-26.html"
+ ],
+ "coverage": {
+  "label": "Tuesday 21 July – Sunday 26 July 2026 (catch-up run)"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-26-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Egypt",
+   "title": "EgyptAir partners with Salesforce on AI-powered customer platform",
+   "summary": "EgyptAir signed an agreement with Salesforce to introduce an AI- and data-driven customer service platform, unifying booking, sales and customer-service systems in one digital environment. The platform will roll out first on EgyptAir's website before expanding to its mobile apps, with the stated goal of personalising service and improving response times across the passenger journey.",
+   "article_date": "2026-07-21",
+   "sources": [
+    {
+     "label": "Ahram Online · 21 Jul 2026",
+     "url": "https://english.ahram.org.eg/NewsContent/1/1235/573232/Egypt/Urban--Transport/EgyptAir-partners-with-Salesforce-on-AIpowered-cus.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Chevrolet & Al Ghandi Auto to unveil GM-first experiential CX space in Dubai",
+   "summary": "Chevrolet and its exclusive Dubai dealer Al Ghandi Auto announced a new \"customer experience space\" inside City Centre Mirdif, described as a world-first retail concept for General Motors, moving beyond the traditional showroom model with immersive technology and global design input. Opening date, pricing and specific in-store technologies were not yet confirmed at announcement.",
+   "article_date": "2026-07-15",
+   "sources": [
+    {
+     "label": "TradeArabia · 15 Jul 2026",
+     "url": "https://www.tradearabia.com/News/465142/Chevrolet,-Al-Ghandi-Auto-set-to-unveil-new-experiential-showroom-in-Dubai"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-03",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "FAB, CBD begin issuing Jaywan cards as UAE frames rollout around customer experience",
+   "summary": "First Abu Dhabi Bank and Commercial Bank of Dubai started issuing Jaywan cards to customers, part of the UAE's domestic card-scheme rollout. UAE Central Bank Governor Khaled Balama described the launch as a \"qualitative leap\" in payment-services development, explicitly tying it to enhanced customer experience across the banking sector.",
+   "article_date": "2026-07-20",
+   "sources": [
+    {
+     "label": "The National · 20 Jul 2026",
+     "url": "https://www.thenationalnews.com/business/money/2026/07/20/uae-starts-issuing-jaywan-cards-to-banks-and-financial-institutions/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-04",
+   "stream": "cx",
+   "type": "leadership",
+   "country": "UAE",
+   "title": "Kapture CX appoints Konica Khandelwal as VP – Middle East",
+   "summary": "Agentic-AI CX platform Kapture CX appointed Konica Khandelwal, previously with Inception (a G42 company), TONOMUS/NEOM, Yellow.ai and Kore.ai, as Vice President for the Middle East. Based in Dubai, she will lead enterprise sales, strategic partnerships and customer success as the company expands its agentic-AI CX platform across the GCC.",
+   "article_date": "2026-07-21",
+   "sources": [
+    {
+     "label": "TahawulTech · ~21 Jul 2026 (exact date unverified, cross-referenced via BW People/AdGully)",
+     "url": "https://www.tahawultech.com/appointments/konica-khandelwal-moves-from-inception-g42-to-join-kapture-cx-as-vp-middle-east/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-05",
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "title": "SAP Engagement Index: UAE firms accelerate AI investment, but engagement maturity lags",
+   "summary": "A new SAP Engagement Index study reports 76% of UAE businesses plan to invest in AI-powered customer engagement in 2026, and 74% believe AI is critical for acquiring and retaining customers, yet only 15% of UAE marketers scored high on engagement maturity. More than half of firms said they cannot access real-time customer data, and 64% cited unused \"dark data,\" pointing to a widening gap between AI investment and delivered customer experience.",
+   "article_date": "2026-07-19",
+   "sources": [
+    {
+     "label": "Khaleej Times · ~19 Jul 2026",
+     "url": "https://www.khaleejtimes.com/business/uae-firms-step-up-ai-investments-as-customer-expectations-outpace-business-capabilities"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-06",
+   "stream": "ai",
+   "type": "ai",
+   "country": "",
+   "title": "OpenAI launches \"Presence,\" an enterprise voice & chat AI agent platform",
+   "summary": "OpenAI officially launched Presence, an enterprise platform letting businesses deploy and manage real-time voice agents and chatbots combined with company policies, guardrails, testing systems and escalation controls, via limited general availability with OpenAI Forward Deployed Engineers and select systems integrators. Directly relevant to GCC banks, telcos and retailers currently localising voice-AI assistants into Arabic and regional dialects.",
+   "article_date": "2026-07-22",
+   "sources": [
+    {
+     "label": "VentureBeat · 22 Jul 2026",
+     "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-07",
+   "stream": "ai",
+   "type": "market",
+   "country": "",
+   "title": "Uber cuts 10% of customer-service workforce as AI absorbs more support volume",
+   "summary": "Uber announced it is cutting 10% of its customer-service staff as it shifts more support interactions to AI agents, one of the more concrete recent data points on AI's employment impact in contact centres globally, echoing the Forrester/Genesys findings covered in the 20 Jul dossier and relevant to GCC organisations weighing similar AI-driven contact-centre restructuring.",
+   "article_date": "2026-07-23",
+   "sources": [
+    {
+     "label": "Marketplace.org · 23 Jul 2026",
+     "url": "https://www.marketplace.org/story/2026/07/23/ai-customer-service-agents-are-gaining-popularity"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-08",
+   "stream": "dest",
+   "type": "",
+   "country": "UAE",
+   "title": "Majid Al Futtaim unveils first Premium Carrefour Market concept at Jumeirah Park Centre",
+   "summary": "Majid Al Futtaim opened its first Premium Carrefour Market format at Jumeirah Park Centre, Dubai, a 2,200+ sqm store built around a food-first layout (fresh/ready-made food up 25%→38% of selling area), a new BakeHouse Café, an expanded Fresh Market, 900+ new products, a redesigned Health & Beauty destination with K-Beauty bays, and an elevated Pet Care offering. The premium concept is set to roll out across additional stores during 2026. See mecsr-weekly-intel-report for any related property/leasing detail, this entry is limited to the customer/shopper-experience angle.",
+   "article_date": "2026-07-02",
+   "sources": [
+    {
+     "label": "Zawya / Gulf Today · 2–3 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-unveils-first-premium-carrefour-market-concept-in-the-uae-at-jumeirah-park-centre-d1jfqudr"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-09",
+   "stream": "dest",
+   "type": "new",
+   "country": "UAE",
+   "title": "UAE Aldar unveils Marsa Al Saadiyat: AED100bn ($27.2bn) waterfront masterplan New Property / Mixed-Use 22 Jul 2026",
+   "summary": "Aldar launched Marsa Al Saadiyat, the final phase of the Saadiyat Island masterplan in Abu Dhabi, inaugurated by Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, Crown Prince of Abu Dhabi. The waterfront district will house private mansions, branded residences, luxury villas and waterfront apartments for more than 58,000 residents, alongside retail, dining and leisure components. Site enabling and infrastructure works are expected to begin in Q3 2026, with the first phase of home sales starting in H2 2026. This is a distinct, larger project from Aldar's Yas Point announcement covered in the 13 Jul report, both add to Aldar's active retail-adjacent development pipeline on Abu Dhabi's islands.",
+   "article_date": "2026-07-22",
+   "sources": [
+    {
+     "label": "Zawya · 22 Jul 2026",
+     "url": "https://www.zawya.com/en/projects/aldar-to-begin-enabling-work-on-27bln-marsa-al-saadiyat-in-q3-2026-408290"
+    },
+    {
+     "label": "The National (Yas Point context) · 10 Jul 2026",
+     "url": "https://www.thenationalnews.com/business/2026/07/10/aldar-unveils-plans-for-163bn-yas-point-to-boost-abu-dhabis-lifestyle-appeal/"
+    },
+    {
+     "label": "Gulf Business · Jul 2026",
+     "url": "https://gulfbusiness.com/en/2026/construction/aldar-launches-dhs100bn-marsa-al-saadiyat-masterplan/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-10",
+   "stream": "dest",
+   "type": "status",
+   "country": "Bahrain",
+   "title": "BAHRAIN Seef Properties appoints Cinqo Contracting for new Seef Mall construction package Status Update 21 Jul 2026",
+   "summary": "Seef Properties signed an agreement with Cinqo Contracting to execute a further package of works within the ongoing Seef Mall – Seef District redevelopment, following June's award to Mohammed Jalal Contracting for the main construction works. Cinqo will build a multi-storey car park on the mall's southern side plus new external elevations and main gates, increasing capacity and improving accessibility ahead of the mall's architectural repositioning. Confirms the project is progressing through sequential contractor appointments rather than a single package, per CEO Ahmed Yusuf.",
+   "article_date": "2026-07-21",
+   "sources": [
+    {
+     "label": "Zawya (Seef Properties press release) · 21 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-cinqo-contracting-to-execute-new-package-of-construction-works-404062"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-11",
+   "stream": "dest",
+   "type": "new",
+   "country": "Egypt",
+   "title": "EGYPT Somou Boulevard: Egypt's first \"ungated\" mixed-use destination at scale New Property / Mixed-Use 20 Jul 2026",
+   "summary": "Developer Paragon is advancing Somou Boulevard, pitched as Egypt's first ungated mixed-use development at scale, with delivery targeted for 2030. The project is structured as an institutional-style joint venture, a departure from Egypt's typically gated-compound development model, and includes retail alongside residential and commercial components. First capture of this developer/project in this report series; single-source coverage (business newsletter, not a named MECSR-policy outlet), cross-reference recommended before external use.",
+   "article_date": "2026-07-20",
+   "sources": [
+    {
+     "label": "enterpriseam.com · 20 Jul 2026, cross-ref recommended",
+     "url": "https://enterpriseam.com/egypt/2026/07/20/somou-boulevard-is-paragons-wager-that-egypts-compound-obsessed-market-is-ready-for-something-different/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-12",
+   "stream": "dest",
+   "type": "new",
+   "country": "Egypt",
+   "title": "EGYPT Gulf Egypt unveils EGP20bn ($401m) Sharm El Sheikh mixed-use tourism destination New Property / Mixed-Use 13 Jul 2026",
+   "summary": "Gulf Egypt for Hotels and Tourism (a subsidiary of United Real Estate Company) unveiled plans for a 354,458 sqm mixed-use tourism and hospitality development in Sharm El Sheikh with roughly 750 metres of beachfront, near Sharm El Sheikh International Airport. The project, announced as the company marks 50 years in Egypt, combines a luxury hotel, two branded residential communities, an internationally branded beach club, and retail, leisure and wellness facilities. Gulf Egypt signed a cooperation protocol with Al Montazah Tourism & Investment Company (land acquisition) and advisory agreements with HVS and JLL. First capture of this project in this report series.",
+   "article_date": "2026-07-13",
+   "sources": [
+    {
+     "label": "Zawya (via TradingView) · 13 Jul 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-07-13:newsml_Zaw9vB5Hw:0-zawya-gulf-egypt-plans-401mln-mixed-use-tourism-project-in-sharm-el-sheikh/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-13",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "title": "UAE Dubai South lands AED62bn ($16.9bn) mixed-use community deal with Majid Al Futtaim Expansion / Mixed-Use 12 Jul 2026",
+   "summary": "Dubai South and Majid Al Futtaim signed a 22 million sq ft mixed-use development deal within the Dubai South Residential District, adding a retail component to a wider residential/commercial masterplan and reinforcing rising buyer interest in the area. Relevant to MAF's (Priority-1 member) expanding UAE retail-adjacent pipeline alongside South Bay Mall and Ghaf Woods, both separately reported as opening in the district/vicinity in 2026.",
+   "article_date": "2026-07-12",
+   "sources": [
+    {
+     "label": "Dubai Chronicle · 12 Jul 2026",
+     "url": "https://www.dubaichronicle.com/2026/07/12/dubai-south-enters-its-next-growth-phase/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-14",
+   "stream": "member",
+   "type": "new",
+   "country": "UAE",
+   "title": "MEMBER NEWS Aldar unveils AED100bn Marsa Al Saadiyat masterplan New Project 22 Jul 2026",
+   "summary": "Company: Aldar (Priority 1 member, UAE). See destination entry above, Marsa Al Saadiyat is Aldar's largest single masterplan launch of 2026 to date and includes retail/dining/leisure components. Directory team should track for a future retail-property entry once individual retail assets within the masterplan are named.",
+   "article_date": "2026-07-22",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 22 Jul 2026",
+     "url": "https://www.zawya.com/en/projects/aldar-to-begin-enabling-work-on-27bln-marsa-al-saadiyat-in-q3-2026-408290"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-15",
+   "stream": "member",
+   "type": "deal",
+   "country": "Bahrain",
+   "title": "MEMBER NEWS Seef Properties appoints Cinqo Contracting for Seef Mall works Deal 21 Jul 2026",
+   "summary": "Company: Seef Properties (Priority 1 member, Bahrain). See destination entry above. Second contractor appointment on the Seef Mall – Seef District redevelopment within six weeks (following Mohammed Jalal Contracting in June), indicating the project has moved into active multi-package execution.",
+   "article_date": "2026-07-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 21 Jul 2026",
+     "url": "https://www.zawya.com/en/press-release/companies-news/seef-properties-appoints-cinqo-contracting-to-execute-new-package-of-construction-works-404062"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-16",
+   "stream": "member",
+   "type": "financial",
+   "country": "Global",
+   "title": "MEMBER NEWS Knowledge Economic City sells two Madinah land plots for SAR229.1m Financial 19 Jul 2026",
+   "summary": "Company: Knowledge Economic City Co (Priority 1 member, Saudi Arabia). KEC announced the sale of two adjoining land plots (C06-6 and C06-3, 17,624.85 sqm total) within its Madinah masterplan to Al Bawaba International Investment Company and Olu Real Estate Company (50/50), under a Sale and Purchase Agreement dated 16 Jul 2026, at a net transaction value of SAR229.1m and expected gross profit of SAR153.3m. The plots will be developed as a mixed-use project via a private real estate investment fund. Distinct from, and additional to, KEC's previously reported SAR152m educational-complex financing (6 Jul, covered in the 20 Jul report) and its residential appointment of Alrashid Properties for the Multaqa Residential project (reported around 20 Jul, driving a >1-year share-price high, flagged for next-run verification).",
+   "article_date": "2026-07-19",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 19 Jul 2026",
+     "url": "https://www.zawya.com/en/projects/construction/saudi-knowledge-economic-city-sells-prime-madinah-land-for-mixed-use-project-402065"
+    },
+    {
+     "label": "Construction Week Online · Jul 2026",
+     "url": "https://www.constructionweekonline.com/projects-tenders/knowledge-economic-city-madinah"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-17",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS Cenomi Centers reaches Financial Close on upsized SAR2.7bn Westfield Riyadh facility Financial 16 Jul 2026",
+   "summary": "Company: Cenomi Centers (Priority 1 member, Saudi Arabia). The special-purpose vehicle for the Westfield Riyadh project signed a Commercial Terms Agreement with Riyad Bank and reached Financial Close on an upsized Shariah-compliant Murabaha financing facility, existing SAR1.0bn project facilities upsized by SAR1.7bn to a total of SAR2.7bn committed, plus an accordion option of up to SAR200m. Follows Fitch's 9 Jul revision of Cenomi Centers' outlook to Stable ('BB' affirmed, previously reported) and the 8 Jul MBC Group live-media partnership at the same project.",
+   "article_date": "2026-07-16",
+   "member": true,
+   "sources": [
+    {
+     "label": "Sahm Capital · 16 Jul 2026",
+     "url": "https://www.sahmcapital.com/news/content/cenomi-centers-secures-sar-27b-facility-for-westfield-riyadh-2026-07-16"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-26-18",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "MEMBER NEWS Majid Al Futtaim signs AED62bn Dubai South mixed-use deal Deal 12 Jul 2026",
+   "summary": "Company: Majid Al Futtaim (Priority 1 member, UAE). See destination entry above, a 22 million sq ft mixed-use community agreement with Dubai South, adding to MAF's active UAE retail pipeline alongside Explorers at City Centre Mirdif (10 Jul, previously reported) and the premium Carrefour Market rollout.",
+   "article_date": "2026-07-12",
+   "member": true,
+   "sources": [
+    {
+     "label": "Dubai Chronicle · 12 Jul 2026",
+     "url": "https://www.dubaichronicle.com/2026/07/12/dubai-south-enters-its-next-growth-phase/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Kapture CX GCC expansion, watch for enterprise client announcements under Konica Khandelwal's new remit.",
+  "Chevrolet/Al Ghandi Auto CX space (City Centre Mirdif), confirm opening date and in-store technology detail once released via chevroletarabia.com.",
+  "Majid Al Futtaim Premium Carrefour Market rollout, track additional store conversions announced across 2026.",
+  "Vision Bank (Saudi Arabia), still pending confirmation of \"Noura\" AI assistant launch via a preferred-tier source (carried over from 20 Jul).",
+  "Confirm whether the missed Fri 24 Jul run needs a retroactive skip-log entry, no dossier or log entry was found for that date; flagging for operator awareness."
+ ]
+}

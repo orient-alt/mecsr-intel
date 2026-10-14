@@ -1,0 +1,14 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-22",
+ "legacy": true,
+ "origin_files": [
+  "skip log"
+ ],
+ "coverage": {
+  "label": "previous working day(s)"
+ },
+ "status": "quiet",
+ "findings": [],
+ "notes": "No report was published this day: no item cleared the verification bar (fewer than three verified findings). retail intel: ~1 searches. Leads that did not verify are kept in the internal run log, not here."
+}

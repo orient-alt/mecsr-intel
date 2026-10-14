@@ -1,0 +1,1027 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-10-14",
+ "weekday": "Wednesday",
+ "coverage": {
+  "from": "2026-09-26",
+  "to": "2026-10-13",
+  "label": "Sat 26 Sep to Tue 13 Oct 2026 (catch-up edition)"
+ },
+ "status": "full",
+ "edition": "First combined MECSR + MECSC edition",
+ "brief": [
+  "First combined MECSR + MECSC edition. It also catches up 26 Sep to 13 Oct, when the old daily tasks mostly skipped: 25 verified items and 22 reference documents.",
+  "2027 Directory: Florentia Village Istanbul opened on 18 Sep (65,000 sqm, Phase 1) and Merkez Ankara AVM (about 50,000 sqm) is trading. Mall of the Emirates loses THAT Concept Store; Kalba Waterfront Mall gains a LuLu Xpress.",
+  "Members: Al Othaim launches Al Othaim Developments with a SAR16bn+ plan; Aldar and Arada sign an AED15bn partnership; KEC signed a food-hall operator for Multaqa AlMadinah at RCM 2026.",
+  "CX: Dubai's Services 360 policy reports 94% customer happiness across 1,474 redesigned services, and BCG ranks the UAE first of 44 countries for digital-government satisfaction.",
+  "Events: GITEX Global 2026 runs 7 to 11 December at Expo City Dubai, overlapping RCM Jeddah (7 to 8 December)."
+ ],
+ "findings": [
+  {
+   "stream": "dest",
+   "type": "opening",
+   "country": "Türkiye",
+   "city": "Istanbul",
+   "entity": "Florentia Village Istanbul",
+   "company": "Kalyon İnşaat / RDM-Fingen Group",
+   "title": "Florentia Village opens near Istanbul Airport as Türkiye's first luxury designer outlet",
+   "summary": "Florentia Village opened to the public on 18 September 2026 near Istanbul Airport (Mall Report). Anadolu Agency reported on 20 September that Kalyon İnşaat and Italy's RDM-Fingen Group invested EUR 250 million. Phase 1 has 65,000 sqm of leasable area and 190 stores; Phase 2 adds 45,000 sqm for a planned 110,000 sqm in total. A later phase adds a hotel and a 20,000-capacity event centre.",
+   "why": "The 2027 tracker carries this centre as 'Check first' (sheet 10). It is now trading, so it can move to 'Add now' in the Türkiye section.",
+   "article_date": "2026-09-20",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Anadolu Agency (via Foreks)",
+     "date": "2026-09-20",
+     "url": "https://www.foreks.com/haber/detay/6aafb78b24008d7d437342ef/AA/tr/florentia-village-250-milyon-avroluk-yatirimla-istanbul-da-acildi-20-09-26/",
+     "tier": "A"
+    },
+    {
+     "outlet": "Mall Report",
+     "date": "2026-09-18",
+     "url": "https://mallreport.com.tr/merakla-beklenen-avm-bugun-kapilarini-aciyor/",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Add now",
+    "property": "Florentia Village Istanbul",
+    "developer": "Kalyon İnşaat / RDM-Fingen Group",
+    "status": "Open since 18 Sep 2026 (Phase 1)",
+    "opening": "18 Sep 2026",
+    "size": "Phase 1: 65,000 sqm leasable, 190 stores; 110,000 sqm planned after Phase 2",
+    "check": "In tracker sheet 10 as 'Check first'. Not in the 2027 dataset or on Brilliant (checked 14 Oct).",
+    "next": "Move to Add now. Confirm the operating company, district and Phase 2 timing; brand names so far come only from an advertorial."
+   },
+   "member": false,
+   "id": "2026-10-14-01"
+  },
+  {
+   "stream": "dest",
+   "type": "opening",
+   "country": "Türkiye",
+   "city": "Ankara",
+   "entity": "Merkez Ankara AVM",
+   "company": "Emlak Konut GYO / Pasifik GYO",
+   "title": "Merkez Ankara AVM is trading, with an opening festival running to 30 October",
+   "summary": "An Anadolu Agency wire report of 11 October 2026 describes Merkez Ankara AVM, the mall in the Merkez Ankara project delivered by Emlak Konut GYO and Pasifik GYO, as having about 50,000 sqm of leasable area. Its opening festival began in September and runs to 30 October. The report gives no exact opening date, store count or anchors.",
+   "why": "A large new Ankara mall from two listed Turkish REITs that is not in the 2027 dataset: a candidate for the Türkiye section once the opening date and operator are confirmed.",
+   "article_date": "2026-10-11",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Anadolu Agency (via Hürses)",
+     "date": "2026-10-11",
+     "url": "https://hurses.com.tr/merkez-ankara-avm-acilisini-kultur-festivaliyle-kutluyor",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Check first",
+    "property": "Merkez Ankara AVM",
+    "developer": "Emlak Konut GYO / Pasifik GYO",
+    "status": "Open (opening festival Sep to 30 Oct 2026)",
+    "opening": "Sep 2026 (exact date not stated)",
+    "size": "About 50,000 sqm leasable (as published)",
+    "check": "Not in the 2027 dataset or on Brilliant (checked 14 Oct). It may be one of the AYD 'five 2026 malls' on the watch list.",
+    "next": "Confirm the opening date, operator, store count and anchors from a Pasifik GYO release or a KAP disclosure."
+   },
+   "member": false,
+   "id": "2026-10-14-02"
+  },
+  {
+   "stream": "dest",
+   "type": "tenant",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Mall of the Emirates",
+   "company": "Majid Al Futtaim",
+   "member": true,
+   "title": "THAT Concept Store to close at Mall of the Emirates as the AED5bn transformation continues",
+   "summary": "Gulf News reported on 6 October 2026 that Majid Al Futtaim will close THAT, the multi-brand fashion, beauty, art and interiors concept store it launched at Mall of the Emirates in 2021. No closure date or replacement was given; MAF said the space will be redeployed to support the mall's new vision. The article restates the AED5bn transformation figures: 20,000 sqm of extra retail space and 100 new stores.",
+   "why": "A tenant exit at a member's flagship mall that the 2027 tracker already follows for updates (sheet 11).",
+   "article_date": "2026-10-06",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-06",
+     "url": "https://gulfnews.com/business/retail/dubais-that-concept-store-to-close-as-mall-of-the-emirates-undergoes-dh5-billion-transformation-1.500700698",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Low",
+    "listed_as": "Mall Of The Emirates",
+    "field": "Tenants",
+    "change": "Remove THAT Concept Store once it closes. The 20,000 sqm / 100-store transformation figures come from one Tier B source citing MAF: check them against MAF's own release."
+   },
+   "id": "2026-10-14-03"
+  },
+  {
+   "stream": "member",
+   "type": "launch",
+   "country": "Saudi Arabia",
+   "city": "Dammam",
+   "entity": "Abdullah Al Othaim Investment Company",
+   "company": "Abdullah Al Othaim Investment Company",
+   "member": true,
+   "title": "Al Othaim Investment launches Al Othaim Developments with a SAR16bn+ two-year plan",
+   "summary": "Abdullah Al Othaim Investment Company launched a real estate development arm, Al Othaim Developments, planning more than SAR16 billion of investment over two years across about 10 projects and around 8,000 residential units in several Saudi cities. Projects combine residential with hospitality, retail, entertainment and offices depending on location; the first is The O Residence in Dammam.",
+   "why": "The owner of Othaim Malls is moving into mixed-use development, which adds retail pipeline for the 2027 Directory and makes Al Othaim a senior Saudi voice for RCM Jeddah.",
+   "article_date": "2026-10-05",
+   "date_basis": "url",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Zawya (via TradingView)",
+     "date": "2026-10-05",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-10-05:newsml_Zaw7Q3g5v:0-zawya-al-othaim-unveils-4-3bln-saudi-real-estate-investment-plans/",
+     "tier": "A"
+    }
+   ],
+   "id": "2026-10-14-04"
+  },
+  {
+   "stream": "member",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "city": "Madinah",
+   "entity": "Multaqa AlMadinah",
+   "company": "Knowledge Economic City",
+   "member": true,
+   "title": "KEC appoints TGP International to develop and run a food hall at Multaqa AlMadinah, signed at RCM 2026",
+   "summary": "Knowledge Economic City signed an agreement with London-based hospitality agency TGP International to develop and operate a new food hall at Multaqa AlMadinah, the mall within the 6.8 million sqm KEC development in Madinah. TGP will lead F&B strategy, concept development, interior design, operator curation and operations. The agreement was signed at Retail Congress MENA 2026 in Dubai, where KEC was Platinum Sponsor; no size, value or opening date was given.",
+   "why": "A deal signed at MECSR's own congress: a ready sponsor-value story for RCM Jeddah, and an update for the Multaqa AlMadinah listing.",
+   "article_date": "2026-10-07",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Zawya (KEC press release)",
+     "date": "2026-10-07",
+     "url": "https://www.zawya.com/en/press-release/companies-news/knowledge-economic-city-kec-partners-with-tgp-international-to-develop-a-new-food-hall-at-multaqa-almadinah-mall-1544474",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Medium",
+    "listed_as": "Multaqa AlMadinah",
+    "field": "F&B / leisure",
+    "change": "Add the food hall in development (operator TGP International); confirm GLA, number of concepts and opening date with KEC."
+   },
+   "id": "2026-10-14-05"
+  },
+  {
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Ghaf Woods",
+   "company": "Majid Al Futtaim",
+   "member": true,
+   "title": "Majid Al Futtaim and Sunset Hospitality Group to launch the Maravelle wellness destination at Ghaf Woods",
+   "summary": "MAF announced a partnership with Sunset Hospitality Group to launch Maravelle, a wellness and lifestyle destination at the centre of Ghaf Woods, MAF's forest-living community in Dubai with more than 35,000 trees. SHG will operate fitness, recovery, spa, nutrition and F&B for residents, members and visitors, while MAF develops the wider community, including Ghaf Woods Mall. No size, value or opening date was given.",
+   "why": "Adds a lifestyle anchor beside Ghaf Woods Mall, which the 2027 tracker already follows.",
+   "article_date": "2026-10-12",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Majid Al Futtaim (press release)",
+     "date": "2026-10-12",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/10/majid-al-futtaim-partners-with-sunset-hospitality-group-to-launch-maravelle--a-flagship-wellness-and-lifestyle-destination-at-ghaf-woods",
+     "tier": "A"
+    }
+   ],
+   "id": "2026-10-14-06"
+  },
+  {
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "city": "",
+   "entity": "SAVA",
+   "company": "Majid Al Futtaim",
+   "member": true,
+   "title": "MAF's SAVA discount chain reaches 17 UAE stores in its first year and targets 100 in five years",
+   "summary": "Majid Al Futtaim's SAVA, launched in October 2025 as an Emirati modern discount grocer, opened 17 stores across the UAE in its first year and recorded nearly three million customer visits. It carries more than 1,800 products, over 90% of them private label. MAF plans 100 SAVA stores in the UAE within five years.",
+   "why": "A fast-growing neighbourhood grocery format looking for community-centre space: useful tenant intelligence for community malls in the directory.",
+   "article_date": "2026-10-02",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Majid Al Futtaim (press release)",
+     "date": "2026-10-02",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/10/sava-celebrates-first-anniversary-in-uae-with-17-stores--plans-to-expand-to-100-in-the-next-5-years",
+     "tier": "A"
+    }
+   ],
+   "id": "2026-10-14-07"
+  },
+  {
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Lulu Retail",
+   "company": "Lulu Retail Holdings",
+   "member": true,
+   "title": "Lulu signs an MoU with Mohammed Bin Rashid Housing Establishment to assess investments in its projects",
+   "summary": "Mohammed Bin Rashid Housing Establishment and Lulu Hypermarket signed an MoU covering expertise in commercial project development and operations and the evaluation of future investment opportunities within MBRHE projects. No locations, store numbers or values were disclosed.",
+   "why": "An early signal of Lulu-anchored community retail in Dubai's citizen-housing districts: possible new neighbourhood centres for the directory.",
+   "article_date": "2026-10-02",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Lulu Retail (newsroom)",
+     "date": "2026-10-02",
+     "url": "https://www.luluretail.com/media/news/mohammed-bin-rashid-housing-establishment-signs-mou-with-lulu-hypermarket/",
+     "tier": "A"
+    }
+   ],
+   "id": "2026-10-14-08"
+  },
+  {
+   "stream": "member",
+   "type": "expansion",
+   "country": "Oman",
+   "city": "Muscat",
+   "entity": "Lulu Hypermarket Al Hail",
+   "company": "Lulu Retail Holdings",
+   "member": true,
+   "title": "Lulu opens a 76,973 sq ft hypermarket in Al Hail, Muscat",
+   "summary": "Lulu opened a 76,973 sq ft hypermarket in Al Hail, one of Muscat's growing communities, inaugurated by the Undersecretary for Investment Promotion at Oman's Ministry of Commerce, Industry and Investment Promotion. Chairman Yusuffali M.A. said more Oman projects are in the pipeline. The reports do not say whether the store sits inside a mall.",
+   "why": "Member expansion in Oman; check whether the store is in a mall before any directory change.",
+   "article_date": "2026-10-01",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Times of Oman",
+     "date": "2026-10-01",
+     "url": "https://timesofoman.com/article/177561-lulu-expands-presence-in-oman-with-new-hypermarket-in-al-hail",
+     "tier": "B"
+    },
+    {
+     "outlet": "Muscat Daily",
+     "date": "2026-10-03",
+     "url": "https://www.muscatdaily.com/2026/10/03/lulu-expands-presence-in-oman-with-new-hypermarket-in-al-hail/",
+     "tier": "B"
+    }
+   ],
+   "id": "2026-10-14-09"
+  },
+  {
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "city": "Kalba (Sharjah)",
+   "entity": "Kalba Waterfront Mall",
+   "company": "Lulu Retail Holdings",
+   "member": true,
+   "title": "Lulu opens its 128th UAE store at Kalba Waterfront Mall and keeps its 150-store year-end target",
+   "summary": "Lulu opened a LuLu Xpress at Kalba Waterfront Mall in Sharjah, near the UAE-Oman border. It is Lulu's 128th store in the UAE, and the group says it remains on track for 150 UAE stores by the end of 2026. An Eagle Hills executive attended the opening.",
+   "why": "A new anchor at a listed east-coast mall (tenant update) and a measurable Q4 2026 rollout target.",
+   "article_date": "2026-09-30",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Lulu Retail (newsroom)",
+     "date": "2026-09-30",
+     "url": "https://www.luluretail.com/media/news/lulu-opens-new-store-at-kalba-waterfront-mall-in-sharjah/",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Low",
+    "listed_as": "Kalba Waterfront Mall",
+    "field": "Anchors",
+    "change": "Add LuLu Xpress (opened 30 Sep 2026); confirm the owner/developer (an Eagle Hills executive attended)."
+   },
+   "id": "2026-10-14-10"
+  },
+  {
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "Aldar Properties",
+   "company": "Aldar Properties / Arada",
+   "member": true,
+   "title": "Aldar and Arada sign an AED15bn partnership, including a mixed-use community at Seih Sdeirah",
+   "summary": "Aldar and Sharjah-based Arada signed a partnership worth about AED15 billion (US$4 billion), reported on 30 September 2026. It combines a masterplan joint venture for a mixed-use community at Seih Sdeirah, on the Abu Dhabi-Dubai border, with retail and recreational amenities, and Arada's purchase of residential plots on Yas Island. The National puts the Seih Sdeirah masterplan at up to 1.5 million sqm of land; no retail area or timeline was disclosed.",
+   "why": "New community-retail pipeline from a member on the Abu Dhabi-Dubai corridor, and Arada's entry into Abu Dhabi.",
+   "article_date": "2026-09-30",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "The National",
+     "date": "2026-09-30",
+     "url": "https://www.thenationalnews.com/business/property/2026/09/30/aldar-and-arada-sign-dh15bn-partnership-for-new-developments-in-abu-dhabi/",
+     "tier": "B"
+    },
+    {
+     "outlet": "WAM",
+     "date": "2026-09",
+     "url": "https://www.wam.ae/en/article/c2ia0u6-aldar-arada-sign-aed15-billion-partnership-for-new",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Watch",
+    "property": "Seih Sdeirah community (Aldar / Arada)",
+    "developer": "Aldar / Arada JV",
+    "status": "Masterplan JV signed (30 Sep 2026)",
+    "opening": "Not disclosed",
+    "size": "Up to 1.5m sqm of land (The National); no retail GLA published",
+    "check": "Not a mall yet: no retail centre defined.",
+    "next": "Watch Aldar's ADX disclosures for a named retail centre, GLA and timing."
+   },
+   "id": "2026-10-14-11"
+  },
+  {
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "entity": "Cenomi Centers",
+   "company": "Cenomi Centers",
+   "member": true,
+   "title": "Cenomi Centers lifts capital 8.98% to SAR5.18bn through bonus shares and an employee share programme",
+   "summary": "Shareholders at the 27 September 2026 EGM approved raising Cenomi Centers' capital from SAR4.75bn to about SAR5.18bn by capitalising retained earnings: a one-for-12 bonus issue (+8.33%) and shares for a new employee share programme (+0.65%). Shares outstanding rise from 475 million to about 517.7 million.",
+   "why": "A stronger equity base for a leading Saudi mall-owner member ahead of the Westfield Riyadh opening it guides for Q4 2026.",
+   "article_date": "2026-09-28",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Argaam",
+     "date": "2026-09-28",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1939499",
+     "tier": "B"
+    },
+    {
+     "outlet": "Mubasher",
+     "date": "2026-09-28",
+     "url": "https://english.mubasher.info/news/4677395/Cenomi-Centers-raises-capital-by-9-following-EGM-approval/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Saudi Exchange (EGM agenda)",
+     "date": "2026-09-02",
+     "url": "https://www.saudiexchange.sa/Resources/fsPdf/30893_1381_2026-09-02_02-01-49_en.pdf",
+     "tier": "A",
+     "kind": "pdf"
+    }
+   ],
+   "id": "2026-10-14-12"
+  },
+  {
+   "stream": "cx",
+   "type": "policy",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "The Executive Council of Dubai",
+   "title": "Dubai's Services 360 policy: 1,474 government services redesigned, customer happiness at 94%",
+   "summary": "At the Government Best Practices Series 2026 on 7 October, the General Secretariat of The Executive Council of Dubai reported three-year results for its Services 360 policy across 1,474 services and 28 entities: required documents down 61%, visits down 85%, waiting time down 96% and completion time down 51%, with customer happiness at 94% and trust at 90%. GDRFA Dubai cut waiting time from 11.7 to 1.7 minutes and lifted happiness from 92% to 99%.",
+   "why": "Published, measurable service-redesign results that mall and retail CX teams can benchmark against, and case-study material for RCM Jeddah CX sessions and the MENA Awards.",
+   "article_date": "2026-10-07",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Dubai Media Office",
+     "date": "2026-10-07",
+     "url": "https://mediaoffice.ae/en/news/2026/october/07-10/government-best-practices-forum-highlights-3-years-of-service-development",
+     "tier": "A"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-13"
+  },
+  {
+   "stream": "cx",
+   "type": "market",
+   "country": "UAE",
+   "city": "",
+   "entity": "Boston Consulting Group",
+   "title": "BCG survey ranks the UAE first of 44 countries for satisfaction with digital government services (89%)",
+   "summary": "BCG's sixth Digital Government Citizen Survey found 89% of UAE respondents rate government digital services highly, first among 44 countries, and 76% said their latest online government transaction beat a typical private-sector interaction. Across the GCC, 79% are open to AI-centred government interactions (66% globally) and 81% are comfortable with AI supporting customer-service agents.",
+   "why": "Gulf customers now rate government digital service above the private sector: the benchmark retailers, malls and banks are judged against.",
+   "article_date": "2026-10-06",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Zawya (BCG press release)",
+     "date": "2026-10-06",
+     "url": "https://www.zawya.com/en/press-release/research-studies/uae-ranks-first-globally-in-citizen-satisfaction-with-government-digital-services-at-89-bcg-survey-finds-1517367",
+     "tier": "A"
+    },
+    {
+     "outlet": "The National",
+     "date": "2026-10-06",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/06/uae-citizens-most-satisfied-globally-with-digital-government-services/",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "12",
+    "headline": "When government service beats retail",
+    "angle": "Gulf residents now rate digital government above private-sector service (UAE 89%, first of 44 countries). Dubai's Services 360 cut visits 85% and waiting 96%. What mall and retail CX teams can copy.",
+    "fits": "RPM feature · RCM Jeddah CX session",
+    "markets": "UAE, GCC",
+    "facts": "BCG Digital Government Citizen Survey 2026 (6 Oct); Dubai Services 360 three-year results (7 Oct)",
+    "caution": "BCG figures are survey results; the Services 360 figures are the government's own."
+   },
+   "member": false,
+   "id": "2026-10-14-14"
+  },
+  {
+   "stream": "cx",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "Abu Dhabi Department of Government Enablement",
+   "title": "Abu Dhabi to launch Tamm 5.0 at GITEX Global, which moves to 7-11 December 2026",
+   "summary": "Abu Dhabi's Department of Government Enablement said it will launch Tamm 5.0, with more proactive and personalised services, at GITEX Global in December, aiming for fully AI-native government services next year. Tamm has about 4.7 million users and about 90% of transactions are completed within a day (The National). GITEX Global 2026 runs 7 to 11 December at the Dubai Exhibition Centre, Expo City (Dubai Media Office).",
+   "why": "GITEX Global now overlaps RCM Jeddah (7-8 December): plan speaker, sponsor and media invitations around the clash.",
+   "article_date": "2026-10-07",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "The National",
+     "date": "2026-10-07",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/07/abu-dhabi-to-upgrade-tamm-app-as-it-pursues-ai-native-government-goal/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Dubai Media Office (GITEX dates)",
+     "date": "2025-10-08",
+     "url": "https://mediaoffice.ae/en/news/2025/october/08-10/gitex-global-to-begin-a-new-chapter-at-expo-city-dubai-in-2026",
+     "tier": "A"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-15"
+  },
+  {
+   "stream": "cx",
+   "type": "policy",
+   "country": "UAE",
+   "city": "",
+   "entity": "UAE Government",
+   "title": "UAE Government to unveil its 'biggest transformation' of how services are designed and delivered in November",
+   "summary": "Gulf News reported that the UAE Government will unveil in November a transformation of how government services are designed and delivered, focused on customer needs, simpler services and integrated operating models. No figures, services or exact date were given.",
+   "why": "A federal service-model reset that will raise the customer-experience bar retailers and malls are measured against; track it for the RCM Jeddah programme.",
+   "article_date": "2026-10",
+   "date_basis": "estimate",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10",
+     "url": "https://gulfnews.com/uae/uaes-biggest-government-services-transformation-set-for-november-1.500702381",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-16"
+  },
+  {
+   "stream": "ai",
+   "type": "launch",
+   "country": "Global",
+   "city": "",
+   "entity": "Meta and Sierra",
+   "title": "Meta and Sierra propose the Personal Agent Protocol, an open standard for consumers' AI agents dealing with businesses",
+   "summary": "Sierra and Meta announced the Personal Agent Protocol on 6 October 2026: an open, OAuth-based standard for how a consumer's AI agent signs in, identifies itself and completes tasks with a business through its website, its APIs or the business's own agent. Consumers choose read-only or write access and businesses set limits. Named partners include Genesys, NiCE, Shopify, Stripe and Walmart; a v0.1 specification is due later in October.",
+   "why": "Contact-centre and commerce platforms many GCC retailers run on are writing the rules for agent-led shopping and service requests.",
+   "article_date": "2026-10-06",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "CMSWire",
+     "date": "2026-10-06",
+     "url": "https://www.cmswire.com/contact-center/genesys-joins-sierra-meta-on-open-standard-for-personal-ai-agents-01/",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-17"
+  },
+  {
+   "stream": "ai",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Emirates NBD",
+   "title": "Emirates NBD launches an AI travel assistant with Visa and Tripadvisor",
+   "summary": "Emirates NBD launched a free, English-language conversational AI travel assistant on its website and a dedicated Tripadvisor domain, open without a bank login. It suggests itineraries from preferences and budget using Tripadvisor data and surfaces Visa cardholder offers. The bank bills it as the UAE's first bank-led AI travel assistant.",
+   "why": "An open AI assistant tied to card-linked merchant offers: a model mall operators and retailers can borrow for destination and shopping discovery.",
+   "article_date": "2026-10-05",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Zawya (Emirates NBD press release)",
+     "date": "2026-10-05",
+     "url": "https://www.zawya.com/en/press-release/companies-news/emirates-nbd-elevates-customer-travel-experience-with-launch-of-uaes-first-bank-led-ai-travel-assistant-in-collaboration-with-visa-and-tripadvisor-1509819",
+     "tier": "A"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-18"
+  },
+  {
+   "stream": "ai",
+   "type": "policy",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Digital Dubai / Dubai Finance",
+   "title": "Dubai Cashless Strategy passes its targets: AED8bn+ economic contribution and a 90.1% cashless index",
+   "summary": "Citing Dubai Finance, Dubai Media Office said on 9 October that the Dubai Cashless Strategy, launched in October 2024, has contributed more than AED8 billion to the economy, ahead of its two-year timeframe. The cashless transactions index reached 90.1% against a 90% target for 2026.",
+   "why": "With more than 90% of transactions cashless, seamless card, wallet and loyalty checkout is now the baseline experience expected of Dubai mall tenants.",
+   "article_date": "2026-10-09",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "The National",
+     "date": "2026-10-09",
+     "url": "https://www.thenationalnews.com/business/money/2026/10/09/dubai-cashless-strategy-contributes-dh8bn-to-economy-as-it-exceeds-goals-ahead-of-schedule/",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-19"
+  },
+  {
+   "stream": "ai",
+   "type": "event",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Dubai Chamber of Digital Economy",
+   "title": "Dubai launches a global Create AI Agents Championship with a customer-experience business category",
+   "summary": "Sheikh Hamdan bin Mohammed, Crown Prince of Dubai, announced the Create AI Agents Championship, a global competition succeeding the Create Apps Championship. Categories include Best Business AI Agent, covering workflows, services and customer experience. Registration closes in December 2026; the reported prize figures are inconsistent and are not repeated here.",
+   "why": "A pipeline of Dubai-backed customer-experience AI agents that retailers and malls can scout for pilots or award showcases.",
+   "article_date": "2026-10-08",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Fast Company Middle East",
+     "date": "2026-10-08",
+     "url": "https://fastcompanyme.com/news/dubai-launches-global-push-to-turn-ai-agents-into-real-world-products/",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-20"
+  },
+  {
+   "stream": "ai",
+   "type": "deal",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Dubai CommerCity",
+   "title": "Dubai CommerCity and the Global Commerce Foundation sign an MoU to speed up agentic AI in digital commerce",
+   "summary": "Signed at Ai Everything Abu Dhabi 2026, the MoU covers applied research, proof-of-concept projects, market studies, training and incubation for agentic AI in digital and cross-border commerce. Dubai will host the Global Finale of the Tetrix Agentic World League in 2027 during Dubai AI Week.",
+   "why": "A channel for retailers' agentic-commerce pilots and training as AI shopping agents start transacting with merchants.",
+   "article_date": "2026-10-08",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Fast Company Middle East",
+     "date": "2026-10-08",
+     "url": "https://fastcompanyme.com/news/dubai-commercity-signs-deal-to-accelerate-agentic-ai-adoption-in-digital-commerce/",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-21"
+  },
+  {
+   "stream": "ai",
+   "type": "deal",
+   "country": "Saudi Arabia",
+   "city": "",
+   "entity": "Humain",
+   "title": "Humain and EY to build Saudi Arabia's first AI-native business process outsourcing service",
+   "summary": "PIF-owned Humain and EY expanded their collaboration to build an AI-native BPO service on Humain's infrastructure and its agentic platform, Humain One, combining AI agents, automation, analytics and people across whole business processes. No terms, launch date or contact-centre scope were disclosed.",
+   "why": "Saudi outsourcing, the model behind many retail and bank contact centres, is moving to agent-led delivery: a topic for RCM Jeddah CX operations sessions.",
+   "article_date": "2026-10-01",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Arab News",
+     "date": "2026-10-01",
+     "url": "https://www.arabnews.com/business/pifs-humain-ey-to-develop-saudi-arabias-first-ai-native-outsourcing-service-3004045",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-22"
+  },
+  {
+   "stream": "ai",
+   "type": "deal",
+   "country": "Global",
+   "city": "",
+   "entity": "Salesforce",
+   "title": "Salesforce agrees to acquire AI analytics start-up Loops for Tableau",
+   "summary": "Salesforce signed a definitive agreement to acquire Loops, an AI analytics platform that monitors business metrics, explains why KPIs move and flags opportunities in Slack and email. Loops will join Tableau; closing is expected in early November and terms were not disclosed.",
+   "why": "Salesforce is common in Gulf retail and banking CX stacks; automated root-cause alerts on service metrics help CX teams act earlier.",
+   "article_date": "2026-10-12",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Salesforce Newsroom",
+     "date": "2026-10-12",
+     "url": "https://www.salesforce.com/news/?p=95935",
+     "tier": "A"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-23"
+  },
+  {
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "city": "",
+   "entity": "Dataiku",
+   "title": "Vendor survey: 62% of UAE CIOs run more than 50 AI agents, but few can contain a rogue agent quickly",
+   "summary": "Dataiku's 2026 Global AI Confessions Report (CIO edition, vendor-commissioned, 685 CIOs in eight markets) found 62% of UAE CIOs run more than 50 AI agents and 15% more than 500, the highest share of the eight markets. Only 5% of UAE CIOs said they could identify and contain a problematic agent within one to two hours (10% globally).",
+   "why": "As retailers and banks put AI agents in front of customers, agent governance becomes a customer-experience risk.",
+   "article_date": "2026-10-05",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "The National",
+     "date": "2026-10-05",
+     "url": "https://www.thenationalnews.com/future/technology/2026/10/05/uae-among-global-leaders-in-ai-agent-adoption-analysis-shows/",
+     "tier": "B"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-24"
+  },
+  {
+   "stream": "ai",
+   "type": "market",
+   "country": "UAE",
+   "city": "",
+   "entity": "Amazon Web Services",
+   "title": "AWS-backed study: AI adoption among UAE businesses rises to 72%",
+   "summary": "'Unlocking the UAE's AI Potential 2026', released by AWS with the UAE Artificial Intelligence Office and produced by Strand Partners, found AI adoption among UAE businesses rose to 72% from 53% a year earlier. It names Property Finder, Virgin Mobile UAE, The ENTERTAINER and Careem among companies using generative AI for operations and customer service.",
+   "why": "A citable, government co-branded (vendor-backed) baseline for members benchmarking their AI programmes.",
+   "article_date": "2026-09-30",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Gulf Business",
+     "date": "2026-09-30",
+     "url": "https://gulfbusiness.com/en/2026/tech/ai-adoption-among-uae-businesses-rises-to-72-per-cent-aws-report-finds/",
+     "tier": "A"
+    }
+   ],
+   "member": false,
+   "id": "2026-10-14-25"
+  }
+ ],
+ "library": [
+  {
+   "title": "UAE Real Estate Market Review Q2 2026",
+   "publisher": "CBRE",
+   "doc_type": "market-report",
+   "country": "UAE",
+   "date": "2026-07-28",
+   "url": "https://mktgdocs.cbre.com/2299/d185c834-16cb-4ddd-b411-09c708ea7286-2032937689/CBRE_-_UAE_Real_Estate_Market_.pdf",
+   "note": "Dubai and Abu Dhabi quarterly review; mall occupancy about 98% in Dubai and 95% in Abu Dhabi despite softer tourism.",
+   "use_for": "directory, RCM content"
+  },
+  {
+   "title": "Saudi Arabia Real Estate Market Review Q2 2026",
+   "publisher": "CBRE",
+   "doc_type": "market-report",
+   "country": "Saudi Arabia",
+   "date": "2026-08-03",
+   "url": "https://mktgdocs.cbre.com/2299/b323d334-fc4b-4a94-9bb8-da4e9a223a73-232737067/CBRE_-_Saudi_Arabia_Real_Estat.pdf",
+   "note": "KSA quarterly ('Execution at Scale'): retail supported by F&B spending and SEVEN's SAR50bn entertainment strategy.",
+   "use_for": "RCM Jeddah, membership"
+  },
+  {
+   "title": "Saudi Arabia Retail Market Overview (2026 edition)",
+   "publisher": "Knight Frank",
+   "doc_type": "market-report",
+   "country": "Saudi Arabia",
+   "date": "2026-08-04",
+   "url": "https://www.knightfrank.com.sa/en/research/reports/saudi-arabia-retail-market-overview",
+   "note": "Replaces the Spring 2025 edition: retail stock, pipeline and mall rents for Riyadh and Jeddah. Download may ask for registration.",
+   "use_for": "directory, RCM Jeddah"
+  },
+  {
+   "title": "UAE Retail Market Dynamics",
+   "publisher": "JLL",
+   "doc_type": "market-report",
+   "country": "UAE",
+   "date": "2026-10",
+   "url": "https://www.jll.com/en-ae/insights/market-dynamics/uae-retail",
+   "note": "JLL's rolling UAE retail page (undated; checked 14 Oct). Q3 2026 supply and rents usually appear here late Oct to Nov.",
+   "use_for": "directory"
+  },
+  {
+   "title": "Emaar Properties H1 2026 results press release",
+   "publisher": "Emaar Properties (DFM disclosure)",
+   "doc_type": "filing",
+   "country": "UAE",
+   "date": "2026-08-07",
+   "url": "https://feeds.dfm.ae/documents/2026/Aug/7/52433569-0887-4100-ba14-58ee448166f1/Emaar%20Properties%20H1%202026%20Press%20Release%20%20%20English.P.pdf",
+   "note": "Malls, retail and commercial leasing revenue AED3.5bn (+9%), EBITDA AED3.1bn, average occupancy about 98% at 30 Jun 2026.",
+   "use_for": "directory"
+  },
+  {
+   "title": "Cenomi Centers Earnings Presentation, H1 2026",
+   "publisher": "Cenomi Centers",
+   "doc_type": "investor",
+   "country": "Saudi Arabia",
+   "date": "2026-08",
+   "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2026/08/Cenomi-Centers_Earnings-Presentation_H126_vF.pdf",
+   "note": "Portfolio KPIs from Saudi Arabia's largest listed mall owner-operator; link taken from Cenomi's results page.",
+   "use_for": "directory, RCM Jeddah"
+  },
+  {
+   "title": "Cenomi Centers Annual Report 2025",
+   "publisher": "Cenomi Centers",
+   "doc_type": "annual-report",
+   "country": "Saudi Arabia",
+   "date": "2026-04",
+   "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2026/04/CENOMI_EN_Annual_Report_Tadwul.pdf",
+   "note": "Full-year reference for Cenomi mall names, cities and GLA in the KSA section.",
+   "use_for": "directory"
+  },
+  {
+   "title": "Cenomi Centers EGM agenda, 27 Sep 2026 (capital increase)",
+   "publisher": "Cenomi Centers via Saudi Exchange",
+   "doc_type": "filing",
+   "country": "Saudi Arabia",
+   "date": "2026-09-02",
+   "url": "https://www.saudiexchange.sa/Resources/fsPdf/30893_1381_2026-09-02_02-01-49_en.pdf",
+   "note": "One-for-12 bonus issue, employee share programme, capital to SAR5,176,587,620.",
+   "use_for": "membership"
+  },
+  {
+   "title": "Lulu Retail Q2 2026 earnings release",
+   "publisher": "Lulu Retail Holdings (ADX disclosure)",
+   "doc_type": "investor",
+   "country": "GCC",
+   "date": "2026-08-13",
+   "pages": 3,
+   "url": "https://www.luluretail.com/media/usgedyhq/adx-57_lulu-retail_q2-2026-earnings-release_vf_130826_en.pdf",
+   "note": "283 stores across the GCC at 30 Jun 2026; full-year openings now expected above the 18-20 guidance.",
+   "use_for": "tenant intelligence, membership"
+  },
+  {
+   "title": "Lulu Retail Q2 2026 MD&A",
+   "publisher": "Lulu Retail Holdings",
+   "doc_type": "investor",
+   "country": "GCC",
+   "date": "2026-08-13",
+   "url": "https://www.luluretail.com/media/b3ucdm0z/adx-57_lulu-retail_q2-2026-mda_vf_130826_en.pdf",
+   "note": "Management discussion and analysis for Q2 / H1 2026 (date from the file name).",
+   "use_for": "tenant intelligence"
+  },
+  {
+   "title": "Majid Al Futtaim Investor Relations Presentation (September 2026)",
+   "publisher": "Majid Al Futtaim Holding",
+   "doc_type": "investor",
+   "country": "MENA",
+   "date": "2026-09",
+   "url": "https://www.majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-investor-presentation_september202648d3390a-b21c-41d8-992b-2421c7db3218.pdf?sfvrsn=acf31ee8_1",
+   "note": "Latest MAF deck after record H1 2026 results; Mall of the Emirates and City Centre portfolio.",
+   "use_for": "directory, membership",
+   "format": "pdf"
+  },
+  {
+   "title": "Aldar H1 2026 financial results",
+   "publisher": "Aldar Properties",
+   "doc_type": "investor",
+   "country": "UAE",
+   "date": "2026-07-29",
+   "url": "https://www.aldar.com/en/news-and-media/aldar-h1-2026-financial-results",
+   "note": "Retail occupancy 87%, Yas Mall 96%, retail Adj. EBITDA AED463m (+68%); links the English press-release PDF.",
+   "use_for": "directory"
+  },
+  {
+   "title": "Mabanee H1 2026 analysts and investors conference transcript",
+   "publisher": "Mabanee",
+   "doc_type": "investor",
+   "country": "Kuwait",
+   "date": "2026-08",
+   "url": "https://www.mabanee.com/storage/storageanalysts-investors-conference/h1-2026_transcript_ar_eng-(002).docx-final-(2)-2100938684.pdf",
+   "note": "Arabic / English transcript; month estimated from results timing.",
+   "use_for": "directory (The Avenues, Aventura)"
+  },
+  {
+   "title": "Mabanee Annual Report 2025",
+   "publisher": "Mabanee",
+   "doc_type": "annual-report",
+   "country": "Kuwait",
+   "date": "2026",
+   "url": "https://mabanee.com/storage/storageannual-reports/annual-report-2025-eng-2070077368.pdf",
+   "note": "Full-year 2025 report (month not shown).",
+   "use_for": "directory"
+  },
+  {
+   "title": "Imagining the Future of Retail: Beyond Space",
+   "publisher": "Boston Consulting Group",
+   "doc_type": "research",
+   "country": "Middle East",
+   "date": "2026-05-06",
+   "url": "https://www.bcg.com/publications/2026/middle-east-imagining-the-future-of-retail-beyond-space",
+   "note": "Malls moving from leasing space to operating models; leading assets earn up to 25% of revenue outside GLA. Report download on the page.",
+   "use_for": "RCM content"
+  },
+  {
+   "title": "State of grocery retail MENA 2026: Managing the growth paradox",
+   "publisher": "McKinsey & Company",
+   "doc_type": "research",
+   "country": "MENA",
+   "date": "2026-02-25",
+   "pages": 16,
+   "url": "https://www.mckinsey.com/industries/retail/our-insights/state-of-grocery-retail-mena-2026-managing-the-growth-paradox",
+   "note": "Survey of 5,520+ consumers in five markets; ten trends incl. AI, retail media, loyalty. PDF on the page.",
+   "use_for": "RCM content, hypermarket anchors"
+  },
+  {
+   "title": "Saudi Report 2025, Part 2: Retail & F&B",
+   "publisher": "Knight Frank",
+   "doc_type": "research",
+   "country": "Saudi Arabia",
+   "date": "2025-11",
+   "url": "https://www.knightfrank.ae/newsroom/article/2025/11/the-saudi-report-2025---part-2-retail--fb",
+   "note": "Saudi retail and F&B market research; background for RCM Jeddah.",
+   "use_for": "RCM Jeddah"
+  },
+  {
+   "title": "Customer Happiness Charter (DET-CS-M-01, Review 05)",
+   "publisher": "Dubai Department of Economy and Tourism",
+   "doc_type": "cx-standard",
+   "country": "UAE",
+   "date": "2024-02-01",
+   "pages": 6,
+   "url": "https://dubaidet.gov.ae/en/-/media/files/faqs/customer-happiness-charter-2024/updated-customer-happiness-charter-2024.pdf",
+   "note": "Complaint response and resolution times, channels, customer rights and obligations: a benchmark for MECSC's own charter and SLAs. Current edition.",
+   "use_for": "CX"
+  },
+  {
+   "title": "DGEP Assessment Cycle Manual 2026",
+   "publisher": "Dubai Government Excellence Program",
+   "doc_type": "cx-standard",
+   "country": "UAE",
+   "date": "2026",
+   "url": "https://dgep.gov.ae/en/file/preview/dgep-assessment-cycle-manual-2026",
+   "note": "Assessment manual for the 2026 Dubai Government Excellence cycle (listed on the DGEP site; contents not yet checked).",
+   "use_for": "CX, MENA Awards"
+  },
+  {
+   "title": "Customer Experience Excellence 2025-2026: Total Experience in the age of agentic AI",
+   "publisher": "KPMG Lower Gulf",
+   "doc_type": "research",
+   "country": "Global / UAE",
+   "date": "2026",
+   "url": "https://kpmg.com/ae/en/insights/ai-and-technology/customer-experience-excellence-2026.html",
+   "note": "16th-year CEE benchmark (80,000+ consumers, 16 markets) with UAE and KSA agentic-AI commentary. Page undated: confirm before citing.",
+   "use_for": "CX, RCM content"
+  },
+  {
+   "title": "Requirements for Non-Food Retail Outlets (English version)",
+   "publisher": "Ministry of Municipalities and Housing, Saudi Arabia (Balady)",
+   "doc_type": "guideline",
+   "country": "Saudi Arabia",
+   "date": "2026",
+   "url": "https://balady.gov.sa/sites/default/files/2026-07/ashtratat%20mnafdh%20alby%60%20llmwad%20ghyr%20alghdhayyt%20%20%28English%20Version%29.pdf",
+   "note": "Licensing, space and technical rules for shops selling clothing, perfume, shoes and other non-food goods; applies to KSA mall tenants. Title taken from the Balady announcement (the PDF blocks automated access).",
+   "use_for": "membership, RCM Jeddah"
+  },
+  {
+   "title": "Retail Fitout Manual (Central Park Towers, DIFC)",
+   "publisher": "Arady Developments",
+   "doc_type": "manual",
+   "country": "UAE",
+   "date": "2023",
+   "pages": 38,
+   "url": "https://www.centralparktowers.ae/wp-content/uploads/2024/01/Retail-Fitout-Manual_new.pdf",
+   "note": "Design criteria, shopfronts and signage, MEP, fire safety, fees and approvals: a working template for tenant design criteria. Current edition on the landlord's site.",
+   "use_for": "membership, service providers"
+  }
+ ],
+ "watch": [
+  {
+   "item": "Westfield Riyadh (Cenomi)",
+   "note": "Opening guided for Q4 2026; no firm date in Sep-Oct coverage",
+   "since": "2026-07-16"
+  },
+  {
+   "item": "Bishkek Arena Mall",
+   "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (zakon.kz, 6 Oct)",
+   "since": "2026-09-03"
+  },
+  {
+   "item": "Primark, Doha Festival City",
+   "note": "Opening due 29 Oct; Aventura Mall Kuwait and Villaggio reported for 2027",
+   "since": "2026-09-07"
+  },
+  {
+   "item": "Mall of the Emirates",
+   "note": "THAT Concept Store closure date and replacement; The Hangout's Activate due Oct 2026",
+   "since": "2026-10-01"
+  },
+  {
+   "item": "Saadiyat Grove (Aldar)",
+   "note": "Q4 2026 opening date and GLA",
+   "since": "2026-09-18"
+  },
+  {
+   "item": "Al Othaim Developments",
+   "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)",
+   "since": "2026-10-05"
+  },
+  {
+   "item": "Seih Sdeirah (Aldar / Arada)",
+   "note": "A defined retail centre and GLA",
+   "since": "2026-09-30"
+  },
+  {
+   "item": "Merkez Ankara AVM",
+   "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)",
+   "since": "2026-10-11"
+  },
+  {
+   "item": "UAE government services transformation",
+   "note": "Announcement due in November",
+   "since": "2026-10-08"
+  },
+  {
+   "item": "Q3 2026 results season",
+   "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: exchange filings from late October",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Q3 2026 market reports",
+   "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec",
+   "note": "Speaker, sponsor and media clash to plan around",
+   "since": "2026-10-14"
+  }
+ ],
+ "no_findings": [
+  "Kuwait",
+  "Bahrain",
+  "Qatar",
+  "Egypt",
+  "Jordan",
+  "Lebanon",
+  "Iraq",
+  "Morocco",
+  "Tunisia",
+  "Algeria",
+  "Libya",
+  "Pakistan",
+  "Azerbaijan",
+  "Georgia",
+  "Armenia",
+  "Kazakhstan",
+  "Uzbekistan",
+  "Kyrgyzstan (mall still unconfirmed)",
+  "Afghanistan",
+  "Nigeria"
+ ],
+ "searches_run": 140,
+ "notes": "First combined run. Five research passes (GCC destinations, wider markets, member companies, CX and AI, documents) ran about 140 searches and fetches. Tuesday 13 October itself produced few new verified items; most findings date from 26 Sep to 12 Oct, a period the previous tasks skipped. Q3 2026 market reports were not yet published."
+}

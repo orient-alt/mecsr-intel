@@ -1,0 +1,167 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-09-24",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-09-24.html",
+  "MECSR_Daily_Intel_2026-09-24.html"
+ ],
+ "coverage": {
+  "label": "Wednesday 23 September 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-09-24-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Emirates NBD tops 2026 UAE bank rankings as FAB posts strongest gains",
+   "summary": "YouGov's 2026 UAE Bank Rankings, which track which banks UAE adults would consider for a new account or product, put Emirates NBD in the lead with 29.2% consideration, ahead of ADCB (24.2%) and FAB (22%). Emirates NBD also recorded the UAE's highest net Recommendation Score at 75.3 among current and former customers, a direct measure of service-driven advocacy rather than brand awareness alone. FAB posted the strongest year-on-year improvement of the three, gaining 1.1 percentage points, while among Gen Z respondents newer digital-first entrants such as Mashreq Neo gained ground even as the same top-three ranking held overall. This is a customer-perception benchmark rather than an operational CX story, but the named recommendation-score and generational-preference data give MECSC members in retail banking and financial services a fresh, dated reference point for competitive positioning against the UAE's three largest banking brands.",
+   "article_date": "2026-09-09",
+   "sources": [
+    {
+     "label": "Zawya · 9 Sep 2026",
+     "url": "https://www.zawya.com/en/business/emirates-nbd-tops-uae-banking-rankings-as-fab-makes-strongest-gains-yougov-483462"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Oman",
+   "title": "Oman's government e-services satisfaction climbs to 90% in UN maturity index",
+   "summary": "Oman's overall score on the UN ESCWA Government Electronic and Mobile Services (GEMS) Maturity Index rose to 75% for 2025, up from 72% in 2024. Citizen satisfaction on the government's electronic portal climbed to 90% (from 89%), alongside 96% service uptime across digital channels, a 98% support-request response rate, and a 93% ease-of-use score. The assessment covered 27 institutions and 93 services spanning health, education, justice and municipal affairs, and also recorded gains in cross-entity integration (91%) and open-data availability (up from 80% to 89%). The underlying data covers 2025 performance, but its July 2026 publication is Oman's first dated government-CX data point logged in several dossier cycles, giving MECSC members a citizen-facing digital-service benchmark to set alongside the UAE and Saudi government-excellence programmes more frequently covered in this dossier.",
+   "article_date": "2026-07-24",
+   "sources": [
+    {
+     "label": "Zawya · 24 Jul 2026",
+     "url": "https://www.zawya.com/en/economy/gcc/oman-achieves-new-milestone-in-government-digital-transformation-journey-407877"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-03",
+   "stream": "ai",
+   "type": "ai",
+   "country": "MENA",
+   "title": "mazeed unveils \"Matha,\" an AI financial agent, at Seamless Middle East 2026",
+   "summary": "UAE accounting and e-invoicing platform mazeed launched Matha, a conversational AI financial agent, at Seamless Middle East 2026 in Dubai. Available as an iOS/Android app to all mazeed subscription tiers, Matha lets business owners ask natural-language questions about cash position and financial performance, and also works proactively, independently flagging unusual trends, payment delays and approaching tax deadlines rather than waiting to be asked. Beyond conversation, users can process invoices via WhatsApp, record payments, and scan documents for automated data extraction. The launch coincided with mazeed showcasing its wider e-invoicing compliance stack ahead of the UAE's mandatory shift to digital invoicing formats. The launch lands inside Seamless Middle East 2026's three-day run (22–24 Sep, Dubai World Trade Centre), the same event where Al-Futtaim's technology chief keynoted on agentic AI (logged in the 23 Sep dossier), reinforcing proactive, agentic finance AI as a recurring theme of this year's edition. Worth watching for further exhibitor announcements as the event closes.",
+   "article_date": "2026-09-23",
+   "sources": [
+    {
+     "label": "Gulf News · 23 Sep 2026",
+     "url": "https://gulfnews.com/business/corporate-news/mazeed-announces-matha-the-ai-financial-agent-at-seamless-middle-east-2026-1.500684651"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-04",
+   "stream": "ai",
+   "type": "award",
+   "country": "Global",
+   "title": "Air India Express's \"Tia\" wins Best Use of AI in Customer Experience",
+   "summary": "Air India Express won \"Best Use of AI in Customer Experience\" at the UBS Forums 25th CX Strategy Summit & Awards 2026 for Tia, its AI-powered guest-support platform. Tia resolves more than 75% of an estimated 15,000 daily customer queries through self-service, offering upwards of 100 self-service options, bookings, cancellations, refunds, baggage queries, across web, app, WhatsApp and contact-centre channels, with both chat and voice automation and full interaction-history handover when a query escalates to a human agent. First deployed in 2021 as India's first airline chatbot, the platform has since added multilingual and increasingly personalised support. Not a GCC deployment, but a directly comparable one: Emirates, Qatar Airways, Etihad and other regional carriers investing in AI-driven guest support now have a named, metrics-backed external benchmark, 75%+ self-service resolution at 15,000-daily-query scale, to measure their own virtual-assistant programmes against. Independently corroborated by TravelBiz Monitor, TTN Middle East and UNI India, giving it solid cross-referenceability for an awards story.",
+   "article_date": "2026-09-23",
+   "sources": [
+    {
+     "label": "TravelsDubai · 23 Sep 2026",
+     "url": "https://www.travelsdubai.com/23-Sep-2026/air-india-express-earns-top-ai-customer-experience-award-support-platform"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-05",
+   "stream": "dest",
+   "type": "market",
+   "country": "Azerbaijan",
+   "title": "Azerbaijan's retail trade turnover rises 3.9% in real terms, Jan–Aug 2026",
+   "summary": "Azerbaijan's State Statistical Committee reported that retail trade turnover reached AZN44.3bn (US$26.1bn) in the first eight months of 2026, up 3.9% in real terms year-on-year. Food products accounted for AZN24.1bn (+1.4%) and non-food products AZN20.2bn (+6.9%). Computers and telecommunications equipment was the fastest-growing category (+33.4%), followed by pharmaceutical products (+21.6%). Average monthly per-capita retail spending was AZN538.6 (US$316.8). The story names no specific shopping destination or MECSR member company; it is a market-level finding relevant to Azerbaijan's retail operating environment.",
+   "article_date": "2026-09-11",
+   "sources": [
+    {
+     "label": "Trend.Az · 11 Sep 2026",
+     "url": "https://www.trend.az/business/4223123.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-06",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "Nigeria",
+   "title": "Westmead Mall opens its fourth Ibadan outlet, in Samonda",
+   "summary": "Westmead, a family-oriented Nigerian retail concept combining a supermarket and farm market under one roof, opened a new outlet in Samonda, along Samonda–Bodija Road opposite the old Trans-Amusement Park, its fourth location in Ibadan after Wofun Bus Stop, Mokola ICT Hub and Babanla/Oremeji. Managing Director Chief (Mrs) Seye Ogunwuyi said the company directly employs more than 500 people and indirectly supports the livelihoods of several thousand more. This is a new-outlet/store-network expansion rather than a new standalone shopping centre.",
+   "article_date": "2026-09-04",
+   "sources": [
+    {
+     "label": "ThisDayLive · 4 Sep 2026",
+     "url": "https://www.thisdaylive.com/2026/09/04/westmead-mall-opens-new-outlet-in-ibadan/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-07",
+   "stream": "member",
+   "type": "deal",
+   "country": "UAE",
+   "title": "Aldar–Mubadala joint venture acquires Masdar City Square for AED918 million",
+   "summary": "Aldar (member) and Mubadala's Masdar City joint venture acquired Masdar City Square, a seven-building commercial complex adding more than 47,000 sqm of net leasable office space, for AED918 million. The complex is 99% occupied, with tenants including TAQA, the Department of Energy, Emirates College and Mohamed bin Zayed University of Artificial Intelligence, and reached practical completion in Q1 2026. The acquisition expands the Aldar–Mubadala joint venture's total Masdar City real-estate portfolio to AED4.7 billion and over 158,000 sqm of office space. The buildings are designed to LEED Platinum and WELL Gold standards with solar photovoltaic systems and passive cooling. This is an office/commercial (not retail-anchored) acquisition; included here as a member-company portfolio deal rather than a shopping-destination finding.",
+   "article_date": "2026-09-16",
+   "member": true,
+   "sources": [
+    {
+     "label": "Zawya · 16 Sep 2026",
+     "url": "https://www.zawya.com/en/business/investment/aldar-mubadala-jv-acquires-masdar-city-square-for-250mln-797764"
+    },
+    {
+     "label": "Gulf News · 17 Sep 2026",
+     "url": "https://gulfnews.com/business/property/aldar-mubadala-jv-buys-99-occupied-masdar-city-square-for-dh918-million-1.500677780"
+    },
+    {
+     "label": "Construction Week Online",
+     "url": "https://www.constructionweekonline.com/news/aldar-mubadala-masdar-city"
+    },
+    {
+     "label": "PropertyNews.ae",
+     "url": "https://propertynews.ae/uae/abu-dhabi/aldar-and-mubadala-joint-venture-acquires-masdar-city-square-for-dh918-million-boosting-abu-dhabi-portfolio-to-dh4-7-billion/"
+    },
+    {
+     "label": "Arabian Post",
+     "url": "https://thearabianpost.com/aldar-mubadala-add-masdar-city-square-for-dh918m/"
+    }
+   ]
+  },
+  {
+   "id": "2026-09-24-08",
+   "stream": "member",
+   "type": "new",
+   "country": "Kuwait",
+   "title": "United Real Estate Company unit launches 31,780 sqm mixed-use project in Heliopolis, Cairo",
+   "summary": "Gulf Egypt Hotels & Tourism, a subsidiary of Kuwait's United Real Estate Company (URC, member), announced the launch of a 31,780 sqm mixed-use development on Al Orouba Road in Heliopolis, Cairo, on landbank adjacent to the company's existing Waldorf Astoria Cairo Heliopolis and Hilton Cairo Heliopolis hotels. The project will combine residential, commercial, administrative, hospitality and entertainment components. The company is conducting technical and economic studies and exploring partnerships with strategic investors; no investment value, launch date or named retail component has yet been disclosed.",
+   "article_date": "2026-09-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "Reuters/TradingView · 21 Sep 2026",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-09-21:newsml_Zaw3HjmmZ:0-kuwait-s-urc-unit-launches-31-780-sqm-mixed-use-project-in-cairo/"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Seamless Middle East 2026, Dubai (22–24 Sep). Event closes today; mazeed's Matha is the second dated finding logged from this event after Al-Futtaim's Juspay deal (23 Sep dossier), watch for closing-day exhibitor announcements in the next cycle.",
+  "Technology for Marketing & eCommerce Expo 2026, London (23–25 Sep). Watch for further AI/loyalty session coverage relevant to GCC retail and CX members.",
+  "UAE's unified \"golden source\" banking platform. Targeted for launch before year-end 2026; watch for a confirmed go-live date and which banks join first.",
+  "E3 Customer Experience Conference, Riyadh (29–30 Sep). Supported by Tajriba/National CX Academy Saudi Arabia; a likely venue for national CX programme announcements, Saudi Arabia has returned nil in this dossier for several cycles.",
+  "Oman's GEMS Index result. Watch for any follow-on national digital-government strategy announcement referencing the 90% portal-satisfaction score.",
+  "Global Village Dubai, Season 31. Confirmed opening 14 October 2026; watch for opening-day experience and attraction details.",
+  "GITEX Global 2026, Dubai (7–11 Dec). Sheikh Mohammed has directed it become \"the world's largest\" AI/tech event; still early for CX-specific exhibitor news.",
+  "Korea Town by Boutiqaat (Bahrain): confirm the specific mall/venue for its first GCC store outside Kuwait, announced 23 Sep.",
+  "Adds Developments (Egypt): watch for project name, investment value and retail/mixed-use component once disclosed.",
+  "United Real Estate Company / Gulf Egypt Hotels & Tourism (Heliopolis, Cairo): track through feasibility/investor-partnership stage for a firmer project name and retail component.",
+  "Aldar–Mubadala Masdar City Square: monitor for any further Masdar City portfolio additions.",
+  "Cenomi Al Noor Mall, Medina: design/contractor award still pending confirmation."
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-07-29",
+ "legacy": true,
+ "origin_files": [
+  "MECSC_CX_Digest_2026-07-29.html",
+  "MECSR_Daily_Intel_2026-07-29.html"
+ ],
+ "coverage": {
+  "label": "Tuesday 28 July 2026"
+ },
+ "status": "full",
+ "findings": [
+  {
+   "id": "2026-07-29-01",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Emirates adds Crypto.com Pay to checkout",
+   "summary": "Emirates has officially launched Crypto.com Pay™ on emirates.com and the Emirates App, letting customers with a Crypto.com account pay for flight bookings using the digital-payment platform. Transactions are processed in compliance with UAE regulatory standards and are currently available to eligible UAE residents booking in AED, a small but concrete example of a Gulf carrier widening its payment-experience options ahead of broader crypto-payment adoption in regional travel and retail.",
+   "article_date": "2026-07-28",
+   "sources": [
+    {
+     "label": "Biz Today · 28 Jul 2026",
+     "url": "https://www.biztoday.news/2026/07/28/emirates-and-crypto-com-give-customers-a-new-way-to-pay-for-flights/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-02",
+   "stream": "cx",
+   "type": "cx",
+   "country": "UAE",
+   "title": "Dubai Customs cuts wait time to 24 seconds, hits 98% Instant Happiness score",
+   "summary": "Dubai Customs reported a 98% score on the Dubai Government's Instant Happiness Index (managed by Digital Dubai), alongside a 96% supplier-happiness rate and a 99% cashless-transaction rate. The authority credited smart-service upgrades for cutting average customer wait time to 24 seconds, a further data point in Dubai's push to quantify and publish government CX performance metrics, following a similar disclosure pattern seen from the UAE Ministry of Finance's contact-centre figures logged in the 23 Jul cycle.",
+   "article_date": "2026-07-26",
+   "sources": [
+    {
+     "label": "GCC Business News · 26 Jul 2026",
+     "url": "https://www.gccbusinessnews.com/dubai-customs-smart-services-cut-wait-time/"
+    },
+    {
+     "label": "Big News Network",
+     "url": "https://www.bignewsnetwork.com/news/279209057/dubai-customs-redefines-customer-experience-through-smart-government-services"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-03",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Qatar",
+   "title": "KAHRAMAA launches Customer Satisfaction Survey 2026",
+   "summary": "Qatar General Electricity and Water Corporation (KAHRAMAA) launched a comprehensive Customer Satisfaction Survey running from July through November 2026, covering residential, commercial, corporate and industrial customer segments. The multi-month survey design signals a sustained, structured push to benchmark utility-service experience across Qatar's customer base rather than a one-off snapshot exercise.",
+   "article_date": "2026-07-02",
+   "sources": [
+    {
+     "label": "QNA · 2 Jul 2026",
+     "url": "https://qna.org.qa/en/news/news-details?id=kahramaa-launches-comprehensive-customer-satisfaction-survey-2026&date=2%2F07%2F2026"
+    },
+    {
+     "label": "The Peninsula Qatar",
+     "url": "https://thepeninsulaqatar.com/article/03/07/2026/kahramaa-launches-comprehensive-customer-satisfaction-survey-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-04",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "title": "Bloomberg: AI begins visibly cutting customer-service jobs at major global employers",
+   "summary": "Bloomberg reported that as of 28 July 2026, AI-driven automation has started measurably reducing customer-service headcount at Microsoft, Uber, Commonwealth Bank of Australia and Hyatt Hotels, with automated chat and phone systems absorbing work previously handled by thousands of human agents. The report is a useful external benchmark for GCC contact-centre leaders weighing workforce-planning decisions against global AI-adoption curves, and follows (without duplicating) the Uber-specific 10%-cut story and British Gas job-cut story already logged in the 26–27 Jul dossiers.",
+   "article_date": "2026-07-28",
+   "sources": [
+    {
+     "label": "Bloomberg · 28 Jul 2026",
+     "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-05",
+   "stream": "ai",
+   "type": "ai",
+   "country": "",
+   "title": "Talkdesk launches Agent Builder for customer-facing AI agents",
+   "summary": "Talkdesk introduced Agent Builder, a natural-language-driven tool letting both business users and technical teams take AI customer-service agents from concept to production in hours rather than weeks, without prompt engineering. The launch was showcased at Customer Contact Week (CCW) Las Vegas as part of Talkdesk's wider Customer Experience Automation platform, one of several agent-lifecycle-management tools vendors introduced at CCW 2026, relevant to GCC contact-centre operators evaluating build-vs-buy options for agentic AI.",
+   "article_date": "2026-06-23",
+   "sources": [
+    {
+     "label": "GlobeNewswire · 23 Jun 2026",
+     "url": "https://www.globenewswire.com/news-release/2026/06/23/3316084/0/en/Talkdesk-ends-the-guesswork-in-deploying-customer-facing-AI-agents.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-06",
+   "stream": "ai",
+   "type": "ai",
+   "country": "Qatar",
+   "title": "Rafeeq partners with Google on AI-first commerce and CX",
+   "summary": "Rafeeq, one of Qatar's leading digital commerce and delivery platforms, announced a strategic partnership with Google to replace its existing search infrastructure with end-to-end AI-powered search. The partnership spans four pillars: AI-powered search, operations optimisation, employee business-intelligence enablement and in-app personalization, positioning Rafeeq as an early Qatari mover on Google-backed AI-first customer experience.",
+   "article_date": "2026-05-18",
+   "sources": [
+    {
+     "label": "The Peninsula Qatar · 18 May 2026",
+     "url": "http://thepeninsulaqatar.com/article/18/05/2026/rafeeq-and-google-announce-strategic-partnership-to-accelerate-ai-first-commerce-and-operations"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-07",
+   "stream": "ai",
+   "type": "market",
+   "country": "Jordan",
+   "title": "80% of Jordanian shoppers now use AI tools: but trust is the checkout barrier",
+   "summary": "A Visa-commissioned study (fieldwork by Wakefield Research, Jan–Feb 2026) found 80% of consumers in Jordan have used AI tools to assist shopping decisions, comparing prices (48%), finding gift ideas (54%) and checking reviews (41%), while trust remains the key obstacle to AI involvement at the actual checkout/payment step. Relevant context for GCC retailers and banks weighing how far to push AI into payment and checkout flows versus research/discovery stages, where trust barriers appear lower.",
+   "sources": [
+    {
+     "label": "Zawya · 2026 (date unverified)",
+     "url": "https://www.zawya.com/en/business/retail-and-consumer/80-in-jordan-use-ai-to-shop-but-trust-is-key-at-checkout-pi39ez5u"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-08",
+   "stream": "dest",
+   "type": "new",
+   "country": "Egypt",
+   "title": "EGYPT Majid Al Futtaim breaks ground on JUNCTION business & lifestyle park, West Cairo New Property / Mixed-Use 01 Jun 2026",
+   "summary": "Majid Al Futtaim officially broke ground on JUNCTION, its next-generation business park in West Cairo, marking the commencement of an EGP 500 million enabling-works phase, the first foundational step within total planned investment exceeding EGP 20 billion ($385m). Located directly adjacent to Mall of Egypt with connections to Al Wahat Road, the Cairo–Alex Desert Road and the Ring Road, JUNCTION spans approximately 99,000 sqm of built-up area and will bring together eight office buildings (440 modular units), a five-star hotel operated by 25hours Hotels by Ennismore, and more than 50 curated retail and F&B outlets, making it a genuine mixed-use retail addition to the Egyptian market rather than a pure office scheme. The project targets LEED Gold certification. Not previously captured in this report series (distinct from the Dubai Development \"Walk'n\" West Cairo project reported 6 Jul).",
+   "article_date": "2026-06-01",
+   "sources": [
+    {
+     "label": "Majid Al Futtaim (official) · 01 Jun 2026",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/06/majid-al-futtaim-officially-breaks-ground-on-junction-with-egp-500-million-in-enabling-works"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "Saudi Arabia",
+   "title": "SAUDI ARABIA Al Othaim Park (Dammam) passes 64% completion Status Update 14 Jun 2026",
+   "summary": "Al Othaim Park, a SAR 2.34 billion mixed-use destination in Dammam developed by Al Othaim Investment, has surpassed 64% construction completion and remains on track for a 2027 opening. The 225,000 sqm site (939,000 sqm total built-up area) sits on King Fahd Road linking King Fahd International Airport to central Dammam, and will comprise a regional shopping mall (138,000 sqm leasable), 950 residential units, a 180-key hotel plus 70 hotel apartments, and 23,000 sqm of offices, with an expected 10 million annual visitors on completion. This updates, with fresh, dated completion data, a broader Al Othaim Eastern Province pipeline (also covering Al Othaim Park Jubail and Al Othaim Circle Khobar) previously flagged in the 28 Jul report via a Sep 2025 RLI piece that was excluded there as too old; this Maaal article is a distinct, newer data point on the Dammam asset specifically.",
+   "article_date": "2026-06-14",
+   "sources": [
+    {
+     "label": "Maaal · 14 Jun 2026",
+     "url": "https://maaal.com/en/news/details/al-othaim-park-surpasses/"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-10",
+   "stream": "member",
+   "type": "new",
+   "country": "Saudi Arabia",
+   "title": "MEMBER NEWS SAUDI ARABIA Knowledge Economic City signs Letter of Intent with BSF Capital for SAR 7.5bn Knowledge Gardens fund New Project 28 Jul 2026",
+   "summary": "Company: Knowledge Economic City (Priority 1 member, Madinah, Saudi Arabia), together with subsidiary Algharraa International Real Estate Development Company. KEC and Algharraa signed a Letter of Intent with BSF Capital to establish and manage a closed-ended private real estate investment fund to develop Knowledge Gardens, planned as one of the largest mixed-use developments within Knowledge Economic City, sited adjacent to the Haramain High-Speed Railway Station in Madinah. The scheme carries an estimated total project cost of ~SAR 7.5 billion ($2bn) and projected revenues of ~SAR 10.2 billion, across a 332,054 sqm net land area with 897,542 sqm of Gross Floor Area, comprising 4,198 residential units, 183 serviced apartments, 450 hotel keys, ~80,000 sqm of commercial and office GFA , plus a community centre, mosque, kindergarten and 52,000+ sqm of parks. Fourmen Investment Company is named as lead developer/investor and BSF Capital as proposed fund manager; KEC/Algharraa are expected to contribute land valued at ~SAR 1.66bn for ~39.9% of fund equity. The LOI runs 120 days for definitive agreements and regulatory approvals. This is the fourth Knowledge Economic City financing/land story captured by this series in July alone (SAIB financing 6 Jul, Madinah land sale 19 Jul, SALCO infrastructure award 27 Jul), a Priority 1 member showing sustained, dated deal-flow.",
+   "article_date": "2026-07-28",
+   "member": true,
+   "sources": [
+    {
+     "label": "SaudiGulf Projects · 28 Jul 2026",
+     "url": "https://www.saudigulfprojects.com/2026/07/knowledge-economic-city-signs-agreement-with-bsf-capital-to-establish-sar-7-5-billion-fund-for-knowledge-gardens-development-in-madinah/"
+    },
+    {
+     "label": "TradeArabia · 28 Jul 2026",
+     "url": "https://tradearabia.com/News/465736/KEC-BSF-Capital-to-set-up-fund-for-%241.96bn-Knowledge-Gardens-project"
+    }
+   ]
+  },
+  {
+   "id": "2026-07-29-11",
+   "stream": "member",
+   "type": "market",
+   "country": "UAE",
+   "title": "MEMBER NEWS UAE Dalma Mall hosts first-ever Off The Hook × Zutto Suki Ramen dual concept Market 21 Jul 2026",
+   "summary": "Company: Dalma Mall (Priority 1 member, Abu Dhabi). Off The Hook Seafood Restaurant and Zutto Suki Ramen are launching their first-ever dual-brand concept, two distinct dining experiences under one roof, at Dalma Mall in Q3 2026. The opening marks Off The Hook's 12th UAE branch and Zutto Suki Ramen's 4th, and is the first Zutto Suki Ramen location in Abu Dhabi specifically. A tenant/F&B leasing signal rather than a corporate or property milestone, but dated and relevant to Dalma Mall's ongoing footfall-driving activity following its 8 Jul Platinum Impact Seal CSR award and 15 Jul Zutto Suki/Off The Hook announcement lead-in. Source is a hospitality trade title with clear byline/dated metadata but single-sourced for this specific dual-concept claim, cross-reference recommended before any directory action.",
+   "article_date": "2026-07-21",
+   "member": true,
+   "sources": [
+    {
+     "label": "Hotel & Catering · 21 Jul 2026",
+     "url": "https://hotelandcatering.com/fb/off-the-hook-and-zutto-suki-ramen-to-launch-first-dual-concept-at-dalma-mall-abu-dhabi"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "Emirates / Crypto.com Pay, watch for expansion beyond AED-settled UAE bookings to other currencies or GCC markets.",
+  "Dubai Customs, confirm the 98% Instant Happiness Index figure against a primary Dubai Government Excellence Program (DGEP) publication.",
+  "Talkdesk Agent Builder, watch for GCC-specific customer or case-study announcements.",
+  "Rafeeq / Google, watch for rollout milestones as the four-pillar AI partnership matures through H2 2026.",
+  "KAHRAMAA Customer Satisfaction Survey 2026, results expected after the survey closes in November.",
+  "Shopping & Mixed-Use stream, watch for a confirmed, dated opening announcement from Eagle Hills Sharjah or U Walk Jeddah to revisit with proper sourcing."
+ ]
+}
