@@ -1,0 +1,286 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-10-15",
+ "weekday": "Thursday",
+ "coverage": {"from": "2026-10-14", "to": "2026-10-14", "label": "Wednesday 14 October 2026"},
+ "status": "full",
+ "brief": [
+  "Destinations: Emaar founder Mohamed Alabbar teased a 'Dubai Mall Plaza and Hotel' as coming soon on 14 Oct, with no size, operator or date yet, and the former Lamcy Plaza in Oud Metha is to reopen as The Plaza in the first half of 2027.",
+  "AI and CX: every UAE federal AI agent must now connect to a 'control tower' that logs and audits its decisions, and the UAE and the World Economic Forum launched a $1 million annual Agentic AI Award (both 14 Oct).",
+  "Members: Majid Al Futtaim's chief executive told the Sharjah Investment Forum that AI agents and data need the same care as financial capital, and Aldar plans its fourth Dubai project, with Dubai Holding, by the end of 2026.",
+  "Shop floor: Max Fashion opened a flagship of more than 38,000 sq ft with AI virtual try-on at City Center Doha, and Lulu is putting Odigo robots in UAE stores as shopping guides and a retail media channel.",
+  "2027 Directory feed: one property to check (The Plaza, Dubai), two listing notes (Dubai Mall, City Center Doha) and one article idea on AI agents in customer service."
+ ],
+ "findings": [
+  {
+   "id": "2026-10-15-01",
+   "stream": "dest",
+   "type": "pipeline",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Dubai Mall Plaza and Hotel (Downtown Dubai)",
+   "company": "Emaar Properties (teaser posted by founder Mohamed Alabbar)",
+   "member": false,
+   "title": "Mohamed Alabbar teases a 'Dubai Mall Plaza and Hotel' as coming soon",
+   "summary": "On 14 October 2026 Emaar founder Mohamed Alabbar posted a computer-generated video on his verified Instagram account, captioned 'Dubai Mall Plaza and Hotel' and 'coming soon', showing a plaza-style development with pedestrian areas in the Downtown Dubai shopping district. No size, investment, operator or opening date was given, and neither Gulf News nor Khaleej Times cites a formal Emaar statement. Khaleej Times also quotes Alabbar on a separate, fully designed building that will go to tender once logistics ease, and says it is unclear whether the two projects are the same.",
+   "why": "A plaza and hotel addition at Dubai Mall would change the offer of the region's best-known mall, so the listing should be checked against any formal Emaar disclosure.",
+   "article_date": "2026-10-14",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718", "tier": "B"},
+    {"outlet": "Khaleej Times", "date": "2026-10-14", "url": "https://www.khaleejtimes.com/uae/dubai-mall-plaza-teaser-emaar-founder-new-skyscraper", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Low",
+    "listed_as": "Dubai Mall",
+    "field": "Development / pipeline",
+    "directory_says": "Existing Mall (Brilliant export, 12 Oct 2026)",
+    "change": "No change yet. Note the 'Dubai Mall Plaza and Hotel' teaser of 14 Oct 2026 and confirm the scope (plaza, retail and F&B, hotel), GLA and timing with Emaar before updating the listing."
+   }
+  },
+  {
+   "id": "2026-10-15-02",
+   "stream": "dest",
+   "type": "tenant",
+   "country": "Qatar",
+   "city": "Doha",
+   "entity": "City Center Doha",
+   "company": "Aamal ECE (mall); Landmark Group (Max Fashion)",
+   "member": true,
+   "title": "Max Fashion opens a flagship of more than 38,000 sq ft at City Center Doha",
+   "summary": "Landmark Group's value-fashion brand Max Fashion has opened a flagship of more than 38,000 sq ft at City Center Doha, one of its largest stores, covering women's, men's and children's fashion. The Peninsula and Qatar Tribune reported the opening on 11 October 2026; Aamal Company's chief executive, Rashid bin Ali Al Mansoori, inaugurated it. The store brings Max Fashion's AI Virtual Try-On, built with Google Cloud, to Qatar, and Qatar Tribune also lists self-checkout, smart fitting rooms and Click & Collect.",
+   "why": "A large fashion store with in-store generative AI at a member mall is a current example of tech-enabled shopper experience for MECSR and MECSC content.",
+   "article_date": "2026-10-11",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "The Peninsula", "date": "2026-10-11", "url": "https://thepeninsulaqatar.com/article/11/10/2026/max-fashion-opens-one-of-its-largest-flagship-stores-in-city-center-doha", "tier": "B"},
+    {"outlet": "Qatar Tribune", "date": "2026-10-11", "url": "https://www.qatar-tribune.com/article/258503/nation/max-fashion-opens-one-of-its-largest-stores-with-new-flagship-at-city-center-doha/amp", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Low",
+    "listed_as": "City Center Doha",
+    "field": "Tenants",
+    "change": "Add the Max Fashion flagship (more than 38,000 sq ft, opened Oct 2026). Neither report gives the exact opening day."
+   }
+  },
+  {
+   "id": "2026-10-15-03",
+   "stream": "dest",
+   "type": "pipeline",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "The Plaza (former Lamcy Plaza), Oud Metha",
+   "company": "Azure Properties (asset manager)",
+   "member": false,
+   "title": "Former Lamcy Plaza in Oud Metha to reopen as The Plaza in the first half of 2027",
+   "summary": "Gulf News reported on 1 October 2026 that the former Lamcy Plaza in Oud Metha, which opened in 1997 with outlets over four floors, two cinemas, a hypermarket and a food court, will return as The Plaza. A representative said the reopening is tentatively set for the first or second quarter of 2027, with no exact date confirmed. The mall is under the asset management of Azure Properties; tenants, layout and facilities have not been announced.",
+   "why": "A closed central Dubai mall returning under a new name is a directory addition to prepare for 2027 and an early contact for MECSR.",
+   "article_date": "2026-10-01",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "Gulf News", "date": "2026-10-01", "url": "https://gulfnews.com/uae/the-plaza-formerly-lamcy-plaza-set-to-reopen-in-first-half-of-2027-1.500693549", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Check first",
+    "property": "The Plaza (former Lamcy Plaza), Oud Metha, Dubai",
+    "developer": "Azure Properties (asset manager; owner not named)",
+    "status": "Closed; reopening planned under the name The Plaza",
+    "opening": "Q1 or Q2 2027 (tentative)",
+    "size": "Not published",
+    "check": "Not on Brilliant under either name and not in tracker sheets 10 or 11 (checked 15 Oct). Single Tier B source; the page shows only a last-updated stamp of 1 Oct.",
+    "next": "Confirm the owner, GLA, anchors and reopening date with Azure Properties or a second source, then move to Add to pipeline."
+   }
+  },
+  {
+   "id": "2026-10-15-04",
+   "stream": "member",
+   "type": "ai",
+   "country": "UAE",
+   "city": "Sharjah",
+   "entity": "Majid Al Futtaim",
+   "company": "Majid Al Futtaim Holding",
+   "member": true,
+   "title": "Majid Al Futtaim chief executive: treat AI agents and data with the same care as financial capital",
+   "summary": "Speaking in 'The Consumer of 2035' session at the Sharjah Investment Forum on 14 October 2026, Majid Al Futtaim chief executive Ahmed Galal Ismail said data assets, algorithms and AI agents are intellectual capital that needs the same care as financial and human capital. He said the group already runs AI agents alongside employees and expects them to match the size of its office-based workforce in the near future. He added that digital advertising through the AI-enabled Precision Media business was the group's fastest-growing revenue stream in its latest half-year results. Figures for AI-assisted transactions and online sales appear in one report only and are not repeated here.",
+   "why": "A member mall and grocery operator describing AI agents and retail media in its customer journeys is direct material for MECSC customer-experience and AI content.",
+   "article_date": "2026-10-14",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/retail/majid-al-futtaim-ceo-treat-ai-like-financial-capital-1.500710544", "tier": "B"}
+   ]
+  },
+  {
+   "id": "2026-10-15-05",
+   "stream": "member",
+   "type": "expansion",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Aldar Properties",
+   "company": "Aldar Properties with Dubai Holding",
+   "member": true,
+   "title": "Aldar plans to launch its fourth Dubai project, with Dubai Holding, by the end of 2026",
+   "summary": "The National reported on 14 October 2026 that Aldar will launch a large villa and townhouse development in Dubai with Dubai Holding by the end of the year, according to Jonathan Emery, chief executive of Aldar Development. It would be Aldar's fourth Dubai project after The Haven, Athlon and The Wilds. The article's body places the site near Dubai Silicon Oasis, above the Blue Line extension, while its summary points say Dubai Internet City; no value or retail component was disclosed.",
+   "why": "Two member companies are extending their Dubai partnership, and a large new community adds catchment for neighbourhood retail even though no retail centre has been announced.",
+   "article_date": "2026-10-14",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "The National", "date": "2026-10-14", "url": "https://www.thenationalnews.com/business/property/2026/10/14/aldar-to-launch-major-dubai-villa-and-townhouse-project-by-end-of-year/", "tier": "B"}
+   ]
+  },
+  {
+   "id": "2026-10-15-06",
+   "stream": "member",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "Lulu Hypermarket (UAE)",
+   "company": "Lulu Retail Holdings",
+   "member": true,
+   "title": "Lulu launches AWWAL, an in-store range for UAE-grown, produced and made products",
+   "summary": "Lulu has unveiled AWWAL ('UAE Comes First'), an exclusive range that brings UAE Grown, UAE Produced and UAE Made products together under one retail identity. It starts with fresh produce, dairy, poultry, dates, honey, bakery and beverages, supported by dedicated in-store displays, promotions and consumer campaigns. UAE Minister of Foreign Trade Dr Thani bin Ahmed Al Zeyoudi launched it with Lulu chairman Yusuffali M.A. at Global Food Week 2026 at ADNEC Centre Abu Dhabi. The release gives no product, supplier or store counts.",
+   "why": "A member anchor is giving national products their own space and identity in store, a theme that mall promotions and MECSR retail programmes can align with.",
+   "article_date": "2026-10-06",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "Lulu Retail (newsroom)", "date": "2026-10-06", "url": "https://www.luluretail.com/media/news/lulu-unveils-awwal-putting-uae-products-first/", "tier": "A"}
+   ]
+  },
+  {
+   "id": "2026-10-15-07",
+   "stream": "member",
+   "type": "ai",
+   "country": "UAE",
+   "city": "Various",
+   "entity": "Lulu stores, UAE",
+   "company": "Lulu Retail Holdings with Kody Holdings",
+   "member": true,
+   "title": "Lulu puts AI-powered Odigo robots in UAE stores as shopping guides and a retail media channel",
+   "summary": "Lulu Retail and Kody Holdings have launched what Lulu calls the UAE's first in-store robotic media network. AI-powered Odigo robots move through Lulu stores in the UAE, guide shoppers to departments and products and point out current promotions, while giving brands an interactive point-of-purchase channel whose content can be targeted by location, store or market. The release, dated 1 October 2026, names no stores and gives no robot count.",
+   "why": "A member hypermarket is combining AI wayfinding with retail media revenue, a model for MECSC customer-experience benchmarks and for mall media programmes.",
+   "article_date": "2026-10-01",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "Lulu Retail (newsroom)", "date": "2026-10-01", "url": "https://www.luluretail.com/media/news/lulu-brings-ai-powered-robotic-shopping-experience-to-uae-stores/", "tier": "A"}
+   ]
+  },
+  {
+   "id": "2026-10-15-08",
+   "stream": "cx",
+   "type": "policy",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Dubai Police (Social Media Crimes Section)",
+   "company": "Dubai Police",
+   "member": false,
+   "title": "Dubai Police refer a group to prosecutors over coordinated fake Google Maps reviews",
+   "summary": "Dubai Police arrested a group accused of posting coordinated fake negative reviews on a company's Google Maps listing and referred them to the Public Prosecution, Gulf Business reported on 13 October 2026. The case began with a complaint from the company's management, and investigators reportedly found that several commercial establishments had formed groups to publish the comments. Neither the company nor the suspects were named. The head of the force's Social Media Crimes Section described the case on the Dubai Police Podcast and warned that publishing false or damaging content can bring liability under the UAE's cybercrime framework.",
+   "why": "Online reviews drive footfall for mall tenants and restaurants, and the case shows review manipulation, including by rival businesses, being prosecuted: a practical point for MECSC customer-service and reputation training.",
+   "article_date": "2026-10-13",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "Gulf Business", "date": "2026-10-13", "url": "https://gulfbusiness.com/en/2026/news/dubai-police-arrest-group-over-fake-google-reviews/", "tier": "A"}
+   ]
+  },
+  {
+   "id": "2026-10-15-09",
+   "stream": "ai",
+   "type": "policy",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "UAE federal government AI agents",
+   "company": "UAE Government (Minister of State for Artificial Intelligence)",
+   "member": false,
+   "title": "UAE requires every federal AI agent to connect to an agentic 'control tower'",
+   "summary": "At the Annual Meeting of Global Future Leaders, held in Dubai by the UAE Government and the World Economic Forum, Minister of State for Artificial Intelligence Omar Al Olama said on 14 October 2026 that every AI agent deployed by federal entities must connect to an agentic 'control tower'. Gulf News reports that the tower logs each agent's actions and decisions and is audited continuously by AI systems and people. The first federal agents, unveiled in May, cover procurement, tax auditing, customer happiness and technical support, under a target to move 50% of federal services and operations to AI within two years. Al Olama said decisions affecting a person's livelihood remain a red line and that the deploying institution, not the agent, is accountable for any harm.",
+   "why": "It sets the accountability model for AI customer-service agents in UAE government, a reference point for mall operators and retailers planning their own service agents ahead of the November services announcement on the watch list.",
+   "article_date": "2026-10-14",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/economy/uae-reveals-control-tower-to-monitor-ai-government-agents-1.500710167", "tier": "B"},
+    {"outlet": "The National", "date": "2026-10-14", "url": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/", "tier": "B"},
+    {"outlet": "Khaleej Times", "date": "2026-05-20", "url": "https://www.khaleejtimes.com/uae/uae-agentic-ai-agents-public-services-retreat", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "12",
+    "headline": "Agents at the service desk",
+    "angle": "Gulf governments and retailers are putting AI agents in front of customers, and the first rules on oversight and accountability are appearing: the UAE's federal control tower, Dubai's agentic AI accelerator, Majid Al Futtaim's agents and Lulu's in-store robots.",
+    "fits": "MECSC customer-experience feature for the 2027 Directory or RPM",
+    "markets": "UAE, GCC",
+    "facts": "UAE federal AI agents must connect to a control tower (14 Oct 2026); Dubai agentic AI accelerator with 33 government entities (5 Oct 2026); MAF expects its AI agents to match its office workforce (14 Oct 2026); Lulu and Kody Holdings' Odigo robots in UAE stores (1 Oct 2026).",
+    "caution": "Recheck the 50% two-year target and the control tower details against WAM or the UAE Government's own release before print."
+   }
+  },
+  {
+   "id": "2026-10-15-10",
+   "stream": "ai",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Agentic AI Award and Centre for Global Future Opportunities",
+   "company": "UAE Government, Dubai Municipality, Dubai Future Foundation and the World Economic Forum",
+   "member": false,
+   "title": "UAE and the World Economic Forum launch a $1 million annual Agentic AI Award",
+   "summary": "At the Annual Meeting of Global Future Leaders in Dubai on 14 October 2026, Minister of Cabinet Affairs Mohammad Al Gergawi announced an Agentic AI Award with a $1 million annual prize, run by Dubai Municipality and the World Economic Forum, with the winner to be named at next year's meeting. The UAE and the WEF will also set up a Centre for Global Future Opportunities with the Dubai Future Foundation to turn technological and economic opportunities into policy, legislation and projects, and launched Future 20, a cohort of 20 leaders under 30.",
+   "why": "It adds prize money and a global network to the UAE's push on agentic AI in public services, the benchmark that shoppers increasingly apply to malls and retailers.",
+   "article_date": "2026-10-14",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "The National", "date": "2026-10-14", "url": "https://www.thenationalnews.com/news/uae/2026/10/14/uae-offers-1-million-prize-for-winners-of-global-ai-challenge/", "tier": "B"},
+    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/uae-launches-1m-ai-challenge-global-opportunities-centre-with-world-economic-forum-1.500710337", "tier": "B"}
+   ]
+  },
+  {
+   "id": "2026-10-15-11",
+   "stream": "ai",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Agentic AI for Government Services Accelerator",
+   "company": "Dubai Future Foundation with the Dubai Centre for Artificial Intelligence, Digital Dubai and the Dubai Electronic Security Centre",
+   "member": false,
+   "title": "Dubai launches an agentic AI accelerator for public-facing services across 33 government entities",
+   "summary": "The Dubai Future Foundation announced the Agentic AI for Government Services Accelerator on 5 October 2026 as part of Dubai Future Accelerators. Its first phase brings 33 Dubai government entities together to identify the public-facing services with the most potential for agentic AI and to build prototypes with technology companies certified under the Dubai AI Seal. The Dubai Centre for Artificial Intelligence runs it with Digital Dubai and the Dubai Electronic Security Centre.",
+   "why": "It moves agentic AI into Dubai's customer-facing government services, which set the service standard residents expect from malls and retailers, and shows which AI Seal vendors are being tested locally.",
+   "article_date": "2026-10-05",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "The National", "date": "2026-10-05", "url": "https://www.thenationalnews.com/news/uae/2026/10/05/dubai-launches-agentic-ai-accelerator-to-transform-public-facing-government-services/", "tier": "B"},
+    {"outlet": "Gulf News", "date": "2026-10", "url": "https://gulfnews.com/uae/government/dubai-future-foundation-launches-agentic-ai-accelerator-for-33-government-entities-1.500698845", "tier": "B"}
+   ]
+  }
+ ],
+ "library": [],
+ "watch": [
+  {"item": "Westfield Riyadh (Cenomi)", "note": "Opening guided for Q4 2026; still no firm date (checked 15 Oct)", "since": "2026-07-16"},
+  {"item": "Bishkek Arena Mall", "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (zakon.kz, 6 Oct)", "since": "2026-09-03"},
+  {"item": "Primark, Doha Festival City", "note": "Opening due 29 Oct; Mall of the Emirates second floor due Nov 2026; Aventura Mall Kuwait and Villaggio in 2027; The Avenues Riyadh, the first Saudi store, in Mar 2027", "since": "2026-09-07"},
+  {"item": "Mall of the Emirates", "note": "THAT Concept Store closure date and replacement (none reported by 15 Oct); The Hangout's Activate due Oct 2026", "since": "2026-10-01"},
+  {"item": "Saadiyat Grove (Aldar)", "note": "Q4 2026 opening date and GLA", "since": "2026-09-18"},
+  {"item": "Al Othaim Developments", "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)", "since": "2026-10-05"},
+  {"item": "Seih Sdeirah (Aldar / Arada)", "note": "A defined retail centre and GLA", "since": "2026-09-30"},
+  {"item": "Merkez Ankara AVM", "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)", "since": "2026-10-11"},
+  {"item": "UAE government services transformation", "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct)", "since": "2026-10-08"},
+  {"item": "Q3 2026 results season", "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: exchange filings from late October", "since": "2026-10-14"},
+  {"item": "Q3 2026 market reports", "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov", "since": "2026-10-14"},
+  {"item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec", "note": "Speaker, sponsor and media clash to plan around", "since": "2026-10-14"},
+  {"item": "Dubai Mall Plaza and Hotel (Emaar)", "note": "Teaser only so far: official scope, GLA, operator and timing", "since": "2026-10-15"},
+  {"item": "The Plaza (former Lamcy Plaza), Dubai", "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)", "since": "2026-10-15"}
+ ],
+ "no_findings": ["Saudi Arabia", "Kuwait", "Bahrain", "Oman", "Egypt", "Jordan", "Lebanon", "Iraq", "Morocco", "Tunisia", "Algeria", "Libya", "Türkiye", "Pakistan", "Azerbaijan", "Georgia", "Armenia", "Kazakhstan", "Uzbekistan", "Kyrgyzstan", "Afghanistan", "Nigeria", "Kenya"],
+ "searches_run": 84,
+ "notes": "The run started late (09:18 Dubai). Three research passes, a lead check and spot checks ran about 84 searches and fetches; Saudi Arabia and the rest of the GCC outside the UAE and Qatar produced no new verified items, no new library document met the bar, and the Retail Technology Innovation Hub, mediaoffice.ae and Khaleej Times tech pages showed no usable dated listings."
+}

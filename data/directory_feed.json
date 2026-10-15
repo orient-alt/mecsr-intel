@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-14",
+ "built": "2026-10-15",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -81,6 +81,25 @@
     "DAY PAGE": "daily/2026-10-14.html#2026-10-14-02"
    },
    {
+    "ACTION": "Check first",
+    "PROPERTY": "The Plaza (former Lamcy Plaza), Oud Metha, Dubai",
+    "CITY": "Dubai",
+    "COUNTRY": "UAE",
+    "DEVELOPER / OWNER": "Azure Properties (asset manager; owner not named)",
+    "STATUS": "Closed; reopening planned under the name The Plaza",
+    "OPENING": "Q1 or Q2 2027 (tentative)",
+    "SIZE (AS REPORTED)": "Not published",
+    "WHAT THE INTEL SAYS": "Gulf News reported on 1 October 2026 that the former Lamcy Plaza in Oud Metha, which opened in 1997 with outlets over four floors, two cinemas, a hypermarket and a food court, will return as The Plaza. A representative said the reopening is tentatively set for the first or second quarter of 2027, with no exact date confirmed.",
+    "DIRECTORY CHECK": "Not on Brilliant under either name and not in tracker sheets 10 or 11 (checked 15 Oct). Single Tier B source; the page shows only a last-updated stamp of 1 Oct.",
+    "FIRST SEEN": "2026-10-15",
+    "LAST SEEN": "2026-10-15",
+    "REPORTS": 1,
+    "SOURCES": "Gulf News · 1 Oct 2026",
+    "LINK": "https://gulfnews.com/uae/the-plaza-formerly-lamcy-plaza-set-to-reopen-in-first-half-of-2027-1.500693549",
+    "NEXT STEP": "Confirm the owner, GLA, anchors and reopening date with Azure Properties or a second source, then move to Add to pipeline.",
+    "DAY PAGE": "daily/2026-10-15.html#2026-10-15-03"
+   },
+   {
     "ACTION": "Watch",
     "PROPERTY": "Seih Sdeirah community (Aldar / Arada)",
     "CITY": "Abu Dhabi",
@@ -135,6 +154,22 @@
    },
    {
     "PRIORITY": "Low",
+    "PROPERTY (AS LISTED)": "City Center Doha",
+    "COUNTRY": "Qatar",
+    "PAGE": "",
+    "FIELD": "Tenants",
+    "DIRECTORY SAYS (v13 BOOK)": "",
+    "INTEL SAYS": "Landmark Group's value-fashion brand Max Fashion has opened a flagship of more than 38,000 sq ft at City Center Doha, one of its largest stores, covering women's, men's and children's fashion. The Peninsula and Qatar Tribune reported the opening on 11 October 2026; Aamal Company's chief executive, Rashid bin Ali Al Mansoori, inaugurated it.",
+    "CHANGE TO MAKE": "Add the Max Fashion flagship (more than 38,000 sq ft, opened Oct 2026). Neither report gives the exact opening day.",
+    "FIRST SEEN": "2026-10-15",
+    "LAST SEEN": "2026-10-15",
+    "SOURCES": "The Peninsula · 11 Oct 2026; Qatar Tribune · 11 Oct 2026",
+    "LINK": "https://thepeninsulaqatar.com/article/11/10/2026/max-fashion-opens-one-of-its-largest-flagship-stores-in-city-center-doha",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-15.html#2026-10-15-02"
+   },
+   {
+    "PRIORITY": "Low",
     "PROPERTY (AS LISTED)": "Mall Of The Emirates",
     "COUNTRY": "UAE",
     "PAGE": "",
@@ -164,9 +199,40 @@
     "LINK": "https://www.luluretail.com/media/news/lulu-opens-new-store-at-kalba-waterfront-mall-in-sharjah/",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-14.html#2026-10-14-10"
+   },
+   {
+    "PRIORITY": "Low",
+    "PROPERTY (AS LISTED)": "Dubai Mall",
+    "COUNTRY": "UAE",
+    "PAGE": "",
+    "FIELD": "Development / pipeline",
+    "DIRECTORY SAYS (v13 BOOK)": "Existing Mall (Brilliant export, 12 Oct 2026)",
+    "INTEL SAYS": "On 14 October 2026 Emaar founder Mohamed Alabbar posted a computer-generated video on his verified Instagram account, captioned 'Dubai Mall Plaza and Hotel' and 'coming soon', showing a plaza-style development with pedestrian areas in the Downtown Dubai shopping district.",
+    "CHANGE TO MAKE": "No change yet. Note the 'Dubai Mall Plaza and Hotel' teaser of 14 Oct 2026 and confirm the scope (plaza, retail and F&B, hotel), GLA and timing with Emaar before updating the listing.",
+    "FIRST SEEN": "2026-10-15",
+    "LAST SEEN": "2026-10-15",
+    "SOURCES": "Gulf News · 14 Oct 2026; Khaleej Times · 14 Oct 2026",
+    "LINK": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-15.html#2026-10-15-01"
    }
   ],
   "12": [
+   {
+    "WORKING HEADLINE": "Agents at the service desk",
+    "ANGLE": "Gulf governments and retailers are putting AI agents in front of customers, and the first rules on oversight and accountability are appearing: the UAE's federal control tower, Dubai's agentic AI accelerator, Majid Al Futtaim's agents and Lulu's in-store robots.",
+    "WHERE IT FITS": "MECSC customer-experience feature for the 2027 Directory or RPM",
+    "MARKETS": "UAE, GCC",
+    "KEY FACTS FROM THE INTEL": "UAE federal AI agents must connect to a control tower (14 Oct 2026); Dubai agentic AI accelerator with 33 government entities (5 Oct 2026); MAF expects its AI agents to match its office workforce (14 Oct 2026); Lulu and Kody Holdings' Odigo robots in UAE stores (1 Oct 2026).",
+    "CAUTION": "Recheck the 50% two-year target and the control tower details against WAM or the UAE Government's own release before print.",
+    "SOURCES": "Gulf News · 14 Oct 2026; The National · 14 Oct 2026; Khaleej Times · 20 May 2026",
+    "MAIN LINK": "https://gulfnews.com/business/economy/uae-reveals-control-tower-to-monitor-ai-government-agents-1.500710167",
+    "MORE LINKS": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/ https://www.khaleejtimes.com/uae/uae-agentic-ai-agents-public-services-retreat",
+    "FIRST SEEN": "2026-10-15",
+    "LAST SEEN": "2026-10-15",
+    "REPORTS": "",
+    "DAY PAGE": "daily/2026-10-15.html#2026-10-15-09"
+   },
    {
     "WORKING HEADLINE": "When government service beats retail",
     "ANGLE": "Gulf residents now rate digital government above private-sector service (UAE 89%, first of 44 countries). Dubai's Services 360 cut visits 85% and waiting 96%. What mall and retail CX teams can copy.",
