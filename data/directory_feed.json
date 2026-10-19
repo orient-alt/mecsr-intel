@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-16",
+ "built": "2026-10-19",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -22,6 +22,44 @@
     "LINK": "https://www.foreks.com/haber/detay/6aafb78b24008d7d437342ef/AA/tr/florentia-village-250-milyon-avroluk-yatirimla-istanbul-da-acildi-20-09-26/",
     "NEXT STEP": "Move to Add now. Confirm the operating company, district and Phase 2 timing; brand names so far come only from an advertorial.",
     "DAY PAGE": "daily/2026-10-14.html#2026-10-14-01"
+   },
+   {
+    "ACTION": "Add now",
+    "PROPERTY": "Forum Kayseri AVM, Kayseri",
+    "CITY": "Kayseri",
+    "COUNTRY": "Türkiye",
+    "DEVELOPER / OWNER": "Owner: Torunlar GYO (since 2 Feb 2026; previously Union Investment Real Estate GmbH)",
+    "STATUS": "Trading; ownership transferred on 2 Feb 2026",
+    "OPENING": "Not stated in these sources",
+    "SIZE (AS REPORTED)": "Not published in these sources",
+    "WHAT THE INTEL SAYS": "Torunlar GYO has set the final price for 100% of Forum Kayseri Gayrimenkul Yatırım A.Ş., the company that owns and operates Forum Kayseri AVM, at EUR 131,904,579 after financial due diligence, against EUR 132,230,877.34 announced at first.",
+    "DIRECTORY CHECK": "Not on Brilliant (no Kayseri listing; the nearest matches are other Forum malls such as Forum Aydin) and not in tracker sheets 10 or 11 (checked 19 Oct). Ownership confirmed by Torunlar GYO's KAP filings (update of 12 Oct 2026; H1 2026 activity report) and Mall Report (16 Oct 2026).",
+    "FIRST SEEN": "2026-10-19",
+    "LAST SEEN": "2026-10-19",
+    "REPORTS": 1,
+    "SOURCES": "Mall Report · 16 Oct 2026; Yeni Şafak (KAP disclosure text) · 12 Oct 2026; Torunlar GYO H1 2026 activity report (KAP) · 18 Aug 2026",
+    "LINK": "https://mallreport.com.tr/avm-dunyasinda-dikkat-ceken-hamle-forum-kayseri-torunlar-gyoya-gecti/",
+    "NEXT STEP": "Take GLA, opening year and store count from Torunlar GYO's investor materials. Forum Mersin, bought in the same period, is also missing from Brilliant: add it in the same pass.",
+    "DAY PAGE": "daily/2026-10-19.html#2026-10-19-02"
+   },
+   {
+    "ACTION": "Add to pipeline",
+    "PROPERTY": "Madar Mall, Aljada, Sharjah",
+    "CITY": "Sharjah",
+    "COUNTRY": "UAE",
+    "DEVELOPER / OWNER": "Arada (main contractor UNEC; architect Zaha Hadid Architects)",
+    "STATUS": "Under construction; AED2.18bn main contract awarded 18 Sep 2025",
+    "OPENING": "Completion expected December 2028",
+    "SIZE (AS REPORTED)": "1.1 million sq ft GLA; 3.9 million sq ft built-up area (as published by Arada)",
+    "WHAT THE INTEL SAYS": "Arada awarded United Engineering Construction Company (UNEC) an AED2.18 billion contract to build Madar Mall at Aljada, Sharjah, in a release dated 18 September 2025, with completion expected in December 2028.",
+    "DIRECTORY CHECK": "Not on Brilliant (no 'Madar' or 'Aljada' listing) and not in tracker sheets 10 or 11 (checked 19 Oct). Supersedes the 'Check first' row of 16 Oct: Arada's release presents Madar Mall as 'a new family entertainment destination for the UAE' at Aljada.",
+    "FIRST SEEN": "2026-10-16",
+    "LAST SEEN": "2026-10-19",
+    "REPORTS": 2,
+    "SOURCES": "Arada (press release) · 15 Oct 2026; Sharjah24 · 15 Oct 2026; Arada (press release) · 18 Sep 2025; Gulf News · 18 Sep 2025",
+    "LINK": "https://www.arada.com/en/latest-news/aldar-marks-first-entry-to-sharjah-with-aed-1-1-billion-acquistion-of-nine-residential-buildings-from-arada-in-aljada/",
+    "NEXT STEP": "Confirm anchors, leasing progress and that December 2028 still holds with Arada before the data freeze. | earlier: Confirm the GLA, anchors and opening date with Arada, and that Madar Mall is distinct from the Madar entertainment district, then move to Add to pipeline.",
+    "DAY PAGE": "daily/2026-10-19.html#2026-10-19-04"
    },
    {
     "ACTION": "Add to pipeline",
@@ -101,22 +139,22 @@
    },
    {
     "ACTION": "Check first",
-    "PROPERTY": "Madar Mall, Aljada, Sharjah",
-    "CITY": "Sharjah",
-    "COUNTRY": "UAE",
-    "DEVELOPER / OWNER": "Arada",
-    "STATUS": "Named among Aljada's continuing developments (Arada release, 15 Oct 2026)",
-    "OPENING": "Not published",
+    "PROPERTY": "WinsTown AVM, Diyarbakır",
+    "CITY": "Diyarbakır",
+    "COUNTRY": "Türkiye",
+    "DEVELOPER / OWNER": "Not stated (leasing: MSP, Mall Solution Partner)",
+    "STATUS": "Leasing handed to MSP (Mall Report, 16 Oct 2026); trading status not stated",
+    "OPENING": "Not stated",
     "SIZE (AS REPORTED)": "Not published",
-    "WHAT THE INTEL SAYS": "Aldar has agreed an AED1.1 billion forward purchase of three residential blocks, comprising more than 1,100 units across nine buildings, in Arada's Aljada master community in Sharjah, for delivery by Arada in Q4 2029.",
-    "DIRECTORY CHECK": "Not on Brilliant (no 'Madar' or 'Aljada' listing) and not in tracker sheets 10 or 11 (checked 16 Oct). Single Tier A mention with no size or date; Aljada also has a separate Madar family entertainment district.",
-    "FIRST SEEN": "2026-10-16",
-    "LAST SEEN": "2026-10-16",
+    "WHAT THE INTEL SAYS": "WinsTown AVM in Diyarbakır has handed its leasing to MSP (Mall Solution Partner), a company with international leasing and brand-placement experience, Mall Report said on 16 October 2026 in a press-release item that cites a LinkedIn post by MSP. The aim is to strengthen the tenant mix and sign brands that plan to grow in Diyarbakır.",
+    "DIRECTORY CHECK": "Not on Brilliant (the only Diyarbakır listing is Ceylan Karavil Park AVM) and not in tracker sheets 10 or 11 (checked 19 Oct). Single Tier B source relaying a press release.",
+    "FIRST SEEN": "2026-10-19",
+    "LAST SEEN": "2026-10-19",
     "REPORTS": 1,
-    "SOURCES": "Arada (press release) · 15 Oct 2026; Sharjah24 · 15 Oct 2026",
-    "LINK": "https://www.arada.com/en/latest-news/aldar-marks-first-entry-to-sharjah-with-aed-1-1-billion-acquistion-of-nine-residential-buildings-from-arada-in-aljada/",
-    "NEXT STEP": "Confirm the GLA, anchors and opening date with Arada, and that Madar Mall is distinct from the Madar entertainment district, then move to Add to pipeline.",
-    "DAY PAGE": "daily/2026-10-16.html#2026-10-16-13"
+    "SOURCES": "Mall Report · 16 Oct 2026",
+    "LINK": "https://mallreport.com.tr/winstown-avmnin-kiralama-surecleri-mspye-emanet/",
+    "NEXT STEP": "Confirm the owner, district, opening year, GLA and anchors with MSP or the mall's management, then decide on Add now.",
+    "DAY PAGE": "daily/2026-10-19.html#2026-10-19-03"
    },
    {
     "ACTION": "Check first",
@@ -384,6 +422,21 @@
    }
   ],
   "12": [
+   {
+    "WORKING HEADLINE": "Service as an export: what TAMM Global means for customer experience",
+    "ANGLE": "Abu Dhabi has set up a company to license its TAMM government services platform abroad, turning a customer-experience model into a product, with satisfaction and cost figures that malls and retailers can benchmark against.",
+    "WHERE IT FITS": "MECSC customer-experience feature for the 2027 Directory or RPM · RCM Jeddah CX session",
+    "MARKETS": "UAE, GCC",
+    "KEY FACTS FROM THE INTEL": "TAMM Global announced 16 Oct 2026 by the Department of Government Enablement, Abu Dhabi; more than 1,200 services; customer satisfaction 94.5% (78% in 2022); service costs down 30%; about nine fewer service-centre visits per user a year.",
+    "CAUTION": "A photo caption in The National says more than 1,000 services: confirm the service count and how satisfaction is measured with DGE before print.",
+    "SOURCES": "The National · 16 Oct 2026; Gulf News · 16 Oct 2026",
+    "MAIN LINK": "https://www.thenationalnews.com/news/uae/2026/10/16/abu-dhabi-launches-tamm-global-to-export-ai-powered-government-services-worldwide/",
+    "MORE LINKS": "https://gulfnews.com/uae/abu-dhabi-launches-tamm-global-to-take-ai-powered-government-services-worldwide-1.500713253",
+    "FIRST SEEN": "2026-10-19",
+    "LAST SEEN": "2026-10-19",
+    "REPORTS": "",
+    "DAY PAGE": "daily/2026-10-19.html#2026-10-19-05"
+   },
    {
     "WORKING HEADLINE": "Duty free by road",
     "ANGLE": "Oman is setting up duty-free markets at its land borders with the UAE and Saudi Arabia, turning road crossings into shopping stops for GCC visitors.",

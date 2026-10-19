@@ -1,0 +1,343 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-10-19",
+ "weekday": "Monday",
+ "coverage": {"from": "2026-10-16", "to": "2026-10-18", "label": "Friday 16 to Sunday 18 October 2026"},
+ "status": "full",
+ "brief": [
+  "Destinations: Dubai Municipality and Emaar Malls signed a memorandum on 16 Oct to explore new commercial, community and lifestyle destinations on public land across Dubai; no sites have been named yet.",
+  "Türkiye: Torunlar GYO fixed the final price for Forum Kayseri AVM at EUR 131,904,579 (KAP, 12 Oct; Mall Report, 16 Oct), and WinsTown AVM in Diyarbakır handed its leasing to MSP; neither mall is in the Directory yet.",
+  "CX: Abu Dhabi launched TAMM Global on 16 Oct to license its AI-powered government services platform abroad, citing 94.5% customer satisfaction and service costs down 30%.",
+  "AI: Semafor reports that Amazon and eBay are blocking AI shopping agents ahead of the holiday season (16 Oct), and WEF and Bain put AI's value in MENA at more than $1 trillion by 2030, an estimate that covers finance, energy and the public sector rather than retail.",
+  "2027 Directory and watch: Arada's own figures put Madar Mall at Aljada at 1.1m sq ft GLA for December 2028, so it moves to the pipeline; King Khalid International in Riyadh reopened on 18 Oct, but several airlines keep Saudi suspensions into November."
+ ],
+ "findings": [
+  {
+   "id": "2026-10-19-01",
+   "stream": "dest",
+   "type": "deal",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Emaar Malls Management (destinations in public spaces)",
+   "company": "Emaar Malls Management LLC (Emaar Properties) with Dubai Municipality",
+   "member": false,
+   "title": "Dubai Municipality and Emaar Malls sign a memorandum to explore new destinations in public spaces",
+   "summary": "Dubai Municipality and Emaar Malls Management LLC signed a Memorandum of Collaboration on 16 October 2026 to explore future commercial offerings and community and lifestyle destinations across Dubai's public spaces and facilities. The two sides will share information on suitable and available locations, assess possible development opportunities and exchange expertise in commercial and destination development. No sites, number of locations, values or duration were published; the memorandum was signed by Eng. Bader Ahmed Anwahi, CEO of the municipality's Public Facilities Agency, and Ahmad Thani Al Matrooshi, Executive Director at Emaar Properties.",
+   "why": "It could open a pipeline of Emaar-run retail and leisure destinations on municipal land, worth tracking for the 2027 Directory and as a public-private model for MECSR members.",
+   "article_date": "2026-10-16",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "Zawya (press release)", "date": "2026-10-16", "url": "https://www.zawya.com/en/press-release/government-news/dubai-municipality-and-emaar-malls-strengthen-cooperation-to-expand-commercial-offerings-and-investment-opportunities-across-public-spaces-1712609", "tier": "A"}
+   ]
+  },
+  {
+   "id": "2026-10-19-02",
+   "stream": "dest",
+   "type": "deal",
+   "country": "Türkiye",
+   "city": "Kayseri",
+   "entity": "Forum Kayseri AVM",
+   "company": "Torunlar GYO (owner since 2 Feb 2026); Union Investment Real Estate GmbH (seller)",
+   "member": false,
+   "title": "Torunlar GYO sets the final price for Forum Kayseri AVM at EUR 131,904,579",
+   "summary": "Torunlar GYO has set the final price for 100% of Forum Kayseri Gayrimenkul Yatırım A.Ş., the company that owns and operates Forum Kayseri AVM, at EUR 131,904,579 after financial due diligence, against EUR 132,230,877.34 announced at first. The seller was Germany-based Union Investment Real Estate GmbH: the share purchase agreement was signed on 30 January 2026, the transfer completed on 2 February 2026 and the price was paid in cash. The update was filed on KAP on 12 October and reported by Mall Report on 16 October; neither gives the mall's GLA or store count, and Torunlar's H1 2026 activity report also records the purchase of Forum Mersin.",
+   "why": "It confirms a new owner for a regional Turkish mall that the Directory does not yet list, and adds a disclosed transaction value to Türkiye's retail investment record.",
+   "article_date": "2026-10-16",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "Mall Report", "date": "2026-10-16", "url": "https://mallreport.com.tr/avm-dunyasinda-dikkat-ceken-hamle-forum-kayseri-torunlar-gyoya-gecti/", "tier": "B"},
+    {"outlet": "Yeni Şafak (KAP disclosure text)", "date": "2026-10-12", "url": "https://www.yenisafak.com/ekonomi/kap-haberleri/kap-torunlar-gayrimenkul-yatirim-ortakligi-as-trgyo-finansal-duran-varlik-edinimi-5129225", "tier": "B"},
+    {"outlet": "Torunlar GYO H1 2026 activity report (KAP)", "date": "2026-08-18", "url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a015ed3bf543fa", "tier": "A", "kind": "pdf"}
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Add now",
+    "property": "Forum Kayseri AVM, Kayseri",
+    "developer": "Owner: Torunlar GYO (since 2 Feb 2026; previously Union Investment Real Estate GmbH)",
+    "status": "Trading; ownership transferred on 2 Feb 2026",
+    "opening": "Not stated in these sources",
+    "size": "Not published in these sources",
+    "check": "Not on Brilliant (no Kayseri listing; the nearest matches are other Forum malls such as Forum Aydin) and not in tracker sheets 10 or 11 (checked 19 Oct). Ownership confirmed by Torunlar GYO's KAP filings (update of 12 Oct 2026; H1 2026 activity report) and Mall Report (16 Oct 2026).",
+    "next": "Take GLA, opening year and store count from Torunlar GYO's investor materials. Forum Mersin, bought in the same period, is also missing from Brilliant: add it in the same pass."
+   }
+  },
+  {
+   "id": "2026-10-19-03",
+   "stream": "dest",
+   "type": "deal",
+   "country": "Türkiye",
+   "city": "Diyarbakır",
+   "entity": "WinsTown AVM",
+   "company": "MSP (Mall Solution Partner), leasing; owner not stated",
+   "member": false,
+   "title": "WinsTown AVM in Diyarbakır hands its leasing to MSP",
+   "summary": "WinsTown AVM in Diyarbakır has handed its leasing to MSP (Mall Solution Partner), a company with international leasing and brand-placement experience, Mall Report said on 16 October 2026 in a press-release item that cites a LinkedIn post by MSP. The aim is to strengthen the tenant mix and sign brands that plan to grow in Diyarbakır. The report gives no owner, district, opening year, GLA, store count or anchors.",
+   "why": "A second Diyarbakır mall is re-tenanting after N City's outlet repositioning, and WinsTown is not yet in the Directory.",
+   "article_date": "2026-10-16",
+   "date_basis": "meta",
+   "confidence": "Low",
+   "sources": [
+    {"outlet": "Mall Report", "date": "2026-10-16", "url": "https://mallreport.com.tr/winstown-avmnin-kiralama-surecleri-mspye-emanet/", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Check first",
+    "property": "WinsTown AVM, Diyarbakır",
+    "developer": "Not stated (leasing: MSP, Mall Solution Partner)",
+    "status": "Leasing handed to MSP (Mall Report, 16 Oct 2026); trading status not stated",
+    "opening": "Not stated",
+    "size": "Not published",
+    "check": "Not on Brilliant (the only Diyarbakır listing is Ceylan Karavil Park AVM) and not in tracker sheets 10 or 11 (checked 19 Oct). Single Tier B source relaying a press release.",
+    "next": "Confirm the owner, district, opening year, GLA and anchors with MSP or the mall's management, then decide on Add now."
+   }
+  },
+  {
+   "id": "2026-10-19-04",
+   "stream": "dest",
+   "type": "pipeline",
+   "country": "UAE",
+   "city": "Sharjah",
+   "entity": "Madar Mall, Aljada",
+   "company": "Arada (developer); United Engineering Construction Company (main contractor)",
+   "member": false,
+   "title": "Madar Mall at Aljada: Arada's own figures give 1.1m sq ft GLA and completion in December 2028",
+   "summary": "Arada awarded United Engineering Construction Company (UNEC) an AED2.18 billion contract to build Madar Mall at Aljada, Sharjah, in a release dated 18 September 2025, with completion expected in December 2028. The Zaha Hadid Architects design has 1.1 million sq ft of GLA and 3.9 million sq ft of built-up area over three floors, with more than 400 shops, 80 dining outlets, an 11-screen cinema, an ice rink and a flagship fitness centre. This background answers the open question from Arada's 15 October 2026 release, which named Madar Mall among Aljada's continuing developments without figures.",
+   "why": "It moves a large Sharjah scheme from 'Check first' into the 2027 Directory pipeline with a primary-source GLA and target date.",
+   "article_date": "2025-09-18",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "Arada (press release)", "date": "2025-09-18", "url": "https://www.arada.com/?p=80890", "tier": "A"},
+    {"outlet": "Gulf News", "date": "2025-09-18", "url": "https://gulfnews.com/business/property/arada-awards-dh218-billion-contract-to-build-madar-mall-at-aljada-1.500274356", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Add to pipeline",
+    "property": "Madar Mall, Aljada, Sharjah",
+    "developer": "Arada (main contractor UNEC; architect Zaha Hadid Architects)",
+    "status": "Under construction; AED2.18bn main contract awarded 18 Sep 2025",
+    "opening": "Completion expected December 2028",
+    "size": "1.1 million sq ft GLA; 3.9 million sq ft built-up area (as published by Arada)",
+    "check": "Not on Brilliant (no 'Madar' or 'Aljada' listing) and not in tracker sheets 10 or 11 (checked 19 Oct). Supersedes the 'Check first' row of 16 Oct: Arada's release presents Madar Mall as 'a new family entertainment destination for the UAE' at Aljada.",
+    "next": "Confirm anchors, leasing progress and that December 2028 still holds with Arada before the data freeze."
+   }
+  },
+  {
+   "id": "2026-10-19-05",
+   "stream": "cx",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "TAMM Global",
+   "company": "Department of Government Enablement, Abu Dhabi (DGE)",
+   "member": false,
+   "title": "Abu Dhabi sets up TAMM Global to license its AI-powered government services platform abroad",
+   "summary": "The Department of Government Enablement, Abu Dhabi announced TAMM Global on 16 October 2026, under a directive from Sheikh Khaled bin Mohamed bin Zayed, Crown Prince of Abu Dhabi. The company will develop and manage the TAMM platform, hold its intellectual property and license its architecture and implementation methods to governments and organisations, which can adapt prebuilt services to their own legal frameworks. The National and Gulf News report more than 1,200 public and private-sector services, customer satisfaction of 94.5% (78% in 2022, before AI was integrated), service costs down 30% and about nine fewer service-centre visits per user a year.",
+   "why": "A Gulf government is now selling its customer-experience model as a product, which gives MECSC a citable satisfaction benchmark and a strong speaker lead for RCM Jeddah.",
+   "article_date": "2026-10-16",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "The National", "date": "2026-10-16", "url": "https://www.thenationalnews.com/news/uae/2026/10/16/abu-dhabi-launches-tamm-global-to-export-ai-powered-government-services-worldwide/", "tier": "B"},
+    {"outlet": "Gulf News", "date": "2026-10-16", "url": "https://gulfnews.com/uae/abu-dhabi-launches-tamm-global-to-take-ai-powered-government-services-worldwide-1.500713253", "tier": "B"}
+   ],
+   "directory": {
+    "sheet": "12",
+    "headline": "Service as an export: what TAMM Global means for customer experience",
+    "angle": "Abu Dhabi has set up a company to license its TAMM government services platform abroad, turning a customer-experience model into a product, with satisfaction and cost figures that malls and retailers can benchmark against.",
+    "fits": "MECSC customer-experience feature for the 2027 Directory or RPM · RCM Jeddah CX session",
+    "markets": "UAE, GCC",
+    "facts": "TAMM Global announced 16 Oct 2026 by the Department of Government Enablement, Abu Dhabi; more than 1,200 services; customer satisfaction 94.5% (78% in 2022); service costs down 30%; about nine fewer service-centre visits per user a year.",
+    "caution": "A photo caption in The National says more than 1,000 services: confirm the service count and how satisfaction is measured with DGE before print."
+   }
+  },
+  {
+   "id": "2026-10-19-06",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "city": "",
+   "entity": "AI shopping agents",
+   "company": "Amazon and eBay; Cheq; Morning Consult",
+   "member": false,
+   "title": "Amazon and eBay block AI shopping agents as agent traffic climbs ahead of the holiday season",
+   "summary": "Semafor reported on 16 October 2026 that Amazon and eBay have blocked AI shopping agents to protect their advertising businesses and checkout experiences, as online retailers prepare for the holiday season. Cheq, a cybersecurity company that verifies AI shopping agents, told Semafor of a 100x surge in agentic traffic over a 45-day period after new consumer AI agents were released; this is a vendor figure and its method was not given. Morning Consult research cited in the piece finds shoppers about as likely to be swayed by an agent's recommendation as by an influencer's, though few are comfortable letting AI buy for them.",
+   "why": "Gulf retailers and mall e-commerce teams face the same choice between blocking and courting AI agents that global marketplaces are now making.",
+   "article_date": "2026-10-16",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "Semafor", "date": "2026-10-16", "url": "https://semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season", "tier": "B"}
+   ]
+  },
+  {
+   "id": "2026-10-19-07",
+   "stream": "ai",
+   "type": "market",
+   "country": "MENA",
+   "city": "Dubai",
+   "entity": "Unlocking Value: AI for Resilient Growth in MENA",
+   "company": "World Economic Forum with Bain & Company",
+   "member": false,
+   "title": "WEF and Bain: AI could unlock more than $1 trillion of economic and sustainability value in MENA by 2030",
+   "summary": "The World Economic Forum published 'Unlocking Value: AI for Resilient Growth in MENA', developed with Bain & Company, on 14 October 2026 in Dubai, alongside a data-centre infrastructure report produced with SRMG. The estimate of more than $1 trillion by 2030 is made up of up to $200 billion of sustainable financing, $370 billion of public-sector-enabled sustainable investment, $250 billion of long-term asset losses avoided, $90 billion of higher energy-sector valuations and $100 billion of cross-sector projects. In a survey of the MENA Chief Sustainability Officers Network, 89% saw high or very high potential for AI, but only 40 to 55% said their use cases were at the pilot or scaled stage; the release gives no retail or consumer figures.",
+   "why": "It is a citable regional AI headline for MECSR content, provided it is quoted with its scope: finance, energy, the public sector and sustainability, not retail.",
+   "article_date": "2026-10-14",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {"outlet": "World Economic Forum", "date": "2026-10-14", "url": "https://www.weforum.org/media/ai-could-unlock-1-trillion-for-mena-but-infrastructure-must-keep-pace/", "tier": "A"}
+   ]
+  },
+  {
+   "id": "2026-10-19-08",
+   "stream": "ai",
+   "type": "launch",
+   "country": "GCC",
+   "city": "",
+   "entity": "AIVI (formerly 6thStreet)",
+   "company": "Apparel Group",
+   "member": false,
+   "title": "Apparel Group's AIVI app, the successor to 6thStreet, adds an AI stylist and virtual try-on",
+   "summary": "Apparel Group launched AIVI in August 2026 as 'the evolution of 6thStreet', one platform for its brands with Club AIVI rewards, citing more than 2,600 stores and over 85 international brands in 14 countries. Gulf News (updated 8 October 2026) describes an 'Ask AIVI' adviser that takes spoken or typed requests and suggests items from preferences, past searches and purchases, a virtual try-on from a photo or selfie, and Club AIVI, the renamed Club Apparel, which works across online platforms, stores and food and beverage outlets. The app is available in the UAE, Saudi Arabia, Kuwait, Qatar, Bahrain and Oman, with selected products delivered in as little as 60 minutes in the UAE.",
+   "why": "One of the largest fashion tenants in Gulf malls now runs discovery, try-on and loyalty through a conversational AI app that links online and in-mall stores.",
+   "article_date": "2026-10-08",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {"outlet": "Gulf News", "date": "2026-10-08", "url": "https://gulfnews.com/lifestyle/fashion/ask-aivi-what-if-ai-could-choose-your-next-outfit-1.500703182", "tier": "B"},
+    {"outlet": "Apparel Group (press release)", "date": "2026-08-03", "url": "https://www.apparelgroup.com/en/news/apparel-group-marks-the-launch-of-aivi-with-its-back-to-school-campaign/", "tier": "A"}
+   ]
+  }
+ ],
+ "library": [
+  {
+   "title": "KSA Real Estate Report: H1 2026 Review and H2 2026 Outlook",
+   "publisher": "Kuwait Financial Centre (Markaz)",
+   "doc_type": "market-report",
+   "country": "Saudi Arabia",
+   "date": "2026-08",
+   "url": "https://www.markaz.com/getmedia/310e8d20-f387-4cca-b2a1-23073dda47f8/KSA-Real-Estate-Report-H2-2026-EN.pdf",
+   "pages": null,
+   "note": "PDF opened; cover dated August 2026 (the file name says H2 2026). Retail tables use Q1 2026 data: existing retail supply of 4.7 million sqm in Riyadh and 2.7 million sqm in Jeddah; super-regional mall rents of 3,175 SAR/sqm/yr in Riyadh, where vacancy is 2.1%, and 2,760 SAR/sqm/yr in Jeddah. Companion to the Kuwait edition already in the library; fills the Saudi gap until Q3 2026 reports appear.",
+   "use_for": "directory, research"
+  },
+  {
+   "title": "Mabanee: Interim Condensed Consolidated Financial Information (Unaudited), six months to 30 June 2026",
+   "publisher": "Mabanee Company K.P.S.C. (Boursa Kuwait disclosure)",
+   "doc_type": "filing",
+   "country": "Kuwait",
+   "date": "2026-07-27",
+   "url": "https://ifsahdocs.boursakuwait.com.kw/DiscAssets/2026_17601/English.pdf",
+   "pages": null,
+   "note": "PDF opened; the auditor's review report is dated 27 July 2026. Six months to 30 June 2026, in KD'000s: total revenue 65,390 (2025: 68,474); revenue from investment properties 58,147 (58,145); profit attributable to equity holders of the Parent Company 32,382 (50,295). Pairs with the H1 2026 analyst-call transcript already in the library.",
+   "use_for": "membership, research"
+  },
+  {
+   "title": "Cenomi Centers H1 2026 results release (SAR 748.3mn EBITDA and a record 70 million visitors)",
+   "publisher": "Cenomi Centers",
+   "doc_type": "filing",
+   "country": "Saudi Arabia",
+   "date": "2026-08-05",
+   "url": "https://centers.cenomi.com/wp-content/uploads/sites/2/2026/08/Q2-26-PR-English.pdf",
+   "pages": null,
+   "note": "PDF opened. H1 2026 revenue of 1,151.9 million and net profit of 592.6 million (riyals); like-for-like occupancy of 91.2% at the end of Q2 2026 (92.2% a year earlier); footfall of 70.0 million. Westfield Jeddah moved to its operational phase on 30 July 2026 with pre-leasing near 96%; Westfield Riyadh's structure is complete, pre-leasing is near 94% and the operational phase is expected in Q4 2026. Baseline for the Q3 2026 filing; complements the H1 2026 deck already in the library.",
+   "use_for": "directory, membership"
+  },
+  {
+   "title": "Kenya Market Update, 1st Half 2026",
+   "publisher": "Knight Frank Kenya",
+   "doc_type": "market-report",
+   "country": "Kenya",
+   "date": "2026",
+   "url": "https://content.knightfrank.com/research/3135/documents/en/the-kenya-market-update-h1-2026-13009.pdf",
+   "pages": null,
+   "note": "PDF opened; edition H1 2026, month not shown. Retail: the main completion was the 100,000 sq. ft. expansion of Galleria Mall, Karen. The prime pipeline (Knight Frank estimates) includes Hurlingham Mall, Kilimani (100,000 sq. ft., 2026), Lavington Square (70,000, 2026), Elgon Mall (60,000, 2026), Hookwood Square (60,000, 2027), Maisha Mall (32,300, 2027) and Talanta Mall, Dagoretti (323,000, 2029). Names Sarit Centre, Junction Mall, Simara Mall and others with retailer openings: useful for Kenya directory entries.",
+   "use_for": "directory"
+  },
+  {
+   "title": "The Africa Report 2026/27: The Ultimate Guide to Africa's Real Estate Markets (7th edition)",
+   "publisher": "Knight Frank",
+   "doc_type": "market-report",
+   "country": "Africa",
+   "date": "2026",
+   "url": "https://www.knightfrank.com/content-assets/f9012b7bd3784465a422696389146099/africa-report-2026-27.pdf",
+   "pages": null,
+   "note": "PDF opened; edition 2026/27, month not shown. Country pages include Morocco, Egypt, Kenya and Nigeria, with 2026 retail yields of 8.5% (Morocco), 8% (Egypt), 9.5% (Kenya) and 12.5% (Nigeria). Egypt: Cairo's lifestyle retail market is about 2.6 million sqm of GLA across 82 developments, with 183,730 sqm delivered in 2025. Fills the Morocco and Nigeria gaps in the library.",
+   "use_for": "research"
+  },
+  {
+   "title": "Tashkent MarketBeat Q2 2026",
+   "publisher": "Cushman & Wakefield | Veritas",
+   "doc_type": "market-report",
+   "country": "Uzbekistan",
+   "date": "2026-08-11",
+   "url": "https://cushwake.kz/storage/files/doc/CWV-Tashkent-Q2-2026.pdf",
+   "pages": null,
+   "note": "PDF opened; date from the publisher's landing page (Veritas is a third-party affiliate licensed to use the Cushman & Wakefield name). Modern retail stock of 530,000 to 540,000 m² GLA across 24 professionally managed malls; high-street rents of $22 to 52/m²/month; shopping-centre rents of $18 to 50 for mid-tier tenants and $170 to 450 for prime ground-floor units in flagship malls (no unit stated for these two ranges). First Uzbekistan retail benchmark in the library.",
+   "use_for": "directory, research"
+  },
+  {
+   "title": "Almaty MarketBeat Q2 2026",
+   "publisher": "Cushman & Wakefield | Veritas (Kazakhstan)",
+   "doc_type": "market-report",
+   "country": "Kazakhstan",
+   "date": "2026-08-11",
+   "url": "https://cushwake.kz/storage/files/doc/CWV-Almaty-Q2-2026.pdf",
+   "pages": null,
+   "note": "PDF opened by the research pass; date from the publisher's landing page. The retail section covers economic context and retailer news rather than mall stock, with retail sales up 3.6% year on year in January to June 2026; it gives no retail GLA, vacancy or rent figures. An Astana MarketBeat for the same quarter is on the same site (not opened).",
+   "use_for": "research"
+  },
+  {
+   "title": "BCG 2026 Digital Government Citizen Survey: GCC findings (After a Decade of Digital Gains)",
+   "publisher": "Boston Consulting Group",
+   "doc_type": "research",
+   "country": "GCC",
+   "date": "2026-10-06",
+   "url": "https://bcg.com/publications/2026/middle-east-after-a-decade-of-digital-gains-ai-is-reshaping-citizens-expectations-in-gcc",
+   "pages": null,
+   "note": "Web article on how AI is changing citizens' expectations in the GCC, no PDF; displayed date 6 Oct 2026 (metadata 30 Sep 2026). GCC findings of BCG's 2026 Digital Government Citizen Survey (48,500 respondents in 44 countries, more than 1,500 in the GCC): net shares rating public digital services above private-sector ones are 76% in the UAE, 74% in Saudi Arabia and 68% in Qatar, and 79% of GCC respondents expect AI-centred government services (66% globally). The page gives both 69% and 72% for the GCC average, so quote the country figures.",
+   "use_for": "CX"
+  },
+  {
+   "title": "Unlocking Value: AI for Resilient Growth in MENA",
+   "publisher": "World Economic Forum with Bain & Company",
+   "doc_type": "research",
+   "country": "MENA",
+   "date": "2026-10-14",
+   "url": "https://www.weforum.org/media/ai-could-unlock-1-trillion-for-mena-but-infrastructure-must-keep-pace/",
+   "pages": null,
+   "note": "PDF not opened: the link is WEF's own release page, which links the report and a companion data-centre report produced with SRMG. Sector-by-sector estimate of AI's value to 2030 (more than $1 trillion) across finance, the public sector and energy, with no retail figures. Macro background for AI sessions.",
+   "use_for": "research, events"
+  }
+ ],
+ "watch": [
+  {"item": "Westfield Riyadh (Cenomi)", "note": "Cenomi's H1 2026 release (5 Aug): structure complete, pre-leasing near 94%, operational phase expected in Q4 2026; its 220,000 sqm GLA includes 65,000 sqm of offices. No date yet (checked 19 Oct)", "since": "2026-07-16"},
+  {"item": "Westfield Jeddah (Cenomi)", "note": "Operational phase since 30 Jul with pre-leasing near 96% and tenants fitting out; grand opening guided for Q4 2026. No date yet (checked 19 Oct)", "since": "2026-10-16"},
+  {"item": "Aventura Mall (Mabanee, Kuwait)", "note": "Due at the end of October 2026 (Mabanee, 29 Jul); no opening day published by 19 Oct", "since": "2026-10-16"},
+  {"item": "Bishkek Arena Mall", "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (checked 19 Oct)", "since": "2026-09-03"},
+  {"item": "Primark, Doha Festival City", "note": "Opening due 29 Oct; Mall of the Emirates second floor due Nov 2026; Aventura Mall Kuwait and Villaggio in 2027; The Avenues Riyadh, the first Saudi store, in Mar 2027", "since": "2026-09-07"},
+  {"item": "Mall of the Emirates", "note": "THAT Concept Store closure date and replacement (none reported by 19 Oct); The Hangout's Activate due Oct 2026", "since": "2026-10-01"},
+  {"item": "Saadiyat Grove (Aldar)", "note": "Q4 2026 opening date and GLA (none published by 19 Oct)", "since": "2026-09-18"},
+  {"item": "Al Othaim Developments", "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)", "since": "2026-10-05"},
+  {"item": "Seih Sdeirah (Aldar / Arada)", "note": "A defined retail centre and GLA", "since": "2026-09-30"},
+  {"item": "Madar Mall, Aljada (Arada)", "note": "Arada (18 Sep 2025): 1.1m sq ft GLA, completion December 2028. Confirm anchors, leasing and that the date holds", "since": "2026-10-16"},
+  {"item": "Multaqa AlMadinah (KEC)", "note": "Opening date, and whether Brilliant's 'Wasat Al Madinah' is the same scheme", "since": "2026-10-16"},
+  {"item": "The Avenues Khobar (Mabanee)", "note": "Mabanee's 2025 annual report gives both Q3 2027 and Q1 2028 for the opening", "since": "2026-10-16"},
+  {"item": "Merkez Ankara AVM", "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)", "since": "2026-10-11"},
+  {"item": "Oman land-border duty-free markets", "note": "Start date, operator and any tender (Decision No 145/2026); no update by 19 Oct", "since": "2026-10-16"},
+  {"item": "Dubai Municipality and Emaar Malls destinations", "note": "Which public sites, formats and timings follow the memorandum of 16 Oct", "since": "2026-10-19"},
+  {"item": "Saudi air travel disruption", "note": "King Khalid International, Riyadh, reopened on 18 Oct after the attacks on Saudi airports (The National, 18 Oct), but several airlines keep Saudi suspensions: Oman Air to 22 Oct; Air France, Air India and IndiGo to 24 Oct; KLM and SalamAir to 31 Oct; Lufthansa to 18 Nov; Cathay Pacific to 31 Jan 2027; Scoot's Singapore to Jeddah flights to 2 Dec. A US Mission alert of 17 Oct urges extreme caution at Saudi airports (Gulf News). Check effects on Riyadh mall trading, Westfield Riyadh's Q4 opening and travel to RCM Jeddah (7 to 8 Dec)", "since": "2026-10-16"},
+  {"item": "UAE government services transformation", "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct); Abu Dhabi launched TAMM Global on 16 Oct", "since": "2026-10-08"},
+  {"item": "Q3 2026 results season", "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: no Q3 filings or results-date notices by 19 Oct; Cenomi filed its Q3 2025 results on 2 Nov 2025", "since": "2026-10-14"},
+  {"item": "Q3 2026 market reports", "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov; none on publisher sites by 19 Oct", "since": "2026-10-14"},
+  {"item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec", "note": "Speaker, sponsor and media clash to plan around; no programme news by 19 Oct", "since": "2026-10-14"},
+  {"item": "Dubai Mall Plaza and Hotel (Emaar)", "note": "Teaser only so far; no official scope, GLA, operator or timing by 19 Oct", "since": "2026-10-15"},
+  {"item": "The Plaza (former Lamcy Plaza), Dubai", "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)", "since": "2026-10-15"}
+ ],
+ "no_findings": ["Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Oman", "Egypt", "Jordan", "Lebanon", "Iraq", "Morocco", "Tunisia", "Algeria", "Libya", "Pakistan", "Azerbaijan", "Georgia", "Armenia", "Kazakhstan", "Uzbekistan", "Kyrgyzstan", "Afghanistan", "Nigeria", "Kenya"],
+ "searches_run": 161,
+ "notes": "Monday edition for Friday 16 to Sunday 18 Oct. Four parallel passes and spot checks ran about 161 searches and fetches; every in-window item dates from Friday 16 Oct, nothing cleared the bar for the weekend days and there was no member-company news. Time Out Dubai, Business of Fashion, Construction Week and one Khaleej Times article returned fetch errors, an Arabian Business article loaded without a date line, mediaoffice.ae again listed no dated headlines and the GDN Primark story sits behind a CAPTCHA."
+}
