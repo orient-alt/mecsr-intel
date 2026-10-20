@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-19",
+ "built": "2026-10-20",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -98,6 +98,25 @@
     "LINK": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027",
     "NEXT STEP": "Confirm GLA in sqm, opening quarter and whether Dubai Retail wants it pre-listed as Upcoming.",
     "DAY PAGE": "daily/2026-10-13.html#2026-10-13-04"
+   },
+   {
+    "ACTION": "Check first",
+    "PROPERTY": "Safari Mall, Abu Hamour",
+    "CITY": "Doha",
+    "COUNTRY": "Qatar",
+    "DEVELOPER / OWNER": "",
+    "STATUS": "Trading",
+    "OPENING": "Not stated in this source",
+    "SIZE (AS REPORTED)": "Not published in this source",
+    "WHAT THE INTEL SAYS": "Malabar Gold & Diamonds has opened its 13th showroom in Qatar at Safari Mall in Abu Hamour, Doha, The Peninsula reported on 18 Oct 2026. The retailer has also reopened its renovated showroom at Al Watan Centre, first opened in 2011. No showroom sizes or opening date were given.",
+    "DIRECTORY CHECK": "Not on Brilliant (no Safari listing in the 12 Oct export) and not in tracker sheets 10 or 11 (checked 20 Oct). Not the same as 'Safari Shopping Centre, Logistics Village Qatar', already in sheet 10 as Check first.",
+    "FIRST SEEN": "2026-10-20",
+    "LAST SEEN": "2026-10-20",
+    "REPORTS": 1,
+    "SOURCES": "The Peninsula · 18 Oct 2026",
+    "LINK": "http://thepeninsulaqatar.com/article/18/10/2026/malabar-gold-diamonds-expands-presence-in-qatar-opens-13th-showroom",
+    "NEXT STEP": "Confirm the owner and operator, GLA and opening year from the mall or a second source before adding.",
+    "DAY PAGE": "daily/2026-10-20.html#2026-10-20-04"
    },
    {
     "ACTION": "Check first",
@@ -422,6 +441,21 @@
    }
   ],
   "12": [
+   {
+    "WORKING HEADLINE": "Trading through turbulence",
+    "ANGLE": "The July escalation hit hotels and sentiment while mall occupancy held; October's attacks on Saudi Arabia have now pushed Riyadh's big fourth-quarter business events into 2027. What the published numbers say about how Gulf retail property absorbs the shocks.",
+    "WHERE IT FITS": "Front of book: What's New in 2027 (p5) · RPM",
+    "MARKETS": "Saudi Arabia, GCC",
+    "KEY FACTS FROM THE INTEL": "19 Oct 2026: FII10 (Riyadh, 26 to 29 Oct) postponed to 2027 (FII Institute via Gulf Business); Saudi Retail Forum (19 Nov) moved to March 2027; Intersec Saudi Arabia (16 to 18 Nov) moved to October 2027; a Saudi-EU summit postponed (The National). 18 Oct: Kingdom Centre, Riyadh, moved office tenants to remote working while its mall stays open (AFP). Riyadh Season due to open 21 Oct.",
+    "CAUTION": "Sensitive. Stick to organisers' own statements and published figures, no speculation on security, and re-check every event date before print.",
+    "SOURCES": "The National · 19 Oct 2026; Saudi Retail Forum website (Images RetailME) · checked 20 Oct 2026",
+    "MAIN LINK": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
+    "MORE LINKS": "https://retailmesrf.com/",
+    "FIRST SEEN": "2026-10-20",
+    "LAST SEEN": "2026-10-20",
+    "REPORTS": "",
+    "DAY PAGE": "daily/2026-10-20.html#2026-10-20-01"
+   },
    {
     "WORKING HEADLINE": "Service as an export: what TAMM Global means for customer experience",
     "ANGLE": "Abu Dhabi has set up a company to license its TAMM government services platform abroad, turning a customer-experience model into a product, with satisfaction and cost figures that malls and retailers can benchmark against.",
