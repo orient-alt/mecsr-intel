@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-20",
+ "built": "2026-10-21",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -101,6 +101,25 @@
    },
    {
     "ACTION": "Check first",
+    "PROPERTY": "Navy 26, 6th of October City",
+    "CITY": "6th of October City",
+    "COUNTRY": "Egypt",
+    "DEVELOPER / OWNER": "HDP TULUA Developments",
+    "STATUS": "Launched; expressions of interest opened 18 Oct 2026",
+    "OPENING": "Completion within 3.5 years (as published)",
+    "SIZE (AS REPORTED)": "26 feddans site; 12,000 sqm building footprint (as published); no retail GLA",
+    "WHAT THE INTEL SAYS": "HDP TULUA Developments has launched Navy 26, a commercial and services project on 26 feddans on the Boulevard axis of 6th of October City, West Cairo, Zawya reported on 20 Oct 2026. The investment is given as EGP 5 billion in the text (over $92mln in the headline), with a building footprint of 12,000 sqm, about 10% of the site.\n\nPlanned uses include retail outlets, a hypermarket, restaurants and …",
+    "DIRECTORY CHECK": "Not on Brilliant (nearest match Al Rehab Mall 2, score 0.43) and not in tracker sheets 10 or 11 (checked 21 Oct). The tracker's SIA Boulevard, 6th of October City, is a different scheme on these sources.",
+    "FIRST SEEN": "2026-10-21",
+    "LAST SEEN": "2026-10-21",
+    "REPORTS": 1,
+    "SOURCES": "Zawya · 20 Oct 2026",
+    "LINK": "https://www.tradingview.com/news/reuters.com,2026-10-20:newsml_Zaw9FbqNN:0-zawya-egypt-hdp-tulua-launches-over-92mln-navy-26-project-in-6th-of-october-city/",
+    "NEXT STEP": "Confirm the retail GLA, the hypermarket operator and the investment figure with HDP TULUA or a second outlet.",
+    "DAY PAGE": "daily/2026-10-21.html#2026-10-21-03"
+   },
+   {
+    "ACTION": "Check first",
     "PROPERTY": "Safari Mall, Abu Hamour",
     "CITY": "Doha",
     "COUNTRY": "Qatar",
@@ -193,6 +212,44 @@
     "LINK": "https://gulfnews.com/uae/the-plaza-formerly-lamcy-plaza-set-to-reopen-in-first-half-of-2027-1.500693549",
     "NEXT STEP": "Confirm the owner, GLA, anchors and reopening date with Azure Properties or a second source, then move to Add to pipeline.",
     "DAY PAGE": "daily/2026-10-15.html#2026-10-15-03"
+   },
+   {
+    "ACTION": "Watch",
+    "PROPERTY": "TMG East Cairo destination (Suez Road to Madinaty)",
+    "CITY": "Cairo",
+    "COUNTRY": "Egypt",
+    "DEVELOPER / OWNER": "Talaat Moustafa Group (TMG)",
+    "STATUS": "Agreement with the Egyptian state announced 20 Oct 2026",
+    "OPENING": "Not stated",
+    "SIZE (AS REPORTED)": "About 5 million sqm plot (as published); commercial uses planned, no GLA",
+    "WHAT THE INTEL SAYS": "Talaat Moustafa Group (TMG) reached an agreement with the Egyptian state on 20 Oct 2026, announced at Egypt Forum 2026 in the New Administrative Capital, for four mixed-use projects with total targeted investment of about EGP 11 trillion.\n\nDaily News Egypt lists an integrated destination of about 5 million sqm on the strip linking Suez Road to Madinaty in East Cairo, with commercial …",
+    "DIRECTORY CHECK": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 21 Oct); TMG's existing Al Rehab and Madinaty centres are separate listings.",
+    "FIRST SEEN": "2026-10-21",
+    "LAST SEEN": "2026-10-21",
+    "REPORTS": 1,
+    "SOURCES": "Daily News Egypt · 20 Oct 2026; Ahram Online · 20 Oct 2026",
+    "LINK": "https://www.dailynewsegypt.com/2026/10/20/tmg-and-egypt-sign-egp-11trn-agreement-for-four-multi-use-mega-projects/",
+    "NEXT STEP": "Watch for a defined retail centre, GLA and phasing; the Alexandria and North Coast projects may add more.",
+    "DAY PAGE": "daily/2026-10-21.html#2026-10-21-02"
+   },
+   {
+    "ACTION": "Watch",
+    "PROPERTY": "Arada KSA master plan, Al Rimal District",
+    "CITY": "Riyadh",
+    "COUNTRY": "Saudi Arabia",
+    "DEVELOPER / OWNER": "Arada (Arada KSA)",
+    "STATUS": "Announced 20 Oct 2026; construction and sales due to start in 2027",
+    "OPENING": "Not stated",
+    "SIZE (AS REPORTED)": "About 2.5 million sqm site and about 3,500 villas and townhouses (as published); retail and a community centre planned, no GLA",
+    "WHAT THE INTEL SAYS": "UAE developer Arada launched Arada KSA on 20 Oct 2026, backed by a land bank of about 10 million square metres in Riyadh, Jeddah and Makkah that it values at SAR50 billion. Its first project is a SAR14 billion residential master plan on a plot of about 2.5 million square metres in Al Rimal District, north-eastern Riyadh, with an estimated 3,500 villas and townhouses.\n\nPlanned amenities include …",
+    "DIRECTORY CHECK": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 21 Oct).",
+    "FIRST SEEN": "2026-10-21",
+    "LAST SEEN": "2026-10-21",
+    "REPORTS": 1,
+    "SOURCES": "Arada · 20 Oct 2026; The National · 20 Oct 2026",
+    "LINK": "https://www.arada.com/en/latest-news/arada-launches-arada-ksa-to-spearhead-expansioninto-saudi-arabia-backed-by-sar50bn-land-bankacross-the-kingdom/",
+    "NEXT STEP": "Watch for a defined retail or community centre with a GLA, and for Arada's plans for its Jeddah and Makkah land.",
+    "DAY PAGE": "daily/2026-10-21.html#2026-10-21-01"
    },
    {
     "ACTION": "Watch",
@@ -441,6 +498,21 @@
    }
   ],
   "12": [
+   {
+    "WORKING HEADLINE": "Beyond rent: the mall's second revenue line",
+    "ANGLE": "BCG says GCC malls must rethink revenue as AI agents start choosing for shoppers. Retail media, data and services are where landlords are looking, and Majid Al Futtaim's Precision Media now sells campaigns measured against sales.",
+    "WHERE IT FITS": "RPM feature · digital edition",
+    "MARKETS": "GCC",
+    "KEY FACTS FROM THE INTEL": "19 Oct 2026: Precision Media (Majid Al Futtaim Retail) launched Precision Insights at its first Retail Media Summit, Museum of the Future: closed-loop attribution across Carrefour stores and online, AI audiences from 50+ signals, viewed-impression billing; reach of 420+ Carrefour and HyperMax stores, 600 million store visitors a year, 320 million digital visits and 14 million+ SHARE members in ten markets (MAF release via Zawya).",
+    "CAUTION": "Reach figures are Majid Al Futtaim's own; no campaign results were published.",
+    "SOURCES": "Zawya · 19 Oct 2026",
+    "MAIN LINK": "https://www.zawya.com/en/press-release/companies-news/precision-media-by-majid-al-futtaim-redefines-regional-advertising-at-inaugural-retail-media-summit-1758849",
+    "MORE LINKS": "",
+    "FIRST SEEN": "2026-10-21",
+    "LAST SEEN": "2026-10-21",
+    "REPORTS": "",
+    "DAY PAGE": "daily/2026-10-21.html#2026-10-21-05"
+   },
    {
     "WORKING HEADLINE": "Trading through turbulence",
     "ANGLE": "The July escalation hit hotels and sentiment while mall occupancy held; October's attacks on Saudi Arabia have now pushed Riyadh's big fourth-quarter business events into 2027. What the published numbers say about how Gulf retail property absorbs the shocks.",
