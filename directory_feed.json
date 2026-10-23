@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-22",
+ "built": "2026-10-23",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -139,6 +139,25 @@
    },
    {
     "ACTION": "Check first",
+    "PROPERTY": "Mall of Dhahran (Dhahran Mall), Dhahran",
+    "CITY": "Dhahran",
+    "COUNTRY": "Saudi Arabia",
+    "DEVELOPER / OWNER": "Owner: a private investor (named in Argaam's report); leased and run by Cenomi Centers until April 2026",
+    "STATUS": "Cenomi's phased handover completed in April 2026 as its lease expired (ANB Capital, 4 Jun 2026); current operator and trading status not checked",
+    "OPENING": "Not checked",
+    "SIZE (AS REPORTED)": "Not published in these sources",
+    "WHAT THE INTEL SAYS": "Cenomi Centers told Tadawul that a ruling issued on 21 Oct 2026 dismissed the lawsuit brought by the owner of Mall of Dhahran, which it was notified of in March. The owner had sought SAR 161.853 million in fair rental value for mall and expansion areas not covered by a contract, SAR 103.397 million in rent for the part of the mall damaged by fire and SAR 523.028 million in revenues from the …",
+    "DIRECTORY CHECK": "Not on Brilliant (the only Dhahran listing is Amwaj Mall) and not in tracker sheets 10 or 11 (checked 23 Oct).",
+    "FIRST SEEN": "2026-10-23",
+    "LAST SEEN": "2026-10-23",
+    "REPORTS": 1,
+    "SOURCES": "Argaam · 22 Oct 2026; ANB Capital (initiation report on Cenomi Centers, via Argaam Plus) · 4 Jun 2026",
+    "LINK": "https://www.argaam.com/en/article/articledetail/id/1946144",
+    "NEXT STEP": "Confirm the current operator or manager, trading status, GLA and opening year with the owner's management before deciding on Add now; check for an appeal by late November.",
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-01"
+   },
+   {
+    "ACTION": "Check first",
     "PROPERTY": "Merkez Ankara AVM",
     "CITY": "Ankara",
     "COUNTRY": "Türkiye",
@@ -253,6 +272,25 @@
    },
    {
     "ACTION": "Watch",
+    "PROPERTY": "The One, Mokattam, Cairo",
+    "CITY": "Cairo",
+    "COUNTRY": "Egypt",
+    "DEVELOPER / OWNER": "Ghoneim Developments Group",
+    "STATUS": "Launched 13 Oct 2026",
+    "OPENING": "Not published",
+    "SIZE (AS REPORTED)": "Not published",
+    "WHAT THE INTEL SAYS": "Ghoneim Developments Group launched The One in Mokattam, Cairo, at an event on 13 Oct 2026; the project combines retail, medical and administrative units, and chief executive Islam Ghoneim said it was designed to accommodate different activities within one development. No land area, GLA, unit count, investment or delivery date was published.",
+    "DIRECTORY CHECK": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 23 Oct).",
+    "FIRST SEEN": "2026-10-23",
+    "LAST SEEN": "2026-10-23",
+    "REPORTS": 1,
+    "SOURCES": "Daily News Egypt · 18 Oct 2026",
+    "LINK": "https://www.dailynewsegypt.com/2026/10/18/ghoneim-developments-launches-mixed-use-project-in-mokattam/",
+    "NEXT STEP": "Confirm whether the retail element is a mall or ground-floor units, its GLA and the delivery date.",
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-05"
+   },
+   {
+    "ACTION": "Watch",
     "PROPERTY": "Arada KSA master plan, Al Rimal District",
     "CITY": "Riyadh",
     "COUNTRY": "Saudi Arabia",
@@ -293,6 +331,22 @@
   "11": [
    {
     "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Seef Mall - Seef District",
+    "COUNTRY": "Bahrain",
+    "PAGE": "",
+    "FIELD": "Status",
+    "DIRECTORY SAYS (v13 BOOK)": "Manama, GLA 78,000 sqm, opened 1997",
+    "INTEL SAYS": "Seef Properties issued the main construction tender for the redevelopment of Seef Mall - Seef District on 9 Feb 2026, with the first phase, a Jewellery Zone, already under way; the scope covers external areas, internal corridors, facades, restaurant and cafe zones, infrastructure and expanded parking.",
+    "CHANGE TO MAKE": "Set status to 'Under redevelopment (open during works)'. Keep 1997 and 78,000 sqm, which no Tier A source re-checked. Confirm the completion date with Seef Properties, and the Cinqo Contracting award for car park, facades and gates (Jul 2026), which is not on Seef's site.",
+    "FIRST SEEN": "2026-10-23",
+    "LAST SEEN": "2026-10-23",
+    "SOURCES": "Seef Properties · 23 Jun 2026; Seef Properties · 9 Feb 2026",
+    "LINK": "https://seef.com.bh/seef-properties-appoints-mohammed-jalal-contracting-to-execute-main-construction-works/",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-06"
+   },
+   {
+    "PRIORITY": "High",
     "PROPERTY (AS LISTED)": "Aventura Mall",
     "COUNTRY": "Kuwait",
     "PAGE": "",
@@ -322,6 +376,22 @@
     "LINK": "https://www.mabanee.com/storage/storageanalysts-investors-conference/h1-2026_transcript_ar_eng-(002).docx-final-(2)-2100938684.pdf",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-16.html#2026-10-16-07"
+   },
+   {
+    "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Doha Festival City",
+    "COUNTRY": "Qatar",
+    "PAGE": "",
+    "FIELD": "GLA",
+    "DIRECTORY SAYS (v13 BOOK)": "240,000 sqm (Existing Mall, 2017, owner BASREC)",
+    "INTEL SAYS": "QNA reported that Doha Festival City opened to the public on Wednesday 5 Apr 2017 with a gross leasable area of 244,000 sqm and a gross building area of 433,000 sqm, managed and operated by Al-Futtaim. It is the only Tier A source found with a GLA, and it does not name the owner.",
+    "CHANGE TO MAKE": "Change GLA to 244,000 sqm (QNA, April 2017); do not use the 433,000 sqm gross building area. The 2017 opening is confirmed. Ask Al-Futtaim whether a newer GLA exists and confirm BASREC as owner, which no Tier A source checked names. | earlier: Add Primark as a new anchor: first Qatar store, opened 21 Oct 2026, over 52,000 sq ft on three floors (store area, not mall GLA). Related: Villagio Mall (listed) gets Primark's second Qatar store and Aventura Mall (tracker sheet 11) its second Kuwait store, both early 2027.",
+    "FIRST SEEN": "2026-10-22",
+    "LAST SEEN": "2026-10-23",
+    "SOURCES": "Alshaya Group · 21 Oct 2026; Alshaya Group (opening dates release) · 2 Sep 2026; QNA · 6 Apr 2017",
+    "LINK": "https://www.alshaya.com/en/media-centre/alshaya-news/primark-enters-qatar-with-new-doha-store-opening-/",
+    "REPORTS": 2,
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-07"
    },
    {
     "PRIORITY": "High",
@@ -389,6 +459,22 @@
    },
    {
     "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Wasat Al Madinah",
+    "COUNTRY": "Saudi Arabia",
+    "PAGE": "",
+    "FIELD": "Duplicate",
+    "DIRECTORY SAYS (v13 BOOK)": "Upcoming regional centre, 70,000 sqm GLA, Knowledge Economic City, 2023 Q4",
+    "INTEL SAYS": "The directory prints Wasat Al Madinah as an upcoming regional centre of 70,000 sqm GLA by Knowledge Economic City, opening in 2023 Q4. KEC's release of 9 Aug 2026 (on Zawya) presents Multaqa AlMadinah Mall as the retail heart of a mixed-use destination with a 390-key Hilton hotel and 66 Hilton-branded residences, with no opening date, and KEC gives Multaqa 72,000 sqm of retail GLA (checked 16 …",
+    "CHANGE TO MAKE": "Ask KEC to confirm that Wasat Al Madinah is an earlier name of Multaqa AlMadinah; if so, remove this entry and keep Multaqa AlMadinah (72,000 sqm retail GLA, not open, date to be confirmed). If it is a separate scheme, replace the 2023 Q4 opening with KEC's current status. It should not print as upcoming with a 2023 Q4 opening either way.",
+    "FIRST SEEN": "2026-10-23",
+    "LAST SEEN": "2026-10-23",
+    "SOURCES": "Zawya (KEC and Apparel Group release) · 9 Aug 2026",
+    "LINK": "https://www.zawya.com/en/press-release/companies-news/apparel-group-and-knowledge-economic-city-join-forces-to-redefine-destination-retail-in-madinah-425940",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-10"
+   },
+   {
+    "PRIORITY": "High",
     "PROPERTY (AS LISTED)": "Mall of Al Ain",
     "COUNTRY": "UAE",
     "PAGE": "",
@@ -402,6 +488,38 @@
     "LINK": "https://apigateway.adx.ae/adx/cdn/1.0/content/download/5088826",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-16.html#2026-10-16-10"
+   },
+   {
+    "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Sobha Community Retail Centre",
+    "COUNTRY": "UAE",
+    "PAGE": "",
+    "FIELD": "Duplicate",
+    "DIRECTORY SAYS (v13 BOOK)": "Upcoming community centre, GLA 18,580 sqm, developer Shobha Realty, 2026",
+    "INTEL SAYS": "Sobha Realty's own release (July 2024; the page shows no year) announces an AED 210 million mall in Sobha Hartland with a gross leasable area of around 115,000 square feet, a built-up area of approximately 339,000 square feet, 35 retail shops and F&B outlets plus more than 10 dining options, and completion scheduled for the second half of 2026.",
+    "CHANGE TO MAKE": "Merge into the Sobha Hartland Community Mall (Sobha Mall) entry: developer Sobha Realty, GLA around 115,000 sq ft as published (built-up area about 339,000 sq ft), completion H2 2026. Confirm with Sobha Realty that no separate community retail centre exists and whether H2 2026 still holds.",
+    "FIRST SEEN": "2026-10-23",
+    "LAST SEEN": "2026-10-23",
+    "SOURCES": "Sobha Realty · Jul 2024",
+    "LINK": "https://sobharealty.com/media-center/press-releases/sobha-realty-announces-aed-210-million-mall-project-within-hartland",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-08"
+   },
+   {
+    "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Al Khail Avenue",
+    "COUNTRY": "UAE",
+    "PAGE": "",
+    "FIELD": "Opening year · owner · name",
+    "DIRECTORY SAYS (v13 BOOK)": "Upcoming, 2019 Q1, Nakheel PJSC / Nakheel Malls, GLA 139,500 sqm",
+    "INTEL SAYS": "Dubai Holding's release launching the Dubai Retail brand (4 Sep 2025) lists Al Khail Avenue among malls 'planned for opening in the near term' and says its development will add 1.2 million square feet to Dubai Retail's GLA, with no opening date; the brand groups the former Nakheel malls under Dubai Holding Asset Management.",
+    "CHANGE TO MAKE": "Remove 2019 Q1 and show 'in development, date to be confirmed'; replace Nakheel with Dubai Retail (Dubai Holding Asset Management); the GLA Dubai Holding published in Sep 2025 is 1.2 million sq ft. Ask Dubai Retail whether Skylight Mall (1.3 million sq ft GLA, 2027) is the renamed Al Khail Avenue: if yes, rename the entry and use the Skylight figures so there is no second entry; if not, add Skylight Mall separately.",
+    "FIRST SEEN": "2026-10-23",
+    "LAST SEEN": "2026-10-23",
+    "SOURCES": "Dubai Holding · 4 Sep 2025; Dubai Holding · 6 Oct 2026",
+    "LINK": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-asset-management-announces-dubai-retail-as-the-unified-brand-for-its-malls-and-lifestyle-destinations",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-23.html#2026-10-23-09"
    },
    {
     "PRIORITY": "Medium",
@@ -418,22 +536,6 @@
     "LINK": "https://www.tamdeen.com/news/360-mall-to-open-doors-for-shoppers-on-july-5th",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-16.html#2026-10-16-11"
-   },
-   {
-    "PRIORITY": "Medium",
-    "PROPERTY (AS LISTED)": "Doha Festival City",
-    "COUNTRY": "Qatar",
-    "PAGE": "",
-    "FIELD": "Tenants",
-    "DIRECTORY SAYS (v13 BOOK)": "",
-    "INTEL SAYS": "Alshaya Group opened Primark's first store in Qatar at Doha Festival City on 21 Oct 2026, eight days before the 29 Oct date it announced on 2 Sep. The store has over 52,000 sq ft of shopping space on three floors and over 400 staff, and Alshaya calls Qatar Primark's 21st international market and its fourth country in the Middle East.\n\nA second Qatar store will follow at Villaggio Mall and a …",
-    "CHANGE TO MAKE": "Add Primark as a new anchor: first Qatar store, opened 21 Oct 2026, over 52,000 sq ft on three floors (store area, not mall GLA). Related: Villagio Mall (listed) gets Primark's second Qatar store and Aventura Mall (tracker sheet 11) its second Kuwait store, both early 2027.",
-    "FIRST SEEN": "2026-10-22",
-    "LAST SEEN": "2026-10-22",
-    "SOURCES": "Alshaya Group · 21 Oct 2026; Alshaya Group (opening dates release) · 2 Sep 2026",
-    "LINK": "https://www.alshaya.com/en/media-centre/alshaya-news/primark-enters-qatar-with-new-doha-store-opening-/",
-    "REPORTS": 1,
-    "DAY PAGE": "daily/2026-10-22.html#2026-10-22-01"
    },
    {
     "PRIORITY": "Medium",
