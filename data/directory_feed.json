@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-26",
+ "built": "2026-10-27",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -98,6 +98,25 @@
     "LINK": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027",
     "NEXT STEP": "Confirm GLA in sqm, opening quarter and whether Dubai Retail wants it pre-listed as Upcoming.",
     "DAY PAGE": "daily/2026-10-13.html#2026-10-13-04"
+   },
+   {
+    "ACTION": "Check first",
+    "PROPERTY": "City Park Mall, Baku",
+    "CITY": "Baku",
+    "COUNTRY": "Azerbaijan",
+    "DEVELOPER / OWNER": "Not stated",
+    "STATUS": "Trading (Derimod store, reported 23 Oct 2026)",
+    "OPENING": "Not stated",
+    "SIZE (AS REPORTED)": "Not published",
+    "WHAT THE INTEL SAYS": "Derimod runs four stores in Baku, at Gençlik Mall, Crescent Mall, Deniz Mall and City Park Mall, and chief executive Murat Zaim calls Azerbaijan a long-term strategic market rather than a test market under the company's Vision 2030 plan. Mall Report also carries investment, store and turnover targets for 2030 that no second source confirms yet. No new sites or dates are named.",
+    "DIRECTORY CHECK": "Not on Brilliant (Baku listings include Ganjlik Mall, Deniz Mall, The Crescent Bay and Baku City Mall, none of them City Park) and not in tracker sheets 10 or 11 (checked 27 Oct).",
+    "FIRST SEEN": "2026-10-27",
+    "LAST SEEN": "2026-10-27",
+    "REPORTS": 1,
+    "SOURCES": "Mall Report · 23 Oct 2026",
+    "LINK": "https://mallreport.com.tr/derimoddan-azerbaycanda-5-milyon-dolarlik-yatirim/",
+    "NEXT STEP": "Confirm the mall's exact name, owner, opening year and GLA; Derimod's other three Baku stores add to the Ganjlik Mall, Deniz Mall and Crescent listings' tenant lists.",
+    "DAY PAGE": "daily/2026-10-27.html#2026-10-27-04"
    },
    {
     "ACTION": "Check first",
