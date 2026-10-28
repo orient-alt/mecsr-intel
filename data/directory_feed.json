@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-27",
+ "built": "2026-10-28",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -158,6 +158,25 @@
    },
    {
     "ACTION": "Check first",
+    "PROPERTY": "New Madina market, Bishkek",
+    "CITY": "Bishkek",
+    "COUNTRY": "Kyrgyzstan",
+    "DEVELOPER / OWNER": "State-owned (operator not named)",
+    "STATUS": "Partly trading; the president ordered it fully ready by early November 2026 (24.kg, 21 Oct)",
+    "OPENING": "Early November 2026 (target)",
+    "SIZE (AS REPORTED)": "Not published",
+    "WHAT THE INTEL SAYS": "President Sadyr Japarov visited the new Madina market in Bishkek on 20 Oct and ordered it to be fully ready by early November, with traders already moving in; the new trading complex will be state-owned.\n\nThe owner of the old Madina market, which was damaged by fire at the end of August, plans a modern upscale residential complex on that site instead of a bazaar.",
+    "DIRECTORY CHECK": "Not on Brilliant (Bishkek listings include Asia Mall and Bishkek Park Mall) and not in the tracker, which carries New Osh Bazaar and Bishkek Arena Mall on sheet 10 (checked 28 Oct).",
+    "FIRST SEEN": "2026-10-28",
+    "LAST SEEN": "2026-10-28",
+    "REPORTS": 1,
+    "SOURCES": "24.kg · 21 Oct 2026; open.kg (credibility unverified) · 21 Oct 2026",
+    "LINK": "https://24.kg/article/madinu-snesut-radi-elitnogo-zhilya-zhaparov-rasskazal-o-planah-vladelca",
+    "NEXT STEP": "Confirm the official name, address, operator, trading area and number of trading places with the Bishkek mayor's office or Kabar, and whether a bazaar of this kind meets Directory criteria; note that the old Madina site is leaving retail use.",
+    "DAY PAGE": "daily/2026-10-28.html#2026-10-28-08"
+   },
+   {
+    "ACTION": "Check first",
     "PROPERTY": "Safari Mall, Abu Hamour",
     "CITY": "Doha",
     "COUNTRY": "Qatar",
@@ -269,6 +288,25 @@
     "LINK": "https://mallreport.com.tr/winstown-avmnin-kiralama-surecleri-mspye-emanet/",
     "NEXT STEP": "Confirm the owner, district, opening year, GLA and anchors with MSP or the mall's management, then decide on Add now.",
     "DAY PAGE": "daily/2026-10-19.html#2026-10-19-03"
+   },
+   {
+    "ACTION": "Check first",
+    "PROPERTY": "Aviation Plaza, Zayed City (Abu Dhabi)",
+    "CITY": "Abu Dhabi",
+    "COUNTRY": "UAE",
+    "DEVELOPER / OWNER": "Not stated (Abu Dhabi Aviation Group's Group CEO opened the LuLu Daily)",
+    "STATUS": "Trading (LuLu Daily opened, Lulu release 26 Oct 2026)",
+    "OPENING": "Not stated",
+    "SIZE (AS REPORTED)": "Not published",
+    "WHAT THE INTEL SAYS": "Lulu has opened a LuLu Daily, its neighbourhood store format, at Aviation Plaza in Zayed City on the outskirts of Abu Dhabi; its newsroom dated the release 26 Oct. Mahmood Al Hay Al Hamli, Group Chief Executive Officer of Abu Dhabi Aviation Group, inaugurated the store with Lulu chairman Yusuffali M.A.",
+    "DIRECTORY CHECK": "Not on Brilliant (closest matches in Abu Dhabi emirate, Al Ain Community Centre and Makani Al Ain Mall, are different properties) and not in tracker sheets 10 or 11 (checked 28 Oct).",
+    "FIRST SEEN": "2026-10-28",
+    "LAST SEEN": "2026-10-28",
+    "REPORTS": 1,
+    "SOURCES": "Lulu Retail (newsroom) · 26 Oct 2026",
+    "LINK": "https://www.luluretail.com/media/news/lulu-expands-its-retail-presence-on-the-outskirts-of-abu-dhabi-opens-new-store-at-aviation-plaza-in-zayed-city/",
+    "NEXT STEP": "Confirm with Lulu or Abu Dhabi Aviation Group what Aviation Plaza is (owner, GLA, number of shops, opening year) and whether it meets the Directory's size threshold; it may be a small neighbourhood centre.",
+    "DAY PAGE": "daily/2026-10-28.html#2026-10-28-04"
    },
    {
     "ACTION": "Check first",
@@ -743,6 +781,36 @@
    }
   ],
   "12": [
+   {
+    "WORKING HEADLINE": "Saudi retail's 2027 rulebook: power, pay and contracts",
+    "ANGLE": "Saudi mall owners and retailers go into 2027 with new electricity and water tariffs, a Nitaqat pay threshold for Saudi staff rising to SAR 5,000 and then SAR 6,000, and a new Commercial Transactions Law replacing three older trade laws. What changes for service charges, staffing costs and supplier and agency contracts.",
+    "WHERE IT FITS": "Country Profile: Saudi Arabia sidebar · RCM Jeddah session",
+    "MARKETS": "Saudi Arabia",
+    "KEY FACTS FROM THE INTEL": "25 Oct 2026: Saudi Energy Company adjusts its electricity tariff from 1 Jan 2027 (SPA), with National Water Company changes from the same date; King Salman ordered SAR 500 monthly allowance rises and the new Nitaqat thresholds (Argaam, Asharq Al-Awsat). 27 Oct 2026: the Cabinet approved the 271-article Commercial Transactions Law, in force 180 days after publication in Umm Al-Qura (Okaz).",
+    "CAUTION": "Commercial tariff rates were not in the reports read; confirm the Nitaqat start dates with the Ministry of Human Resources and Social Development and the law's publication date before print.",
+    "SOURCES": "Saudi Press Agency · 25 Oct 2026; Argaam · 25 Oct 2026; Asharq Al-Awsat English · 25 Oct 2026",
+    "MAIN LINK": "https://www.spa.gov.sa/en/N2709801",
+    "MORE LINKS": "https://www.argaam.com/en/article/articledetail/id/1946956 https://english.aawsat.com/gulf/5333515-king-salman-directs-citizen-support-measures-ahead-2027-electricity-water-tariffs",
+    "FIRST SEEN": "2026-10-28",
+    "LAST SEEN": "2026-10-28",
+    "REPORTS": "",
+    "DAY PAGE": "daily/2026-10-28.html#2026-10-28-03"
+   },
+   {
+    "WORKING HEADLINE": "Agents at the service desk",
+    "ANGLE": "Mall owners are now putting AI agents at the front of guest service too: Seef Properties' avatars, web chat and voice answer visitors in its Bahrain malls and hand harder enquiries to staff, alongside the government and retail examples already in this idea.",
+    "WHERE IT FITS": "MECSC customer-experience feature for the 2027 Directory or RPM",
+    "MARKETS": "Bahrain, GCC",
+    "KEY FACTS FROM THE INTEL": "26 Oct 2026: Seef Properties and Total CX introduced interactive AI avatars across Seef's Bahrain malls (store finding, mall information, feedback and service requests), with handover to customer service teams and analysis of visitors' questions; it builds on Sara, Seef's WhatsApp assistant (Campaign Middle East).",
+    "CAUTION": "No malls, launch date, languages or usage figures were published; confirm with Seef Properties before print.",
+    "SOURCES": "Campaign Middle East · 26 Oct 2026",
+    "MAIN LINK": "https://campaignme.com/seef-properties-ai-avatars-bahrain-malls/",
+    "MORE LINKS": "",
+    "FIRST SEEN": "2026-10-28",
+    "LAST SEEN": "2026-10-28",
+    "REPORTS": "",
+    "DAY PAGE": "daily/2026-10-28.html#2026-10-28-05"
+   },
    {
     "WORKING HEADLINE": "Beyond rent: the mall's second revenue line",
     "ANGLE": "Landlords are building their own customer currencies: Aldar's Darna points now sit on co-branded ADIB Visa cards, next to Majid Al Futtaim's retail media business, as malls look past rent to loyalty, data and services.",

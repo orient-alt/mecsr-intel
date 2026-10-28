@@ -1,0 +1,548 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-10-28",
+ "weekday": "Wednesday",
+ "coverage": {
+  "from": "2026-10-27",
+  "to": "2026-10-27",
+  "label": "Tuesday 27 October 2026"
+ },
+ "status": "quiet",
+ "brief": [
+  "Members: Aldar reported Q3 2026 revenue up 16% to Dh9.3bn on 27 Oct, while development sales fell 34% to Dh6.8bn and UAE sales 45% to Dh5bn; its backlog stands at Dh71.6bn.",
+  "Saudi Arabia: the Cabinet approved a 271-article Commercial Transactions Law on 27 Oct that replaces three older trade laws and takes effect 180 days after publication; separately, electricity and water tariffs change from 1 Jan 2027 and the Nitaqat pay threshold for Saudi staff rises to SAR 5,000, then SAR 6,000 (25 Oct).",
+  "Also new: Lulu opened a LuLu Daily at Aviation Plaza in Zayed City, Abu Dhabi, and Seef Properties put AI avatars, web chat and voice service into its Bahrain malls with a handover to staff (both 26 Oct).",
+  "AI and CX: BCG finds 42% of large retailers let any AI shopping agent find their products and 6% block them, and Forrester expects CX staffing to rise 20% in 2027 (both 21 Oct).",
+  "Quiet day: two verified items were dated 27 Oct. Ahead: Aventura Mall in Kuwait is due by the end of October with no opening day published, Cityscape Qatar ends on 29 Oct and the Van Mall AVM tender is on 2 Nov."
+ ],
+ "findings": [
+  {
+   "id": "2026-10-28-01",
+   "stream": "member",
+   "type": "financial",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "Aldar Properties",
+   "company": "Aldar Properties",
+   "member": true,
+   "title": "Aldar's Q3 2026 revenue rises 16% to Dh9.3bn while development sales fall 34% to Dh6.8bn",
+   "summary": "Aldar Properties reported its third-quarter 2026 results on 27 Oct: revenue rose 16% year on year to Dh9.3bn (The National gives 16.4% for revenue and rental income), while group development sales fell 34% to Dh6.8bn and UAE sales fell 45% to Dh5bn. The group revenue backlog stood at Dh71.6bn at the end of September, and Aldar launched seven projects in the quarter, taking this year's launches to 12.\n\nNeither report gives figures for Aldar's malls or investment properties, and the two outlets report net profit on different bases (Q3 attributable profit in one, nine-month profit in the other), so profit is left out until Aldar's own release can be read.",
+   "why": "These are the first Q3 2026 results from a MECSR member: revenue is still growing on the backlog while new UAE sales have slowed sharply, a pattern to watch as the other developer-landlords report.",
+   "article_date": "2026-10-27",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "The National",
+     "date": "2026-10-27",
+     "url": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Khaleej Times",
+     "date": "2026-10-27",
+     "url": "https://www.khaleejtimes.com/business/aldars-diversified-investments-drive-9-month-profit-to-dh71-billion",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-02",
+   "stream": "dest",
+   "type": "policy",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "entity": "Commercial Transactions Law",
+   "company": "Council of Ministers; Ministry of Commerce",
+   "member": false,
+   "title": "Saudi Cabinet approves a 271-article Commercial Transactions Law that replaces three older trade laws",
+   "summary": "The Council of Ministers approved the Commercial Transactions Law at its session on Tuesday 27 Oct. According to the Ministry of Commerce, the 271-article law replaces the Commercial Law, the Commercial Papers Law and the Commercial Books Law, and brings commercial sale, supply sale, brokerage and commercial agency into one text that works alongside the Civil Transactions Law.\n\nIt lets people aged 15 and over trade with permission from a guardian, custodian or court, allows accounting books to be kept electronically and bans practices that harm competitors, with a right to go to court to stop them and claim compensation. It takes effect 180 days after publication in Umm Al-Qura. Neither report read mentions leases, franchising or e-commerce.",
+   "why": "The law rewrites the basic contract and record-keeping rules for every retailer, supplier and commercial agent in the Kingdom, so members trading in Saudi Arabia will want to review agency and supply terms before it takes effect.",
+   "article_date": "2026-10-27",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Okaz (Arabic)",
+     "date": "2026-10-27",
+     "url": "https://www.okaz.com.sa/economy/na/2272696",
+     "tier": "B"
+    },
+    {
+     "outlet": "The Saudi Times (credibility unverified)",
+     "date": "2026-10-27",
+     "url": "https://thesauditimes.net/en/trading-at-15-digital-books-one-rulebook-what-the-commercial-transactions-law-means-for-you/",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-03",
+   "stream": "dest",
+   "type": "policy",
+   "country": "Saudi Arabia",
+   "city": "",
+   "entity": "Electricity and water tariffs from 1 Jan 2027; Nitaqat salary threshold",
+   "company": "Saudi Energy Company; National Water Company; Government of Saudi Arabia",
+   "member": false,
+   "title": "Saudi electricity and water tariffs change from 1 Jan 2027, and the Nitaqat pay threshold for Saudi staff rises to SAR 5,000, then SAR 6,000",
+   "summary": "Saudi Energy Company said on 25 Oct that it will adjust its electricity service tariff from 1 Jan 2027 under the procedures for adjusting energy and water prices (SPA), and the National Water Company is changing its tariffs from the same date. Alongside them, King Salman ordered a SAR 500 rise in monthly allowances for civil and military employees, retirees and eligible beneficiaries, and a SAR 500 monthly payment for families on social security.\n\nThe salary a Saudi private-sector employee must earn to count fully towards Nitaqat quotas rises to SAR 5,000 six months after the changes take effect, then to SAR 6,000 twelve months later (Argaam; Asharq Al-Awsat). None of the reports read gives the new rates for commercial customers such as shops and malls.",
+   "why": "Electricity and Saudi staff are two of the largest running costs for Saudi malls and retailers, so members need the commercial tariff tables for 2027 service charges and should budget for the higher Nitaqat pay floors.",
+   "article_date": "2026-10-25",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Saudi Press Agency",
+     "date": "2026-10-25",
+     "url": "https://www.spa.gov.sa/en/N2709801",
+     "tier": "A"
+    },
+    {
+     "outlet": "Argaam",
+     "date": "2026-10-25",
+     "url": "https://www.argaam.com/en/article/articledetail/id/1946956",
+     "tier": "B"
+    },
+    {
+     "outlet": "Asharq Al-Awsat English",
+     "date": "2026-10-25",
+     "url": "https://english.aawsat.com/gulf/5333515-king-salman-directs-citizen-support-measures-ahead-2027-electricity-water-tariffs",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "12",
+    "headline": "Saudi retail's 2027 rulebook: power, pay and contracts",
+    "angle": "Saudi mall owners and retailers go into 2027 with new electricity and water tariffs, a Nitaqat pay threshold for Saudi staff rising to SAR 5,000 and then SAR 6,000, and a new Commercial Transactions Law replacing three older trade laws. What changes for service charges, staffing costs and supplier and agency contracts.",
+    "fits": "Country Profile: Saudi Arabia sidebar · RCM Jeddah session",
+    "markets": "Saudi Arabia",
+    "facts": "25 Oct 2026: Saudi Energy Company adjusts its electricity tariff from 1 Jan 2027 (SPA), with National Water Company changes from the same date; King Salman ordered SAR 500 monthly allowance rises and the new Nitaqat thresholds (Argaam, Asharq Al-Awsat). 27 Oct 2026: the Cabinet approved the 271-article Commercial Transactions Law, in force 180 days after publication in Umm Al-Qura (Okaz).",
+    "caution": "Commercial tariff rates were not in the reports read; confirm the Nitaqat start dates with the Ministry of Human Resources and Social Development and the law's publication date before print."
+   }
+  },
+  {
+   "id": "2026-10-28-04",
+   "stream": "member",
+   "type": "opening",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "LuLu Daily, Aviation Plaza, Zayed City",
+   "company": "Lulu Retail Holdings",
+   "member": true,
+   "title": "Lulu opens a LuLu Daily neighbourhood store at Aviation Plaza in Zayed City, Abu Dhabi",
+   "summary": "Lulu has opened a LuLu Daily, its neighbourhood store format, at Aviation Plaza in Zayed City on the outskirts of Abu Dhabi; its newsroom dated the release 26 Oct. Mahmood Al Hay Al Hamli, Group Chief Executive Officer of Abu Dhabi Aviation Group, inaugurated the store with Lulu chairman Yusuffali M.A. and chief executive Saifee Rupawala.\n\nThe store sells fresh produce, groceries, dairy and household essentials and has self-checkout counters and parking. Lulu gave no store size or updated store count, and says nothing about Aviation Plaza itself.",
+   "why": "It takes Lulu's neighbourhood format into Abu Dhabi's newer suburban communities, at a retail location the Directory does not yet hold.",
+   "article_date": "2026-10-26",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Lulu Retail (newsroom)",
+     "date": "2026-10-26",
+     "url": "https://www.luluretail.com/media/news/lulu-expands-its-retail-presence-on-the-outskirts-of-abu-dhabi-opens-new-store-at-aviation-plaza-in-zayed-city/",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Check first",
+    "property": "Aviation Plaza, Zayed City (Abu Dhabi)",
+    "developer": "Not stated (Abu Dhabi Aviation Group's Group CEO opened the LuLu Daily)",
+    "status": "Trading (LuLu Daily opened, Lulu release 26 Oct 2026)",
+    "opening": "Not stated",
+    "size": "Not published",
+    "check": "Not on Brilliant (closest matches in Abu Dhabi emirate, Al Ain Community Centre and Makani Al Ain Mall, are different properties) and not in tracker sheets 10 or 11 (checked 28 Oct).",
+    "next": "Confirm with Lulu or Abu Dhabi Aviation Group what Aviation Plaza is (owner, GLA, number of shops, opening year) and whether it meets the Directory's size threshold; it may be a small neighbourhood centre."
+   }
+  },
+  {
+   "id": "2026-10-28-05",
+   "stream": "cx",
+   "type": "cx",
+   "country": "Bahrain",
+   "city": "",
+   "entity": "Seef Properties shopping malls",
+   "company": "Seef Properties (with Total CX)",
+   "member": true,
+   "title": "Seef Properties brings AI avatars, web chat and voice service to its Bahrain malls with Total CX",
+   "summary": "Seef Properties has partnered with Total CX to add interactive AI avatars to its shopping malls in Bahrain, combined with web chat and voice, so visitors can find stores, get mall information, give feedback and request services. Enquiries that need a person are passed to customer service teams, and the system analyses visitors' questions, feedback and service use to improve services and operations.\n\nThe service builds on Sara, Seef's WhatsApp smart assistant, which is being integrated with AI agents developed with Total CX. The report names no malls and gives no launch date or usage figures.",
+   "why": "A regional mall owner is making AI avatars and agents the first point of guest service, with a handover to staff, a model MECSC members can compare with their own customer-service desks.",
+   "article_date": "2026-10-26",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Campaign Middle East",
+     "date": "2026-10-26",
+     "url": "https://campaignme.com/seef-properties-ai-avatars-bahrain-malls/",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "12",
+    "headline": "Agents at the service desk",
+    "angle": "Mall owners are now putting AI agents at the front of guest service too: Seef Properties' avatars, web chat and voice answer visitors in its Bahrain malls and hand harder enquiries to staff, alongside the government and retail examples already in this idea.",
+    "fits": "MECSC customer-experience feature for the 2027 Directory or RPM",
+    "markets": "Bahrain, GCC",
+    "facts": "26 Oct 2026: Seef Properties and Total CX introduced interactive AI avatars across Seef's Bahrain malls (store finding, mall information, feedback and service requests), with handover to customer service teams and analysis of visitors' questions; it builds on Sara, Seef's WhatsApp assistant (Campaign Middle East).",
+    "caution": "No malls, launch date, languages or usage figures were published; confirm with Seef Properties before print."
+   }
+  },
+  {
+   "id": "2026-10-28-06",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "city": "",
+   "entity": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce",
+   "company": "Boston Consulting Group",
+   "member": false,
+   "title": "BCG: 42% of large retailers let any AI shopping agent find their products, 32% admit only chosen agents and 6% block them",
+   "summary": "A BCG report dated 21 Oct, based on a survey of 50 of the top 300 global retailers and 100 top global brands plus interviews, finds that 42% of retailers let any agent discover and retrieve their products, 32% give access only to chosen agents through direct data feeds, 6% block agents and 20% are still deciding; 87% never share customer data with AI agents.\n\nOnly 18% are deploying agentic commerce at scale, and 18% consider their marketplaces ready for agents. On loyalty, 14% plan to give external agents the same benefits as their own channels and 58% would offer a lower tier, while just 4% of consumers would let an agent complete a purchase on its own.",
+   "why": "It gives Gulf retailers and mall operators a benchmark for deciding whether to open, limit or block AI shopping agents; no GCC retailer had published such a policy in the sources checked by 28 Oct.",
+   "article_date": "2026-10-21",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Boston Consulting Group",
+     "date": "2026-10-21",
+     "url": "https://www.bcg.com/publications/2026/retailers-win-ai-shopping-agents",
+     "tier": "A"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-07",
+   "stream": "ai",
+   "type": "market",
+   "country": "Global",
+   "city": "",
+   "entity": "Forrester Predictions 2027: B2C marketing, CX and digital",
+   "company": "Forrester",
+   "member": false,
+   "title": "Forrester's 2027 predictions: CX staffing to rise 20% after 'overzealous cuts', and B2C leaders to scale back a third of AI initiatives on cost",
+   "summary": "Forrester's 2027 predictions for B2C marketing, CX and digital, released on 21 Oct, say rising AI costs will force B2C marketing leaders to scale back a third of their AI initiatives, because usage-based pricing turns every agent interaction, generated asset and automated workflow into a billable event.\n\nForrester predicts CX staffing will rise by 20% after 'overzealous cuts', with hiring focused on roles that support AI, such as NLP engineers, data scientists and AI experience designers. It also expects human-generated content to become a top priority again for 50% of brands, and one in 20 US and UK consumers to abandon traditional shopping for conversations with AI.",
+   "why": "For MECSC's customer-service community, a leading analyst firm expects CX teams to grow again in 2027 around people who build and run AI, while AI budgets face tighter cost control.",
+   "article_date": "2026-10-21",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Forrester",
+     "date": "2026-10-21",
+     "url": "https://www.forrester.com/press-newsroom/forresters-2027-b2c-marketing-cx-and-digital-predictions-rising-ai-costs-will-force-b2c-leaders-to-scale-back-a-third-of-ai-initiatives/",
+     "tier": "A"
+    },
+    {
+     "outlet": "CX Today",
+     "date": "2026-10-26",
+     "url": "https://cxtoday.com/forresters-2027-forecast-ai-shoppers-rehiring-and-trust",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-08",
+   "stream": "dest",
+   "type": "status",
+   "country": "Kyrgyzstan",
+   "city": "Bishkek",
+   "entity": "New Madina market",
+   "company": "State-owned (operator not named)",
+   "member": false,
+   "title": "Bishkek's new Madina market passes to state ownership and is due to operate fully in early November",
+   "summary": "President Sadyr Japarov visited the new Madina market in Bishkek on 20 Oct and ordered it to be fully ready by early November, with traders already moving in; the new trading complex will be state-owned.\n\nThe owner of the old Madina market, which was damaged by fire at the end of August, plans a modern upscale residential complex on that site instead of a bazaar. Neither report gives the size or the number of trading places of either market.",
+   "why": "One of Bishkek's main bazaars is moving into a state-run complex and its old site is leaving retail use, a change in a Directory market that the tracker does not yet record.",
+   "article_date": "2026-10-21",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "24.kg",
+     "date": "2026-10-21",
+     "url": "https://24.kg/article/madinu-snesut-radi-elitnogo-zhilya-zhaparov-rasskazal-o-planah-vladelca",
+     "tier": "B"
+    },
+    {
+     "outlet": "open.kg (credibility unverified)",
+     "date": "2026-10-21",
+     "url": "https://open.kg/en/news/economy/130878-novyj-rynok-madina-dolzhen-zarabotat-k-nachalu-nojabrja-sadyr-zhaparov.html",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Check first",
+    "property": "New Madina market, Bishkek",
+    "developer": "State-owned (operator not named)",
+    "status": "Partly trading; the president ordered it fully ready by early November 2026 (24.kg, 21 Oct)",
+    "opening": "Early November 2026 (target)",
+    "size": "Not published",
+    "check": "Not on Brilliant (Bishkek listings include Asia Mall and Bishkek Park Mall) and not in the tracker, which carries New Osh Bazaar and Bishkek Arena Mall on sheet 10 (checked 28 Oct).",
+    "next": "Confirm the official name, address, operator, trading area and number of trading places with the Bishkek mayor's office or Kabar, and whether a bazaar of this kind meets Directory criteria; note that the old Madina site is leaving retail use."
+   }
+  }
+ ],
+ "library": [
+  {
+   "title": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce",
+   "publisher": "Boston Consulting Group",
+   "doc_type": "research",
+   "country": "Global",
+   "date": "2026-10-21",
+   "url": "https://www.bcg.com/publications/2026/retailers-win-ai-shopping-agents",
+   "pages": null,
+   "note": "Web report, not a PDF. Survey of 50 of the top 300 global retailers and 100 top global brands, plus interviews: retailers' policies on AI shopping agents (open, selective, blocking), sharing data with agents, marketplace readiness, loyalty benefits for agents and the outlook for retail media (95% of retailers see it as a major source of future profit growth). No Middle East figures.",
+   "use_for": "research, RCM content"
+  }
+ ],
+ "watch": [
+  {
+   "item": "Westfield Riyadh (Cenomi)",
+   "note": "Cenomi's H1 2026 release (5 Aug): structure complete, pre-leasing near 94%, operational phase expected in Q4 2026; its 220,000 sqm GLA includes 65,000 sqm of offices. The H1 statements note the project's financing raised to SR 2.7 billion. No date yet (checked 28 Oct)",
+   "since": "2026-07-16"
+  },
+  {
+   "item": "Westfield Jeddah (Cenomi)",
+   "note": "Operational phase since 30 Jul with pre-leasing near 96% and tenants fitting out; grand opening guided for Q4 2026. No date yet (checked 28 Oct). Cenomi's SAR 104.3m facilities management contract for the mall runs from Q4 2026 (Argaam, 26 Oct)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Aventura Mall (Mabanee, Kuwait)",
+   "note": "Due at the end of October 2026 (Mabanee, 29 Jul); no opening day published by 28 Oct. Alshaya (21 Oct) says Primark's second Kuwait store opens there early next year",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Bishkek Arena Mall",
+   "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (checked 22 Oct)",
+   "since": "2026-09-03"
+  },
+  {
+   "item": "Primark rollout (Alshaya)",
+   "note": "First Qatar store opened at Doha Festival City on 21 Oct, eight days early (Alshaya, 21 Oct). Next: Villaggio Mall (second Qatar store) and Aventura Mall (second Kuwait store) early 2027, and the first Saudi store, at The Avenues Riyadh, in March 2027; Mall of the Emirates second floor due Nov 2026",
+   "since": "2026-09-07"
+  },
+  {
+   "item": "Mall of the Emirates",
+   "note": "THAT Concept Store closure date and replacement (none reported by 28 Oct; Majid Al Futtaim's media centre shows no release after 21 Oct); The Hangout's Activate due Oct 2026",
+   "since": "2026-10-01"
+  },
+  {
+   "item": "Saadiyat Grove (Aldar)",
+   "note": "Q4 2026 opening date and GLA (none published by 28 Oct; not mentioned in the coverage of Aldar's Q3 results on 27 Oct)",
+   "since": "2026-09-18"
+  },
+  {
+   "item": "Al Othaim Developments",
+   "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam); nothing new by 22 Oct",
+   "since": "2026-10-05"
+  },
+  {
+   "item": "Seih Sdeirah (Aldar / Arada)",
+   "note": "A defined retail centre and GLA (none by 28 Oct; The National's report on Aldar's Q3 results mentions only the Arada partnership)",
+   "since": "2026-09-30"
+  },
+  {
+   "item": "Madar Mall, Aljada (Arada)",
+   "note": "Arada (18 Sep 2025): 1.1m sq ft GLA, completion December 2028. Confirm anchors, leasing and that the date holds",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Multaqa AlMadinah (KEC)",
+   "note": "Opening date for phase 1 (mall, Hilton hotel tower and residences) still not given (checked 22 Oct), and whether Brilliant's 'Wasat Al Madinah' is the same scheme. KEC's 8 Sep Tadawul disclosure (Mubasher copy) is an MoU with Kaden Investment for 'Multaqa Al Madinah 2', a mixed-use second phase north of phase 1: about 1,527 homes and about 31,108 sqm of net leasable commercial and office space, total cost about SAR 2.5bn, with 90-day exclusivity from 7 Sep; no mall is listed for phase 2. Friday check (23 Oct): Brilliant's 'Wasat Al Madinah' (70,000 sqm, 2023 Q4) is probably the same scheme; KEC to confirm before the entries are merged. KEC proposes renaming itself Al-Jiwar Economic City (EGM 15 Nov 2026)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "The Avenues Khobar (Mabanee)",
+   "note": "Mabanee's 2025 annual report gives both Q3 2027 and Q1 2028 for the opening (nothing new by 22 Oct)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Merkez Ankara AVM",
+   "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP); Mall Report's 23 Oct item covers only the opening-festival concerts (checked 28 Oct)",
+   "since": "2026-10-11"
+  },
+  {
+   "item": "Oman land-border duty-free markets",
+   "note": "Start date, operator and any tender (Decision No 145/2026); no update by 19 Oct",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Dubai Municipality and Emaar Malls destinations",
+   "note": "Which public sites, formats and timings follow the memorandum of 16 Oct",
+   "since": "2026-10-19"
+  },
+  {
+   "item": "Saudi security situation: flights, events and mall trading",
+   "note": "King Khalid International, Riyadh, resumed operations on 17 Oct after the 10 Oct attack, with each flight still needing GACA permission (Gulf Business, 20 Oct). Suspensions reported on 20 Oct: Etihad Riyadh and Dammam, Air India and IndiGo to 24 Oct; Akasa Air to 27 Oct; Air France-KLM Riyadh to 7 Nov; Lufthansa Group to 18 Nov; Philippine Airlines to 29 Nov; Cathay Pacific to 31 Jan 2027; Delta's Atlanta-Riyadh flights to March 2027; Qatar Airways' Riyadh and Dammam flights and Gulf Air's Riyadh services have no restart date. Malaysia Airlines resumed Jeddah and Madinah on 18 Oct. FII10, the Saudi Retail Forum and Intersec Saudi Arabia have moved to 2027 and Riyadh Fashion Week was postponed on 14 Oct (Arab News). Kingdom Centre has moved its office tenants to remote working while its mall stays open (AFP, 18 Oct). Riyadh Season was due to open on 21 Oct; no dated report of the opening had been found by 28 Oct. Check effects on Riyadh mall trading, Westfield Riyadh's Q4 opening and travel to RCM Jeddah (7 to 8 Dec)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Saudi real estate market",
+   "note": "Argaam (19 Oct), citing REGA: September transactions about SAR27.8bn, down 17% year on year, non-residential down 15% to SAR12.8bn, rental value up 18%. Single source so far; use once REGA or a second outlet confirms",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "UAE government services transformation",
+   "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct); Abu Dhabi launched TAMM Global on 16 Oct; nothing new by 28 Oct",
+   "since": "2026-10-08"
+  },
+  {
+   "item": "Q3 2026 results season",
+   "note": "Aldar reported on 27 Oct: revenue Dh9.3bn, up 16%, development sales down 34% (see 28 Oct). No Q3 filings from Cenomi, Al Othaim, Jabal Omar or KEC on Argaam by 27 Oct and none from UDC; Emaar, Lulu, Mabanee and Seef still to come. Argaam's results tracker (23 Oct) gives 11 Nov 2026 as the deadline for Saudi Q3 results. Cenomi filed its Q3 2025 results on 2 Nov 2025 and Lulu on 10 Nov 2025",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Q3 2026 market reports",
+   "note": "ValuStrat's Dubai Q3 2026 review is out (in the library, 23 Oct), as are Savills' Dubai (12 Oct) and Abu Dhabi (14 Oct) residential Q3 reports. JLL, CBRE, Knight Frank, Cushman & Wakefield, Colliers and Savills had no Q3 2026 GCC retail figures by 26 Oct",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec",
+   "note": "Speaker, sponsor and media clash to plan around; no programme news by 28 Oct",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Cityscape Qatar 2026",
+   "note": "27 to 29 Oct at DECC. The opening day brought no mall or retail launch: The Peninsula (28 Oct) reports UDC's Perlita Gardens villa masterplan on The Pearl Island and Alfardan Properties' Alfardan Business District in Lusail (due Q4 2027), with no retail element stated. TAAMEER Group is buying more Qetaifan Island North plots, worth over QAR 1.4 billion, in the island's southern high-rise area (The Peninsula, 26 Oct). JMJ Group's The Grove on Qetaifan Island North has a retail and dining boulevard due by 2030 (The Peninsula, 23 Oct)",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "Dubai Mall Plaza and Hotel (Emaar)",
+   "note": "Teaser only so far; no official scope, GLA, operator or timing by 28 Oct",
+   "since": "2026-10-15"
+  },
+  {
+   "item": "The Plaza (former Lamcy Plaza), Dubai",
+   "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)",
+   "since": "2026-10-15"
+  },
+  {
+   "item": "Dubai Shopping Festival 2026-27",
+   "note": "Runs 4 Dec 2026 to 17 Jan 2027; DFRE says the full programme follows in November",
+   "since": "2026-10-20"
+  },
+  {
+   "item": "Safari Mall, Abu Hamour (Doha)",
+   "note": "Owner, GLA and opening year for the sheet-10 check",
+   "since": "2026-10-20"
+  },
+  {
+   "item": "Arada KSA",
+   "note": "A defined retail or community centre and GLA for the Al Rimal master plan (construction from 2027), and plans for the Jeddah and Makkah land",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "TMG mega-projects and Navy 26 (Egypt)",
+   "note": "Retail components, GLA and phasing for TMG's East Cairo destination; retail GLA, hypermarket operator and investment figure for HDP TULUA's Navy 26 (nothing new by 22 Oct)",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "Standards for agent-led shopping",
+   "note": "No GCC bank, payment network or retailer had adopted or blocked agent standards by 28 Oct. Context: American Express's Intent Intelligence framework (13 Oct), Meta and Sierra's Personal Agent Protocol (14 Oct), Amazon and eBay blocking agents (16 Oct), Salesforce's agreement to buy Braze (20 Oct), Walmart's Agent Gateway (21 Oct) and US banks restricting third-party agents (23 Oct). BCG (21 Oct, see 28 Oct): 42% of large retailers open to any agent, 32% selective, 6% blocking. PYMNTS and Visa (26 Oct), from the UAE study covered on 21 Sep: 19% of UAE merchants have product data agents can read and 31% can identify sales from AI platforms",
+   "since": "2026-10-20"
+  },
+  {
+   "item": "Hind City endowment shopping centre (Awqaf Dubai)",
+   "note": "Name, GLA, exact site, contractor and start of works for the AED73m, 40-outlet centre due within two years (Dubai Media Office, 20 Oct)",
+   "since": "2026-10-22"
+  },
+  {
+   "item": "Primor in Morocco (One Retail)",
+   "note": "First stores planned for 2027: cities, malls and store count not yet named (Morocco World News, 21 Oct)",
+   "since": "2026-10-22"
+  },
+  {
+   "item": "Mall of Dhahran (Cenomi lawsuit and handover)",
+   "note": "The owner may appeal the 21 Oct ruling within 30 days of receiving the judgment. Confirm who runs the mall after Cenomi's April 2026 handover, and its GLA and opening year, for the sheet 10 decision",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "Dubai Expo Mall (Emaar)",
+   "note": "Emaar's H1 2026 investor presentation gives about 385,000 sq ft GLA, 190+ outlets and H2 2027; not on Brilliant or in the tracker: confirm with Emaar and add to the pipeline",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "Skylight Mall and Al Khail Avenue (Dubai Retail)",
+   "note": "Whether Skylight Mall (1.3 million sq ft GLA, 2027, announced 6 Oct 2026) is the renamed Al Khail Avenue (1.2 million sq ft, Dubai Holding, Sep 2025)",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "The One, Mokattam (Ghoneim Developments)",
+   "note": "Retail format, GLA and delivery date (none published at the 13 Oct launch)",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "Van Mall AVM tender (Van, Türkiye)",
+   "note": "Sealed-bid sale on 2 Nov 2026: record the winning bidder and any operator change, and check whether Brilliant's 'Van Alisveris Merkezi' is the same centre",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "Cadde 42, Konya (Konyaspor)",
+   "note": "Final name, developer, GLA, permits and timeline (none given on 24 Oct)",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "Knowledge Economic City rename",
+   "note": "Shareholder vote on 15 Nov 2026 on becoming Al-Jiwar Economic City Co.: result and official English name",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "EVORA City, Lahore (TAAMEER Group)",
+   "note": "The Peninsula (22 Oct) reports a USD 5bn scheme with a 600,000 sqm shopping mall billed as Pakistan's largest and a sales centre due in December 2026; still single source on 28 Oct, so confirm with TAAMEER or a second outlet before use",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "New Madina market, Bishkek",
+   "note": "Confirmed by 24.kg and open.kg (21 Oct, see 28 Oct): the new Madina market in Bishkek is state-owned and due to operate fully by early November. Check that it does, and its official name, size, number of trading places and operator",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "Kids Around, Istanbul",
+   "note": "The French designer kidswear store opened its second Türkiye store, in Istanbul, on 24 Oct (Mall Report, 26 Oct); the host mall is not clearly named: confirm before any listing update",
+   "since": "2026-10-27"
+  },
+  {
+   "item": "Saudi utility tariffs and the Nitaqat pay floor",
+   "note": "Commercial electricity and water rates from 1 Jan 2027 (Saudi Energy Company and National Water Company tariff tables), the exact start dates of the SAR 5,000 and SAR 6,000 Nitaqat thresholds (Ministry of Human Resources and Social Development), and any Tadawul disclosure on the impact by Cenomi Centers, Al Othaim or other mall owners and retailers",
+   "since": "2026-10-28"
+  },
+  {
+   "item": "Saudi Commercial Transactions Law",
+   "note": "Publication in Umm Al-Qura (the law takes effect 180 days later), an official English text and any Ministry of Commerce guidance on commercial agency and supply contracts; confirm the details with SPA",
+   "since": "2026-10-28"
+  },
+  {
+   "item": "Aldar and Dubai Holding master development, Dubai",
+   "note": "The National (27 Oct): near Dubai Silicon Oasis, gross development value Dh30bn, about 7,000 townhouses and up to 5,000 apartments, built over five to six years, launch in the coming weeks. Single source so far; check for a retail or community centre",
+   "since": "2026-10-28"
+  }
+ ],
+ "no_findings": [
+  "Qatar",
+  "Kuwait",
+  "Oman",
+  "Egypt",
+  "Türkiye",
+  "Pakistan",
+  "Jordan",
+  "Lebanon",
+  "Iraq",
+  "Morocco",
+  "Tunisia",
+  "Algeria",
+  "Libya",
+  "Azerbaijan",
+  "Georgia",
+  "Armenia",
+  "Kazakhstan",
+  "Uzbekistan",
+  "Afghanistan",
+  "Nigeria",
+  "Kenya"
+ ],
+ "searches_run": 165,
+ "notes": "Wednesday edition for Tuesday 27 Oct, from the laptop's scheduled run (B. Computer), built in a cloud clone of the repository. Three research passes and a targeted sweep ran about 165 searches and fetches and found two verified items dated 27 Oct, so this is a quiet day; six items from 21 to 26 Oct are new to the site. Not readable: Aldar's investor-relations results page (terms gate), the Saudi Gazette, Economy Middle East, Sabq and AGBI articles, CNBC and the mediaoffice.ae listing."
+}
