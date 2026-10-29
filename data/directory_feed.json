@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-28",
+ "built": "2026-10-29",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -730,6 +730,38 @@
     "LINK": "https://thepeninsulaqatar.com/article/11/10/2026/max-fashion-opens-one-of-its-largest-flagship-stores-in-city-center-doha",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-15.html#2026-10-15-02"
+   },
+   {
+    "PRIORITY": "Low",
+    "PROPERTY (AS LISTED)": "Mall of Qatar",
+    "COUNTRY": "Qatar",
+    "PAGE": "",
+    "FIELD": "Tenants",
+    "DIRECTORY SAYS (v13 BOOK)": "Existing super-regional centre, Al Rayyan, GLA 200,000 sqm",
+    "INTEL SAYS": "ABYAT, a home finishing and furnishing group founded in Kuwait in 2005, says its first Qatar store, a flagship at Mall of Qatar, opens soon, without giving a date or store size. It marked its Qatar debut as official home partner of Build Your House Qatar 2026 (26 to 28 Oct, Qatar National Convention Centre).",
+    "CHANGE TO MAKE": "Add ABYAT (first Qatar store, flagship; opening soon, date and size not announced by 29 Oct).",
+    "FIRST SEEN": "2026-10-29",
+    "LAST SEEN": "2026-10-29",
+    "SOURCES": "Zawya (ABYAT press release) · 26 Oct 2026; The Peninsula · 10 Mar 2024",
+    "LINK": "https://www.zawya.com/en/press-release/companies-news/abyat-moves-closer-to-grand-opening-of-its-first-qatar-store-1851358",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-29.html#2026-10-29-03"
+   },
+   {
+    "PRIORITY": "Low",
+    "PROPERTY (AS LISTED)": "V Metroway",
+    "COUNTRY": "Türkiye",
+    "PAGE": "",
+    "FIELD": "Tenants",
+    "DIRECTORY SAYS (v13 BOOK)": "Existing community centre, Istanbul, GLA 25,000 sqm",
+    "INTEL SAYS": "Home and lifestyle retailer TEDİ opened a 279 sqm store on level -2 of V Metroway AVM in Istanbul on 24 Oct 2026, selling home decoration, kitchenware, stationery, toys, hobby and party goods and everyday items on an affordable-price pitch. AVM Dergi says the mall is continuing to widen its brand mix; Mall Report carried the same opening on 28 Oct.",
+    "CHANGE TO MAKE": "Add TEDİ (279 sqm, level -2, opened 24 Oct 2026).",
+    "FIRST SEEN": "2026-10-29",
+    "LAST SEEN": "2026-10-29",
+    "SOURCES": "AVM Dergi · 28 Oct 2026",
+    "LINK": "https://www.avmdergi.com/tedi-v-metrowayde-kapilarini-acti/",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-29.html#2026-10-29-01"
    },
    {
     "PRIORITY": "Low",
