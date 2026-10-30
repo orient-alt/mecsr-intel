@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-29",
+ "built": "2026-10-30",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -424,6 +424,25 @@
    },
    {
     "ACTION": "Watch",
+    "PROPERTY": "Maqam housing and retail project, Al Shahama, Abu Dhabi",
+    "CITY": "Abu Dhabi",
+    "COUNTRY": "UAE",
+    "DEVELOPER / OWNER": "Maqam International Holding (SUNAD Real Estate Management)",
+    "STATUS": "Announced; LuLu hypermarket signed 28 Oct 2026",
+    "OPENING": "Hypermarket by UAE National Day (2 Dec) 2027",
+    "SIZE (AS REPORTED)": "Hypermarket 210,000 sq ft (as published); scheme GLA not published",
+    "WHAT THE INTEL SAYS": "LuLu Group signed an agreement with Maqam International Holding for a 210,000 sq ft hypermarket in Al Shahama, Abu Dhabi, to be built by Maqam's SUNAD Real Estate Management as part of a larger housing and retail project Maqam plans there; Gulf News says it will open by UAE National Day 2027 and serve Al Shahama, Al Bahia and Yas Island.",
+    "DIRECTORY CHECK": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 30 Oct).",
+    "FIRST SEEN": "2026-10-30",
+    "LAST SEEN": "2026-10-30",
+    "REPORTS": 1,
+    "SOURCES": "Gulf News · 28 Oct 2026",
+    "LINK": "https://gulfnews.com/uae/abu-dhabi/lulu-group-to-open-hypermarket-in-al-shahama-by-uae-national-day-2027-1.500727109",
+    "NEXT STEP": "Watch for a name, a retail GLA and a completion date for the scheme; confirm the hypermarket size from Maqam's or LuLu's own release.",
+    "DAY PAGE": "daily/2026-10-30.html#2026-10-30-05"
+   },
+   {
+    "ACTION": "Watch",
     "PROPERTY": "Seih Sdeirah community (Aldar / Arada)",
     "CITY": "Abu Dhabi",
     "COUNTRY": "UAE",
@@ -490,6 +509,22 @@
     "LINK": "https://www.mabanee.com/storage/storageanalysts-investors-conference/h1-2026_transcript_ar_eng-(002).docx-final-(2)-2100938684.pdf",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-16.html#2026-10-16-07"
+   },
+   {
+    "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Eko Atlantic Mall",
+    "COUNTRY": "Nigeria",
+    "PAGE": "",
+    "FIELD": "Opening year · size",
+    "DIRECTORY SAYS (v13 BOOK)": "Upcoming, GLA 120,000 sqm, 2022, South Energyx Nigeria Ltd",
+    "INTEL SAYS": "Eko Atlantic's own retail page (undated, read 30 Oct 2026) still describes the Eko Atlantic Mall in the future tense, as 'the largest shopping center in the whole of West Africa', with '107,500 square meters of net leasable area' and no construction or opening date. The directory prints a 2022 opening and 120,000 sqm GLA.",
+    "CHANGE TO MAKE": "Replace 2022 with 'to be confirmed' and the size with '107,500 square meters of net leasable area' as the developer publishes it. Keep it separate from the Orca Mall, Eko Atlantic row. Confirm timing and owner with Eko Atlantic, as South Energyx is not named on the page.",
+    "FIRST SEEN": "2026-10-30",
+    "LAST SEEN": "2026-10-30",
+    "SOURCES": "Eko Atlantic (retail page, undated, read 30 Oct 2026) · 30 Oct 2026; BusinessDay · 6 Dec 2025",
+    "LINK": "https://www.ekoatlantic.com/invest/retail",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-30.html#2026-10-30-07"
    },
    {
     "PRIORITY": "High",
@@ -570,6 +605,38 @@
     "LINK": "https://www.zawya.com/en/press-release/companies-news/apparel-group-and-knowledge-economic-city-join-forces-to-redefine-destination-retail-in-madinah-425940",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-23.html#2026-10-23-10"
+   },
+   {
+    "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "Al Shubily Mall",
+    "COUNTRY": "Saudi Arabia",
+    "PAGE": "",
+    "FIELD": "Status · name",
+    "DIRECTORY SAYS (v13 BOOK)": "Upcoming super-regional centre, Eastern Province, GLA 130,000 sqm, 2026",
+    "INTEL SAYS": "Arabian AlEsaar says Al Shubaily Grand Mall in Al Khobar began a phased soft opening on 29 Oct 2026 at 4pm, with stores and facilities opening in stages and the grand opening planned for 2027. The leisure offer includes cinemas (operator not named), go-kart tracks, children's play areas and arcade games, alongside three zones: De L'Avenue for fashion and luxury, The Valley for international …",
+    "CHANGE TO MAKE": "Show as soft-opened on 29 Oct 2026 (grand opening 2027) and use the owner's spelling, Al Shubaily Grand Mall, in Al Khobar; add Arabian AlEsaar as owner. Confirm the 130,000 sqm GLA, anchors and cinema operator with Arabian AlEsaar, as the release gives no figures.",
+    "FIRST SEEN": "2026-10-30",
+    "LAST SEEN": "2026-10-30",
+    "SOURCES": "Arabian AlEsaar press release (ACCESS Newswire, via FinancialContent) · 29 Oct 2026",
+    "LINK": "https://www.financialcontent.com/article/accwiresp-2026-10-29-the-regions-most-anticipated-mega-project-al-shubaily-grand-mall-announces-phased-soft-opening",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-30.html#2026-10-30-01"
+   },
+   {
+    "PRIORITY": "High",
+    "PROPERTY (AS LISTED)": "City Mall - Khafji",
+    "COUNTRY": "Saudi Arabia",
+    "PAGE": "",
+    "FIELD": "Status · name",
+    "DIRECTORY SAYS (v13 BOOK)": "Upcoming regional centre, Eastern Province, GLA 49,500 sqm, 2022, Al Othaim Real Estate Investment & Dev. Co.",
+    "INTEL SAYS": "Al Othaim's mall site (undated, checked 30 Oct 2026) lists Al Othaim Mall Khafji among its malls, with a directory of 63 brands, and does not use the name City Mall; it gives no opening date, GLA or operating company. Al Othaim Investment's 2023 corporate profile still showed Khafji as upcoming. The directory prints City Mall - Khafji as an upcoming mall due in 2022, with 49,500 sqm GLA.",
+    "CHANGE TO MAKE": "Rename to Al Othaim Mall Khafji and show it as open. Confirm the opening year (2022 is doubtful: the 2023 corporate profile still showed Khafji as upcoming) and the GLA with Al Othaim Investment.",
+    "FIRST SEEN": "2026-10-30",
+    "LAST SEEN": "2026-10-30",
+    "SOURCES": "Al Othaim Malls (mall list, undated, checked 30 Oct 2026) · 30 Oct 2026; Al Othaim Malls (Al Othaim Mall Khafji brands page, checked 30 Oct 2026) · 30 Oct 2026",
+    "LINK": "https://www.othaimmalls.com",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-10-30.html#2026-10-30-06"
    },
    {
     "PRIORITY": "High",
