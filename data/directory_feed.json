@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-10-30",
+ "built": "2026-11-02",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -41,6 +41,25 @@
     "LINK": "https://mallreport.com.tr/avm-dunyasinda-dikkat-ceken-hamle-forum-kayseri-torunlar-gyoya-gecti/",
     "NEXT STEP": "Take GLA, opening year and store count from Torunlar GYO's investor materials. Forum Mersin, bought in the same period, is also missing from Brilliant: add it in the same pass.",
     "DAY PAGE": "daily/2026-10-19.html#2026-10-19-02"
+   },
+   {
+    "ACTION": "Add to pipeline",
+    "PROPERTY": "Al Madinah Downtown mall (name TBC), Madinah",
+    "CITY": "Madinah",
+    "COUNTRY": "Saudi Arabia",
+    "DEVELOPER / OWNER": "Owner Saudi Downtown Company (PIF); Cenomi Centers as development services provider and future lessee; contractor Lynx Contracting",
+    "STATUS": "Design-and-build contract signed 29 Oct 2026 (30 months); related-party deal pending general assembly approval",
+    "OPENING": "Not given (30-month build from late 2026)",
+    "SIZE (AS REPORTED)": "Not published",
+    "WHAT THE INTEL SAYS": "Cenomi Centers told Tadawul on 1 Nov that on 29 Oct it signed a design-and-build contract worth SAR 825 million, excluding VAT, with Lynx Contracting Company for the mall and office components of Madinah Downtown, a project owned by Saudi Downtown Company, a PIF company. The 30-month contract covers design, engineering, construction, supply, installation, testing, commissioning and handover.",
+    "DIRECTORY CHECK": "Already in tracker sheet 10 as 'Al Madinah Downtown mall (name TBC)'; not on Brilliant (checked 2 Nov).",
+    "FIRST SEEN": "2026-11-02",
+    "LAST SEEN": "2026-11-02",
+    "REPORTS": 1,
+    "SOURCES": "Mubasher (copy of Tadawul disclosure) · 1 Nov 2026; Argaam · 1 Nov 2026",
+    "LINK": "https://english.mubasher.info/news/4693801/Arabian-Centers-Company-Cenomi-Centers-Announces-the-Signing-of-a-Design-and-Build-Contract-with-Lynx-Contracting-Company-for-the-Mall-and-Office-in-Madinah-Downtown-project-owned-by-Saudi-Downtown-//news",
+    "NEXT STEP": "Confirm the mall's name, GLA and target opening with Cenomi or Saudi Downtown, and supersede the earlier row.",
+    "DAY PAGE": "daily/2026-11-02.html#2026-11-02-01"
    },
    {
     "ACTION": "Add to pipeline",
@@ -155,6 +174,25 @@
     "LINK": "https://citizen.digital/article/swiss-retailer-timevallee-opens-kenyas-first-luxury-multi-brand-watch-boutique-n392327",
     "NEXT STEP": "Confirm the owner, opening year and GLA from the developer before deciding on Add now.",
     "DAY PAGE": "daily/2026-10-26.html#2026-10-26-07"
+   },
+   {
+    "ACTION": "Check first",
+    "PROPERTY": "Ala-Too market (new Madina market), Bishkek",
+    "CITY": "Bishkek",
+    "COUNTRY": "Kyrgyzstan",
+    "DEVELOPER / OWNER": "State-controlled; operator not named",
+    "STATUS": "Opened 1 Nov 2026",
+    "OPENING": "1 Nov 2026",
+    "SIZE (AS REPORTED)": "14 hectares site; more than 1,500 trading points; parking for almost 1,000 cars (as published)",
+    "WHAT THE INTEL SAYS": "The market built to replace Bishkek's Madina bazaar opened on 1 Nov 2026 under the name Ala-Too, at 2a/8 Shabdan Baatyr Avenue next to the old market. Gazeta.kg and NAQ Media both give 14 hectares, more than 1,500 trading points and parking for almost 1,000 cars, with heated, covered pavilions replacing containers for year-round trade.",
+    "DIRECTORY CHECK": "Supersedes the 28 Oct row 'New Madina market, Bishkek'; not on Brilliant (checked 2 Nov).",
+    "FIRST SEEN": "2026-11-02",
+    "LAST SEEN": "2026-11-02",
+    "REPORTS": 1,
+    "SOURCES": "Gazeta.kg · 1 Nov 2026; NAQ Media · 1 Nov 2026",
+    "LINK": "https://gazeta.kg/society/231662-v-bishkeke-otkrylsja-novyj-rynok-kuda-pereezzhajut-torgovcy-madiny.html",
+    "NEXT STEP": "Confirm the operator and official name with Bishkek city hall or 24.kg, and decide whether a bazaar of this format belongs in the Directory.",
+    "DAY PAGE": "daily/2026-11-02.html#2026-11-02-03"
    },
    {
     "ACTION": "Check first",
