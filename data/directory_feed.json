@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-11-02",
+ "built": "2026-11-03",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -41,6 +41,25 @@
     "LINK": "https://mallreport.com.tr/avm-dunyasinda-dikkat-ceken-hamle-forum-kayseri-torunlar-gyoya-gecti/",
     "NEXT STEP": "Take GLA, opening year and store count from Torunlar GYO's investor materials. Forum Mersin, bought in the same period, is also missing from Brilliant: add it in the same pass.",
     "DAY PAGE": "daily/2026-10-19.html#2026-10-19-02"
+   },
+   {
+    "ACTION": "Add to pipeline",
+    "PROPERTY": "Al Khobar Downtown Mall",
+    "CITY": "Al Khobar",
+    "COUNTRY": "Saudi Arabia",
+    "DEVELOPER / OWNER": "Saudi Downtown Company (PIF); mall: Cenomi Centers (development agreement with SDC, Apr 2026); contractor Lynx Contracting",
+    "STATUS": "Scheme launched 1 Nov 2026; mall under a design-and-build contract awarded Jun 2026",
+    "OPENING": "Not published",
+    "SIZE (AS REPORTED)": "Scheme: more than 139,000 sqm of retail, restaurant and cafe space on an 829,000 sqm site (as published); mall GLA not confirmed",
+    "WHAT THE INTEL SAYS": "Saudi Downtown Company (SDC), owned by the Public Investment Fund, launched Al Khobar Downtown on 1 November in the presence of the Eastern Province Governor. The 829,000 sqm waterfront scheme is to include more than 139,000 sqm of retail, restaurant and cafe space, more than 4,000 homes, more than 500 hotel rooms and 40,000 sqm of offices; Arab News and Construction Week Saudi agree on these …",
+    "DIRECTORY CHECK": "Already in tracker sheet 10 as 'Al Khobar Downtown Mall' (Add to pipeline); not in the 2027 dataset or on Brilliant (checked 3 Nov).",
+    "FIRST SEEN": "2026-11-03",
+    "LAST SEEN": "2026-11-03",
+    "REPORTS": 1,
+    "SOURCES": "Arab News · 2 Nov 2026; Construction Week Saudi · 2 Nov 2026",
+    "LINK": "https://www.arabnews.com/saudi-arabia/saudi-arabia-steps-up-urban-development-with-new-alkhobar-waterfront-project-3009405",
+    "NEXT STEP": "Update the existing row with the master-plan figures. Arab News alone gives about 110,000 sqm GLA within 152,000 sqm built-up area for the mall: confirm with Cenomi's June 2026 Tadawul disclosure, with the mall's name and opening year.",
+    "DAY PAGE": "daily/2026-11-03.html#2026-11-03-01"
    },
    {
     "ACTION": "Add to pipeline",
@@ -915,6 +934,22 @@
     "LINK": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718",
     "REPORTS": 1,
     "DAY PAGE": "daily/2026-10-15.html#2026-10-15-01"
+   },
+   {
+    "PRIORITY": "Low",
+    "PROPERTY (AS LISTED)": "Dubai Festival City Mall",
+    "COUNTRY": "UAE",
+    "PAGE": "",
+    "FIELD": "Tenants",
+    "DIRECTORY SAYS (v13 BOOK)": "",
+    "INTEL SAYS": "Marks & Spencer and its long-term partner Al-Futtaim will open a 15,327 sq ft Foodhall at Dubai Festival City in December 2026, M&S's largest Foodhall outside the UK and the first of five large-format UAE Foodhalls planned over the next 12 months; the other four sites were not named.",
+    "CHANGE TO MAKE": "Add the M&S Foodhall (15,327 sq ft, opening December 2026) once it opens; confirm its level and whether it sits beside the existing M&S fashion store.",
+    "FIRST SEEN": "2026-11-03",
+    "LAST SEEN": "2026-11-03",
+    "SOURCES": "Marks & Spencer (press release) · 2 Nov 2026",
+    "LINK": "https://corporate.marksandspencer.com/newsroom/press-releases/marks-spencer-announces-major-uae-expansion-launch-biggest-foodhalls",
+    "REPORTS": 1,
+    "DAY PAGE": "daily/2026-11-03.html#2026-11-03-02"
    }
   ],
   "12": [
