@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-11-03",
+ "built": "2026-11-04",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -193,6 +193,25 @@
     "LINK": "https://citizen.digital/article/swiss-retailer-timevallee-opens-kenyas-first-luxury-multi-brand-watch-boutique-n392327",
     "NEXT STEP": "Confirm the owner, opening year and GLA from the developer before deciding on Add now.",
     "DAY PAGE": "daily/2026-10-26.html#2026-10-26-07"
+   },
+   {
+    "ACTION": "Check first",
+    "PROPERTY": "Sarit Centre and Galleria Mall, Nairobi",
+    "CITY": "Nairobi",
+    "COUNTRY": "Kenya",
+    "DEVELOPER / OWNER": "Not stated in the release",
+    "STATUS": "Both trading; Sports Direct opened a store in each (reported 2 Nov 2026)",
+    "OPENING": "Not stated",
+    "SIZE (AS REPORTED)": "Not published (Sports Direct stores: 930 sqm at Sarit Centre, 725 sqm at Galleria Mall)",
+    "WHAT THE INTEL SAYS": "Hudson Group, Frasers Group's partner for the brand, has opened Sports Direct's first two African stores in Nairobi: 930 sqm at Sarit Centre and 725 sqm at Galleria Mall. The stores sell Nike, adidas, Under Armour, PUMA, New Balance and ASICS alongside Frasers Group brands such as Everlast, Slazenger, Karrimor, Jack Wills and USA Pro, and a three-day Sports Village at Galleria Mall from 30 Oct to …",
+    "DIRECTORY CHECK": "Not on Brilliant (its only Kenyan listing is Crystal Rivers, Machakos County) and not in tracker sheets 10 or 11 (checked 4 Nov).",
+    "FIRST SEEN": "2026-11-04",
+    "LAST SEEN": "2026-11-04",
+    "REPORTS": 1,
+    "SOURCES": "Hudson Group (press release) · 2 Nov 2026",
+    "LINK": "https://hudson.com.mt/blog/2026/11/02/sports-direct-enters-africa-with-two-store-openings-in-nairobi-kenya/",
+    "NEXT STEP": "Confirm each mall's owner, opening year and GLA with its owner or manager before deciding on Add now; then add Sports Direct as a tenant.",
+    "DAY PAGE": "daily/2026-11-04.html#2026-11-04-05"
    },
    {
     "ACTION": "Check first",
@@ -924,16 +943,16 @@
     "PROPERTY (AS LISTED)": "Dubai Mall",
     "COUNTRY": "UAE",
     "PAGE": "",
-    "FIELD": "Development / pipeline",
-    "DIRECTORY SAYS (v13 BOOK)": "Existing Mall (Brilliant export, 12 Oct 2026)",
-    "INTEL SAYS": "On 14 October 2026 Emaar founder Mohamed Alabbar posted a computer-generated video on his verified Instagram account, captioned 'Dubai Mall Plaza and Hotel' and 'coming soon', showing a plaza-style development with pedestrian areas in the Downtown Dubai shopping district.",
-    "CHANGE TO MAKE": "No change yet. Note the 'Dubai Mall Plaza and Hotel' teaser of 14 Oct 2026 and confirm the scope (plaza, retail and F&B, hotel), GLA and timing with Emaar before updating the listing.",
+    "FIELD": "Tenants",
+    "DIRECTORY SAYS (v13 BOOK)": "Existing mega centre, Dubai, GLA 350,000 sqm",
+    "INTEL SAYS": "Italian fashion group OVS has set up a local subsidiary and a logistics hub and taken direct control of its UAE operations, chief executive Stefano Beraldo told Retail ME on 30 Oct 2026. Its 2,500 sqm flagship at The Dubai Mall, opened in September 2026, is the group's largest store worldwide and its eighth in the UAE; about 6,000 shoppers joined its loyalty programme in the first month, and a …",
+    "CHANGE TO MAKE": "Add OVS (2,500 sqm flagship, opened September 2026, the group's largest store worldwide); confirm its level and unit. | earlier: No change yet. Note the 'Dubai Mall Plaza and Hotel' teaser of 14 Oct 2026 and confirm the scope (plaza, retail and F&B, hotel), GLA and timing with Emaar before updating the listing.",
     "FIRST SEEN": "2026-10-15",
-    "LAST SEEN": "2026-10-15",
-    "SOURCES": "Gulf News · 14 Oct 2026; Khaleej Times · 14 Oct 2026",
+    "LAST SEEN": "2026-11-04",
+    "SOURCES": "Gulf News · 14 Oct 2026; Khaleej Times · 14 Oct 2026; Retail ME · 30 Oct 2026",
     "LINK": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718",
-    "REPORTS": 1,
-    "DAY PAGE": "daily/2026-10-15.html#2026-10-15-01"
+    "REPORTS": 2,
+    "DAY PAGE": "daily/2026-11-04.html#2026-11-04-04"
    },
    {
     "PRIORITY": "Low",
