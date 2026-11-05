@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "built": "2026-11-04",
+ "built": "2026-11-05",
  "note": "Rows for the MECSR 2027 Directory tracker, sheets 10/11/12. The CSV files use the tracker's exact columns in order (team columns left blank) so rows paste straight in; this JSON adds first and last seen, report count and the day page of the latest finding.",
  "sheets": {
   "10": [
@@ -424,6 +424,44 @@
    },
    {
     "ACTION": "Watch",
+    "PROPERTY": "Pier 1890, Manama Corniche, Bahrain",
+    "CITY": "Manama",
+    "COUNTRY": "Bahrain",
+    "DEVELOPER / OWNER": "Edamah and Kanoo Real Estate (joint venture)",
+    "STATUS": "Joint venture formed (announced 4 Nov 2026)",
+    "OPENING": "Not published",
+    "SIZE (AS REPORTED)": "11,000 sqm site (as published; built area and GLA not stated)",
+    "WHAT THE INTEL SAYS": "Edamah, the real estate arm of Bahrain's sovereign wealth fund Mumtalakat, has formed a joint venture with Kanoo Real Estate to develop Pier 1890, described as a waterfront leisure and commercial destination on the Manama Corniche, on an 11,000 sqm site next to the Shaikh Hamad Causeway.",
+    "DIRECTORY CHECK": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 5 Nov).",
+    "FIRST SEEN": "2026-11-05",
+    "LAST SEEN": "2026-11-05",
+    "REPORTS": 1,
+    "SOURCES": "GDN (Gulf Daily News) · 4 Nov 2026; TradeArabia · Nov 2026",
+    "LINK": "https://www.gdnonline.com/Details/1411752/Edamah-Kanoo-Real-Estate-JV-to-develop-waterfront-hub-%E2%80%98Pier-1890%E2%80%99",
+    "NEXT STEP": "Confirm the retail and F&B GLA, investment, operator and completion date with Edamah.",
+    "DAY PAGE": "daily/2026-11-05.html#2026-11-05-02"
+   },
+   {
+    "ACTION": "Watch",
+    "PROPERTY": "Grand Uptown Mall (GUM) outlet, New October City",
+    "CITY": "New October City",
+    "COUNTRY": "Egypt",
+    "DEVELOPER / OWNER": "Uptown 6 October for Development and Investment; outlet developer and operator Fashion House Group",
+    "STATUS": "Memorandum signed (reported 1 Nov 2026); designs and approvals pending",
+    "OPENING": "Phase 1 October 2028 (subject to approvals)",
+    "SIZE (AS REPORTED)": "About 90,000 sqm leasable (Daily News Egypt only)",
+    "WHAT THE INTEL SAYS": "Uptown 6 October for Development and Investment has signed a memorandum under which UK-based Fashion House Group will develop and operate an international outlet at Grand Uptown Mall in New October City, with Emtelak Real Estate Investment Fund as strategic partner.",
+    "DIRECTORY CHECK": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 5 Nov).",
+    "FIRST SEEN": "2026-11-05",
+    "LAST SEEN": "2026-11-05",
+    "REPORTS": 1,
+    "SOURCES": "Daily News Egypt · 1 Nov 2026",
+    "LINK": "https://dailynewsegypt.com/2026/11/01/uptown-6-october-partners-with-uk-group-to-develop-egp-6bn-outlet-mall/",
+    "NEXT STEP": "Confirm the investment, leasable area and phasing with the developer or a second outlet, and whether GUM is an existing mall being extended.",
+    "DAY PAGE": "daily/2026-11-05.html#2026-11-05-06"
+   },
+   {
+    "ACTION": "Watch",
     "PROPERTY": "TMG East Cairo destination (Suez Road to Madinaty)",
     "CITY": "Cairo",
     "COUNTRY": "Egypt",
@@ -535,6 +573,25 @@
     "LINK": "https://www.thenationalnews.com/business/property/2026/09/30/aldar-and-arada-sign-dh15bn-partnership-for-new-developments-in-abu-dhabi/",
     "NEXT STEP": "Watch Aldar's ADX disclosures for a named retail centre, GLA and timing.",
     "DAY PAGE": "daily/2026-10-14.html#2026-10-14-11"
+   },
+   {
+    "ACTION": "Watch",
+    "PROPERTY": "Uptown Place retail, Uptown Dubai",
+    "CITY": "Dubai",
+    "COUNTRY": "UAE",
+    "DEVELOPER / OWNER": "DMCC",
+    "STATUS": "Under development; first retail tenant (Waitrose) signed 3 Nov 2026",
+    "OPENING": "Q1 2028",
+    "SIZE (AS REPORTED)": "82,000 sq ft retail space in 18 units (as published)",
+    "WHAT THE INTEL SAYS": "DMCC has signed Spinneys to open a Waitrose store of over 5,000 sq ft, a smaller format with a food-to-go deli, at Uptown Place in Uptown Dubai. It is the first confirmed tenant of the scheme's 82,000 sq ft of retail space across 18 units, alongside more than 560,000 sq ft of Grade A offices in two towers and 1,600 parking spaces; Uptown Place is expected to open in Q1 2028.",
+    "DIRECTORY CHECK": "Not on Brilliant (Brilliant's DMCC listing is Almas Village) and not in tracker sheets 10 or 11 (checked 5 Nov).",
+    "FIRST SEEN": "2026-11-05",
+    "LAST SEEN": "2026-11-05",
+    "REPORTS": 1,
+    "SOURCES": "DMCC · 3 Nov 2026",
+    "LINK": "https://dmcc.ae/latest-news/dmcc-signs-agreement-with-waitrose-to-bring-the-premium-grocery-retailer-to-uptown-dubai",
+    "NEXT STEP": "Decide whether an 82,000 sq ft retail podium meets the Directory threshold, and track further tenant signings.",
+    "DAY PAGE": "daily/2026-11-05.html#2026-11-05-05"
    }
   ],
   "11": [
