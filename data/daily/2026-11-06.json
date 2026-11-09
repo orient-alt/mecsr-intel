@@ -1,0 +1,796 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-11-06",
+ "weekday": "Friday",
+ "coverage": {
+  "from": "2026-11-05",
+  "to": "2026-11-05",
+  "label": "Thursday 5 November 2026"
+ },
+ "status": "quiet",
+ "brief": [
+  "UAE: Emaar's revenue from malls, retail and commercial leasing rose 10% to Dh5.2bn in the first nine months at about 98% occupancy, while its hotel occupancy fell to 63% from 80%; it has also proposed buying out the rest of Emaar Development at Dh15 a share.",
+  "Members: Majid Al Futtaim brought its SHARE rewards programme to Carrefour's 35 stores in Kenya, where about 1.4 million MyClub members move across once they accept the new terms.",
+  "2027 Directory: Friday's check of 16 listings found 7 to change, among them 'Masat Mall', which is Hamat's Masar Mall in Makkah, two cards for one Pixel Plaza, Silicon Central trading since 2021 and Jeddah Vibes trading by Q1 2026; 8 could not be confirmed from owners' sources.",
+  "Also new: Orbis Group's first mall, Jurt in Astana (9,000 sq m leasable), was due to open on 24 Oct; Dubai's RTA pilots nol-Jaywan cards on the national payment scheme from November; and Instacart is winding down its Caper smart carts.",
+  "Quiet day: two verified items were dated 5 Nov; Leejam and Alsaif Gallery put the 2027 Saudi utility tariffs at 1.5-2% and about 0.3% of cost of revenue, and Cenomi Centers had still not filed its Q3 results by 6 Nov."
+ ],
+ "weekly_brief": [
+  "Week 45 (2 to 6 November): 36 findings and 9 library documents across five editions, and the fourth Friday check of directory listings (16 listings).",
+  "Saudi pipeline: PIF's Saudi Downtown Company launched Al Khobar Downtown, an 829,000 sqm waterfront scheme with more than 139,000 sqm of retail and dining around the mall Cenomi is developing; Cenomi signed a SAR 825m design-and-build contract for the Madinah Downtown mall and offices; and Riyadh Municipality opened bidding on its first joint land investment, a 30,000 sqm mixed-use plot.",
+  "Results: Emaar's mall and retail leasing revenue rose 10% to Dh5.2bn in nine months at about 98% occupancy while hotel occupancy fell to 63%; Seef Properties' nine-month profit fell 30% on weaker leisure and spending; Jabal Omar swung to a Q3 loss as land-sale gains dropped out; Emaar The Economic City's loss widened; and Cenomi Centers had still not filed by 6 Nov.",
+  "Tenants and new schemes: M&S will open its largest Foodhall outside the UK at Dubai Festival City in December; OVS took direct control of its UAE stores; Sports Direct entered Africa at two Nairobi malls; Waitrose is the first tenant of DMCC's Uptown Place; Fashion House Group will develop an outlet at Grand Uptown Mall in New October City; Edamah and Kanoo will develop Pier 1890 in Manama; and Bishkek's Ala-Too market opened for the Madina bazaar's traders.",
+  "Members and loyalty: Magrabi agreed to buy Dubai Optical and its 15 Dubai Optical-branded UAE stores, and Majid Al Futtaim brought its SHARE rewards programme to Carrefour Kenya and its 1.4 million MyClub members.",
+  "Spending and service: Turkish mall sales per sqm rose 29.7% in September, in line with inflation, led by entertainment; UAE gold jewellery demand fell 29% in Q3; the UAE's Global Star Rating covered 179 government service channels; and Dubai launched an Access Club for repeat visitors and will pilot nol-Jaywan payment cards.",
+  "AI and retail technology: DoorDash agreed to buy Instacart for about $17bn, and Instacart is winding down its Caper smart carts; Amazon opened its Alexa for Shopping agent to outside merchants; Salesforce agreed to buy voice AI firm Cresta; Abu Dhabi signed agreements with OpenAI; and holiday surveys show shoppers want to approve any purchase an AI makes for them.",
+  "2027 Directory: sheet 10 gained the Madinah Downtown and Al Khobar Downtown malls (Add to pipeline), Pier 1890, Uptown Place and the Grand Uptown Mall outlet (Watch), and the Ala-Too market, Sarit Centre, Galleria Mall and Astana's Jurt (Check first); Friday's check changed 7 of 16 listings, including two cards for one Pixel Plaza, Silicon Central trading since 2021 and 'Masat Mall' being Hamat's Masar Mall, while 8 could not be confirmed from owners' sources."
+ ],
+ "findings": [
+  {
+   "id": "2026-11-06-01",
+   "stream": "dest",
+   "type": "financial",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Emaar Properties",
+   "company": "Emaar Properties",
+   "member": false,
+   "title": "Emaar's mall and retail leasing revenue rises 10% to Dh5.2bn in nine months at about 98% occupancy, as hotel occupancy falls to 63%",
+   "summary": "Emaar Properties' revenue rose 13% to Dh37.5 billion in the first nine months of 2026, with property sales of Dh34.7 billion and a revenue backlog of Dh158.8 billion at the end of September, up 6%. Revenue from shopping malls, retail and commercial leasing rose 10% to Dh5.2 billion, with occupancy of about 98%, while average hotel occupancy fell to 63% from 80% a year earlier.\n\nA day earlier Emaar proposed a cash offer of Dh15 a share for the Emaar Development shares it does not already own. Gulf News says the offer is still subject to board approval, while The National reports that the board has approved it and that Emaar plans to delist the unit.",
+   "why": "The owner of The Dubai Mall grew leasing revenue at near-full occupancy while hotel occupancy fell sharply, a Q3 benchmark for Dubai mall landlords.",
+   "article_date": "2026-11-05",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "The National",
+     "date": "2026-11-05",
+     "url": "https://www.thenationalnews.com/business/property/2026/11/05/emaar-properties-reports-56-increase-in-q3-profit-on-revenue-boost/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Gulf News",
+     "date": "2026-11-05",
+     "url": "https://gulfnews.com/business/property/emaar-profit-jumps-17-as-developer-moves-to-buy-out-listed-subsidiary-1.500737248",
+     "tier": "B"
+    },
+    {
+     "outlet": "The National (Emaar Development offer)",
+     "date": "2026-11-05",
+     "url": "https://www.thenationalnews.com/business/markets/2026/11/05/emaar-plans-to-delist-construction-unit-after-board-approves-33-billion-buyout/",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-02",
+   "stream": "member",
+   "type": "launch",
+   "country": "Kenya",
+   "city": "Nairobi",
+   "entity": "SHARE rewards at Carrefour Kenya",
+   "company": "Majid Al Futtaim",
+   "member": true,
+   "title": "Majid Al Futtaim brings its SHARE rewards programme to Carrefour's 35 stores in Kenya",
+   "summary": "Majid Al Futtaim launched its SHARE rewards programme in Kenya on 5 Nov inside the existing Carrefour app, with points earned on in-store and online Carrefour purchases at a base rate of 0.25%. About 1.4 million members of Carrefour's MyClub programme move to SHARE automatically once they accept the updated terms and set their marketing preferences; Carrefour has 35 stores in Kenya, mostly in Nairobi. Launch offers include up to 4,500 welcome points, double base points on SHARE Mondays and 20% back in points on eligible birthday purchases. SHARE already runs in the UAE, Egypt, Saudi Arabia and Oman and has more than 15 million members.",
+   "why": "A member is moving a large loyalty base onto its regional platform inside a retailer's app, with fresh consent, a live case for MECSC's loyalty and CX content.",
+   "article_date": "2026-11-05",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Majid Al Futtaim",
+     "date": "2026-11-05",
+     "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/11/majid-al-futtaim-launches-share-in-kenya--bringing-more-rewards-and-greater-value-to-carrefour-customers",
+     "tier": "A"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-03",
+   "stream": "dest",
+   "type": "new",
+   "country": "Kazakhstan",
+   "city": "Astana",
+   "entity": "Jurt shopping and entertainment centre",
+   "company": "Orbis Group (Orbis Development)",
+   "member": false,
+   "title": "Orbis Group moves into retail real estate with Jurt, a two-floor mall in Astana led by a farm-food hall",
+   "summary": "Forbes Kazakhstan reported on 22 Oct that Orbis Group, the diversified holding owned by Farrukh and Sukhrab Makhmudov, planned the official opening of Jurt, its first mall, on Astana's right bank for 24 October, with 17,000 sq m of total area, 9,000 sq m of leasable area and more than 100 units on two floors. Tenants include a 1,200 sq m Fresh Market farm-food hall modelled on Almaty's Green Bazaar, KFC, Hardee's, Dodo Pizza, NAVAT and the Yondo family entertainment centre. Farrukh Makhmudov calls Jurt a new business line and says the group will judge the format's economics before expanding to other regions; no dated report confirms the opening yet.",
+   "why": "A new Kazakh mall developer is testing a farm-market-led community format it may take to other regions, a new property for the Central Asia pipeline.",
+   "article_date": "2026-10-22",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Forbes Kazakhstan",
+     "date": "2026-10-22",
+     "url": "https://forbes.kz/articles/bratya-mahmudovy-otkryvayut-pervyy-moll-v-astane-d8ed9e",
+     "tier": "B"
+    },
+    {
+     "outlet": "Orbis Group (Orbis Development page, undated)",
+     "date": "2025",
+     "url": "https://orbis.kz/divisions/orbis-development",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "10",
+    "action": "Check first",
+    "property": "Jurt, right bank, Astana",
+    "developer": "Orbis Group (Orbis Development)",
+    "status": "Official opening planned for 24 Oct 2026 (Forbes Kazakhstan, 22 Oct); not yet confirmed by a dated report",
+    "opening": "24 Oct 2026 (planned)",
+    "size": "17,000 sq m total area, 9,000 sq m leasable, 100+ units on two floors (Forbes Kazakhstan); Orbis gives 16,900 sq m, area type not stated",
+    "check": "Not on Brilliant (no Astana listing of that name) and not in tracker sheets 10 or 11 (checked 6 Nov).",
+    "next": "Confirm with Orbis Group that the 24 Oct opening took place, and the leasable area and address; then decide whether a 9,000 sq m centre meets the Directory threshold."
+   }
+  },
+  {
+   "id": "2026-11-06-04",
+   "stream": "cx",
+   "type": "launch",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "nol-Jaywan card",
+   "company": "Roads and Transport Authority (RTA); Al Etihad Payments",
+   "member": false,
+   "title": "Dubai's RTA will pilot nol-Jaywan cards, joining the nol transit card to the UAE's national Jaywan payment scheme, from November",
+   "summary": "Dubai's Roads and Transport Authority has signed an agreement with Al Etihad Payments, a subsidiary of the Central Bank of the UAE, to introduce new-generation nol cards in phases that combine the nol transport system with Jaywan, the UAE's national card payment scheme. A pilot starts in November 2026 on RTA public transport, including taxis and public parking; cards are activated and managed on Android and iOS phones, and wider use is planned across public and private transport and online booking platforms in the UAE. Cardholders get access to more than 120 promotional offers and discounts. RTA has not given a date for general availability, named the businesses that will accept the cards or said whether existing nol cards must be replaced.",
+   "why": "A national-scheme payment card with built-in offers, carried by Dubai's daily commuters, could become a payment and promotions channel for malls and retailers once merchant acceptance is defined.",
+   "article_date": "2026-11-04",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Khaleej Times",
+     "date": "2026-11-04",
+     "url": "https://www.khaleejtimes.com/uae/transport/dubai-launch-nol-jaywan-cards-pilot-phase-november-2026",
+     "tier": "B"
+    },
+    {
+     "outlet": "Arabian Business",
+     "date": "2026-11-06",
+     "url": "https://www.arabianbusiness.com/business/transport/dubai-to-launch-new-nol-jaywan-cards-for-metro-taxis-and-parking-in-november",
+     "tier": "A"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-05",
+   "stream": "ai",
+   "type": "closure",
+   "country": "Global",
+   "city": null,
+   "entity": "Caper Carts",
+   "company": "Instacart",
+   "member": false,
+   "title": "Instacart will wind down its Caper smart-cart business by mid-2027 and move in-store work to software and AI",
+   "summary": "Instacart said on 26 Oct that it is winding down its Caper Cart smart-cart business, to be completed by the end of Q2 2027, because 'retailer adoption has not scaled quickly enough to justify our continued investment'. Its next in-store phase centres on software, data and AI that report on store performance, including a live view of stores for grocers and consumer brands and Arpalus, an AI tool bought this summer that lets staff record product levels with a smartphone. The decision, disclosed in a company update and a regulatory filing, came days before DoorDash agreed to buy Instacart (see 2 Nov).",
+   "why": "A leading smart-cart provider is retreating to software, a signal for GCC grocers and mall operators weighing checkout hardware against store-wide data and AI.",
+   "article_date": "2026-10-27",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Grocery Dive",
+     "date": "2026-10-27",
+     "url": "https://www.grocerydive.com/news/instacart-stops-smart-carts-business/872824/",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-06-06",
+   "stream": "dest",
+   "type": "status",
+   "country": "Saudi Arabia",
+   "city": "Makkah",
+   "entity": "Masar Mall (listed as Masat Mall)",
+   "company": "Hamat Holding; Umm Al-Qura for Development and Construction",
+   "member": true,
+   "title": "'Masat Mall' is Hamat's Masar Mall in Makkah, and its owners publish neither the printed GLA nor a Q1 2027 opening",
+   "summary": "Hamat's own page names the scheme Masar Mall, an upcoming mall at the western entrance of the Masar destination in Makkah, opposite the Haramain High-Speed Railway station, spanning 71,000 sqm with more than 130,000 sqm of retail space; neither figure is labelled GLA. Umm Al-Qura for Development and Construction, owner of Masar, announced in January 2022 that Hamat Holding would develop and operate the mall, with up to SAR 2.7bn of investment and completion in 2026. Hamat's Cityscape item of 25 May 2025 still describes it as upcoming, with no date. The directory prints 'Masat Mall' with a GLA of 50,650 sqm and a Q1 2027 opening.",
+   "why": "Corrects the name, size and partner of a member's pipeline listing and flags an opening date that no owner source supports.",
+   "article_date": "2025-05-25",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Hamat Holding (Masar Mall page, undated, read 6 Nov 2026)",
+     "date": "2026-11-06",
+     "url": "https://www.hamat.sa/en/lp3",
+     "tier": "A"
+    },
+    {
+     "outlet": "Hamat Holding (Cityscape 2024 news item)",
+     "date": "2025-05-25",
+     "url": "https://www.hamat.sa/en/news/hamat-participates-in-cityscape-2024-and-showcases-the-masar-mall-project",
+     "tier": "A"
+    },
+    {
+     "outlet": "Umm Al-Qura for Development and Construction",
+     "date": "2022-01-03",
+     "url": "https://www.ummalqura.com.sa/en/investment-to-develop-and-operate-the-largest-mall-in-makkah",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "High",
+    "listed_as": "Masat Mall",
+    "field": "Name · size · opening",
+    "directory_says": "Upcoming super-regional centre, Makkah Province, GLA 50,650 sqm, First quarter of 2027, Hamat Holding (owner and developer)",
+    "change": "Rename to Masar Mall and give the city as Makkah. Replace the 50,650 sqm GLA, which no owner source gives, with the GLA Hamat confirms (it publishes 71,000 sqm of area and more than 130,000 sqm of retail space, neither labelled GLA). Confirm with Hamat whether a Q1 2027 opening holds (the only dated owner target is completion in 2026, set in January 2022), and add Umm Al-Qura for Development and Construction as owner of the Masar destination."
+   }
+  },
+  {
+   "id": "2026-11-06-07",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "city": "Abu Dhabi",
+   "entity": "Pixel Plaza, Makers District, Al Reem Island",
+   "company": "IMKAN",
+   "member": true,
+   "title": "The directory carries IMKAN's Pixel Plaza twice; IMKAN publishes 12,000 sq m of retail space and no opening date",
+   "summary": "IMKAN launched retail and commercial leasing at Pixel Plaza, the pedestrian plaza of its Pixel residential development in Makers District, Al Reem Island (seven towers and 525 homes, per TradeArabia), offering 12,000 sq m of retail space; TradeArabia's copy of the release is dated 6 Nov 2023. IMKAN gives no opening date and does not label the figure GLA. The directory lists the scheme on two cards, at 12,000 sqm and 12,500 sqm, both as 2023 openings.",
+   "why": "Removes a duplicate member listing and stops an unconfirmed opening year from printing.",
+   "article_date": "2023-11-06",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Zawya (IMKAN press release, page undated)",
+     "date": "2023-11-06",
+     "url": "https://zawya.com/en/press-release/companies-news/imkans-new-lifestyle-destination-pixel-plaza-open-for-leasing-commercial-and-retail-space-on-al-reem-island-ozn57dbi",
+     "tier": "A"
+    },
+    {
+     "outlet": "TradeArabia",
+     "date": "2023-11-06",
+     "url": "https://www.tradearabia.com/News/279988/Imkan-launches-retail-leasing-at-Abu-Dhabi-lifestyle-destination",
+     "tier": "B"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "High",
+    "listed_as": "PIXEL PLAZA and Pixel Plaza (two cards)",
+    "field": "Duplicate · size",
+    "directory_says": "Two cards, both new mixed-use schemes in Abu Dhabi due in 2023: 'PIXEL PLAZA', GLA 12,000 sqm, IMKAN Properties LLC; 'Pixel Plaza', GLA 12,500 sqm, IMKAN",
+    "change": "Merge into one Pixel Plaza card (keep 'PIXEL PLAZA') showing 12,000 sq m of retail space, as IMKAN publishes it, and drop 12,500 sqm, which no IMKAN source gives. IMKAN only launched leasing in November 2023 and has published no opening date, so confirm with IMKAN whether the plaza is trading, and since when, before printing 2023."
+   }
+  },
+  {
+   "id": "2026-11-06-08",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "Silicon Central Mall, Dubai Silicon Oasis",
+   "company": "Line Investments & Property (LuLu Group International)",
+   "member": true,
+   "title": "Silicon Central has traded since its 2021 soft opening, and its owner publishes 81,500 sqm GLA, not 77,521 sqm",
+   "summary": "Line Investments & Property, the mall development and management arm of LuLu Group International, announced the soft opening of Silicon Central in Dubai Silicon Oasis in a release carried by Zawya on 1 Sep 2021, with a total GLA of 81,500 sqm. Zawya's own 2021 report says the mall opened its doors that week, with a 9,000 square-metre LuLu flagship store. The directory still prints it as a new mall with 77,521 sqm GLA and no owner or opening year.",
+   "why": "Moves a trading member mall out of the pipeline and corrects its size and owner.",
+   "article_date": "2021-09-01",
+   "date_basis": "url",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Zawya (Line Investments & Property press release)",
+     "date": "2021-09-01",
+     "url": "https://www.zawya.com/mena/en/story/ZAWYA20210901112338/",
+     "tier": "A"
+    },
+    {
+     "outlet": "Zawya (report, day not shown)",
+     "date": "2021",
+     "url": "https://www.zawya.com/en/business/dubais-retail-gets-boost-from-new-mall-the-size-of-over-10-football-fields-s6xgvijf",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "High",
+    "listed_as": "Silicon Central Mall",
+    "field": "Status · size · owner",
+    "directory_says": "New mall, Dubai, GLA 77,521 sqm, no owner, developer or year",
+    "change": "Show as an existing mall opened in 2021 (soft opening announced 1 Sep 2021), use 81,500 sqm GLA unless Line Investments & Property can source 77,521 sqm, and add Line Investments & Property (LuLu Group International) as owner, developer and operator. Confirm the exact opening date with the owner."
+   }
+  },
+  {
+   "id": "2026-11-06-09",
+   "stream": "dest",
+   "type": "status",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "The Atrium, Uptown Tower, Uptown Dubai",
+   "company": "DMCC",
+   "member": false,
+   "title": "The Atrium at Uptown Dubai is a dining podium in Uptown Tower with at least one venue open, separate from Uptown Place (Q1 2028)",
+   "summary": "DMCC's Uptown Dubai site (undated page, read 6 Nov 2026) describes The Atrium as a dining destination on the ground floor and level 2 of Uptown Tower with six food and drink venues and two smaller retail outlets, from 299 sqm to 1,016 sqm, and shows Sur.Dubai as open there; it gives no GLA or opening date. DMCC's release of 3 Nov 2026 covers a separate building: Uptown Place, two towers next to Uptown Tower with 82,000 sq ft of retail space in 18 units, due to open in Q1 2028. The directory prints The Atrium as an upcoming community centre of 6,157 sqm due in 2024.",
+   "why": "Corrects the status of a listing printed as a 2024 opening and keeps it apart from the Uptown Place pipeline entry added on 5 Nov.",
+   "article_date": "2026-11-03",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "DMCC (Uptown Dubai site: The Atrium, undated, read 6 Nov 2026)",
+     "date": "2026-11-06",
+     "url": "https://uptowndubai.ae/en/the-atrium",
+     "tier": "A"
+    },
+    {
+     "outlet": "DMCC",
+     "date": "2026-11-03",
+     "url": "https://dmcc.ae/latest-news/dmcc-signs-agreement-with-waitrose-to-bring-the-premium-grocery-retailer-to-uptown-dubai",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "High",
+    "listed_as": "The Atrium - Uptown Dubai",
+    "field": "Status",
+    "directory_says": "Upcoming community centre, city printed as 'دبي', GLA 6,157 sqm, 2024, DMCC",
+    "change": "Show as open, at least in part (Sur.Dubai is trading, per DMCC), print the city as Dubai and consider reclassifying it as a dining and retail podium within Uptown Tower. Ask DMCC for the GLA (6,157 sqm is not published), the opening date and the tenant list. Do not merge it with Uptown Place (82,000 sq ft, 18 units, Q1 2028)."
+   }
+  },
+  {
+   "id": "2026-11-06-10",
+   "stream": "dest",
+   "type": "status",
+   "country": "Saudi Arabia",
+   "city": "Jeddah",
+   "entity": "Jeddah Vibes",
+   "company": "Balubaid Group Companies (Hijaz Malls)",
+   "member": false,
+   "title": "Jeddah Vibes appears to be trading: Azadea opened four restaurants there in Q1 2026",
+   "summary": "Azadea Group's own release of 20 Mar 2026 lists PAUL, Eataly, The Butcher Shop & Grill and New Shanghai among its Q1 2026 openings at Jeddah Vibes. It does not describe the scheme or give its owner, GLA or opening date, and no Balubaid or Hijaz Malls source was found. The directory prints Jeddah Vibes as an upcoming neighbourhood centre of 14,000 sqm due in December 2024.",
+   "why": "The listing still prints the scheme as upcoming although tenants were trading by Q1 2026.",
+   "article_date": "2026-03-20",
+   "date_basis": "byline",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Azadea Group",
+     "date": "2026-03-20",
+     "url": "https://www.azadeagroupholding.com/english/media-center/azadea-group-expands-its-f-and-b-presence-in-saudi-arabia",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "High",
+    "listed_as": "Jeddah VIbes",
+    "field": "Status · name",
+    "directory_says": "Upcoming neighbourhood centre, Makkah Province, GLA 14,000 sqm, 2024 December, Balubaid Group Companies (Lines; owner Hijaz Malls)",
+    "change": "Confirm with Balubaid Group (Hijaz Malls) that Jeddah Vibes is open and when it opened (the printed December 2024 may be the actual opening), then show it as open; confirm the 14,000 sqm GLA and correct the name to 'Jeddah Vibes'."
+   }
+  },
+  {
+   "id": "2026-11-06-11",
+   "stream": "dest",
+   "type": "status",
+   "country": "Türkiye",
+   "city": "Istanbul",
+   "entity": "Agaoglu Cekmeköy Park",
+   "company": "Agaoglu Group of Companies (owner and developer); ECE Türkiye (manager)",
+   "member": false,
+   "title": "Agaoglu Cekmeköy Park in Istanbul belongs to the Agaoglu Group, with ECE Türkiye as manager, not owner",
+   "summary": "ECE's release says ECE Türkiye has taken over asset and property management, leasing and concept optimisation for Agaoglu Cekmeköy Park, the shopping centre of the Agaoglu Group of Companies' mixed-use scheme in Çekmeköy, Istanbul, which also includes 739 homes. The centre has 25,000 sq m of rental space and around 100 stores, and the group is investing more than 200 million euros in the whole scheme. The release, which ECE's files date to February 2024, gave an end-2024 opening; no owner source found confirms that the centre has opened.",
+   "why": "The card names the manager as owner, lacks a country, city and year, and its upcoming status rests on an end-2024 opening that has passed.",
+   "article_date": "2024-02",
+   "date_basis": "estimate",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "ECE (media library)",
+     "date": "2024-02",
+     "url": "https://www.ece.com/en/media-library/view/ece-takes-over-management-for-another-shopping-center-in-turkey",
+     "tier": "A"
+    }
+   ],
+   "directory": {
+    "sheet": "11",
+    "priority": "Medium",
+    "listed_as": "Agaoglu Cekmekoy Park SC",
+    "field": "Owner · location",
+    "directory_says": "Upcoming community centre, GLA 25,000 sqm, owner ECE Türkiye, no country, city or year",
+    "change": "Show the Agaoglu Group of Companies as owner and developer and ECE Türkiye as manager and leasing agent; add Türkiye and Istanbul (Çekmeköy); keep 25,000 sqm, noting ECE publishes it as rental space. Confirm with ECE Türkiye or Agaoglu whether the centre opened after its end-2024 target, and when, before changing the status or adding a year."
+   }
+  }
+ ],
+ "library": [
+  {
+   "title": "AVM Ciro Endeksi Eylül 2026 (shopping centre turnover index, September 2026)",
+   "publisher": "AYD (Alışveriş Merkezleri ve Yatırımcıları Derneği), with Akademetre Research",
+   "doc_type": "market-report",
+   "country": "Türkiye",
+   "date": "2026-11-03",
+   "url": "https://www.ayd.org.tr/eylul-2026-ciro-endeksi",
+   "pages": null,
+   "note": "Next monthly edition after the August index in the library: an HTML bulletin with charts, no PDF; date is the posting date in AYD's index listing. September 2026: turnover per sqm efficiency index up 29.7% year on year (annual CPI 29.73%) to 5,531 points (2010 = 100); turnover per sqm 21,085 TL (Istanbul 25,086 TL, Anatolia 18,417 TL); footfall index up 3.29% year on year. Q3 2026: turnover index up 25.76%, footfall up 2.04%. By category: entertainment and hobby +50.2%, technology +43.5%, hypermarkets +12.1%. Use for the Türkiye section of the 2027 Directory and member briefings on Turkish mall trading.",
+   "use_for": "research"
+  },
+  {
+   "title": "Aldar delivers robust Q3 performance with net profit rising 19% to AED 7.1 billion in first nine months of 2026",
+   "publisher": "Aldar Properties",
+   "doc_type": "investor",
+   "country": "UAE",
+   "date": "2026-10-27",
+   "url": "https://www.aldar.com/en/news-and-media/aldar-delivers-robust-q3-performance-with-net-profit-rising-19-to-aed-7-1-billion-in-first-nine-months-of-2026",
+   "pages": null,
+   "note": "Aldar's own nine-month and Q3 2026 results release, newer than the H1 2026 results in the library (the linked PDF was not opened). Retail: adjusted EBITDA AED 719 million in 9M 2026, up 71%; portfolio occupancy 97% excluding Saadiyat Grove and Remal Mall; Yas Mall 96% occupied, footfall down 6% and tenant sales up 2%; The Galleria Luxury Collection 97% occupied; Saadiyat Grove 84% pre-leased. Use for the Yas Mall, The Galleria and Saadiyat Grove listings.",
+   "use_for": "directory"
+  },
+  {
+   "title": "Seef Properties Reports Net Profit Attributable to Shareholders of BD 2.68 Million for the 9 Months Ended 30 September 2026",
+   "publisher": "Seef Properties",
+   "doc_type": "investor",
+   "country": "Bahrain",
+   "date": "2026-11-04",
+   "url": "https://seef.com.bh/seef-properties-reports-net-profit-attributable-to-shareholders-of-bd-2-68-million-for-the-9-months-ended-30-september-2026/",
+   "pages": null,
+   "note": "Issuer's own nine-month results release (news on 5 Nov), newer than the H1 2026 Bahrain Bourse disclosure in the library: net profit attributable BD 2.68 million (down 30.0%), revenue BD 9.65 million (down 12.7%), operating profit BD 7.21 million (down 14.1%), plus the Seef Mall - Seef District redevelopment, Al Liwan tenant mix and the Dammam project with Majd Investment; no footfall or occupancy figures. The nine-month statements are not yet on Seef's site. Use for the Seef mall listings and member account notes.",
+   "use_for": "membership"
+  },
+  {
+   "title": "GCC Retail Industry (September 2026)",
+   "publisher": "Alpen Capital",
+   "doc_type": "market-report",
+   "country": "GCC",
+   "date": "2026-09-16",
+   "url": "https://alpencapital.com/wp-content/uploads/2026/09/Alpen-Capital_GCC-Retail-Industry-26.pdf",
+   "pages": null,
+   "note": "Partly read (the cover page was not in the text read; date from the running header). Update of Alpen Capital's September 2024 GCC retail report; projects GCC retail sales to grow at a 3.3% CAGR to US$ 386.9 billion in 2030 from US$ 329.6 billion in 2025. Use for market sizing in the 2027 Directory introduction and event content.",
+   "use_for": "research"
+  }
+ ],
+ "verification": {
+  "batch": "The next 16 Brilliant pipeline and new-mall listings by oldest update (February 2023 to April 2025), after skipping the Iranian listings and the card already marked 'to be deleted'",
+  "checked": 16,
+  "unchanged": 1,
+  "changed": 7,
+  "unverifiable": [
+   "Basra Mall",
+   "Najran Front Boulevard",
+   "Al Ain Community Centre",
+   "Strip Way (Sheikh Zayed)",
+   "The Grand - Buch Executive Villas (Multan)",
+   "SEDRA 1 District Center (ROSHN, Riyadh)",
+   "Al Arous 1A - Eastern Village - District Center (ROSHN, Jeddah)",
+   "C'EST LA VIE (Sheikh Zayed)"
+  ],
+  "note": "Fourth Friday batch. Changed: 'Masat Mall' is Hamat's Masar Mall in Makkah, with different published size figures and no owner support for a Q1 2027 opening; the two Pixel Plaza cards are one IMKAN scheme (12,000 sq m of retail space); Silicon Central has traded since its 2021 soft opening with 81,500 sqm GLA; The Atrium at Uptown Dubai is a trading dining podium in Uptown Tower, separate from Uptown Place; Jeddah Vibes had tenants trading by Q1 2026; and Agaoglu Cekmeköy Park belongs to the Agaoglu Group, with ECE Türkiye as manager. Unchanged: J1 Beach opened in November 2024, as printed (the card lacks a country and city: UAE, Dubai). The eight unverifiable listings have no owner's or official source online; ROSHN's two district centres and the two Sheikh Zayed schemes have passed their printed completion dates and are best confirmed with the owners. Next Friday: the last six pipeline and new-mall cards (among them Qatar Outlet Village, Tabuk View Mall and a placeholder card titled 'Upcoming 12 downtown mix use projects'), then country batch A (UAE and Saudi Arabia)."
+ },
+ "watch": [
+  {
+   "item": "Westfield Riyadh (Cenomi)",
+   "note": "Cenomi's H1 2026 release (5 Aug): structure complete, pre-leasing near 94%, operational phase expected in Q4 2026; its 220,000 sqm GLA includes 65,000 sqm of offices. The H1 statements note the project's financing raised to SR 2.7 billion. No date yet (checked 6 Nov)",
+   "since": "2026-07-16"
+  },
+  {
+   "item": "Westfield Jeddah (Cenomi)",
+   "note": "Operational phase since 30 Jul with pre-leasing near 96% and tenants fitting out; grand opening guided for Q4 2026. No date yet (checked 6 Nov). Cenomi's SAR 104.3m facilities management contract for the mall runs from Q4 2026 (Argaam, 26 Oct)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Aventura Mall (Mabanee, Kuwait)",
+   "note": "Due at the end of October 2026 (Mabanee, 29 Jul); no opening or opening day published by 6 Nov, so Mabanee's end-October guidance has lapsed; Al-Anba (25 Oct), citing Mabanee, says the opening is near and names an ice rink and a cinema as the leisure offer. Alshaya (21 Oct) says Primark's second Kuwait store opens there early next year. Mabanee's 2025 annual report (in the library, 4 Nov) gives a total leasable area of 108,297 sqm and a Q3 2026 opening",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Bishkek Arena Mall",
+   "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (checked 22 Oct)",
+   "since": "2026-09-03"
+  },
+  {
+   "item": "Primark rollout (Alshaya)",
+   "note": "First Qatar store opened at Doha Festival City on 21 Oct, eight days early (Alshaya, 21 Oct). Next: Villaggio Mall (second Qatar store) and Aventura Mall (second Kuwait store) early 2027, and the first Saudi store, at The Avenues Riyadh, in March 2027; Mall of the Emirates second floor due Nov 2026. No Tier A or B report of the Mall of the Emirates second-floor opening by 4 Nov. Mabanee's project page (read 4 Nov) and its 2025 annual report both give Q1 2027 for The Avenues - Riyadh, in line with Primark's March 2027 store",
+   "since": "2026-09-07"
+  },
+  {
+   "item": "Mall of the Emirates",
+   "note": "THAT Concept Store closure date and replacement (none reported by 4 Nov; Majid Al Futtaim's media centre shows no release after 21 Oct); The Hangout's Activate due Oct 2026",
+   "since": "2026-10-01"
+  },
+  {
+   "item": "Saadiyat Grove (Aldar)",
+   "note": "Q4 2026 opening date and GLA (none published by 6 Nov); Aldar's nine-month release (27 Oct, in the library 6 Nov) says it is 84% pre-leased and already contributing through lease handovers",
+   "since": "2026-09-18"
+  },
+  {
+   "item": "Al Othaim Developments",
+   "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam); nothing new by 22 Oct",
+   "since": "2026-10-05"
+  },
+  {
+   "item": "Seih Sdeirah (Aldar / Arada)",
+   "note": "A defined retail centre and GLA (none by 28 Oct; The National's report on Aldar's Q3 results mentions only the Arada partnership)",
+   "since": "2026-09-30"
+  },
+  {
+   "item": "Madar Mall, Aljada (Arada)",
+   "note": "Arada (18 Sep 2025): 1.1m sq ft GLA, completion December 2028. Confirm anchors, leasing and that the date holds",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Multaqa AlMadinah (KEC)",
+   "note": "Opening date for phase 1 (mall, Hilton hotel tower and residences) still not given (checked 22 Oct), and whether Brilliant's 'Wasat Al Madinah' is the same scheme. KEC's 8 Sep Tadawul disclosure (Mubasher copy) is an MoU with Kaden Investment for 'Multaqa Al Madinah 2', a mixed-use second phase north of phase 1: about 1,527 homes and about 31,108 sqm of net leasable commercial and office space, total cost about SAR 2.5bn, with 90-day exclusivity from 7 Sep; no mall is listed for phase 2. Friday check (23 Oct): Brilliant's 'Wasat Al Madinah' (70,000 sqm, 2023 Q4) is probably the same scheme; KEC to confirm before the entries are merged. KEC proposes renaming itself Al-Jiwar Economic City (EGM 15 Nov 2026)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "The Avenues Khobar (Mabanee)",
+   "note": "Mabanee's 2025 annual report (in the library, 4 Nov) gives a GLA of 167,535 sqm and both Q3 2027 (project section) and Q1 2028 (chairman's statement) for the opening; confirm which holds",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Merkez Ankara AVM",
+   "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP); Mall Report's 23 Oct item covers only the opening-festival concerts (checked 4 Nov)",
+   "since": "2026-10-11"
+  },
+  {
+   "item": "Oman land-border duty-free markets",
+   "note": "Start date, operator and any tender (Decision No 145/2026); no update by 19 Oct",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Dubai Municipality and Emaar Malls destinations",
+   "note": "Which public sites, formats and timings follow the memorandum of 16 Oct",
+   "since": "2026-10-19"
+  },
+  {
+   "item": "Saudi security situation: flights, events and mall trading",
+   "note": "King Khalid International, Riyadh, resumed operations on 17 Oct after the 10 Oct attack, with each flight still needing GACA permission (Gulf Business, 20 Oct). Suspensions reported on 20 Oct: Etihad Riyadh and Dammam, Air India and IndiGo to 24 Oct; Akasa Air to 27 Oct; Air France-KLM Riyadh to 7 Nov; Lufthansa Group to 18 Nov; Philippine Airlines to 29 Nov; Cathay Pacific to 31 Jan 2027; Delta's Atlanta-Riyadh flights to March 2027; Qatar Airways' Riyadh and Dammam flights and Gulf Air's Riyadh services have no restart date. Malaysia Airlines resumed Jeddah and Madinah on 18 Oct. FII10, the Saudi Retail Forum and Intersec Saudi Arabia have moved to 2027 and Riyadh Fashion Week was postponed on 14 Oct (Arab News). Kingdom Centre has moved its office tenants to remote working while its mall stays open (AFP, 18 Oct). Riyadh Season was due to open on 21 Oct; no dated report of the opening had been found by 2 Nov. Check effects on Riyadh mall trading, Westfield Riyadh's Q4 opening and travel to RCM Jeddah (7 to 8 Dec). Nahdi Medical cut its 2026 profit forecast on 29 Oct, citing geopolitical pressures. Nothing found by 4 Nov on Riyadh mall trading or on travel to RCM Jeddah",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Saudi real estate market",
+   "note": "Argaam (19 Oct), citing REGA: September transactions about SAR27.8bn, down 17% year on year, non-residential down 15% to SAR12.8bn, rental value up 18%. Single source so far; use once REGA or a second outlet confirms",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "UAE government services transformation",
+   "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct); Abu Dhabi launched TAMM Global on 16 Oct; nothing new by 6 Nov. The Annual Government Challenge launched on 2 Nov (see 3 Nov) is a staff programme, not the announced transformation. The Global Star Rating results of 4 Nov (see 5 Nov) are a separate exercise",
+   "since": "2026-10-08"
+  },
+  {
+   "item": "Q3 2026 results season",
+   "note": "Reported so far: Aldar on 27 Oct (see 28 Oct), Jabal Omar on 1 Nov (see 2 Nov), Emaar The Economic City on 1 Nov and Seef Properties on 4 Nov (both see 5 Nov), and Emaar Properties on 5 Nov (see 6 Nov). Still to come: Cenomi Centers (not filed by 6 Nov; it filed on 2 Nov in 2025), Al Othaim Investment, KEC and Hamat by the Saudi deadline of 11 Nov; Lulu (10 Nov last year), Mabanee and UDC",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Q3 2026 market reports",
+   "note": "ValuStrat's Dubai Q3 2026 review is out (in the library, 23 Oct), as are Savills' Dubai (12 Oct) and Abu Dhabi (14 Oct) residential Q3 reports. JLL, CBRE, Knight Frank, Cushman & Wakefield, Colliers and Savills had no Q3 2026 GCC retail figures by 26 Oct. Cushman & Wakefield Core published Dubai office and residential Q3 2026 MarketBeats on 29 Oct; still no Q3 retail editions by 30 Oct. CBRE's UAE Q3 2026 review appears to be online, but its page could not be read on 6 Nov; JLL's UAE and Cairo retail pages still show Q2 2026",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec",
+   "note": "Speaker, sponsor and media clash to plan around; no programme news by 28 Oct",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Dubai Mall Plaza and Hotel (Emaar)",
+   "note": "Teaser only so far; no official scope, GLA, operator or timing by 4 Nov (Emaar's newsroom shows nothing after 7 Sep)",
+   "since": "2026-10-15"
+  },
+  {
+   "item": "The Plaza (former Lamcy Plaza), Dubai",
+   "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)",
+   "since": "2026-10-15"
+  },
+  {
+   "item": "Dubai Shopping Festival 2026-27",
+   "note": "Runs 4 Dec 2026 to 17 Jan 2027; DFRE says the full programme follows in November (not out by 6 Nov)",
+   "since": "2026-10-20"
+  },
+  {
+   "item": "Safari Mall, Abu Hamour (Doha)",
+   "note": "Owner, GLA and opening year for the sheet-10 check",
+   "since": "2026-10-20"
+  },
+  {
+   "item": "Arada KSA",
+   "note": "A defined retail or community centre and GLA for the Al Rimal master plan (construction from 2027), and plans for the Jeddah and Makkah land",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "TMG mega-projects and Navy 26 (Egypt)",
+   "note": "Retail components, GLA and phasing for TMG's East Cairo destination; retail GLA, hypermarket operator and investment figure for HDP TULUA's Navy 26 (nothing new by 22 Oct)",
+   "since": "2026-10-21"
+  },
+  {
+   "item": "Standards for agent-led shopping",
+   "note": "No GCC bank, payment network or retailer had adopted or blocked agent standards by 6 Nov. Context: American Express's Intent Intelligence framework (13 Oct), Meta and Sierra's Personal Agent Protocol (14 Oct), Amazon and eBay blocking agents (16 Oct), Salesforce's agreement to buy Braze (20 Oct), Walmart's Agent Gateway (21 Oct) and US banks restricting third-party agents (23 Oct). BCG (21 Oct, see 28 Oct): 42% of large retailers open to any agent, 32% selective, 6% blocking. PYMNTS and Visa (26 Oct), from the UAE study covered on 21 Sep: 19% of UAE merchants have product data agents can read and 31% can identify sales from AI platforms. Meta launched Muse in Singapore on 28 Oct with Shopee, Grab and Lazada among its partners. Home Depot will admit agents that identify themselves and the customer (PYMNTS, 29 Oct). Retail Dive's holiday survey round-up (3 Nov, see 4 Nov): most shoppers surveyed by William Blair would not let AI buy without a review. Amazon opened its own Alexa for Shopping agent to outside merchants through a Shop Direct workspace (PYMNTS, 4 Nov)",
+   "since": "2026-10-20"
+  },
+  {
+   "item": "Hind City endowment shopping centre (Awqaf Dubai)",
+   "note": "Name, GLA, exact site, contractor and start of works for the AED73m, 40-outlet centre due within two years (Dubai Media Office, 20 Oct)",
+   "since": "2026-10-22"
+  },
+  {
+   "item": "Primor in Morocco (One Retail)",
+   "note": "First stores planned for 2027: cities, malls and store count not yet named (Morocco World News, 21 Oct)",
+   "since": "2026-10-22"
+  },
+  {
+   "item": "Mall of Dhahran (Cenomi lawsuit and handover)",
+   "note": "The owner may appeal the 21 Oct ruling within 30 days of receiving the judgment. Confirm who runs the mall after Cenomi's April 2026 handover, and its GLA and opening year, for the sheet 10 decision. No appeal or operator news on Argaam by 4 Nov",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "Dubai Expo Mall (Emaar)",
+   "note": "Emaar's H1 2026 investor presentation gives about 385,000 sq ft GLA, 190+ outlets and H2 2027; not on Brilliant or in the tracker: confirm with Emaar and add to the pipeline; nothing in Emaar's newsroom by 4 Nov",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "Skylight Mall and Al Khail Avenue (Dubai Retail)",
+   "note": "Whether Skylight Mall (1.3 million sq ft GLA, 2027, announced 6 Oct 2026) is the renamed Al Khail Avenue (1.2 million sq ft, Dubai Holding, Sep 2025)",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "The One, Mokattam (Ghoneim Developments)",
+   "note": "Retail format, GLA and delivery date (none published at the 13 Oct launch)",
+   "since": "2026-10-23"
+  },
+  {
+   "item": "Van Mall AVM tender (Van, Türkiye)",
+   "note": "Sealed-bid sale held on 2 Nov 2026; no result published by 6 Nov (Van outlets carry only the pre-tender notices). Record the winning bidder and any operator change, and check whether Brilliant's Van listing is the same mall",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "Cadde 42, Konya (Konyaspor)",
+   "note": "Final name, developer, GLA, permits and timeline (none given on 24 Oct)",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "Knowledge Economic City rename",
+   "note": "Shareholder vote on 15 Nov 2026 on becoming Al-Jiwar Economic City Co.: result and official English name",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "EVORA City, Lahore (TAAMEER Group)",
+   "note": "The Peninsula (22 Oct) reports a USD 5bn scheme with a 600,000 sqm shopping mall billed as Pakistan's largest and a sales centre due in December 2026; still single source on 28 Oct, so confirm with TAAMEER or a second outlet before use",
+   "since": "2026-10-26"
+  },
+  {
+   "item": "Kids Around, Istanbul",
+   "note": "The French designer kidswear store opened its second Türkiye store, in Istanbul, on 24 Oct (Mall Report, 26 Oct); the host mall is not clearly named: confirm before any listing update",
+   "since": "2026-10-27"
+  },
+  {
+   "item": "Saudi utility tariffs and the Nitaqat pay floor",
+   "note": "Commercial electricity and water rates from 1 Jan 2027 (Saudi Energy Company and National Water Company tariff tables), the exact start dates of the SAR 5,000 and SAR 6,000 Nitaqat thresholds (Ministry of Human Resources and Social Development), and any Tadawul disclosure on the impact by Cenomi Centers, Al Othaim or other mall owners and retailers. Abdullah Al Othaim Markets puts the cost at about 0.5% of revenue a year from Q1 2027 (Tadawul, 29 Oct). Leejam Sports puts the effect at 1.5-2% of its cost of revenue and Alsaif Gallery at about 0.3% (Argaam, 5 Nov). No impact disclosure from a mall owner seen by 6 Nov",
+   "since": "2026-10-28"
+  },
+  {
+   "item": "Saudi Commercial Transactions Law",
+   "note": "Publication in Umm Al-Qura (the law takes effect 180 days later), an official English text and any Ministry of Commerce guidance on commercial agency and supply contracts; confirm the details with SPA. Umm Al-Qura recorded the approval on 27 Oct; no official text by 30 Oct",
+   "since": "2026-10-28"
+  },
+  {
+   "item": "Aldar and Dubai Holding master development, Dubai",
+   "note": "The National (27 Oct): near Dubai Silicon Oasis, gross development value Dh30bn, about 7,000 townhouses and up to 5,000 apartments, built over five to six years, launch in the coming weeks. Single source so far; check for a retail or community centre",
+   "since": "2026-10-28"
+  },
+  {
+   "item": "ABYAT, Mall of Qatar",
+   "note": "Opening date, unit size and level of ABYAT's first Qatar store (release of 26 Oct says 'soon'); nothing new by 4 Nov",
+   "since": "2026-10-29"
+  },
+  {
+   "item": "Al Shubaily Grand Mall, Al Khobar",
+   "note": "Soft-opened 29 Oct; GLA, anchors, cinema operator and the 2027 grand-opening date to confirm with Arabian AlEsaar",
+   "since": "2026-10-30"
+  },
+  {
+   "item": "Maqam Al Shahama project (LuLu hypermarket)",
+   "note": "Name, retail GLA and completion of the scheme; LuLu's 210,000 sq ft hypermarket is due by UAE National Day 2027",
+   "since": "2026-10-30"
+  },
+  {
+   "item": "Madinah Downtown mall (Cenomi / Saudi Downtown)",
+   "note": "Name, GLA and opening of the mall under Cenomi's SAR 825m, 30-month design-and-build contract with Lynx (1 Nov); the related-party contract needs general assembly approval; nothing new on Argaam by 4 Nov",
+   "since": "2026-11-02"
+  },
+  {
+   "item": "Al Khobar Downtown Mall (Saudi Downtown Company / Cenomi)",
+   "note": "Mall name, GLA (Arab News alone: about 110,000 sqm GLA within 152,000 sqm built-up area) and opening year; confirm against Cenomi's June 2026 Tadawul disclosure",
+   "since": "2026-11-03"
+  },
+  {
+   "item": "Magrabi Retail and Dubai Optical",
+   "note": "Completion after UAE Ministry of Economy merger clearance, and what happens to the four Optivision stores",
+   "since": "2026-11-03"
+  },
+  {
+   "item": "M&S Foodhalls, UAE (Al-Futtaim)",
+   "note": "Dubai Festival City Foodhall opening day in December; the other four large-format UAE Foodhall sites planned over 12 months are not yet named",
+   "since": "2026-11-03"
+  },
+  {
+   "item": "Dubai Access Club",
+   "note": "Membership benefits and any partner malls or retailers (none disclosed by 4 Nov; Gulf News, updated 1 Nov, names none)",
+   "since": "2026-11-03"
+  },
+  {
+   "item": "OVS in the GCC",
+   "note": "Name of the new Saudi partner and its first sites (stores of at least 1,000 sqm), and the launch of the UAE online store, expected within one or two months of 30 Oct (Retail ME)",
+   "since": "2026-11-04"
+  },
+  {
+   "item": "Sarit Centre and Galleria Mall, Nairobi",
+   "note": "Owner, opening year and GLA of each mall for the sheet 10 check; any further Sports Direct stores in Kenya (Hudson Group plans to expand the brand across Africa)",
+   "since": "2026-11-04"
+  },
+  {
+   "item": "Riyadh joint land investment, Zaid bin Asim Street",
+   "note": "Bidders and the chosen mix of uses once submissions close on 3 Feb 2027; whether a retail centre is part of the 30,000 sqm scheme",
+   "since": "2026-11-04"
+  },
+  {
+   "item": "Saudi consumer spending (SAMA)",
+   "note": "Argaam (3 Nov), citing SAMA: September 2026 consumer spending SAR 138.1bn, up 7% year on year; point-of-sale spending about SAR 60.8bn, up 4%; e-commerce through Mada SAR 37.3bn, up 28%; cash withdrawals about SAR 40bn, down about 5%. Single source so far; use once SAMA or a second outlet confirms",
+   "since": "2026-11-04"
+  },
+  {
+   "item": "Pier 1890, Manama (Edamah and Kanoo)",
+   "note": "Retail and F&B GLA, investment, operator and completion date of the waterfront destination announced on 4 Nov",
+   "since": "2026-11-05"
+  },
+  {
+   "item": "Grand Uptown Mall outlet, New October City",
+   "note": "Confirm the EGP 6bn+ investment, about 90,000 sqm leasable area and phasing (Daily News Egypt only, 1 Nov)",
+   "since": "2026-11-05"
+  },
+  {
+   "item": "Uptown Place, Uptown Dubai (DMCC)",
+   "note": "Further tenants for the 82,000 sq ft, 18-unit retail podium after Waitrose; opening Q1 2028; The Atrium in Uptown Tower is a separate dining podium that is already trading (see 6 Nov)",
+   "since": "2026-11-05"
+  },
+  {
+   "item": "Jurt, Astana (Orbis Group)",
+   "note": "Confirm the 24 Oct opening, the leasable area (9,000 sq m per Forbes Kazakhstan) and the address; Orbis will judge the format before expanding to other regions of Kazakhstan",
+   "since": "2026-11-06"
+  },
+  {
+   "item": "nol-Jaywan cards (RTA, Dubai)",
+   "note": "Businesses that will accept the cards, general availability after the November pilot, and whether existing nol cards must be replaced",
+   "since": "2026-11-06"
+  },
+  {
+   "item": "Ulta Beauty, Dubai Hills Mall (Alshaya)",
+   "note": "Alshaya's third UAE Ulta Beauty store is reported open in early November (a Zawya release and Harper's Bazaar Arabia), but neither page could be read on 6 Nov: confirm the date from Alshaya or a news outlet",
+   "since": "2026-11-06"
+  }
+ ],
+ "no_findings": [
+  "Qatar",
+  "Kuwait",
+  "Bahrain",
+  "Oman",
+  "Egypt",
+  "Pakistan",
+  "Jordan",
+  "Lebanon",
+  "Iraq",
+  "Morocco",
+  "Tunisia",
+  "Algeria",
+  "Libya",
+  "Azerbaijan",
+  "Georgia",
+  "Armenia",
+  "Uzbekistan",
+  "Kyrgyzstan",
+  "Afghanistan",
+  "Nigeria"
+ ],
+ "searches_run": 180,
+ "notes": "Friday edition for Thursday 5 Nov, with the weekly summary and the fourth directory verification batch, prepared in the cloud workspace because the laptop was offline (the 03:38 scheduled run was held for the same reason). Four research passes, a targeted sweep and two verification agents ran about 180 searches and fetches and found two verified items dated 5 Nov, so this is a quiet day; three items from 22 Oct to 4 Nov are new to the site. Not readable: Zawya pages (robots), Gulf Business, Harper's Bazaar Arabia, Kapital.kz and CBRE's UAE Q3 2026 page."
+}
