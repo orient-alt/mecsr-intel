@@ -18,14 +18,18 @@ Live site: **https://orient-alt.github.io/mecsr-intel/**
 
 ## How it updates
 
-A scheduled Claude run researches every weekday at 08:00 Dubai under the MECSR Directory Source
-Policy v1.0 and writes one file: `data/daily/<date>.json`. Every page is then rebuilt from those
-files by `tools/intel.py build` (standard-library Python, no dependencies). Nothing on the site is
-edited by hand.
+Each weekday edition is prepared in the early morning, Dubai time, by a scheduled Claude run on MECSR's
+office PC (or by hand in a Claude session when that run cannot run), under the MECSR Directory Source
+Policy v1.0. The run writes one file, `data/daily/<date>.json`, rebuilds every page with
+`tools/intel.py build` (standard-library Python, no dependencies) and leaves an upload folder of the
+changed files, which MECSR checks and uploads here. Nothing on the site is edited by hand. When a
+published item is corrected, that edition's run notes carry a dated line.
 
 - `python3 tools/intel.py build` rebuilds the site
-- `python3 tools/intel.py validate data/daily/<date>.json` checks a day file
+- `python3 tools/intel.py validate data/daily/<date>.json` checks a day file (`--members <file>` also
+  warns when a member flag disagrees with a member file)
 - `python3 tools/intel.py seen <words>` finds earlier findings (duplicate check)
+- `python3 tools/intel.py month <YYYY-MM>` lists the month's findings for the What's Up Retail newsletter
 
 ## What is never in this repository
 
@@ -35,15 +39,19 @@ prospect lists or CRM data; nothing from the tracker's sheets 07, 08 or 09. The 
 e-mail address reaches the output, and `validate` rejects internal-only fields. Membership prospects
 are kept in MECSR's internal OneDrive folder.
 
-## Publishing with GitHub Desktop
+## Publishing (GitHub web upload)
 
-The folder `Documents\GitHub\mecsr-intel` is already a Git repository connected to
-`orient-alt/mecsr-intel`. One-time setup:
+The run cannot push to GitHub, so each edition's upload folder goes up through the GitHub website,
+**one folder at a time**: uploading everything on the top-level page flattens the folders.
 
-1. GitHub Desktop: **File → Add local repository**, choose `Documents\GitHub\mecsr-intel`, then **Add repository**.
-2. Type a summary such as `MECSR Intel site`, press **Commit to main**, then **Publish branch**.
-3. On GitHub: **Settings → Pages → Deploy from a branch → main / (root) → Save**. The site is live at the
-   address above a few minutes later.
+| Folder in the upload | Upload page |
+|---|---|
+| `daily` (html) | https://github.com/orient-alt/mecsr-intel/upload/main/daily |
+| `data/daily` (json) | https://github.com/orient-alt/mecsr-intel/upload/main/data/daily |
+| `weekly` (html) | https://github.com/orient-alt/mecsr-intel/upload/main/weekly |
+| `data` (files only, not the daily subfolder) | https://github.com/orient-alt/mecsr-intel/upload/main/data |
+| `tools` (only when the upload has it) | https://github.com/orient-alt/mecsr-intel/upload/main/tools |
+| top level (html and README.md) | https://github.com/orient-alt/mecsr-intel/upload/main |
 
-After each run the changed files appear under **Changes**: type a summary such as `Daily intel 15 Oct`,
-press **Commit to main**, then **Push origin**. Several days can go in one push.
+After the last commit, open https://orient-alt.github.io/mecsr-intel/data/index.json: `"latest"`
+should show the new date, and no new file should sit at the repository root.
