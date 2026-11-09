@@ -116,18 +116,7 @@
      "url": "https://mallreport.com.tr/derimoddan-azerbaycanda-5-milyon-dolarlik-yatirim/",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "City Park Mall, Baku",
-    "developer": "Not stated",
-    "status": "Trading (Derimod store, reported 23 Oct 2026)",
-    "opening": "Not stated",
-    "size": "Not published",
-    "check": "Not on Brilliant (Baku listings include Ganjlik Mall, Deniz Mall, The Crescent Bay and Baku City Mall, none of them City Park) and not in tracker sheets 10 or 11 (checked 27 Oct).",
-    "next": "Confirm the mall's exact name, owner, opening year and GLA; Derimod's other three Baku stores add to the Ganjlik Mall, Deniz Mall and Crescent listings' tenant lists."
-   }
+   ]
   },
   {
    "id": "2026-10-27-05",

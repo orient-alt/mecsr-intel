@@ -2,7 +2,11 @@
  "schema": "mecsr-intel/1",
  "date": "2026-10-19",
  "weekday": "Monday",
- "coverage": {"from": "2026-10-16", "to": "2026-10-18", "label": "Friday 16 to Sunday 18 October 2026"},
+ "coverage": {
+  "from": "2026-10-16",
+  "to": "2026-10-18",
+  "label": "Friday 16 to Sunday 18 October 2026"
+ },
  "status": "full",
  "brief": [
   "Destinations: Dubai Municipality and Emaar Malls signed a memorandum on 16 Oct to explore new commercial, community and lifestyle destinations on public land across Dubai; no sites have been named yet.",
@@ -28,7 +32,12 @@
    "date_basis": "meta",
    "confidence": "High",
    "sources": [
-    {"outlet": "Zawya (press release)", "date": "2026-10-16", "url": "https://www.zawya.com/en/press-release/government-news/dubai-municipality-and-emaar-malls-strengthen-cooperation-to-expand-commercial-offerings-and-investment-opportunities-across-public-spaces-1712609", "tier": "A"}
+    {
+     "outlet": "Zawya (press release)",
+     "date": "2026-10-16",
+     "url": "https://www.zawya.com/en/press-release/government-news/dubai-municipality-and-emaar-malls-strengthen-cooperation-to-expand-commercial-offerings-and-investment-opportunities-across-public-spaces-1712609",
+     "tier": "A"
+    }
    ]
   },
   {
@@ -47,21 +56,26 @@
    "date_basis": "meta",
    "confidence": "High",
    "sources": [
-    {"outlet": "Mall Report", "date": "2026-10-16", "url": "https://mallreport.com.tr/avm-dunyasinda-dikkat-ceken-hamle-forum-kayseri-torunlar-gyoya-gecti/", "tier": "B"},
-    {"outlet": "Yeni Şafak (KAP disclosure text)", "date": "2026-10-12", "url": "https://www.yenisafak.com/ekonomi/kap-haberleri/kap-torunlar-gayrimenkul-yatirim-ortakligi-as-trgyo-finansal-duran-varlik-edinimi-5129225", "tier": "B"},
-    {"outlet": "Torunlar GYO H1 2026 activity report (KAP)", "date": "2026-08-18", "url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a015ed3bf543fa", "tier": "A", "kind": "pdf"}
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add now",
-    "property": "Forum Kayseri AVM, Kayseri",
-    "developer": "Owner: Torunlar GYO (since 2 Feb 2026; previously Union Investment Real Estate GmbH)",
-    "status": "Trading; ownership transferred on 2 Feb 2026",
-    "opening": "Not stated in these sources",
-    "size": "Not published in these sources",
-    "check": "Not on Brilliant (no Kayseri listing; the nearest matches are other Forum malls such as Forum Aydin) and not in tracker sheets 10 or 11 (checked 19 Oct). Ownership confirmed by Torunlar GYO's KAP filings (update of 12 Oct 2026; H1 2026 activity report) and Mall Report (16 Oct 2026).",
-    "next": "Take GLA, opening year and store count from Torunlar GYO's investor materials. Forum Mersin, bought in the same period, is also missing from Brilliant: add it in the same pass."
-   }
+    {
+     "outlet": "Mall Report",
+     "date": "2026-10-16",
+     "url": "https://mallreport.com.tr/avm-dunyasinda-dikkat-ceken-hamle-forum-kayseri-torunlar-gyoya-gecti/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Yeni Şafak (KAP disclosure text)",
+     "date": "2026-10-12",
+     "url": "https://www.yenisafak.com/ekonomi/kap-haberleri/kap-torunlar-gayrimenkul-yatirim-ortakligi-as-trgyo-finansal-duran-varlik-edinimi-5129225",
+     "tier": "B"
+    },
+    {
+     "outlet": "Torunlar GYO H1 2026 activity report (KAP)",
+     "date": "2026-08-18",
+     "url": "https://kap.org.tr/tr/api/file/download/4028328d9f52dddd01a015ed3bf543fa",
+     "tier": "A",
+     "kind": "pdf"
+    }
+   ]
   },
   {
    "id": "2026-10-19-03",
@@ -79,19 +93,13 @@
    "date_basis": "meta",
    "confidence": "Low",
    "sources": [
-    {"outlet": "Mall Report", "date": "2026-10-16", "url": "https://mallreport.com.tr/winstown-avmnin-kiralama-surecleri-mspye-emanet/", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "WinsTown AVM, Diyarbakır",
-    "developer": "Not stated (leasing: MSP, Mall Solution Partner)",
-    "status": "Leasing handed to MSP (Mall Report, 16 Oct 2026); trading status not stated",
-    "opening": "Not stated",
-    "size": "Not published",
-    "check": "Not on Brilliant (the only Diyarbakır listing is Ceylan Karavil Park AVM) and not in tracker sheets 10 or 11 (checked 19 Oct). Single Tier B source relaying a press release.",
-    "next": "Confirm the owner, district, opening year, GLA and anchors with MSP or the mall's management, then decide on Add now."
-   }
+    {
+     "outlet": "Mall Report",
+     "date": "2026-10-16",
+     "url": "https://mallreport.com.tr/winstown-avmnin-kiralama-surecleri-mspye-emanet/",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-19-04",
@@ -109,20 +117,19 @@
    "date_basis": "byline",
    "confidence": "High",
    "sources": [
-    {"outlet": "Arada (press release)", "date": "2025-09-18", "url": "https://www.arada.com/?p=80890", "tier": "A"},
-    {"outlet": "Gulf News", "date": "2025-09-18", "url": "https://gulfnews.com/business/property/arada-awards-dh218-billion-contract-to-build-madar-mall-at-aljada-1.500274356", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add to pipeline",
-    "property": "Madar Mall, Aljada, Sharjah",
-    "developer": "Arada (main contractor UNEC; architect Zaha Hadid Architects)",
-    "status": "Under construction; AED2.18bn main contract awarded 18 Sep 2025",
-    "opening": "Completion expected December 2028",
-    "size": "1.1 million sq ft GLA; 3.9 million sq ft built-up area (as published by Arada)",
-    "check": "Not on Brilliant (no 'Madar' or 'Aljada' listing) and not in tracker sheets 10 or 11 (checked 19 Oct). Supersedes the 'Check first' row of 16 Oct: Arada's release presents Madar Mall as 'a new family entertainment destination for the UAE' at Aljada.",
-    "next": "Confirm anchors, leasing progress and that December 2028 still holds with Arada before the data freeze."
-   }
+    {
+     "outlet": "Arada (press release)",
+     "date": "2025-09-18",
+     "url": "https://www.arada.com/?p=80890",
+     "tier": "A"
+    },
+    {
+     "outlet": "Gulf News",
+     "date": "2025-09-18",
+     "url": "https://gulfnews.com/business/property/arada-awards-dh218-billion-contract-to-build-madar-mall-at-aljada-1.500274356",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-19-05",
@@ -140,18 +147,19 @@
    "date_basis": "byline",
    "confidence": "High",
    "sources": [
-    {"outlet": "The National", "date": "2026-10-16", "url": "https://www.thenationalnews.com/news/uae/2026/10/16/abu-dhabi-launches-tamm-global-to-export-ai-powered-government-services-worldwide/", "tier": "B"},
-    {"outlet": "Gulf News", "date": "2026-10-16", "url": "https://gulfnews.com/uae/abu-dhabi-launches-tamm-global-to-take-ai-powered-government-services-worldwide-1.500713253", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "12",
-    "headline": "Service as an export: what TAMM Global means for customer experience",
-    "angle": "Abu Dhabi has set up a company to license its TAMM government services platform abroad, turning a customer-experience model into a product, with satisfaction and cost figures that malls and retailers can benchmark against.",
-    "fits": "MECSC customer-experience feature for the 2027 Directory or RPM · RCM Jeddah CX session",
-    "markets": "UAE, GCC",
-    "facts": "TAMM Global announced 16 Oct 2026 by the Department of Government Enablement, Abu Dhabi; more than 1,200 services; customer satisfaction 94.5% (78% in 2022); service costs down 30%; about nine fewer service-centre visits per user a year.",
-    "caution": "A photo caption in The National says more than 1,000 services: confirm the service count and how satisfaction is measured with DGE before print."
-   }
+    {
+     "outlet": "The National",
+     "date": "2026-10-16",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/16/abu-dhabi-launches-tamm-global-to-export-ai-powered-government-services-worldwide/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-16",
+     "url": "https://gulfnews.com/uae/abu-dhabi-launches-tamm-global-to-take-ai-powered-government-services-worldwide-1.500713253",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-19-06",
@@ -169,7 +177,12 @@
    "date_basis": "meta",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "Semafor", "date": "2026-10-16", "url": "https://semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season", "tier": "B"}
+    {
+     "outlet": "Semafor",
+     "date": "2026-10-16",
+     "url": "https://semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+     "tier": "B"
+    }
    ]
   },
   {
@@ -188,7 +201,12 @@
    "date_basis": "byline",
    "confidence": "High",
    "sources": [
-    {"outlet": "World Economic Forum", "date": "2026-10-14", "url": "https://www.weforum.org/media/ai-could-unlock-1-trillion-for-mena-but-infrastructure-must-keep-pace/", "tier": "A"}
+    {
+     "outlet": "World Economic Forum",
+     "date": "2026-10-14",
+     "url": "https://www.weforum.org/media/ai-could-unlock-1-trillion-for-mena-but-infrastructure-must-keep-pace/",
+     "tier": "A"
+    }
    ]
   },
   {
@@ -207,8 +225,18 @@
    "date_basis": "byline",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "Gulf News", "date": "2026-10-08", "url": "https://gulfnews.com/lifestyle/fashion/ask-aivi-what-if-ai-could-choose-your-next-outfit-1.500703182", "tier": "B"},
-    {"outlet": "Apparel Group (press release)", "date": "2026-08-03", "url": "https://www.apparelgroup.com/en/news/apparel-group-marks-the-launch-of-aivi-with-its-back-to-school-campaign/", "tier": "A"}
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-08",
+     "url": "https://gulfnews.com/lifestyle/fashion/ask-aivi-what-if-ai-could-choose-your-next-outfit-1.500703182",
+     "tier": "B"
+    },
+    {
+     "outlet": "Apparel Group (press release)",
+     "date": "2026-08-03",
+     "url": "https://www.apparelgroup.com/en/news/apparel-group-marks-the-launch-of-aivi-with-its-back-to-school-campaign/",
+     "tier": "A"
+    }
    ]
   }
  ],
@@ -314,30 +342,142 @@
   }
  ],
  "watch": [
-  {"item": "Westfield Riyadh (Cenomi)", "note": "Cenomi's H1 2026 release (5 Aug): structure complete, pre-leasing near 94%, operational phase expected in Q4 2026; its 220,000 sqm GLA includes 65,000 sqm of offices. No date yet (checked 19 Oct)", "since": "2026-07-16"},
-  {"item": "Westfield Jeddah (Cenomi)", "note": "Operational phase since 30 Jul with pre-leasing near 96% and tenants fitting out; grand opening guided for Q4 2026. No date yet (checked 19 Oct)", "since": "2026-10-16"},
-  {"item": "Aventura Mall (Mabanee, Kuwait)", "note": "Due at the end of October 2026 (Mabanee, 29 Jul); no opening day published by 19 Oct", "since": "2026-10-16"},
-  {"item": "Bishkek Arena Mall", "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (checked 19 Oct)", "since": "2026-09-03"},
-  {"item": "Primark, Doha Festival City", "note": "Opening due 29 Oct; Mall of the Emirates second floor due Nov 2026; Aventura Mall Kuwait and Villaggio in 2027; The Avenues Riyadh, the first Saudi store, in Mar 2027", "since": "2026-09-07"},
-  {"item": "Mall of the Emirates", "note": "THAT Concept Store closure date and replacement (none reported by 19 Oct); The Hangout's Activate due Oct 2026", "since": "2026-10-01"},
-  {"item": "Saadiyat Grove (Aldar)", "note": "Q4 2026 opening date and GLA (none published by 19 Oct)", "since": "2026-09-18"},
-  {"item": "Al Othaim Developments", "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)", "since": "2026-10-05"},
-  {"item": "Seih Sdeirah (Aldar / Arada)", "note": "A defined retail centre and GLA", "since": "2026-09-30"},
-  {"item": "Madar Mall, Aljada (Arada)", "note": "Arada (18 Sep 2025): 1.1m sq ft GLA, completion December 2028. Confirm anchors, leasing and that the date holds", "since": "2026-10-16"},
-  {"item": "Multaqa AlMadinah (KEC)", "note": "Opening date, and whether Brilliant's 'Wasat Al Madinah' is the same scheme", "since": "2026-10-16"},
-  {"item": "The Avenues Khobar (Mabanee)", "note": "Mabanee's 2025 annual report gives both Q3 2027 and Q1 2028 for the opening", "since": "2026-10-16"},
-  {"item": "Merkez Ankara AVM", "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)", "since": "2026-10-11"},
-  {"item": "Oman land-border duty-free markets", "note": "Start date, operator and any tender (Decision No 145/2026); no update by 19 Oct", "since": "2026-10-16"},
-  {"item": "Dubai Municipality and Emaar Malls destinations", "note": "Which public sites, formats and timings follow the memorandum of 16 Oct", "since": "2026-10-19"},
-  {"item": "Saudi air travel disruption", "note": "King Khalid International, Riyadh, reopened on 18 Oct after the attacks on Saudi airports (The National, 18 Oct), but several airlines keep Saudi suspensions: Oman Air to 22 Oct; Air France, Air India and IndiGo to 24 Oct; KLM and SalamAir to 31 Oct; Lufthansa to 18 Nov; Cathay Pacific to 31 Jan 2027; Scoot's Singapore to Jeddah flights to 2 Dec. A US Mission alert of 17 Oct urges extreme caution at Saudi airports (Gulf News). Check effects on Riyadh mall trading, Westfield Riyadh's Q4 opening and travel to RCM Jeddah (7 to 8 Dec)", "since": "2026-10-16"},
-  {"item": "UAE government services transformation", "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct); Abu Dhabi launched TAMM Global on 16 Oct", "since": "2026-10-08"},
-  {"item": "Q3 2026 results season", "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: no Q3 filings or results-date notices by 19 Oct; Cenomi filed its Q3 2025 results on 2 Nov 2025", "since": "2026-10-14"},
-  {"item": "Q3 2026 market reports", "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov; none on publisher sites by 19 Oct", "since": "2026-10-14"},
-  {"item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec", "note": "Speaker, sponsor and media clash to plan around; no programme news by 19 Oct", "since": "2026-10-14"},
-  {"item": "Dubai Mall Plaza and Hotel (Emaar)", "note": "Teaser only so far; no official scope, GLA, operator or timing by 19 Oct", "since": "2026-10-15"},
-  {"item": "The Plaza (former Lamcy Plaza), Dubai", "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)", "since": "2026-10-15"}
+  {
+   "item": "Westfield Riyadh (Cenomi)",
+   "note": "Cenomi's H1 2026 release (5 Aug): structure complete, pre-leasing near 94%, operational phase expected in Q4 2026; its 220,000 sqm GLA includes 65,000 sqm of offices. No date yet (checked 19 Oct)",
+   "since": "2026-07-16"
+  },
+  {
+   "item": "Westfield Jeddah (Cenomi)",
+   "note": "Operational phase since 30 Jul with pre-leasing near 96% and tenants fitting out; grand opening guided for Q4 2026. No date yet (checked 19 Oct)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Aventura Mall (Mabanee, Kuwait)",
+   "note": "Due at the end of October 2026 (Mabanee, 29 Jul); no opening day published by 19 Oct",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Bishkek Arena Mall",
+   "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (checked 19 Oct)",
+   "since": "2026-09-03"
+  },
+  {
+   "item": "Primark, Doha Festival City",
+   "note": "Opening due 29 Oct; Mall of the Emirates second floor due Nov 2026; Aventura Mall Kuwait and Villaggio in 2027; The Avenues Riyadh, the first Saudi store, in Mar 2027",
+   "since": "2026-09-07"
+  },
+  {
+   "item": "Mall of the Emirates",
+   "note": "THAT Concept Store closure date and replacement (none reported by 19 Oct); The Hangout's Activate due Oct 2026",
+   "since": "2026-10-01"
+  },
+  {
+   "item": "Saadiyat Grove (Aldar)",
+   "note": "Q4 2026 opening date and GLA (none published by 19 Oct)",
+   "since": "2026-09-18"
+  },
+  {
+   "item": "Al Othaim Developments",
+   "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)",
+   "since": "2026-10-05"
+  },
+  {
+   "item": "Seih Sdeirah (Aldar / Arada)",
+   "note": "A defined retail centre and GLA",
+   "since": "2026-09-30"
+  },
+  {
+   "item": "Madar Mall, Aljada (Arada)",
+   "note": "Arada (18 Sep 2025): 1.1m sq ft GLA, completion December 2028. Confirm anchors, leasing and that the date holds",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Multaqa AlMadinah (KEC)",
+   "note": "Opening date, and whether Brilliant's 'Wasat Al Madinah' is the same scheme",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "The Avenues Khobar (Mabanee)",
+   "note": "Mabanee's 2025 annual report gives both Q3 2027 and Q1 2028 for the opening",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Merkez Ankara AVM",
+   "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)",
+   "since": "2026-10-11"
+  },
+  {
+   "item": "Oman land-border duty-free markets",
+   "note": "Start date, operator and any tender (Decision No 145/2026); no update by 19 Oct",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "Dubai Municipality and Emaar Malls destinations",
+   "note": "Which public sites, formats and timings follow the memorandum of 16 Oct",
+   "since": "2026-10-19"
+  },
+  {
+   "item": "Saudi air travel disruption",
+   "note": "King Khalid International, Riyadh, reopened on 18 Oct after the attacks on Saudi airports (The National, 18 Oct), but several airlines keep Saudi suspensions: Oman Air to 22 Oct; Air France, Air India and IndiGo to 24 Oct; KLM and SalamAir to 31 Oct; Lufthansa to 18 Nov; Cathay Pacific to 31 Jan 2027; Scoot's Singapore to Jeddah flights to 2 Dec. A US Mission alert of 17 Oct urges extreme caution at Saudi airports (Gulf News). Check effects on Riyadh mall trading, Westfield Riyadh's Q4 opening and travel to RCM Jeddah (7 to 8 Dec)",
+   "since": "2026-10-16"
+  },
+  {
+   "item": "UAE government services transformation",
+   "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct); Abu Dhabi launched TAMM Global on 16 Oct",
+   "since": "2026-10-08"
+  },
+  {
+   "item": "Q3 2026 results season",
+   "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: no Q3 filings or results-date notices by 19 Oct; Cenomi filed its Q3 2025 results on 2 Nov 2025",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Q3 2026 market reports",
+   "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov; none on publisher sites by 19 Oct",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec",
+   "note": "Speaker, sponsor and media clash to plan around; no programme news by 19 Oct",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Dubai Mall Plaza and Hotel (Emaar)",
+   "note": "Teaser only so far; no official scope, GLA, operator or timing by 19 Oct",
+   "since": "2026-10-15"
+  },
+  {
+   "item": "The Plaza (former Lamcy Plaza), Dubai",
+   "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)",
+   "since": "2026-10-15"
+  }
  ],
- "no_findings": ["Saudi Arabia", "Qatar", "Kuwait", "Bahrain", "Oman", "Egypt", "Jordan", "Lebanon", "Iraq", "Morocco", "Tunisia", "Algeria", "Libya", "Pakistan", "Azerbaijan", "Georgia", "Armenia", "Kazakhstan", "Uzbekistan", "Kyrgyzstan", "Afghanistan", "Nigeria", "Kenya"],
+ "no_findings": [
+  "Saudi Arabia",
+  "Qatar",
+  "Kuwait",
+  "Bahrain",
+  "Oman",
+  "Egypt",
+  "Jordan",
+  "Lebanon",
+  "Iraq",
+  "Morocco",
+  "Tunisia",
+  "Algeria",
+  "Libya",
+  "Pakistan",
+  "Azerbaijan",
+  "Georgia",
+  "Armenia",
+  "Kazakhstan",
+  "Uzbekistan",
+  "Kyrgyzstan",
+  "Afghanistan",
+  "Nigeria",
+  "Kenya"
+ ],
  "searches_run": 161,
  "notes": "Monday edition for Friday 16 to Sunday 18 Oct. Four parallel passes and spot checks ran about 161 searches and fetches; every in-window item dates from Friday 16 Oct, nothing cleared the bar for the weekend days and there was no member-company news. Time Out Dubai, Business of Fashion, Construction Week and one Khaleej Times article returned fetch errors, an Arabian Business article loaded without a date line, mediaoffice.ae again listed no dated headlines and the GDN Primark story sits behind a CAPTCHA."
 }

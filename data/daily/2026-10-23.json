@@ -55,18 +55,7 @@
      "tier": "B",
      "kind": "pdf"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Mall of Dhahran (Dhahran Mall), Dhahran",
-    "developer": "Owner: a private investor (named in Argaam's report); leased and run by Cenomi Centers until April 2026",
-    "status": "Cenomi's phased handover completed in April 2026 as its lease expired (ANB Capital, 4 Jun 2026); current operator and trading status not checked",
-    "opening": "Not checked",
-    "size": "Not published in these sources",
-    "check": "Not on Brilliant (the only Dhahran listing is Amwaj Mall) and not in tracker sheets 10 or 11 (checked 23 Oct).",
-    "next": "Confirm the current operator or manager, trading status, GLA and opening year with the owner's management before deciding on Add now; check for an appeal by late November."
-   }
+   ]
   },
   {
    "id": "2026-10-23-02",
@@ -174,18 +163,7 @@
      "url": "https://www.dailynewsegypt.com/2026/10/18/ghoneim-developments-launches-mixed-use-project-in-mokattam/",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Watch",
-    "property": "The One, Mokattam, Cairo",
-    "developer": "Ghoneim Developments Group",
-    "status": "Launched 13 Oct 2026",
-    "opening": "Not published",
-    "size": "Not published",
-    "check": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 23 Oct).",
-    "next": "Confirm whether the retail element is a mall or ground-floor units, its GLA and the delivery date."
-   }
+   ]
   },
   {
    "id": "2026-10-23-06",
@@ -215,15 +193,7 @@
      "url": "https://seef.com.bh/seef-properties-announces-the-issuance-of-the-main-construction-tender-for-the-seef-mall-seef-district-redevelopment-project/",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Seef Mall - Seef District",
-    "field": "Status",
-    "directory_says": "Manama, GLA 78,000 sqm, opened 1997",
-    "change": "Set status to 'Under redevelopment (open during works)'. Keep 1997 and 78,000 sqm, which no Tier A source re-checked. Confirm the completion date with Seef Properties, and the Cinqo Contracting award for car park, facades and gates (Jul 2026), which is not on Seef's site."
-   }
+   ]
   },
   {
    "id": "2026-10-23-07",
@@ -247,15 +217,7 @@
      "url": "https://www.qna.org.qa/en/News-Area/News/2017-04/06/doha-festival-city-s-opens-for-public",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Doha Festival City",
-    "field": "GLA",
-    "directory_says": "240,000 sqm (Existing Mall, 2017, owner BASREC)",
-    "change": "Change GLA to 244,000 sqm (QNA, April 2017); do not use the 433,000 sqm gross building area. The 2017 opening is confirmed. Ask Al-Futtaim whether a newer GLA exists and confirm BASREC as owner, which no Tier A source checked names."
-   }
+   ]
   },
   {
    "id": "2026-10-23-08",
@@ -279,15 +241,7 @@
      "url": "https://sobharealty.com/media-center/press-releases/sobha-realty-announces-aed-210-million-mall-project-within-hartland",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Sobha Community Retail Centre",
-    "field": "Duplicate",
-    "directory_says": "Upcoming community centre, GLA 18,580 sqm, developer Shobha Realty, 2026",
-    "change": "Merge into the Sobha Hartland Community Mall (Sobha Mall) entry: developer Sobha Realty, GLA around 115,000 sq ft as published (built-up area about 339,000 sq ft), completion H2 2026. Confirm with Sobha Realty that no separate community retail centre exists and whether H2 2026 still holds."
-   }
+   ]
   },
   {
    "id": "2026-10-23-09",
@@ -317,15 +271,7 @@
      "url": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Al Khail Avenue",
-    "field": "Opening year · owner · name",
-    "directory_says": "Upcoming, 2019 Q1, Nakheel PJSC / Nakheel Malls, GLA 139,500 sqm",
-    "change": "Remove 2019 Q1 and show 'in development, date to be confirmed'; replace Nakheel with Dubai Retail (Dubai Holding Asset Management); the GLA Dubai Holding published in Sep 2025 is 1.2 million sq ft. Ask Dubai Retail whether Skylight Mall (1.3 million sq ft GLA, 2027) is the renamed Al Khail Avenue: if yes, rename the entry and use the Skylight figures so there is no second entry; if not, add Skylight Mall separately."
-   }
+   ]
   },
   {
    "id": "2026-10-23-10",
@@ -349,15 +295,7 @@
      "url": "https://www.zawya.com/en/press-release/companies-news/apparel-group-and-knowledge-economic-city-join-forces-to-redefine-destination-retail-in-madinah-425940",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Wasat Al Madinah",
-    "field": "Duplicate",
-    "directory_says": "Upcoming regional centre, 70,000 sqm GLA, Knowledge Economic City, 2023 Q4",
-    "change": "Ask KEC to confirm that Wasat Al Madinah is an earlier name of Multaqa AlMadinah; if so, remove this entry and keep Multaqa AlMadinah (72,000 sqm retail GLA, not open, date to be confirmed). If it is a separate scheme, replace the 2023 Q4 opening with KEC's current status. It should not print as upcoming with a 2023 Q4 opening either way."
-   }
+   ]
   }
  ],
  "library": [
@@ -428,23 +366,6 @@
    "use_for": "membership"
   }
  ],
- "verification": {
-  "batch": "The seven remaining tracker sheet 11 Medium rows, then the eight Brilliant pipeline listings (upcoming_mall) updated longest ago (2022)",
-  "checked": 15,
-  "unchanged": 2,
-  "changed": 5,
-  "unverifiable": [
-   "Ghaf Woods Mall",
-   "Airport City (Makkah)",
-   "Almuna Gardens (Muscat)",
-   "Jabal Thawr Cultural District (Makkah)",
-   "Jeddah City Mall",
-   "Almas Village (Dubai)",
-   "Al Mashreq Mall (Eastern Province)",
-   "City Mall - Khafji"
-  ],
-  "note": "Second Friday batch. Changed: Seef Mall - Seef District (under redevelopment), Doha Festival City (published GLA 244,000 sqm), Al Khail Avenue (2019 date obsolete; Skylight Mall may be its new name), and two likely duplicates, Sobha Community Retail Centre and Wasat Al Madinah. Unchanged: Mall of the Emirates stays 'Expanding' (The Hangout opens in phases from Oct 2026), and Iraq Mall is open as printed (since March 2026), though its owning company and GLA could not be confirmed. Ghaf Woods Mall has no published GLA or opening year, so print neither until Majid Al Futtaim releases them. Seven of the eight 2022-era pipeline listings could not be checked against an owner's own source, and their printed openings (2022 to 2024) have passed: hold them out of print until confirmed. City Mall - Khafji may now trade as Al Othaim Mall Khafji (Al Othaim's site would not load). Next Friday: Brilliant listings with status Upcoming, newmall or Expanding, oldest updated first, then country batch A (UAE, Saudi Arabia)."
- },
  "watch": [
   {
    "item": "Westfield Riyadh (Cenomi)",

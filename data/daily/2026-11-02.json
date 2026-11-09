@@ -44,18 +44,7 @@
      "url": "https://www.argaam.com/en/article/articledetail/id/1948949",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add to pipeline",
-    "property": "Al Madinah Downtown mall (name TBC), Madinah",
-    "developer": "Owner Saudi Downtown Company (PIF); Cenomi Centers as development services provider and future lessee; contractor Lynx Contracting",
-    "status": "Design-and-build contract signed 29 Oct 2026 (30 months); related-party deal pending general assembly approval",
-    "opening": "Not given (30-month build from late 2026)",
-    "size": "Not published",
-    "check": "Already in tracker sheet 10 as 'Al Madinah Downtown mall (name TBC)'; not on Brilliant (checked 2 Nov).",
-    "next": "Confirm the mall's name, GLA and target opening with Cenomi or Saudi Downtown, and supersede the earlier row."
-   }
+   ]
   },
   {
    "id": "2026-11-02-02",
@@ -115,18 +104,7 @@
      "url": "https://naq.media/ru/news/v-bishkeke-otkrylsya-novyi-rynok-ala-too-kuda-pereezzhayut-torgovtsy-s-madiny",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Ala-Too market (new Madina market), Bishkek",
-    "developer": "State-controlled; operator not named",
-    "status": "Opened 1 Nov 2026",
-    "opening": "1 Nov 2026",
-    "size": "14 hectares site; more than 1,500 trading points; parking for almost 1,000 cars (as published)",
-    "check": "Supersedes the 28 Oct row 'New Madina market, Bishkek'; not on Brilliant (checked 2 Nov).",
-    "next": "Confirm the operator and official name with Bishkek city hall or 24.kg, and decide whether a bazaar of this format belongs in the Directory."
-   }
+   ]
   },
   {
    "id": "2026-11-02-04",

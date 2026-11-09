@@ -39,14 +39,7 @@
      "label": "Amusements & Attractions · 13 Oct 2026",
      "url": "https://www.amusementsandattractions.com/amusements/news/uae-shopping-centre-to-expand-attraction-lineup"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Medium",
-    "listed_as": "Ibn Battuta Mall",
-    "field": "Tenants · leisure anchor",
-    "change": "Add Roxy Cinemas and Hopa Loompa to anchors; 38 new outlets (21 open, 17 by end-2027); 350+ businesses."
-   }
+   ]
   },
   {
    "id": "2026-10-13-02",
@@ -73,18 +66,7 @@
      "label": "The National · 18 Sep 2026",
      "url": "https://www.thenationalnews.com/business/property/2026/09/18/aldar-launches-new-luxury-retail-project-with-more-than-100-brands-in-saadiyat/"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add to pipeline",
-    "property": "Saadiyat Grove",
-    "developer": "Aldar",
-    "status": "Under construction · brand line-up revealed 12 Oct 2026",
-    "opening": "Q4 2026",
-    "size": "100+ brands (GLA not disclosed)",
-    "check": "Not in the 2027 dataset or on Brilliant (checked 14 Oct).",
-    "next": "Ask Aldar for GLA and confirmed opening date; consider Add now if it opens before the data freeze."
-   }
+   ]
   },
   {
    "id": "2026-10-13-03",
@@ -122,18 +104,7 @@
      "label": "Zawya press release · 6 Oct 2026",
      "url": "https://www.zawya.com/en/press-release/companies-news/dubai-retail-announces-skylight-mall-a-new-super-regional-mall-opening-in-2027-1510990"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add to pipeline",
-    "property": "Skylight Mall, Al Khail Road",
-    "developer": "Dubai Retail (Dubai Holding Asset Management)",
-    "status": "Announced 6 Oct 2026",
-    "opening": "2027",
-    "size": "1.3m sq ft GLA · 360+ stores",
-    "check": "Not in the 2027 dataset or on Brilliant (checked 14 Oct).",
-    "next": "Confirm GLA in sqm, opening quarter and whether Dubai Retail wants it pre-listed as Upcoming."
-   }
+   ]
   },
   {
    "id": "2026-10-13-05",
@@ -152,14 +123,7 @@
      "label": "TradeArabia · 1 Oct 2026",
      "url": "https://tradearabia.com/News/487326/Majid-Al-Futtaim-unveils-new-indoor-outdoor-lifestyle-and-leisure-destination/RET"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Mall Of The Emirates",
-    "field": "Leisure · F&B",
-    "change": "Note The Hangout precinct (4 entertainment concepts, 18 F&B) within the AED5bn transformation; Activate opens Oct 2026."
-   }
+   ]
   },
   {
    "id": "2026-10-13-06",

@@ -44,8 +44,7 @@
      "url": "https://www.khaleejtimes.com/business/uae-shoppers-pull-back-from-gold-jewellery-as-prices-bite-even-as-global-demand-holds-firm",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   },
   {
    "id": "2026-11-04-02",
@@ -69,8 +68,7 @@
      "url": "https://www.argaam.com/en/article/articledetail/id/1950022",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   },
   {
    "id": "2026-11-04-03",
@@ -94,8 +92,7 @@
      "url": "https://retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   },
   {
    "id": "2026-11-04-04",
@@ -119,15 +116,7 @@
      "url": "https://www.imagesretailme.com/ovs-is-giving-dubai-a-second-first-impression/",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Dubai Mall",
-    "field": "Tenants",
-    "directory_says": "Existing mega centre, Dubai, GLA 350,000 sqm",
-    "change": "Add OVS (2,500 sqm flagship, opened September 2026, the group's largest store worldwide); confirm its level and unit."
-   }
+   ]
   },
   {
    "id": "2026-11-04-05",
@@ -151,18 +140,7 @@
      "url": "https://hudson.com.mt/blog/2026/11/02/sports-direct-enters-africa-with-two-store-openings-in-nairobi-kenya/",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Sarit Centre and Galleria Mall, Nairobi",
-    "developer": "Not stated in the release",
-    "status": "Both trading; Sports Direct opened a store in each (reported 2 Nov 2026)",
-    "opening": "Not stated",
-    "size": "Not published (Sports Direct stores: 930 sqm at Sarit Centre, 725 sqm at Galleria Mall)",
-    "check": "Not on Brilliant (its only Kenyan listing is Crystal Rivers, Machakos County) and not in tracker sheets 10 or 11 (checked 4 Nov).",
-    "next": "Confirm each mall's owner, opening year and GLA with its owner or manager before deciding on Add now; then add Sports Direct as a tenant."
-   }
+   ]
   },
   {
    "id": "2026-11-04-06",
@@ -186,8 +164,7 @@
      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
      "tier": "A"
     }
-   ],
-   "directory": null
+   ]
   }
  ],
  "library": [

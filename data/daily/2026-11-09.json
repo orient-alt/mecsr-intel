@@ -62,15 +62,7 @@
      "url": "https://www.argaam.com/en/article/articledetail/id/1951475",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Medium",
-    "listed_as": "Al-Andalus Mall",
-    "field": "Size · expansion",
-    "directory_says": "Existing super-regional centre, Jeddah, GLA 90,000 sqm, 2007, owner Al Andalus Property Company",
-    "change": "Add the Jadat Al-Andalus expansion, fully leased by November 2026 (Argaam interview, 8 Nov). Confirm its GLA and opening date with Alandalus Property, and whether the printed 90,000 sqm includes it."
-   }
+   ]
   },
   {
    "id": "2026-11-09-03",
@@ -100,15 +92,7 @@
      "url": "https://mallreport.com.tr/jysk-istanbuldaki-8inci-turkiyedeki-18inci-magazasini-mall-of-istanbulda-acti/",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Mall of Istanbul",
-    "field": "Tenants",
-    "directory_says": "Existing mega centre, Istanbul, GLA 153,963 sqm, 2014, owner Torunlar",
-    "change": "Add JYSK (opened in early November 2026; size not published)."
-   }
+   ]
   },
   {
    "id": "2026-11-09-04",
@@ -132,18 +116,7 @@
      "url": "https://mallreport.com.tr/ankaranin-en-yuksek-kulesi-olan-elya-center-mall-projesi-25-yillik-tecrube-ile-asuer-danismanlika-emanet/",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Elya Center AVM, Eskişehir Yolu, Çankaya, Ankara",
-    "developer": "Elya International Project Group",
-    "status": "Leasing under way (Mall Report, 6 Nov 2026); trading status not stated",
-    "opening": "Not published",
-    "size": "55,000 sq m leasable commercial area within 120,000 sq m closed area (Mall Report only)",
-    "check": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 9 Nov).",
-    "next": "Confirm the opening date, GLA and anchors with Elya or Asüer Danışmanlık; XL Gross (about 5,000 sq m) is the only anchor named."
-   }
+   ]
   },
   {
    "id": "2026-11-09-05",
@@ -203,15 +176,7 @@
      "url": "https://www.cbre.com/insights/figures/uae-real-estate-market-review-q3-2026",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Al Khail Avenue",
-    "field": "Name · size · opening",
-    "directory_says": "Upcoming super-regional centre, Dubai, GLA 139,500 sqm, 2019 Q1, Nakheel PJSC (owner Nakheel Malls)",
-    "change": "Rename to Skylight Mall (CBRE, Q3 2026: 'formerly Al Khail Avenue') with handover in 2027. The GLA is unsettled: CBRE gives approximately 111,000 sqm, the 6 Oct 2026 announcement 1.3 million sq ft and the card 139,500 sqm, so confirm it with Dubai Holding, and update the owner, before printing."
-   }
+   ]
   },
   {
    "id": "2026-11-09-07",

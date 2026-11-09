@@ -47,15 +47,7 @@
      "url": "https://www.financialcontent.com/article/accwiresp-2026-10-29-the-regions-most-anticipated-mega-project-al-shubaily-grand-mall-announces-phased-soft-opening",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Al Shubily Mall",
-    "field": "Status · name",
-    "directory_says": "Upcoming super-regional centre, Eastern Province, GLA 130,000 sqm, 2026",
-    "change": "Show as soft-opened on 29 Oct 2026 (grand opening 2027) and use the owner's spelling, Al Shubaily Grand Mall, in Al Khobar; add Arabian AlEsaar as owner. Confirm the 130,000 sqm GLA, anchors and cinema operator with Arabian AlEsaar, as the release gives no figures."
-   }
+   ]
   },
   {
    "id": "2026-10-30-02",
@@ -157,18 +149,7 @@
      "url": "https://gulfnews.com/uae/abu-dhabi/lulu-group-to-open-hypermarket-in-al-shahama-by-uae-national-day-2027-1.500727109",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Watch",
-    "property": "Maqam housing and retail project, Al Shahama, Abu Dhabi",
-    "developer": "Maqam International Holding (SUNAD Real Estate Management)",
-    "status": "Announced; LuLu hypermarket signed 28 Oct 2026",
-    "opening": "Hypermarket by UAE National Day (2 Dec) 2027",
-    "size": "Hypermarket 210,000 sq ft (as published); scheme GLA not published",
-    "check": "Not on Brilliant and not in tracker sheets 10 or 11 (checked 30 Oct).",
-    "next": "Watch for a name, a retail GLA and a completion date for the scheme; confirm the hypermarket size from Maqam's or LuLu's own release."
-   }
+   ]
   },
   {
    "id": "2026-10-30-06",
@@ -198,15 +179,7 @@
      "url": "https://www.othaimmalls.com/al-othaim-mall-khafji-2/brands",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "City Mall - Khafji",
-    "field": "Status · name",
-    "directory_says": "Upcoming regional centre, Eastern Province, GLA 49,500 sqm, 2022, Al Othaim Real Estate Investment & Dev. Co.",
-    "change": "Rename to Al Othaim Mall Khafji and show it as open. Confirm the opening year (2022 is doubtful: the 2023 corporate profile still showed Khafji as upcoming) and the GLA with Al Othaim Investment."
-   }
+   ]
   },
   {
    "id": "2026-10-30-07",
@@ -236,15 +209,7 @@
      "url": "https://businessday.ng/bd-weekender/article/inside-orca-africas-largest-showroom/",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Eko Atlantic Mall",
-    "field": "Opening year · size",
-    "directory_says": "Upcoming, GLA 120,000 sqm, 2022, South Energyx Nigeria Ltd",
-    "change": "Replace 2022 with 'to be confirmed' and the size with '107,500 square meters of net leasable area' as the developer publishes it. Keep it separate from the Orca Mall, Eko Atlantic row. Confirm timing and owner with Eko Atlantic, as South Energyx is not named on the page."
-   }
+   ]
   }
  ],
  "library": [
@@ -260,29 +225,6 @@
    "use_for": "membership"
   }
  ],
- "verification": {
-  "batch": "The eight oldest Brilliant pipeline listings in the GCC, seven in Lebanon, Nigeria and Egypt, and a re-check of City Mall - Khafji",
-  "checked": 16,
-  "unchanged": 0,
-  "changed": 2,
-  "unverifiable": [
-   "Al Arkaziya Mall",
-   "Al Jawhara Mall (Makkah Province)",
-   "Q Mall (Kuwait)",
-   "Sadaf Mall (Kuwait)",
-   "Sky Mall (Kuwait)",
-   "Uptown (Kuwait)",
-   "Marina Plaza by Mazaya (Qatar)",
-   "KAY City (Ras Al Khaimah)",
-   "LeMall Jbeil (Lebanon)",
-   "Azuri Towers (Lagos)",
-   "Alexandria Casino Al Shatby",
-   "Makan Mall (Giza)",
-   "Capital Diamond Tower (Cairo)",
-   "Mastro Mall (Cairo)"
-  ],
-  "note": "Third Friday batch. Changed: City Mall - Khafji now appears on Al Othaim's site as Al Othaim Mall Khafji, trading; Eko Atlantic Mall is still a future scheme, with 107,500 sqm of net leasable area published. The other 14, mostly last updated in 2022 with printed openings of 2022 to 2024, have no owner's or official source online; Tier B leads exist for Marina Plaza (Lusail, construction started Nov 2020), Azuri Towers (2020) and Mastro Mall (2021). Such entries are best confirmed with their listing owners directly or held out of print. Brilliant also carries six Iranian pipeline listings outside the 24 directory markets, and one card already marked 'to be deleted'. Next Friday: the remaining 2023 pipeline listings, then country batch A (UAE, Saudi Arabia)."
- },
  "watch": [
   {
    "item": "Westfield Riyadh (Cenomi)",

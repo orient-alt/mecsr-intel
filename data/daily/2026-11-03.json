@@ -44,18 +44,7 @@
      "url": "https://www.constructionweeksaudi.com/projects/pif-al-khobar-downtown-4000-homes",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add to pipeline",
-    "property": "Al Khobar Downtown Mall",
-    "developer": "Saudi Downtown Company (PIF); mall: Cenomi Centers (development agreement with SDC, Apr 2026); contractor Lynx Contracting",
-    "status": "Scheme launched 1 Nov 2026; mall under a design-and-build contract awarded Jun 2026",
-    "opening": "Not published",
-    "size": "Scheme: more than 139,000 sqm of retail, restaurant and cafe space on an 829,000 sqm site (as published); mall GLA not confirmed",
-    "check": "Already in tracker sheet 10 as 'Al Khobar Downtown Mall' (Add to pipeline); not in the 2027 dataset or on Brilliant (checked 3 Nov).",
-    "next": "Update the existing row with the master-plan figures. Arab News alone gives about 110,000 sqm GLA within 152,000 sqm built-up area for the mall: confirm with Cenomi's June 2026 Tadawul disclosure, with the mall's name and opening year."
-   }
+   ]
   },
   {
    "id": "2026-11-03-02",
@@ -79,14 +68,7 @@
      "url": "https://corporate.marksandspencer.com/newsroom/press-releases/marks-spencer-announces-major-uae-expansion-launch-biggest-foodhalls",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Dubai Festival City Mall",
-    "field": "Tenants",
-    "change": "Add the M&S Foodhall (15,327 sq ft, opening December 2026) once it opens; confirm its level and whether it sits beside the existing M&S fashion store."
-   }
+   ]
   },
   {
    "id": "2026-11-03-03",
@@ -116,8 +98,7 @@
      "url": "https://gulfnews.com/business/corporate-news/magrabi-retail-to-acquire-dubai-optical-expanding-its-presence-its-presence-across-the-uae-1.500731643",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   },
   {
    "id": "2026-11-03-04",
@@ -141,8 +122,7 @@
      "url": "https://www.thenationalnews.com/news/uae/2026/11/02/abu-dhabi-agrees-openai-deals-to-boost-government-services-and-education/",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   },
   {
    "id": "2026-11-03-05",
@@ -166,8 +146,7 @@
      "url": "https://www.thenationalnews.com/news/uae/2026/11/02/sheikh-mohammed-launches-worker-led-government-campaign-to-take-uae-services-to-new-levels/",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   },
   {
    "id": "2026-11-03-06",
@@ -191,8 +170,7 @@
      "url": "https://www.thenationalnews.com/news/uae/2026/11/01/dubai-launches-tourism-loyalty-programme-to-reward-repeat-visitors/",
      "tier": "B"
     }
-   ],
-   "directory": null
+   ]
   }
  ],
  "library": [],

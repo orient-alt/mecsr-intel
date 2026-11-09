@@ -44,14 +44,7 @@
      "tier": "A",
      "url": "https://www.alshaya.com/en/media-centre/alshaya-news/primark-announces-opening-dates-for-bahrain-and-qatar-"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Medium",
-    "listed_as": "Doha Festival City",
-    "field": "Tenants",
-    "change": "Add Primark as a new anchor: first Qatar store, opened 21 Oct 2026, over 52,000 sq ft on three floors (store area, not mall GLA). Related: Villagio Mall (listed) gets Primark's second Qatar store and Aventura Mall (tracker sheet 11) its second Kuwait store, both early 2027."
-   }
+   ]
   },
   {
    "id": "2026-10-22-02",
@@ -75,18 +68,7 @@
      "tier": "A",
      "url": "https://mediaoffice.ae/en/news/2026/october/20-10/awqaf-dubai-launches-aed73-million-endowment"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Awqaf Dubai endowment shopping centre, Hind City (name not announced)",
-    "developer": "Awqaf Dubai with Voco Investments",
-    "status": "Launched 20 Oct 2026; completion scheduled within two years",
-    "opening": "Not stated (completion within two years)",
-    "size": "Two floors, 40 retail outlets, on a 90,400 sq ft plot (no GLA published)",
-    "check": "Not on Brilliant (no Hind City listing in the 12 Oct export) and not in tracker sheets 10 or 11 (checked 22 Oct).",
-    "next": "Confirm the centre's name, GLA and exact site in Hind City with Awqaf Dubai, and whether a 40-outlet centre meets the directory's community-centre threshold."
-   }
+   ]
   },
   {
    "id": "2026-10-22-03",
@@ -133,15 +115,7 @@
      "tier": "A",
      "url": "https://www.majidalfuttaim.com/en/media-centre/press-releases/detail/2026/10/city-centre-muscat-celebrates-25-years-of-great-moments-as-mall-of-oman-marks-its-fifth-anniversary"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "City Centre Muscat",
-    "field": "Opening year / GLA",
-    "directory_says": "2001; GLA 70,484 sqm",
-    "change": "No change needed: MAF (21 Oct 2026) confirms the October 2001 opening; it gives no total GLA, and its figures (approximately 60,500 square metres after the 2007 expansion, 10,000 square metres added in 2015) do not contradict the listed 70,484 sqm. Mall Of Oman (listed 2021, 140,000 sqm): MAF confirms a September 2021 opening, LEED Platinum and Snow Oman at 14,830 square metres, with no GLA. Visitor totals can go into both listings' notes."
-   }
+   ]
   },
   {
    "id": "2026-10-22-05",
@@ -165,16 +139,7 @@
      "tier": "A",
      "url": "https://www.zawya.com/en/press-release/companies-news/aldar-and-adib-launch-co-branded-darna-covered-cards-1805855"
     }
-   ],
-   "directory": {
-    "sheet": "12",
-    "headline": "Beyond rent: the mall's second revenue line",
-    "angle": "Landlords are building their own customer currencies: Aldar's Darna points now sit on co-branded ADIB Visa cards, next to Majid Al Futtaim's retail media business, as malls look past rent to loyalty, data and services.",
-    "fits": "RPM feature · digital edition",
-    "markets": "UAE, GCC",
-    "facts": "21 Oct 2026: Aldar and ADIB launched the ADIB Aldar Visa Infinite and Visa Platinum Covered Cards: up to 10% back in Darna Points at participating Aldar malls, hotels, golf courses, restaurants and entertainment venues; up to 1.5% on Aldar property and Aldar Education; up to 2% abroad; welcome reward up to 20,000 points (AED 1,000); up to four valet sessions a month (Aldar release via Zawya).",
-    "caution": "No card volumes, revenue sharing or programme membership figures were published; the gain to Aldar is retention and data, not disclosed income."
-   }
+   ]
   },
   {
    "id": "2026-10-22-06",

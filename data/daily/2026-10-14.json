@@ -44,17 +44,6 @@
      "tier": "B"
     }
    ],
-   "directory": {
-    "sheet": "10",
-    "action": "Add now",
-    "property": "Florentia Village Istanbul",
-    "developer": "Kalyon İnşaat / RDM-Fingen Group",
-    "status": "Open since 18 Sep 2026 (Phase 1)",
-    "opening": "18 Sep 2026",
-    "size": "Phase 1: 65,000 sqm leasable, 190 stores; 110,000 sqm planned after Phase 2",
-    "check": "In tracker sheet 10 as 'Check first'. Not in the 2027 dataset or on Brilliant (checked 14 Oct).",
-    "next": "Move to Add now. Confirm the operating company, district and Phase 2 timing; brand names so far come only from an advertorial."
-   },
    "member": false,
    "id": "2026-10-14-01"
   },
@@ -79,17 +68,6 @@
      "tier": "A"
     }
    ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Merkez Ankara AVM",
-    "developer": "Emlak Konut GYO / Pasifik GYO",
-    "status": "Open (opening festival Sep to 30 Oct 2026)",
-    "opening": "Sep 2026 (exact date not stated)",
-    "size": "About 50,000 sqm leasable (as published)",
-    "check": "Not in the 2027 dataset or on Brilliant (checked 14 Oct). It may be one of the AYD 'five 2026 malls' on the watch list.",
-    "next": "Confirm the opening date, operator, store count and anchors from a Pasifik GYO release or a KAP disclosure."
-   },
    "member": false,
    "id": "2026-10-14-02"
   },
@@ -115,13 +93,6 @@
      "tier": "B"
     }
    ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Mall Of The Emirates",
-    "field": "Tenants",
-    "change": "Remove THAT Concept Store once it closes. The 20,000 sqm / 100-store transformation figures come from one Tier B source citing MAF: check them against MAF's own release."
-   },
    "id": "2026-10-14-03"
   },
   {
@@ -170,13 +141,6 @@
      "tier": "A"
     }
    ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Medium",
-    "listed_as": "Multaqa AlMadinah",
-    "field": "F&B / leisure",
-    "change": "Add the food hall in development (operator TGP International); confirm GLA, number of concepts and opening date with KEC."
-   },
    "id": "2026-10-14-05"
   },
   {
@@ -303,13 +267,6 @@
      "tier": "A"
     }
    ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Kalba Waterfront Mall",
-    "field": "Anchors",
-    "change": "Add LuLu Xpress (opened 30 Sep 2026); confirm the owner/developer (an Eagle Hills executive attended)."
-   },
    "id": "2026-10-14-10"
   },
   {
@@ -340,17 +297,6 @@
      "tier": "A"
     }
    ],
-   "directory": {
-    "sheet": "10",
-    "action": "Watch",
-    "property": "Seih Sdeirah community (Aldar / Arada)",
-    "developer": "Aldar / Arada JV",
-    "status": "Masterplan JV signed (30 Sep 2026)",
-    "opening": "Not disclosed",
-    "size": "Up to 1.5m sqm of land (The National); no retail GLA published",
-    "check": "Not a mall yet: no retail centre defined.",
-    "next": "Watch Aldar's ADX disclosures for a named retail centre, GLA and timing."
-   },
    "id": "2026-10-14-11"
   },
   {
@@ -439,15 +385,6 @@
      "tier": "B"
     }
    ],
-   "directory": {
-    "sheet": "12",
-    "headline": "When government service beats retail",
-    "angle": "Gulf residents now rate digital government above private-sector service (UAE 89%, first of 44 countries). Dubai's Services 360 cut visits 85% and waiting 96%. What mall and retail CX teams can copy.",
-    "fits": "RPM feature · RCM Jeddah CX session",
-    "markets": "UAE, GCC",
-    "facts": "BCG Digital Government Citizen Survey 2026 (6 Oct); Dubai Services 360 three-year results (7 Oct)",
-    "caution": "BCG figures are survey results; the Services 360 figures are the government's own."
-   },
    "member": false,
    "id": "2026-10-14-14"
   },

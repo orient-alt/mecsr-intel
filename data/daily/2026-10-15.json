@@ -2,7 +2,11 @@
  "schema": "mecsr-intel/1",
  "date": "2026-10-15",
  "weekday": "Thursday",
- "coverage": {"from": "2026-10-14", "to": "2026-10-14", "label": "Wednesday 14 October 2026"},
+ "coverage": {
+  "from": "2026-10-14",
+  "to": "2026-10-14",
+  "label": "Wednesday 14 October 2026"
+ },
  "status": "full",
  "brief": [
   "Destinations: Emaar founder Mohamed Alabbar teased a 'Dubai Mall Plaza and Hotel' as coming soon on 14 Oct, with no size, operator or date yet, and the former Lamcy Plaza in Oud Metha is to reopen as The Plaza in the first half of 2027.",
@@ -28,17 +32,19 @@
    "date_basis": "byline",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718", "tier": "B"},
-    {"outlet": "Khaleej Times", "date": "2026-10-14", "url": "https://www.khaleejtimes.com/uae/dubai-mall-plaza-teaser-emaar-founder-new-skyscraper", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "Dubai Mall",
-    "field": "Development / pipeline",
-    "directory_says": "Existing Mall (Brilliant export, 12 Oct 2026)",
-    "change": "No change yet. Note the 'Dubai Mall Plaza and Hotel' teaser of 14 Oct 2026 and confirm the scope (plaza, retail and F&B, hotel), GLA and timing with Emaar before updating the listing."
-   }
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-14",
+     "url": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718",
+     "tier": "B"
+    },
+    {
+     "outlet": "Khaleej Times",
+     "date": "2026-10-14",
+     "url": "https://www.khaleejtimes.com/uae/dubai-mall-plaza-teaser-emaar-founder-new-skyscraper",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-15-02",
@@ -56,16 +62,19 @@
    "date_basis": "meta",
    "confidence": "High",
    "sources": [
-    {"outlet": "The Peninsula", "date": "2026-10-11", "url": "https://thepeninsulaqatar.com/article/11/10/2026/max-fashion-opens-one-of-its-largest-flagship-stores-in-city-center-doha", "tier": "B"},
-    {"outlet": "Qatar Tribune", "date": "2026-10-11", "url": "https://www.qatar-tribune.com/article/258503/nation/max-fashion-opens-one-of-its-largest-stores-with-new-flagship-at-city-center-doha/amp", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Low",
-    "listed_as": "City Center Doha",
-    "field": "Tenants",
-    "change": "Add the Max Fashion flagship (more than 38,000 sq ft, opened Oct 2026). Neither report gives the exact opening day."
-   }
+    {
+     "outlet": "The Peninsula",
+     "date": "2026-10-11",
+     "url": "https://thepeninsulaqatar.com/article/11/10/2026/max-fashion-opens-one-of-its-largest-flagship-stores-in-city-center-doha",
+     "tier": "B"
+    },
+    {
+     "outlet": "Qatar Tribune",
+     "date": "2026-10-11",
+     "url": "https://www.qatar-tribune.com/article/258503/nation/max-fashion-opens-one-of-its-largest-stores-with-new-flagship-at-city-center-doha/amp",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-15-03",
@@ -83,19 +92,13 @@
    "date_basis": "byline",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "Gulf News", "date": "2026-10-01", "url": "https://gulfnews.com/uae/the-plaza-formerly-lamcy-plaza-set-to-reopen-in-first-half-of-2027-1.500693549", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "The Plaza (former Lamcy Plaza), Oud Metha, Dubai",
-    "developer": "Azure Properties (asset manager; owner not named)",
-    "status": "Closed; reopening planned under the name The Plaza",
-    "opening": "Q1 or Q2 2027 (tentative)",
-    "size": "Not published",
-    "check": "Not on Brilliant under either name and not in tracker sheets 10 or 11 (checked 15 Oct). Single Tier B source; the page shows only a last-updated stamp of 1 Oct.",
-    "next": "Confirm the owner, GLA, anchors and reopening date with Azure Properties or a second source, then move to Add to pipeline."
-   }
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-01",
+     "url": "https://gulfnews.com/uae/the-plaza-formerly-lamcy-plaza-set-to-reopen-in-first-half-of-2027-1.500693549",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-15-04",
@@ -113,7 +116,12 @@
    "date_basis": "byline",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/retail/majid-al-futtaim-ceo-treat-ai-like-financial-capital-1.500710544", "tier": "B"}
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-14",
+     "url": "https://gulfnews.com/business/retail/majid-al-futtaim-ceo-treat-ai-like-financial-capital-1.500710544",
+     "tier": "B"
+    }
    ]
   },
   {
@@ -132,7 +140,12 @@
    "date_basis": "meta",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "The National", "date": "2026-10-14", "url": "https://www.thenationalnews.com/business/property/2026/10/14/aldar-to-launch-major-dubai-villa-and-townhouse-project-by-end-of-year/", "tier": "B"}
+    {
+     "outlet": "The National",
+     "date": "2026-10-14",
+     "url": "https://www.thenationalnews.com/business/property/2026/10/14/aldar-to-launch-major-dubai-villa-and-townhouse-project-by-end-of-year/",
+     "tier": "B"
+    }
    ]
   },
   {
@@ -151,7 +164,12 @@
    "date_basis": "byline",
    "confidence": "High",
    "sources": [
-    {"outlet": "Lulu Retail (newsroom)", "date": "2026-10-06", "url": "https://www.luluretail.com/media/news/lulu-unveils-awwal-putting-uae-products-first/", "tier": "A"}
+    {
+     "outlet": "Lulu Retail (newsroom)",
+     "date": "2026-10-06",
+     "url": "https://www.luluretail.com/media/news/lulu-unveils-awwal-putting-uae-products-first/",
+     "tier": "A"
+    }
    ]
   },
   {
@@ -170,7 +188,12 @@
    "date_basis": "byline",
    "confidence": "High",
    "sources": [
-    {"outlet": "Lulu Retail (newsroom)", "date": "2026-10-01", "url": "https://www.luluretail.com/media/news/lulu-brings-ai-powered-robotic-shopping-experience-to-uae-stores/", "tier": "A"}
+    {
+     "outlet": "Lulu Retail (newsroom)",
+     "date": "2026-10-01",
+     "url": "https://www.luluretail.com/media/news/lulu-brings-ai-powered-robotic-shopping-experience-to-uae-stores/",
+     "tier": "A"
+    }
    ]
   },
   {
@@ -189,7 +212,12 @@
    "date_basis": "byline",
    "confidence": "Medium",
    "sources": [
-    {"outlet": "Gulf Business", "date": "2026-10-13", "url": "https://gulfbusiness.com/en/2026/news/dubai-police-arrest-group-over-fake-google-reviews/", "tier": "A"}
+    {
+     "outlet": "Gulf Business",
+     "date": "2026-10-13",
+     "url": "https://gulfbusiness.com/en/2026/news/dubai-police-arrest-group-over-fake-google-reviews/",
+     "tier": "A"
+    }
    ]
   },
   {
@@ -208,19 +236,25 @@
    "date_basis": "meta",
    "confidence": "High",
    "sources": [
-    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/economy/uae-reveals-control-tower-to-monitor-ai-government-agents-1.500710167", "tier": "B"},
-    {"outlet": "The National", "date": "2026-10-14", "url": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/", "tier": "B"},
-    {"outlet": "Khaleej Times", "date": "2026-05-20", "url": "https://www.khaleejtimes.com/uae/uae-agentic-ai-agents-public-services-retreat", "tier": "B"}
-   ],
-   "directory": {
-    "sheet": "12",
-    "headline": "Agents at the service desk",
-    "angle": "Gulf governments and retailers are putting AI agents in front of customers, and the first rules on oversight and accountability are appearing: the UAE's federal control tower, Dubai's agentic AI accelerator, Majid Al Futtaim's agents and Lulu's in-store robots.",
-    "fits": "MECSC customer-experience feature for the 2027 Directory or RPM",
-    "markets": "UAE, GCC",
-    "facts": "UAE federal AI agents must connect to a control tower (14 Oct 2026); Dubai agentic AI accelerator with 33 government entities (5 Oct 2026); MAF expects its AI agents to match its office workforce (14 Oct 2026); Lulu and Kody Holdings' Odigo robots in UAE stores (1 Oct 2026).",
-    "caution": "Recheck the 50% two-year target and the control tower details against WAM or the UAE Government's own release before print."
-   }
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-14",
+     "url": "https://gulfnews.com/business/economy/uae-reveals-control-tower-to-monitor-ai-government-agents-1.500710167",
+     "tier": "B"
+    },
+    {
+     "outlet": "The National",
+     "date": "2026-10-14",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Khaleej Times",
+     "date": "2026-05-20",
+     "url": "https://www.khaleejtimes.com/uae/uae-agentic-ai-agents-public-services-retreat",
+     "tier": "B"
+    }
+   ]
   },
   {
    "id": "2026-10-15-10",
@@ -238,8 +272,18 @@
    "date_basis": "byline",
    "confidence": "High",
    "sources": [
-    {"outlet": "The National", "date": "2026-10-14", "url": "https://www.thenationalnews.com/news/uae/2026/10/14/uae-offers-1-million-prize-for-winners-of-global-ai-challenge/", "tier": "B"},
-    {"outlet": "Gulf News", "date": "2026-10-14", "url": "https://gulfnews.com/business/uae-launches-1m-ai-challenge-global-opportunities-centre-with-world-economic-forum-1.500710337", "tier": "B"}
+    {
+     "outlet": "The National",
+     "date": "2026-10-14",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/14/uae-offers-1-million-prize-for-winners-of-global-ai-challenge/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10-14",
+     "url": "https://gulfnews.com/business/uae-launches-1m-ai-challenge-global-opportunities-centre-with-world-economic-forum-1.500710337",
+     "tier": "B"
+    }
    ]
   },
   {
@@ -258,29 +302,119 @@
    "date_basis": "meta",
    "confidence": "High",
    "sources": [
-    {"outlet": "The National", "date": "2026-10-05", "url": "https://www.thenationalnews.com/news/uae/2026/10/05/dubai-launches-agentic-ai-accelerator-to-transform-public-facing-government-services/", "tier": "B"},
-    {"outlet": "Gulf News", "date": "2026-10", "url": "https://gulfnews.com/uae/government/dubai-future-foundation-launches-agentic-ai-accelerator-for-33-government-entities-1.500698845", "tier": "B"}
+    {
+     "outlet": "The National",
+     "date": "2026-10-05",
+     "url": "https://www.thenationalnews.com/news/uae/2026/10/05/dubai-launches-agentic-ai-accelerator-to-transform-public-facing-government-services/",
+     "tier": "B"
+    },
+    {
+     "outlet": "Gulf News",
+     "date": "2026-10",
+     "url": "https://gulfnews.com/uae/government/dubai-future-foundation-launches-agentic-ai-accelerator-for-33-government-entities-1.500698845",
+     "tier": "B"
+    }
    ]
   }
  ],
  "library": [],
  "watch": [
-  {"item": "Westfield Riyadh (Cenomi)", "note": "Opening guided for Q4 2026; still no firm date (checked 15 Oct)", "since": "2026-07-16"},
-  {"item": "Bishkek Arena Mall", "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (zakon.kz, 6 Oct)", "since": "2026-09-03"},
-  {"item": "Primark, Doha Festival City", "note": "Opening due 29 Oct; Mall of the Emirates second floor due Nov 2026; Aventura Mall Kuwait and Villaggio in 2027; The Avenues Riyadh, the first Saudi store, in Mar 2027", "since": "2026-09-07"},
-  {"item": "Mall of the Emirates", "note": "THAT Concept Store closure date and replacement (none reported by 15 Oct); The Hangout's Activate due Oct 2026", "since": "2026-10-01"},
-  {"item": "Saadiyat Grove (Aldar)", "note": "Q4 2026 opening date and GLA", "since": "2026-09-18"},
-  {"item": "Al Othaim Developments", "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)", "since": "2026-10-05"},
-  {"item": "Seih Sdeirah (Aldar / Arada)", "note": "A defined retail centre and GLA", "since": "2026-09-30"},
-  {"item": "Merkez Ankara AVM", "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)", "since": "2026-10-11"},
-  {"item": "UAE government services transformation", "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct)", "since": "2026-10-08"},
-  {"item": "Q3 2026 results season", "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: exchange filings from late October", "since": "2026-10-14"},
-  {"item": "Q3 2026 market reports", "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov", "since": "2026-10-14"},
-  {"item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec", "note": "Speaker, sponsor and media clash to plan around", "since": "2026-10-14"},
-  {"item": "Dubai Mall Plaza and Hotel (Emaar)", "note": "Teaser only so far: official scope, GLA, operator and timing", "since": "2026-10-15"},
-  {"item": "The Plaza (former Lamcy Plaza), Dubai", "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)", "since": "2026-10-15"}
+  {
+   "item": "Westfield Riyadh (Cenomi)",
+   "note": "Opening guided for Q4 2026; still no firm date (checked 15 Oct)",
+   "since": "2026-07-16"
+  },
+  {
+   "item": "Bishkek Arena Mall",
+   "note": "The stadium opened on 5 Oct; the adjacent mall's opening is still unconfirmed (zakon.kz, 6 Oct)",
+   "since": "2026-09-03"
+  },
+  {
+   "item": "Primark, Doha Festival City",
+   "note": "Opening due 29 Oct; Mall of the Emirates second floor due Nov 2026; Aventura Mall Kuwait and Villaggio in 2027; The Avenues Riyadh, the first Saudi store, in Mar 2027",
+   "since": "2026-09-07"
+  },
+  {
+   "item": "Mall of the Emirates",
+   "note": "THAT Concept Store closure date and replacement (none reported by 15 Oct); The Hangout's Activate due Oct 2026",
+   "since": "2026-10-01"
+  },
+  {
+   "item": "Saadiyat Grove (Aldar)",
+   "note": "Q4 2026 opening date and GLA",
+   "since": "2026-09-18"
+  },
+  {
+   "item": "Al Othaim Developments",
+   "note": "Which of the ~10 projects carry a retail centre (first: The O Residence, Dammam)",
+   "since": "2026-10-05"
+  },
+  {
+   "item": "Seih Sdeirah (Aldar / Arada)",
+   "note": "A defined retail centre and GLA",
+   "since": "2026-09-30"
+  },
+  {
+   "item": "Merkez Ankara AVM",
+   "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP)",
+   "since": "2026-10-11"
+  },
+  {
+   "item": "UAE government services transformation",
+   "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct)",
+   "since": "2026-10-08"
+  },
+  {
+   "item": "Q3 2026 results season",
+   "note": "Cenomi, Al Othaim, Emaar, Aldar, Lulu, Mabanee, Seef: exchange filings from late October",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Q3 2026 market reports",
+   "note": "JLL, CBRE and Knight Frank retail figures usually appear late Oct to Nov",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "GITEX Global 7-11 Dec vs RCM Jeddah 7-8 Dec",
+   "note": "Speaker, sponsor and media clash to plan around",
+   "since": "2026-10-14"
+  },
+  {
+   "item": "Dubai Mall Plaza and Hotel (Emaar)",
+   "note": "Teaser only so far: official scope, GLA, operator and timing",
+   "since": "2026-10-15"
+  },
+  {
+   "item": "The Plaza (former Lamcy Plaza), Dubai",
+   "note": "Owner, GLA, anchors and a firm reopening date (tentatively H1 2027)",
+   "since": "2026-10-15"
+  }
  ],
- "no_findings": ["Saudi Arabia", "Kuwait", "Bahrain", "Oman", "Egypt", "Jordan", "Lebanon", "Iraq", "Morocco", "Tunisia", "Algeria", "Libya", "Türkiye", "Pakistan", "Azerbaijan", "Georgia", "Armenia", "Kazakhstan", "Uzbekistan", "Kyrgyzstan", "Afghanistan", "Nigeria", "Kenya"],
+ "no_findings": [
+  "Saudi Arabia",
+  "Kuwait",
+  "Bahrain",
+  "Oman",
+  "Egypt",
+  "Jordan",
+  "Lebanon",
+  "Iraq",
+  "Morocco",
+  "Tunisia",
+  "Algeria",
+  "Libya",
+  "Türkiye",
+  "Pakistan",
+  "Azerbaijan",
+  "Georgia",
+  "Armenia",
+  "Kazakhstan",
+  "Uzbekistan",
+  "Kyrgyzstan",
+  "Afghanistan",
+  "Nigeria",
+  "Kenya"
+ ],
  "searches_run": 84,
  "notes": "The run started late (09:18 Dubai). Three research passes, a lead check and spot checks ran about 84 searches and fetches; Saudi Arabia and the rest of the GCC outside the UAE and Qatar produced no new verified items, no new library document met the bar, and the Retail Technology Innovation Hub, mediaoffice.ae and Khaleej Times tech pages showed no usable dated listings."
 }

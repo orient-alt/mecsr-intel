@@ -114,18 +114,7 @@
      "url": "https://orbis.kz/divisions/orbis-development",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "10",
-    "action": "Check first",
-    "property": "Jurt, right bank, Astana",
-    "developer": "Orbis Group (Orbis Development)",
-    "status": "Official opening planned for 24 Oct 2026 (Forbes Kazakhstan, 22 Oct); not yet confirmed by a dated report",
-    "opening": "24 Oct 2026 (planned)",
-    "size": "17,000 sq m total area, 9,000 sq m leasable, 100+ units on two floors (Forbes Kazakhstan); Orbis gives 16,900 sq m, area type not stated",
-    "check": "Not on Brilliant (no Astana listing of that name) and not in tracker sheets 10 or 11 (checked 6 Nov).",
-    "next": "Confirm with Orbis Group that the 24 Oct opening took place, and the leasable area and address; then decide whether a 9,000 sq m centre meets the Directory threshold."
-   }
+   ]
   },
   {
    "id": "2026-11-06-04",
@@ -215,15 +204,7 @@
      "url": "https://www.ummalqura.com.sa/en/investment-to-develop-and-operate-the-largest-mall-in-makkah",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Masat Mall",
-    "field": "Name · size · opening",
-    "directory_says": "Upcoming super-regional centre, Makkah Province, GLA 50,650 sqm, First quarter of 2027, Hamat Holding (owner and developer)",
-    "change": "Rename to Masar Mall and give the city as Makkah. Replace the 50,650 sqm GLA, which no owner source gives, with the GLA Hamat confirms (it publishes 71,000 sqm of area and more than 130,000 sqm of retail space, neither labelled GLA). Confirm with Hamat whether a Q1 2027 opening holds (the only dated owner target is completion in 2026, set in January 2022), and add Umm Al-Qura for Development and Construction as owner of the Masar destination."
-   }
+   ]
   },
   {
    "id": "2026-11-06-07",
@@ -253,15 +234,7 @@
      "url": "https://www.tradearabia.com/News/279988/Imkan-launches-retail-leasing-at-Abu-Dhabi-lifestyle-destination",
      "tier": "B"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "PIXEL PLAZA and Pixel Plaza (two cards)",
-    "field": "Duplicate · size",
-    "directory_says": "Two cards, both new mixed-use schemes in Abu Dhabi due in 2023: 'PIXEL PLAZA', GLA 12,000 sqm, IMKAN Properties LLC; 'Pixel Plaza', GLA 12,500 sqm, IMKAN",
-    "change": "Merge into one Pixel Plaza card (keep 'PIXEL PLAZA') showing 12,000 sq m of retail space, as IMKAN publishes it, and drop 12,500 sqm, which no IMKAN source gives. IMKAN only launched leasing in November 2023 and has published no opening date, so confirm with IMKAN whether the plaza is trading, and since when, before printing 2023."
-   }
+   ]
   },
   {
    "id": "2026-11-06-08",
@@ -291,15 +264,7 @@
      "url": "https://www.zawya.com/en/business/dubais-retail-gets-boost-from-new-mall-the-size-of-over-10-football-fields-s6xgvijf",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Silicon Central Mall",
-    "field": "Status · size · owner",
-    "directory_says": "New mall, Dubai, GLA 77,521 sqm, no owner, developer or year",
-    "change": "Show as an existing mall opened in 2021 (soft opening announced 1 Sep 2021), use 81,500 sqm GLA unless Line Investments & Property can source 77,521 sqm, and add Line Investments & Property (LuLu Group International) as owner, developer and operator. Confirm the exact opening date with the owner."
-   }
+   ]
   },
   {
    "id": "2026-11-06-09",
@@ -329,15 +294,7 @@
      "url": "https://dmcc.ae/latest-news/dmcc-signs-agreement-with-waitrose-to-bring-the-premium-grocery-retailer-to-uptown-dubai",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "The Atrium - Uptown Dubai",
-    "field": "Status",
-    "directory_says": "Upcoming community centre, city printed as 'دبي', GLA 6,157 sqm, 2024, DMCC",
-    "change": "Show as open, at least in part (Sur.Dubai is trading, per DMCC), print the city as Dubai and consider reclassifying it as a dining and retail podium within Uptown Tower. Ask DMCC for the GLA (6,157 sqm is not published), the opening date and the tenant list. Do not merge it with Uptown Place (82,000 sq ft, 18 units, Q1 2028)."
-   }
+   ]
   },
   {
    "id": "2026-11-06-10",
@@ -361,15 +318,7 @@
      "url": "https://www.azadeagroupholding.com/english/media-center/azadea-group-expands-its-f-and-b-presence-in-saudi-arabia",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "High",
-    "listed_as": "Jeddah VIbes",
-    "field": "Status · name",
-    "directory_says": "Upcoming neighbourhood centre, Makkah Province, GLA 14,000 sqm, 2024 December, Balubaid Group Companies (Lines; owner Hijaz Malls)",
-    "change": "Confirm with Balubaid Group (Hijaz Malls) that Jeddah Vibes is open and when it opened (the printed December 2024 may be the actual opening), then show it as open; confirm the 14,000 sqm GLA and correct the name to 'Jeddah Vibes'."
-   }
+   ]
   },
   {
    "id": "2026-11-06-11",
@@ -393,15 +342,7 @@
      "url": "https://www.ece.com/en/media-library/view/ece-takes-over-management-for-another-shopping-center-in-turkey",
      "tier": "A"
     }
-   ],
-   "directory": {
-    "sheet": "11",
-    "priority": "Medium",
-    "listed_as": "Agaoglu Cekmekoy Park SC",
-    "field": "Owner · location",
-    "directory_says": "Upcoming community centre, GLA 25,000 sqm, owner ECE Türkiye, no country, city or year",
-    "change": "Show the Agaoglu Group of Companies as owner and developer and ECE Türkiye as manager and leasing agent; add Türkiye and Istanbul (Çekmeköy); keep 25,000 sqm, noting ECE publishes it as rental space. Confirm with ECE Türkiye or Agaoglu whether the centre opened after its end-2024 target, and when, before changing the status or adding a year."
-   }
+   ]
   }
  ],
  "library": [
@@ -450,23 +391,6 @@
    "use_for": "research"
   }
  ],
- "verification": {
-  "batch": "The next 16 Brilliant pipeline and new-mall listings by oldest update (February 2023 to April 2025), after skipping the Iranian listings and the card already marked 'to be deleted'",
-  "checked": 16,
-  "unchanged": 1,
-  "changed": 7,
-  "unverifiable": [
-   "Basra Mall",
-   "Najran Front Boulevard",
-   "Al Ain Community Centre",
-   "Strip Way (Sheikh Zayed)",
-   "The Grand - Buch Executive Villas (Multan)",
-   "SEDRA 1 District Center (ROSHN, Riyadh)",
-   "Al Arous 1A - Eastern Village - District Center (ROSHN, Jeddah)",
-   "C'EST LA VIE (Sheikh Zayed)"
-  ],
-  "note": "Fourth Friday batch. Changed: 'Masat Mall' is Hamat's Masar Mall in Makkah, with different published size figures and no owner support for a Q1 2027 opening; the two Pixel Plaza cards are one IMKAN scheme (12,000 sq m of retail space); Silicon Central has traded since its 2021 soft opening with 81,500 sqm GLA; The Atrium at Uptown Dubai is a trading dining podium in Uptown Tower, separate from Uptown Place; Jeddah Vibes had tenants trading by Q1 2026; and Agaoglu Cekmeköy Park belongs to the Agaoglu Group, with ECE Türkiye as manager. Unchanged: J1 Beach opened in November 2024, as printed (the card lacks a country and city: UAE, Dubai). The eight unverifiable listings have no owner's or official source online; ROSHN's two district centres and the two Sheikh Zayed schemes have passed their printed completion dates and are best confirmed with the owners. Next Friday: the last six pipeline and new-mall cards (among them Qatar Outlet Village, Tabuk View Mall and a placeholder card titled 'Upcoming 12 downtown mix use projects'), then country batch A (UAE and Saudi Arabia)."
- },
  "watch": [
   {
    "item": "Westfield Riyadh (Cenomi)",
