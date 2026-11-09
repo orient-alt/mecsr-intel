@@ -6,13 +6,17 @@ build, so a day's JSON is the only thing a run has to write.
 
 Commands
   build      [--repo DIR]                      render every page from data/
-  validate   FILE.json [FILE.json ...]         schema + privacy check of daily files (exit 1 on error)
+  validate   FILE.json [...] [--members FILE] [--internal]  schema + privacy check (exit 1 on error);
+                                               --members warns when a member flag disagrees with a member file
   last       [--today YYYY-MM-DD]              last published day and today's coverage window
   seen       WORD [WORD ...] [--days N]        earlier findings that mention all the words (dedupe)
   match      NAME [--country C] --index FILE   fuzzy match a property against the directory index
   week       [YYYY-MM-DD]                      ISO week id and its Monday-Sunday dates
   tracker    --xlsx FILE                       names already curated in tracker sheets 10/11/12 (needs openpyxl)
   prospects  --src DIR --out DIR --repo DIR    INTERNAL ONLY: cumulative prospects page + CSV outside the repo
+  month      YYYY-MM [--limit N] [--csv FILE]  newsletter shortlist (What's Up Retail): the month's findings that clear the bar
+  strip      FULL.json --out PUBLIC.json       public copy of a day file (directory objects and verification removed;
+                                               the 2027 Directory feed is built internally by tools/directory_feed.py)
 """
 import argparse, csv, datetime as dt, difflib, glob, html, io, json, os, re, sys
 from collections import Counter, OrderedDict, defaultdict
@@ -166,8 +170,14 @@ def walk_keys(o, path=""):
         for i, v in enumerate(o):
             yield from walk_keys(v, f"{path}[{i}]")
 
-def validate_day(d, name="?"):
+INTERNAL_DAY_KEYS = ("verification",)
+
+def validate_day(d, name="?", internal=False):
     errs, warns = [], []
+    if not internal:
+        if any(k in d for k in INTERNAL_DAY_KEYS) or any(f.get("directory") for f in d.get("findings", [])):
+            errs.append(f"{name}: holds internal directory data (directory objects or a verification batch); "
+                        f"keep the full file in OneDrive internal\\days\\ and publish `intel.py strip` output")
     for k in ("date", "findings"):
         if k not in d:
             errs.append(f"{name}: missing '{k}'")
@@ -232,7 +242,7 @@ def validate_day(d, name="?"):
 def nav(prefix, active, latest_week):
     items = [("index.html", "Today", "today"), (f"weekly/{latest_week}.html", "This week", "week"),
              ("archive.html", "Archive", "archive"), ("library.html", "Library", "library"),
-             ("pipeline.html", "Directory feed", "pipeline"), ("method.html", "Method", "method")]
+             ("method.html", "Method", "method")]
     return "".join(f'<a href="{prefix}{h}" class="{"on" if k == active else ""}">{esc(t)}</a>' for h, t, k in items)
 
 def page(prefix, active, latest_week, title, body, desc=""):
@@ -297,7 +307,7 @@ def source_links(srcs):
     return f'<div class="srcs">{"".join(out)}</div>' if out else ""
 
 def dir_chip(f):
-    dx = f.get("directory")
+    dx = None  # the 2027 Directory feed is internal (decision of 9 Nov 2026): never shown on public pages
     if not dx:
         return ""
     sh = str(dx.get("sheet"))
@@ -508,7 +518,7 @@ def day_page(repo, d, prefix, latest_week, is_index=False):
     prev_a = f'<a href="{link_day(prev_d)}">← {esc(fmt_date(prev_d))}</a>' if prev_d else "<span>← earlier</span>"
     next_a = f'<a href="{link_day(next_d)}">{esc(fmt_date(next_d))} →</a>' if next_d else "<span>later →</span>"
     eyebrow = ("Today's edition" if is_index else "Daily edition") + (" · migrated from the earlier reports" if d.get("legacy") else "")
-    runs = f" · searches run: {d['searches_run']}" if d.get("searches_run") else ""
+    runs = f" · about {d['searches_run']} searches and fetches" if d.get("searches_run") else ""
     h = [f'<div class="head"><div class="eyebrow">{esc(eyebrow)}</div>'
          f'<h1>Daily Intelligence · {esc(fmt_date(d["date"], long=True))}</h1>'
          f'<div class="meta">Covers <b>{esc(cov.get("label") or "not recorded")}</b> · {len(fs)} findings · {nsrc} sources{esc(runs)}</div>'
@@ -518,7 +528,7 @@ def day_page(repo, d, prefix, latest_week, is_index=False):
                  'Below: what did clear the bar, recent background that is new to this site, and the watch list.</div>')
     tiles = [kpi(STREAMS[k]["short"], len(by.get(k, [])) + (len(d.get("library", [])) if k == "library" else 0),
                  "documents" if k == "library" else "", dot=k) for k in STREAMS]
-    tiles += [kpi("In coverage window", in_window, f"of {len(fs)}"), kpi("Directory actions", ndir, "for the 2027 Directory", dot="dir"),
+    tiles += [kpi("In coverage window", in_window, f"of {len(fs)}"), kpi("Sources", nsrc, "dated links"),
               kpi("Countries", len(countries), ", ".join(countries[:4]) + ("…" if len(countries) > 4 else ""))]
     h.append(f'<section class="kpis" aria-label="Today in numbers">{"".join(tiles)}</section>')
     if d.get("brief"):
@@ -563,7 +573,13 @@ def day_page(repo, d, prefix, latest_week, is_index=False):
         lis = []
         for w in d["watch"]:
             if isinstance(w, dict):
-                lis.append(f'<li><b>{esc(w.get("item"))}</b>{": " + esc(w.get("note")) if w.get("note") else ""}'
+                basis = w.get("basis")
+                tag = ""
+                if basis == "fact":
+                    tag = " <span class=muted>[fact" + (": " + esc(w.get("source")) if w.get("source") else "") + "]</span>"
+                elif basis == "assumption":
+                    tag = " <span class=muted>[assumption, to check]</span>"
+                lis.append(f'<li><b>{esc(w.get("item"))}</b>{": " + esc(w.get("note")) if w.get("note") else ""}{tag}'
                            f'{" <span class=muted>(since " + esc(fmt_date(w.get("since"))) + ")</span>" if w.get("since") else ""}</li>')
             else:
                 lis.append(f"<li>{esc(w)}</li>")
@@ -599,7 +615,7 @@ def week_page(repo, wid, days, latest_week):
          f'<div class="pager">{prev_a}{next_a}</div></div>']
     ndocs = sum(len(d.get("library", [])) for d in days)
     tiles = [kpi(STREAMS[k]["short"], len(by.get(k, [])) + (ndocs if k == "library" else 0), dot=k) for k in STREAMS]
-    tiles.append(kpi("Directory actions", sum(1 for f in fs if f.get("directory")), dot="dir"))
+    tiles.append(kpi("Sources", nsrc, "dated links"))
     h.append(f'<section class="kpis k6">{"".join(tiles)}</section>')
     if brief_day:
         wb = brief_day["weekly_brief"]
@@ -711,7 +727,7 @@ def pipeline_page(repo, feed, latest_week):
 
 def method_page(latest_week):
     body = f"""<div class="head"><div class="eyebrow">Method</div><h1>How this intelligence is researched</h1>
-<div class="meta">One research run every weekday at 08:00 Dubai. Friday's run adds the weekly summary and a verification batch of directory listings.</div></div>
+<div class="meta">Each weekday edition is prepared in the early morning, Dubai time, by a scheduled Claude run (or by hand when that run cannot run) and goes live once MECSR has checked and uploaded it. Friday's edition adds the weekly summary and a verification batch of directory listings.</div></div>
 <section class="panel"><h2>What each run covers</h2><ul>
 <li><b>🏬 Shopping destinations & pipeline</b>: new malls, mixed-use schemes, outlet centres and retail parks, expansions, openings, closures and supply data across the 24+ markets of the MECSR Directory.</li>
 <li><b>🏢 Member company news</b>: projects, results, leadership, deals and awards for MECSR member organisations.</li>
@@ -730,8 +746,9 @@ Items are labelled <span class="age win">in window</span> (published in the run'
 or <span class="age old">background</span> (older). Monday covers Friday to Sunday; Tuesday to Friday cover the previous day; a missed day is picked up by the next run.</p></section>
 <section class="panel"><h2>Quiet days</h2><p>A day with fewer than three verified items still gets a page, marked as a quiet day, with whatever cleared the bar and the watch list.
 Nothing unverified is added to make a page look fuller.</p></section>
-<section class="panel"><h2>What is not on this site</h2><p>No personal contact data, no e-mail addresses or phone numbers, and no membership-prospect or CRM information.
-Those stay in MECSR's internal files.</p></section>"""
+<section class="panel"><h2>Corrections</h2><p>When a published item is corrected (a figure, a date or a member flag), that edition's run notes carry a dated line saying what changed.</p></section>
+<section class="panel"><h2>What is not on this site</h2><p>No personal contact data, no e-mail addresses or phone numbers, no membership list or membership-prospect
+information, and no internal notes for the MECSR Directory. Those stay in MECSR's internal files, open to MECSR staff only.</p></section>"""
     return page("", "method", latest_week, "MECSR Intel · Method", body)
 
 def search_index(repo):
@@ -762,6 +779,10 @@ def cmd_build(args):
     if errors and not args.force:
         print("\n".join(errors[:60]))
         sys.exit(f"build refused: {len(errors)} validation error(s). Fix them (or --force for a draft).")
+    for d in repo.days:  # belt and braces: nothing internal reaches a public page
+        d.pop("verification", None)
+        for f in d.get("findings", []):
+            f.pop("directory", None)
     weeks = repo.weeks()
     latest_week = list(weeks)[-1]
     R = repo.root
@@ -770,8 +791,6 @@ def cmd_build(args):
     write(os.path.join(R, "index.html"), day_page(repo, repo.days[-1], "", latest_week, is_index=True))
     for wid, days in weeks.items():
         write(os.path.join(R, "weekly", f"{wid}.html"), week_page(repo, wid, days, latest_week))
-    feed = build_feed(repo)
-    write_feed(repo, feed)
     docs = build_library(repo)
     with open(os.path.join(R, "data", "library.json"), "w", encoding="utf-8") as fh:
         json.dump([{k: v for k, v in x.items() if not k.startswith("_")} | {"found": x.get("_date")} for x in docs], fh, ensure_ascii=False, indent=1)
@@ -783,7 +802,6 @@ def cmd_build(args):
              "legacy": bool(d.get("legacy")), "week": iso_week(parse_iso(d["date"]))} for d in repo.days]}, fh, indent=1)
     write(os.path.join(R, "archive.html"), archive_page(repo, latest_week))
     write(os.path.join(R, "library.html"), library_page(repo, docs, latest_week))
-    write(os.path.join(R, "pipeline.html"), pipeline_page(repo, feed, latest_week))
     write(os.path.join(R, "method.html"), method_page(latest_week))
     write(os.path.join(R, ".nojekyll"), "")
     # final privacy sweep over everything that will be published
@@ -799,14 +817,88 @@ def cmd_build(args):
         print("\n".join(leaks))
         sys.exit("PRIVACY STOP: e-mail address found in published output. Remove it from the data and rebuild.")
     print(f"built {len(repo.days)} daily pages, {len(weeks)} weekly pages, feed rows "
-          f"{', '.join(f'{k}:{len(v)}' for k, v in feed.items())}, library {len(docs)} docs; latest {repo.days[-1]['date']}")
+          f"library {len(docs)} docs; latest {repo.days[-1]['date']}")
+
+MEMBER_STOP = {"the", "and", "co", "llc", "pjsc", "psc", "company", "group", "limited", "ltd", "of", "for", "inc", "plc"}
+
+def member_tokens(name):
+    words = re.findall(r"[a-z0-9]+", (name or "").lower().replace("-", " "))
+    return {w for w in words if w not in MEMBER_STOP and len(w) > 1}
+
+def load_members(path):
+    """Names (and optional aliases) from a member file: internal/member_list.json (Orient's monthly membership
+    list: current corporate members only) or an older list such as reference/member_companies.json."""
+    with open(path, encoding="utf-8") as fh:
+        data = json.load(fh)
+    if isinstance(data, dict) and isinstance(data.get("members"), list):
+        cutoff = (dt.date.today() - dt.timedelta(days=int(data.get("grace_days", 90)))).isoformat()
+        out = []
+        for m in data["members"]:
+            if not isinstance(m, dict) or str(m.get("category", "")).lower() == "individual":
+                continue
+            if m.get("expiry") and str(m["expiry"])[:10] < cutoff:
+                continue
+            for n in [m.get("company")] + list(m.get("aliases") or []):
+                if n and member_tokens(n):
+                    out.append((n, member_tokens(n)))
+        return out
+    names = []
+    def walk(o, key=""):
+        if isinstance(o, dict):
+            for k, v in o.items():
+                if k in ("note", "description", "search_query_templates", "last_updated", "total_unique_companies"):
+                    continue
+                if k == "aliases" and isinstance(v, dict):
+                    for canon, alist in v.items():
+                        names.append(canon)
+                        names.extend(a for a in alist if isinstance(a, str))
+                    continue
+                walk(v, k)
+        elif isinstance(o, list):
+            for v in o:
+                if isinstance(v, str):
+                    names.append(v)
+                else:
+                    walk(v, key)
+    walk(data)
+    return [(n, member_tokens(n)) for n in names if member_tokens(n)]
+
+def member_match(text, members):
+    """A member whose name words all appear in the text, or a text of two or more distinctive words that all
+    appear in a member name. Aliases in the member file widen the match (decision 3)."""
+    t = member_tokens(text)
+    if not t:
+        return None
+    for name, toks in members:
+        if toks <= t:
+            return name
+    if len(t - {"al", "el"}) >= 2:
+        for name, toks in members:
+            if t <= toks:
+                return name
+    return None
+
+def member_warnings(d, members, name):
+    out = []
+    for i, f in enumerate(d.get("findings", [])):
+        who = " / ".join(x for x in (f.get("company"), f.get("entity")) if x)
+        hit = member_match(f.get("company", ""), members) or member_match(f.get("entity", ""), members)
+        where = f"{name} finding[{i}] {f.get('title', '')[:50]!r}"
+        if f.get("member") and not hit:
+            out.append(f"{where}: member flag is true but '{who}' is not in the member file")
+        if not f.get("member") and hit:
+            out.append(f"{where}: member flag is false but '{who}' matches member '{hit}'")
+    return out
 
 def cmd_validate(args):
     bad = 0
+    members = load_members(args.members) if getattr(args, "members", None) else None
     for p in args.files:
         with open(p, encoding="utf-8") as fh:
             d = json.load(fh)
-        e, w = validate_day(d, os.path.basename(p))
+        e, w = validate_day(d, os.path.basename(p), internal=getattr(args, "internal", False))
+        if members is not None:
+            w = w + member_warnings(d, members, os.path.basename(p))
         for x in w:
             print("warn:", x)
         for x in e:
@@ -815,6 +907,73 @@ def cmd_validate(args):
         print(f"{os.path.basename(p)}: {len(d.get('findings', []))} findings, {len(d.get('library', []))} documents, "
               f"{len(e)} errors, {len(w)} warnings")
     sys.exit(1 if bad else 0)
+
+def cmd_month(args):
+    """Newsletter shortlist (What's Up Retail): the month's published findings that clear the bar."""
+    repo = Repo(args.repo)
+    ym = args.month
+    if not re.fullmatch(r"\d{4}-\d{2}", ym):
+        sys.exit("month must be YYYY-MM")
+    rank_conf = {"High": 0, "Medium": 1}
+    by_stream = defaultdict(list)
+    total = 0
+    for d in repo.days:
+        if not d["date"].startswith(ym) or d.get("legacy"):
+            continue
+        for f in d.get("findings", []):
+            ad = str(f.get("article_date") or "")
+            srcs = f.get("sources") or []
+            if not ad.startswith(ym) or f.get("confidence") not in rank_conf or f.get("type") == "status":
+                continue
+            if not srcs or any(str(s.get("tier", "")).upper() in ("C", "D") for s in srcs):
+                continue
+            if not all(s.get("outlet") or s.get("label") for s in srcs):
+                continue
+            total += 1
+            by_stream[f.get("stream")].append((rank_conf[f["confidence"]], ad, d["date"], f))
+    for k in by_stream:
+        by_stream[k].sort(key=lambda r: (r[0], r[1]), reverse=False)
+        by_stream[k].sort(key=lambda r: r[0])
+    picked, i = [], 0
+    streams = [k for k in STREAMS if by_stream.get(k)]
+    while len(picked) < args.limit and any(by_stream[k][i:] for k in streams):
+        for k in streams:
+            if i < len(by_stream[k]) and len(picked) < args.limit:
+                picked.append(by_stream[k][i])
+        i += 1
+    out = []
+    for _, ad, day, f in picked:
+        srcs = f["sources"]
+        s0 = next((s for s in srcs if str(s.get("date", "")).startswith(ym)), srcs[0])
+        out.append({"id": f.get("id"), "edition": day, "article_date": ad, "stream": f.get("stream"),
+                    "confidence": f.get("confidence"), "title": f.get("title"),
+                    "source": f"{s0.get('outlet') or s0.get('label')} · {fmt_date(s0.get('date')) if s0.get('date') else ad}",
+                    "why": f.get("why", ""), "link": s0.get("url", ""), "page": f"daily/{day}.html#{f.get('id')}"})
+    print(f"Newsletter shortlist for {ym}: {len(out)} of {total} findings that clear the bar "
+          f"(High confidence, or Medium with the outlet named; dated in the month; no Tier C or D sources; "
+          f"verification-batch status items left out), taken in turn from each stream")
+    for r in out:
+        print(f"- [{r['id']}] {r['title']} ({r['source']}; {r['stream']}, {r['confidence']})\n    why: {r['why']}\n    {r['link']}")
+    if args.csv:
+        with open(args.csv, "w", encoding="utf-8-sig", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=list(out[0].keys()) if out else ["id"])
+            w.writeheader()
+            w.writerows(out)
+        print("CSV:", args.csv)
+
+def cmd_strip(args):
+    """Public copy of a day file: drops directory objects and the verification batch (internal)."""
+    with open(args.src, encoding="utf-8") as fh:
+        d = json.load(fh)
+    d.pop("verification", None)
+    n = 0
+    for f in d.get("findings", []):
+        if f.pop("directory", None) is not None:
+            n += 1
+    with open(args.out, "w", encoding="utf-8", newline="\n") as fh:
+        json.dump(d, fh, ensure_ascii=False, indent=1)
+        fh.write("\n")
+    print(f"public copy written: {args.out} ({n} directory objects removed)")
 
 def cmd_last(args):
     repo = Repo(args.repo)
@@ -939,7 +1098,9 @@ def main():
     here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     sp = ap.add_subparsers(dest="cmd", required=True)
     b = sp.add_parser("build"); b.add_argument("--repo", default=here); b.add_argument("--force", action="store_true"); b.set_defaults(fn=cmd_build)
-    v = sp.add_parser("validate"); v.add_argument("files", nargs="+"); v.set_defaults(fn=cmd_validate)
+    v = sp.add_parser("validate"); v.add_argument("files", nargs="+"); v.add_argument("--members", help="member file: warn when a member flag disagrees with it"); v.add_argument("--internal", action="store_true", help="the full internal day file (directory objects allowed)"); v.set_defaults(fn=cmd_validate)
+    st = sp.add_parser("strip"); st.add_argument("src"); st.add_argument("--out", required=True); st.set_defaults(fn=cmd_strip)
+    mo = sp.add_parser("month"); mo.add_argument("month"); mo.add_argument("--repo", default=here); mo.add_argument("--limit", type=int, default=15); mo.add_argument("--csv"); mo.set_defaults(fn=cmd_month)
     l = sp.add_parser("last"); l.add_argument("--repo", default=here); l.add_argument("--today"); l.set_defaults(fn=cmd_last)
     s = sp.add_parser("seen"); s.add_argument("words", nargs="+"); s.add_argument("--repo", default=here); s.add_argument("--days", type=int, default=0); s.set_defaults(fn=cmd_seen)
     m = sp.add_parser("match"); m.add_argument("name"); m.add_argument("--country"); m.add_argument("--index", required=True); m.add_argument("--top", type=int, default=5); m.set_defaults(fn=cmd_match)
