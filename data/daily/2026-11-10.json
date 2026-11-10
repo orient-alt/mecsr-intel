@@ -1,0 +1,637 @@
+{
+ "schema": "mecsr-intel/1",
+ "date": "2026-11-10",
+ "weekday": "Tuesday",
+ "coverage": {
+  "from": "2026-11-09",
+  "to": "2026-11-09",
+  "label": "Monday 9 November 2026"
+ },
+ "status": "full",
+ "brief": [
+  "Members: Cenomi Centers' Q3 profit fell 19% to SAR 404.9m because the year-earlier quarter included an insurance settlement, while revenue rose 10% to SAR 606.2m in its first quarter with Westfield Jeddah in operation (Saudi Exchange filing via Mubasher; Argaam).",
+  "Knowledge Economic City's Q3 profit rose to SAR 99.7m from SAR 28.2m on home sales, a July land sale and a new hotel, a week before its 15 Nov vote on becoming Al-Jiwar Economic City (Argaam; Arab News).",
+  "UAE dining: DEAL Holdings' FAB Group plans at least 25 food and beverage sites in the UAE over five years, starting with London's Kricket at Vida Emirates Hills (Retail ME, 9 Nov).",
+  "Service and payments: Egypt's central bank has set rules for banking agents that require complaint notices and fee disclosure (9 Nov), and in Bahrain CrediMax will explore AI shopping agents for merchants with Mastercard (4 Nov).",
+  "Also new to the site: Korea Town by Boutiqaat has opened two Qatar stores, at Mall of Qatar and Place Vendôme (2 Nov), and Zalando has launched an AI agent that buys from other retailers inside its app (3 Nov)."
+ ],
+ "findings": [
+  {
+   "id": "2026-11-10-01",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "city": "Riyadh",
+   "entity": "Cenomi Centers (Arabian Centres Co.)",
+   "company": "Cenomi Centers",
+   "member": true,
+   "title": "Cenomi Centers' Q3 profit falls 19% to SAR 404.9m against a year-earlier insurance gain, as revenue rises 10% to SAR 606.2m",
+   "summary": "Cenomi Centers' Q3 2026 revenue rose to SAR 606.2m from SAR 551.3m, while net profit attributable to shareholders fell to SAR 404.9m from SAR 500.7m, because the year-earlier quarter included the full and final settlement of an insurance claim for a fire at one of its assets. Nine-month revenue rose 1.9% to SAR 1,758.1m and nine-month attributable profit fell to SAR 993.1m from SAR 1,190.5m. The company says Westfield Jeddah, in its operational phase since 30 Jul 2026, made its first revenue contribution in the quarter.",
+   "why": "Cenomi is a member, and these are its first results with Westfield Jeddah in operation, a month before RCM Jeddah (7 to 8 Dec).",
+   "article_date": "2026-11-09",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Mubasher (copy of the Saudi Exchange disclosure)",
+     "date": "2026-11-09",
+     "url": "https://english.mubasher.info/news/4698580/Arabian-Centres-Co-Cenomi-Centers-announces-its-Interim-Financial-results-for-the-Period-Ending-on-30-September-2026-Nine-Months-//news",
+     "tier": "B"
+    },
+    {
+     "outlet": "Argaam",
+     "date": "2026-11-09",
+     "url": "https://www.argaam.com/en/financial-reports/company-report/4638/2026/72",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-02",
+   "stream": "dest",
+   "type": "expansion",
+   "country": "UAE",
+   "city": "Dubai",
+   "entity": "FAB Group",
+   "company": "DEAL Holdings",
+   "member": false,
+   "title": "DEAL Holdings' FAB Group plans at least 25 UAE food and beverage sites in five years, starting with London's Kricket in Dubai",
+   "summary": "FAB Group, the food and beverage business through which DEAL Holdings is moving into hospitality, plans at least 25 F&B locations across the UAE over the next five years, Retail ME reports. It holds the GCC development rights for London's Kricket, whose first regional restaurant is planned at Vida Emirates Hills in Dubai, and is targeting the first quarter of 2027 to announce a second UAE location. Saudi Arabia is named as an important market; no mall sites have been announced.",
+   "why": "A new multi-concept dining operator with a five-year UAE pipeline and GCC franchise rights is a leasing prospect for malls and community centres building their food and beverage offer.",
+   "article_date": "2026-11-09",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Retail ME",
+     "date": "2026-11-09",
+     "url": "https://www.imagesretailme.com/fab-groups-25-location-ambition/",
+     "tier": "A"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-03",
+   "stream": "cx",
+   "type": "policy",
+   "country": "Egypt",
+   "city": "Cairo",
+   "entity": "Rules for banking agents",
+   "company": "Central Bank of Egypt",
+   "member": false,
+   "title": "Egypt's central bank sets rules for banks' use of agents, including complaint notices and fee disclosure",
+   "summary": "The Central Bank of Egypt has approved rules on how banks may use banking agents, which, once approved by the CBE, can identify and verify customers and update their information on a bank's behalf. Agency contracts may run for no more than three years, with the CBE told at least three months before expiry. Agents must display how customers can complain at their premises, state the fees and commissions charged and the days and hours services are available, and pass documents to the bank within 30 working days. Eligible agents include non-bank institutions supervised by the Financial Regulatory Authority, government bodies and Egyptian missions abroad, and the CBE presents the rules as part of its financial inclusion drive.",
+   "why": "Egypt now sets service duties, including complaint notices and fee and hours disclosure, for third parties that serve bank customers, a reference point for customer-service standards in Egyptian retail and banking.",
+   "article_date": "2026-11-09",
+   "date_basis": "url",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Daily News Egypt (via Zawya)",
+     "date": "2026-11-09",
+     "url": "https://www.tradingview.com/news/reuters.com,2026-11-09:newsml_Zaw4h0Dw:0-zawya-central-bank-of-egypt-issues-rules-regulating-banking-agents/",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-04",
+   "stream": "member",
+   "type": "financial",
+   "country": "Saudi Arabia",
+   "city": "Madinah",
+   "entity": "Knowledge Economic City (KEC)",
+   "company": "Knowledge Economic City",
+   "member": true,
+   "title": "Knowledge Economic City's Q3 profit rises to SAR 99.7m from SAR 28.2m on home sales, a July land sale and a new hotel",
+   "summary": "Knowledge Economic City's Q3 2026 revenue rose 98.8% to SAR 245.1m and its net profit to SAR 99.7m from SAR 28.2m a year earlier, according to its Saudi Exchange filing as reported by Argaam and Arab News. Both cite stronger residential sales after the new Non-Saudi Property Ownership Law, SAR 169.6m from a land sale in July and a contribution from its newly opened hotel, which is not named. Nine-month revenue rose 40.2% to SAR 330.5m, and the company swung to a nine-month net profit of SAR 71.3m from a loss of SAR 26.7m.",
+   "why": "KEC is a member and the developer of Multaqa AlMadinah; the results come a week before shareholders vote on 15 Nov on renaming it Al-Jiwar Economic City.",
+   "article_date": "2026-11-08",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Argaam",
+     "date": "2026-11-08",
+     "url": "https://www.argaam.com/en/financial-reports/company-report/867/2026/72",
+     "tier": "B"
+    },
+    {
+     "outlet": "Arab News",
+     "date": "2026-11-09",
+     "url": "https://www.arabnews.com/business/knowledge-economic-city-maaden-report-higher-q3-revenues-as-profit-growth-diverges-3010696",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-05",
+   "stream": "ai",
+   "type": "deal",
+   "country": "Bahrain",
+   "city": "Manama",
+   "entity": "CrediMax",
+   "company": "CrediMax and Mastercard",
+   "member": false,
+   "title": "CrediMax and Mastercard to explore AI shopping agents for Bahrain's merchants",
+   "summary": "Bahrain payments provider CrediMax will explore agentic commerce with Mastercard for merchants across the Kingdom, Mastercard announced on 4 Nov 2026. The initial focus is Mastercard's Agent Suite for Merchants, which brings AI-powered shopping into merchants' own online stores, delivered through Mastercard Merchant Cloud with Mastercard Gateway handling payments. No merchants, timeline or figures were given.",
+   "why": "A Gulf payments provider is preparing merchants, mall retailers among them, to run their own AI shopping agents; the work is exploratory and sets no rules for outside agents.",
+   "article_date": "2026-11-04",
+   "date_basis": "byline",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Mastercard (press release)",
+     "date": "2026-11-04",
+     "url": "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/november/credimax-collaborates-with-mastercard-explore-agentic-commerce-capabilities-to-bahrain-s-merchants/",
+     "tier": "A"
+    },
+    {
+     "outlet": "The Paypers",
+     "date": "2026-11-05",
+     "url": "https://thepaypers.com/payments/news/credimax-partners-with-mastercard-on-agentic-commerce-in-bahrain",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-06",
+   "stream": "ai",
+   "type": "launch",
+   "country": "Global",
+   "city": null,
+   "entity": "Zalando AI shopping agent",
+   "company": "Zalando",
+   "member": false,
+   "title": "Zalando launches an AI shopping agent that can buy from other retailers inside its app",
+   "summary": "Zalando has unveiled its first AI shopping agent, which lets customers buy products from other retailers through the Zalando app, Reuters reported on 3 Nov 2026. Zalando plans AI-assisted checkout on its Zalando Extended platform in 2027, and a pilot with home furnishings retailer Westwing is under way. The report does not say which markets the agent covers.",
+   "why": "A large fashion platform is turning its app into an agent that buys across other retailers' ranges, a model that Gulf marketplaces, retailers and mall apps may need to answer.",
+   "article_date": "2026-11-03",
+   "date_basis": "meta",
+   "confidence": "Medium",
+   "sources": [
+    {
+     "outlet": "Reuters (via SRN News)",
+     "date": "2026-11-03",
+     "url": "https://srnnews.com/retailer-zalando-launches-ai-shopping-agent-as-margins-squeezed/",
+     "tier": "B"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-07",
+   "stream": "member",
+   "type": "tenant",
+   "country": "Qatar",
+   "city": "Al Rayyan and Lusail",
+   "entity": "Korea Town by Boutiqaat (Mall of Qatar; Place Vendôme)",
+   "company": "Boutiqaat",
+   "member": true,
+   "title": "Korea Town by Boutiqaat opens two Qatar stores, at Mall of Qatar and Place Vendôme",
+   "summary": "Boutiqaat Group's K-beauty store concept Korea Town has opened two stores in Qatar, at Mall of Qatar and Place Vendôme, according to the group's release of 2 Nov 2026 (dateline Hawally, Kuwait). Korea Town now trades in Kuwait, Bahrain, where its first store outside Kuwait opened at The Avenues Bahrain, and Qatar, as well as online through the Boutiqaat app. The release gives no opening dates or store sizes and says further openings are planned across the GCC.",
+   "why": "A member's beauty concept is taking space in two large Qatar malls and plans more GCC openings that landlords can court.",
+   "article_date": "2026-11-02",
+   "date_basis": "meta",
+   "confidence": "High",
+   "sources": [
+    {
+     "outlet": "Boutiqaat Group (press release via PR Newswire)",
+     "date": "2026-11-02",
+     "url": "https://www.prnewswire.com/apac/news-releases/korea-town-by-boutiqaat-accelerates-gcc-expansion-with-two-store-openings-in-qatar-302925871.html",
+     "tier": "A"
+    }
+   ]
+  }
+ ],
+ "library": [],
+ "watch": [
+  {
+   "item": "Westfield Riyadh (Cenomi)",
+   "note": "Mubasher's copy of Cenomi's Q3 disclosure (9 Nov): structural works 100% complete and pre-leasing about 95%, up from near 94% at H1 (single source until Cenomi posts its own Q3 release). H1 release (5 Aug): operational phase expected in Q4 2026; the 220,000 sqm GLA includes 65,000 sqm of offices; financing raised to SR 2.7 billion. No opening date (checked 10 Nov)",
+   "since": "2026-07-16",
+   "basis": "fact",
+   "source": "Cenomi H1 2026 release, 5 Aug 2026; Mubasher (Q3 disclosure), 9 Nov 2026"
+  },
+  {
+   "item": "Westfield Jeddah (Cenomi)",
+   "note": "Operational phase since 30 Jul. Mubasher's copy of Cenomi's Q3 disclosure (9 Nov) puts pre-leasing close to 97% (from near 96%) and the mall's first revenue contribution at SAR 20.4m in Q3 (single source until Cenomi posts its own Q3 release). Grand opening guided for Q4 2026; no date yet (checked 10 Nov). Cenomi's SAR 104.3m facilities management contract for the mall runs from Q4 2026 (Argaam, 26 Oct)",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "Mubasher (Cenomi Q3 disclosure), 9 Nov 2026"
+  },
+  {
+   "item": "Aventura Mall (Mabanee, Kuwait)",
+   "note": "Due at the end of October 2026 (Mabanee, 29 Jul); no opening or opening day published by 10 Nov, so Mabanee's end-October guidance has lapsed; Al-Anba (25 Oct), citing Mabanee, says the opening is near and names an ice rink and a cinema as the leisure offer. Alshaya (21 Oct) says Primark's second Kuwait store opens there early next year. Mabanee's 2025 annual report (in the library, 4 Nov) gives a total leasable area of 108,297 sqm and a Q3 2026 opening",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "Mabanee, 29 Jul 2026; Al-Anba, 25 Oct 2026"
+  },
+  {
+   "item": "Primark rollout (Alshaya)",
+   "note": "First Qatar store opened at Doha Festival City on 21 Oct, eight days early (Alshaya, 21 Oct). Next: Villaggio Mall (second Qatar store) and Aventura Mall (second Kuwait store) early 2027, and the first Saudi store, at The Avenues Riyadh, in March 2027; Mall of the Emirates second floor due Nov 2026, with no Tier A or B report of its opening by 10 Nov. Mabanee's project page (read 4 Nov) and its 2025 annual report both give Q1 2027 for The Avenues - Riyadh, in line with Primark's March 2027 store",
+   "since": "2026-09-07",
+   "basis": "fact",
+   "source": "Alshaya, 21 Oct 2026"
+  },
+  {
+   "item": "Saadiyat Grove (Aldar)",
+   "note": "Q4 2026 opening date and GLA (none published by 10 Nov); Aldar's nine-month release (27 Oct, in the library 6 Nov) says it is 84% pre-leased and already contributing through lease handovers",
+   "since": "2026-09-18",
+   "basis": "fact",
+   "source": "Aldar nine-month 2026 release, 27 Oct 2026"
+  },
+  {
+   "item": "Madar Mall, Aljada (Arada)",
+   "note": "Arada (18 Sep 2025): 1.1m sq ft GLA, completion December 2028. Confirm anchors, leasing and that the date holds",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "Arada, 18 Sep 2025"
+  },
+  {
+   "item": "Multaqa AlMadinah (KEC)",
+   "note": "Opening date for phase 1 (mall, Hilton hotel tower and residences) still not given. KEC's Q3 results (Argaam, 8 Nov; Arab News, 9 Nov) credit a newly opened hotel without naming it: check whether it is the phase 1 Hilton tower and what that means for the mall's opening. Brilliant's 'Wasat Al Madinah' (70,000 sqm, 2023 Q4) is probably the same scheme (Friday check, 23 Oct); KEC to confirm before the entries are merged. KEC's 8 Sep MoU with Kaden Investment for 'Multaqa Al Madinah 2' (about 1,527 homes and about 31,108 sqm of net leasable commercial and office space, about SAR 2.5bn) lists no mall. KEC proposes renaming itself Al-Jiwar Economic City (EGM 15 Nov 2026)",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "KEC Tadawul disclosure (Mubasher copy), 8 Sep 2026; Argaam, 8 Nov 2026"
+  },
+  {
+   "item": "The Avenues Khobar (Mabanee)",
+   "note": "Mabanee's 2025 annual report (in the library, 4 Nov) gives a GLA of 167,535 sqm and both Q3 2027 (project section) and Q1 2028 (chairman's statement) for the opening; confirm which holds",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "Mabanee 2025 annual report (in the library, 4 Nov 2026)"
+  },
+  {
+   "item": "Merkez Ankara AVM",
+   "note": "Exact opening date, operator and anchors (Pasifik GYO / KAP); Mall Report's 23 Oct item covers only the opening-festival concerts (checked 4 Nov)",
+   "since": "2026-10-11",
+   "basis": "fact",
+   "source": "Mall Report, 23 Oct 2026"
+  },
+  {
+   "item": "Oman land-border duty-free markets",
+   "note": "Start date, operator and any tender (Decision No 145/2026); no update by 19 Oct",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "Muscat Daily, 13 Oct 2026"
+  },
+  {
+   "item": "Dubai Municipality and Emaar Malls destinations",
+   "note": "Which public sites, formats and timings follow the memorandum of 16 Oct",
+   "since": "2026-10-19",
+   "basis": "fact",
+   "source": "Zawya, 16 Oct 2026"
+  },
+  {
+   "item": "Saudi security situation: flights, events and mall trading",
+   "note": "King Khalid International, Riyadh, resumed operations on 17 Oct after the 10 Oct attack, with each flight still needing GACA permission (Gulf Business, 20 Oct). Suspensions reported on 20 Oct: Etihad Riyadh and Dammam, Air India and IndiGo to 24 Oct; Akasa Air to 27 Oct; Air France-KLM Riyadh to 7 Nov; Lufthansa Group to 18 Nov; Philippine Airlines to 29 Nov; Cathay Pacific to 31 Jan 2027; Delta's Atlanta-Riyadh flights to March 2027; Qatar Airways' Riyadh and Dammam flights and Gulf Air's Riyadh services have no restart date. Malaysia Airlines resumed Jeddah and Madinah on 18 Oct. FII10, the Saudi Retail Forum and Intersec Saudi Arabia have moved to 2027 and Riyadh Fashion Week was postponed on 14 Oct (Arab News). Kingdom Centre has moved its office tenants to remote working while its mall stays open (AFP, 18 Oct). Riyadh Season was due to open on 21 Oct; no dated report of the opening had been found by 2 Nov. Check effects on Riyadh mall trading, Westfield Riyadh's Q4 opening and travel to RCM Jeddah (7 to 8 Dec). Nahdi Medical cut its 2026 profit forecast on 29 Oct, citing geopolitical pressures. Nothing found by 4 Nov on Riyadh mall trading or on travel to RCM Jeddah",
+   "since": "2026-10-16",
+   "basis": "fact",
+   "source": "Gulf Business, 20 Oct 2026; AFP, 18 Oct 2026"
+  },
+  {
+   "item": "Saudi real estate market",
+   "note": "Argaam (19 Oct), citing REGA: September transactions about SAR27.8bn, down 17% year on year, non-residential down 15% to SAR12.8bn, rental value up 18%. Single source so far; use once REGA or a second outlet confirms",
+   "since": "2026-10-21",
+   "basis": "fact",
+   "source": "Argaam, 19 Oct 2026 (single source)"
+  },
+  {
+   "item": "UAE government services transformation",
+   "note": "Announcement due in November; federal AI agents must connect to a control tower (14 Oct); Abu Dhabi launched TAMM Global on 16 Oct; nothing new by 10 Nov. The Annual Government Challenge launched on 2 Nov (see 3 Nov) is a staff programme, not the announced transformation. The Global Star Rating results of 4 Nov (see 5 Nov) are a separate exercise",
+   "since": "2026-10-08",
+   "basis": "fact",
+   "source": "Gulf News, Oct 2026"
+  },
+  {
+   "item": "Q3 2026 results season",
+   "note": "Reported so far: Aldar on 27 Oct (see 28 Oct), Jabal Omar on 1 Nov (see 2 Nov), Emaar The Economic City on 1 Nov and Seef Properties on 4 Nov (both see 5 Nov), Emaar Properties on 5 Nov (see 6 Nov), Lulu Retail on 6 Nov (see 9 Nov; Lulu's own release, needed to confirm Khaleej Times' figures, not found by 10 Nov), and Knowledge Economic City on 8 Nov and Cenomi Centers on 9 Nov (both see 10 Nov). Still to come: Al Othaim Investment and Hamat by the Saudi deadline of 11 Nov; Mabanee, Tamdeen and UDC (none found by 10 Nov)",
+   "since": "2026-10-14",
+   "basis": "fact",
+   "source": "Argaam, 8 and 9 Nov 2026"
+  },
+  {
+   "item": "Q3 2026 market reports",
+   "note": "Out so far: ValuStrat's Dubai Q3 2026 review (in the library, 23 Oct) and CBRE's UAE Q3 2026 review (3 Nov; see 9 Nov), plus Savills' Dubai and Abu Dhabi residential and Cushman & Wakefield Core's Dubai and Abu Dhabi office and residential Q3 reports. Still awaited on 9 Nov: Q3 2026 retail editions from JLL (its UAE and Cairo pages show Q2), Knight Frank, Cushman & Wakefield, Colliers and Savills, and CBRE's Saudi review",
+   "since": "2026-10-14",
+   "basis": "assumption"
+  },
+  {
+   "item": "Dubai Mall Plaza and Hotel (Emaar)",
+   "note": "Teaser only so far; no official scope, GLA, operator or timing by 4 Nov (Emaar's newsroom shows nothing after 7 Sep)",
+   "since": "2026-10-15",
+   "basis": "fact",
+   "source": "Gulf News, 14 Oct 2026"
+  },
+  {
+   "item": "Dubai Shopping Festival 2026-27",
+   "note": "Runs 4 Dec 2026 to 17 Jan 2027; DFRE says the full programme follows in November (not out by 10 Nov)",
+   "since": "2026-10-20",
+   "basis": "fact",
+   "source": "TTN Middle East, 14 Oct 2026"
+  },
+  {
+   "item": "Safari Mall, Abu Hamour (Doha)",
+   "note": "Owner, GLA and opening year for the sheet-10 check",
+   "since": "2026-10-20",
+   "basis": "fact",
+   "source": "The Peninsula, 18 Oct 2026"
+  },
+  {
+   "item": "Arada KSA",
+   "note": "A defined retail or community centre and GLA for the Al Rimal master plan (construction from 2027), and plans for the Jeddah and Makkah land",
+   "since": "2026-10-21",
+   "basis": "fact",
+   "source": "Arada, 20 Oct 2026"
+  },
+  {
+   "item": "TMG mega-projects and Navy 26 (Egypt)",
+   "note": "Retail components, GLA and phasing for TMG's East Cairo destination; retail GLA, hypermarket operator and investment figure for HDP TULUA's Navy 26 (nothing new by 22 Oct)",
+   "since": "2026-10-21",
+   "basis": "fact",
+   "source": "Daily News Egypt, 20 Oct 2026; Zawya, 20 Oct 2026"
+  },
+  {
+   "item": "Standards for agent-led shopping",
+   "note": "No GCC bank, payment network or retailer had set rules to admit or block outside AI shopping agents by 10 Nov. New: CrediMax and Mastercard will explore agentic commerce for Bahrain merchants, starting with Mastercard's Agent Suite for Merchants (Mastercard, 4 Nov; see 10 Nov), and Zalando launched an agent that buys from other retailers inside its app (Reuters, 3 Nov; see 10 Nov). Earlier context: American Express's Intent Intelligence framework (13 Oct), Meta and Sierra's Personal Agent Protocol (14 Oct), Amazon and eBay blocking agents (16 Oct), Walmart's Agent Gateway (21 Oct), US banks restricting third-party agents (23 Oct), BCG's survey of large retailers (21 Oct, see 28 Oct), PYMNTS and Visa on UAE merchants' readiness (26 Oct), Meta's Muse (28 Oct), Home Depot's rules for agents (29 Oct), Retail Dive's holiday survey round-up (3 Nov), and Amazon's Alexa for Shopping for outside merchants (4 Nov) and text-to-shop test (6 Nov)",
+   "since": "2026-10-20",
+   "basis": "fact",
+   "source": "Mastercard, 4 Nov 2026"
+  },
+  {
+   "item": "Hind City endowment shopping centre (Awqaf Dubai)",
+   "note": "Name, GLA, exact site, contractor and start of works for the AED73m, 40-outlet centre due within two years (Dubai Media Office, 20 Oct)",
+   "since": "2026-10-22",
+   "basis": "fact",
+   "source": "Dubai Media Office, 20 Oct 2026"
+  },
+  {
+   "item": "Primor in Morocco (One Retail)",
+   "note": "First stores planned for 2027: cities, malls and store count not yet named (Morocco World News, 21 Oct)",
+   "since": "2026-10-22",
+   "basis": "fact",
+   "source": "Morocco World News, 21 Oct 2026"
+  },
+  {
+   "item": "Mall of Dhahran (Cenomi lawsuit and handover)",
+   "note": "The owner may appeal the 21 Oct ruling within 30 days of receiving the judgment; no appeal or operator news by 10 Nov. Cenomi's Q3 disclosure (Mubasher copy, 9 Nov) carries an auditor's emphasis of matter on legal claims filed by a counterparty (note 22) without naming the mall. Confirm who runs the mall after Cenomi's April 2026 handover, and its GLA and opening year, for the sheet 10 decision",
+   "since": "2026-10-23",
+   "basis": "fact",
+   "source": "Argaam, 22 Oct 2026"
+  },
+  {
+   "item": "Dubai Expo Mall (Emaar)",
+   "note": "Emaar's H1 2026 investor presentation gives about 385,000 sq ft GLA, 190+ outlets and H2 2027; not on Brilliant or in the tracker: confirm with Emaar and add to the pipeline; nothing in Emaar's newsroom by 4 Nov",
+   "since": "2026-10-23",
+   "basis": "fact",
+   "source": "Emaar H1 2026 investor presentation (see 23 Oct)"
+  },
+  {
+   "item": "Skylight Mall and Al Khail Avenue (Dubai Retail)",
+   "note": "CBRE's Q3 2026 review (3 Nov; see 9 Nov) calls it 'Skylight Mall (formerly Al Khail Avenue)', due for handover in 2027 with approximately 111,000 sqm GLA, against 1.3 million sq ft at the 6 Oct 2026 announcement and 1.2 million sq ft for Al Khail Avenue (Dubai Holding, Sep 2025): confirm the GLA and the owner with Dubai Holding",
+   "since": "2026-10-23",
+   "basis": "fact",
+   "source": "CBRE UAE Q3 2026 review, 3 Nov 2026"
+  },
+  {
+   "item": "The One, Mokattam (Ghoneim Developments)",
+   "note": "Retail format, GLA and delivery date (none published at the 13 Oct launch)",
+   "since": "2026-10-23",
+   "basis": "fact",
+   "source": "Daily News Egypt, 18 Oct 2026"
+  },
+  {
+   "item": "Van Mall AVM tender (Van, Türkiye)",
+   "note": "Sealed-bid sale held on 2 Nov 2026; no result published by 10 Nov (Van outlets carry only the pre-tender notices). Record the winning bidder and any operator change, and check whether Brilliant's Van listing is the same mall",
+   "since": "2026-10-26",
+   "basis": "fact",
+   "source": "Mall Report, 22 Oct 2026"
+  },
+  {
+   "item": "Cadde 42, Konya (Konyaspor)",
+   "note": "Final name, developer, GLA, permits and timeline (none given on 24 Oct)",
+   "since": "2026-10-26",
+   "basis": "fact",
+   "source": "Mall Report, 24 Oct 2026"
+  },
+  {
+   "item": "Knowledge Economic City rename",
+   "note": "Shareholder vote on 15 Nov 2026 on becoming Al-Jiwar Economic City Co.: result and official English name (nothing new by 10 Nov)",
+   "since": "2026-10-26",
+   "basis": "fact",
+   "source": "Argaam, 22 Oct 2026"
+  },
+  {
+   "item": "EVORA City, Lahore (TAAMEER Group)",
+   "note": "The Peninsula (22 Oct) reports a USD 5bn scheme with a 600,000 sqm shopping mall billed as Pakistan's largest and a sales centre due in December 2026; still single source on 28 Oct, so confirm with TAAMEER or a second outlet before use",
+   "since": "2026-10-26",
+   "basis": "fact",
+   "source": "The Peninsula, 22 Oct 2026 (single source)"
+  },
+  {
+   "item": "Kids Around, Istanbul",
+   "note": "The French designer kidswear store opened its second Türkiye store, in Istanbul, on 24 Oct (Mall Report, 26 Oct); the host mall is not clearly named: confirm before any listing update",
+   "since": "2026-10-27",
+   "basis": "fact",
+   "source": "Mall Report, 26 Oct 2026"
+  },
+  {
+   "item": "Saudi utility tariffs and the Nitaqat pay floor",
+   "note": "Commercial electricity and water rates from 1 Jan 2027 (Saudi Energy Company and National Water Company tariff tables), the exact start dates of the SAR 5,000 and SAR 6,000 Nitaqat thresholds (Ministry of Human Resources and Social Development), and any Tadawul disclosure on the impact by Cenomi Centers, Al Othaim or other mall owners and retailers. Abdullah Al Othaim Markets puts the cost at about 0.5% of revenue a year from Q1 2027 (Tadawul, 29 Oct). Leejam Sports puts the effect at 1.5-2% of its cost of revenue and Alsaif Gallery at about 0.3% (Argaam, 5 Nov). No impact disclosure from a mall owner seen by 9 Nov",
+   "since": "2026-10-28",
+   "basis": "fact",
+   "source": "Abdullah Al Othaim Markets (Tadawul), 29 Oct 2026; Argaam, 5 Nov 2026"
+  },
+  {
+   "item": "Saudi Commercial Transactions Law",
+   "note": "Publication in Umm Al-Qura (the law takes effect 180 days later), an official English text and any Ministry of Commerce guidance on commercial agency and supply contracts; confirm the details with SPA. Umm Al-Qura recorded the approval on 27 Oct; no official text by 30 Oct",
+   "since": "2026-10-28",
+   "basis": "fact",
+   "source": "Okaz, 27 Oct 2026"
+  },
+  {
+   "item": "Aldar and Dubai Holding master development, Dubai",
+   "note": "The National (27 Oct): near Dubai Silicon Oasis, gross development value Dh30bn, about 7,000 townhouses and up to 5,000 apartments, built over five to six years, launch in the coming weeks. Single source so far; check for a retail or community centre",
+   "since": "2026-10-28",
+   "basis": "fact",
+   "source": "The National, 27 Oct 2026 (single source)"
+  },
+  {
+   "item": "ABYAT, Mall of Qatar",
+   "note": "Opening date, unit size and level of ABYAT's first Qatar store (release of 26 Oct says 'soon'); nothing new by 10 Nov",
+   "since": "2026-10-29",
+   "basis": "fact",
+   "source": "ABYAT release (Zawya), 26 Oct 2026"
+  },
+  {
+   "item": "Al Shubaily Grand Mall, Al Khobar",
+   "note": "Soft-opened 29 Oct; GLA, anchors, cinema operator and the 2027 grand-opening date to confirm with Arabian AlEsaar",
+   "since": "2026-10-30",
+   "basis": "fact",
+   "source": "Arabian AlEsaar release, 29 Oct 2026"
+  },
+  {
+   "item": "Maqam Al Shahama project (LuLu hypermarket)",
+   "note": "Name, retail GLA and completion of the scheme; LuLu's 210,000 sq ft hypermarket is due by UAE National Day 2027",
+   "since": "2026-10-30",
+   "basis": "fact",
+   "source": "Gulf News, 28 Oct 2026"
+  },
+  {
+   "item": "Madinah Downtown mall (Cenomi / Saudi Downtown)",
+   "note": "Name, GLA and opening of the mall under Cenomi's SAR 825m, 30-month design-and-build contract with Lynx (1 Nov); the related-party contract needs general assembly approval; nothing new on Argaam by 4 Nov",
+   "since": "2026-11-02",
+   "basis": "fact",
+   "source": "Mubasher, 1 Nov 2026"
+  },
+  {
+   "item": "Al Khobar Downtown Mall (Saudi Downtown Company / Cenomi)",
+   "note": "Mall name, GLA (Arab News alone: about 110,000 sqm GLA within 152,000 sqm built-up area) and opening year; confirm against Cenomi's June 2026 Tadawul disclosure",
+   "since": "2026-11-03",
+   "basis": "fact",
+   "source": "Arab News, 2 Nov 2026"
+  },
+  {
+   "item": "Magrabi Retail and Dubai Optical",
+   "note": "Completion after UAE Ministry of Economy merger clearance (none reported by 10 Nov), and what happens to the four Optivision stores",
+   "since": "2026-11-03",
+   "basis": "fact",
+   "source": "Khaleej Times, 2 Nov 2026"
+  },
+  {
+   "item": "M&S Foodhalls, UAE (Al-Futtaim)",
+   "note": "Dubai Festival City Foodhall opening day in December (not given by 10 Nov); the other four large-format UAE Foodhall sites planned over 12 months are not yet named",
+   "since": "2026-11-03",
+   "basis": "fact",
+   "source": "Marks & Spencer, 2 Nov 2026"
+  },
+  {
+   "item": "OVS in the GCC",
+   "note": "Name of the new Saudi partner and its first sites (stores of at least 1,000 sqm), and the launch of the UAE online store, expected within one or two months of 30 Oct (Retail ME)",
+   "since": "2026-11-04",
+   "basis": "fact",
+   "source": "Retail ME, 30 Oct 2026"
+  },
+  {
+   "item": "Sarit Centre and Galleria Mall, Nairobi",
+   "note": "Owner, opening year and GLA of each mall for the sheet 10 check; any further Sports Direct stores in Kenya (Hudson Group plans to expand the brand across Africa)",
+   "since": "2026-11-04",
+   "basis": "fact",
+   "source": "Hudson Group, 2 Nov 2026"
+  },
+  {
+   "item": "Riyadh joint land investment, Zaid bin Asim Street",
+   "note": "Bidders and the chosen mix of uses once submissions close on 3 Feb 2027; whether a retail centre is part of the 30,000 sqm scheme",
+   "since": "2026-11-04",
+   "basis": "fact",
+   "source": "Argaam, 3 Nov 2026"
+  },
+  {
+   "item": "Saudi consumer spending (SAMA)",
+   "note": "Argaam (3 Nov), citing SAMA: September 2026 consumer spending SAR 138.1bn, up 7% year on year; point-of-sale spending about SAR 60.8bn, up 4%; e-commerce through Mada SAR 37.3bn, up 28%; cash withdrawals about SAR 40bn, down about 5%. Single source so far; use once SAMA or a second outlet confirms",
+   "since": "2026-11-04",
+   "basis": "fact",
+   "source": "Argaam, 3 Nov 2026 (single source)"
+  },
+  {
+   "item": "Pier 1890, Manama (Edamah and Kanoo)",
+   "note": "Retail and F&B GLA, investment, operator and completion date of the waterfront destination announced on 4 Nov",
+   "since": "2026-11-05",
+   "basis": "fact",
+   "source": "GDN, 4 Nov 2026"
+  },
+  {
+   "item": "Grand Uptown Mall outlet, New October City",
+   "note": "Confirm the EGP 6bn+ investment, about 90,000 sqm leasable area and phasing (Daily News Egypt only, 1 Nov)",
+   "since": "2026-11-05",
+   "basis": "fact",
+   "source": "Daily News Egypt, 1 Nov 2026 (single source)"
+  },
+  {
+   "item": "Uptown Place, Uptown Dubai (DMCC)",
+   "note": "Waitrose, run in the UAE by Spinneys, will open a store of more than 5,000 sq ft with a food-to-go deli; DMCC has not given its opening date, and Waitrose now has 17 UAE locations (Arabian Business, 9 Nov). Next: further tenants for the 82,000 sq ft, 18-unit retail podium; opening Q1 2028. The Atrium in Uptown Tower is a separate dining podium that is already trading (see 6 Nov)",
+   "since": "2026-11-05",
+   "basis": "fact",
+   "source": "Arabian Business, 9 Nov 2026"
+  },
+  {
+   "item": "Jurt, Astana (Orbis Group)",
+   "note": "Confirm the 24 Oct opening, the leasable area (9,000 sq m per Forbes Kazakhstan) and the address; Orbis will judge the format before expanding to other regions of Kazakhstan",
+   "since": "2026-11-06",
+   "basis": "fact",
+   "source": "Forbes Kazakhstan, 22 Oct 2026"
+  },
+  {
+   "item": "nol-Jaywan cards (RTA, Dubai)",
+   "note": "Businesses that will accept the cards, general availability after the November pilot, and whether existing nol cards must be replaced (nothing new by 10 Nov)",
+   "since": "2026-11-06",
+   "basis": "fact",
+   "source": "Khaleej Times, 4 Nov 2026"
+  },
+  {
+   "item": "Ulta Beauty, Dubai Hills Mall (Alshaya)",
+   "note": "Alshaya's third UAE Ulta Beauty store is reported open in early November (a Zawya release and Harper's Bazaar Arabia), but neither page, nor Alshaya's media centre, could be read on 6, 9 or 10 Nov: confirm the date from Alshaya or a news outlet",
+   "since": "2026-11-06",
+   "basis": "assumption"
+  },
+  {
+   "item": "Elya Center AVM, Ankara",
+   "note": "Opening date, GLA and anchors; Mall Report alone gives 55,000 sq m leasable within 120,000 sq m closed area (6 Nov), with XL Gross the only anchor named",
+   "since": "2026-11-09",
+   "basis": "fact",
+   "source": "Mall Report, 6 Nov 2026"
+  },
+  {
+   "item": "Al-Andalus Mall expansion (Jadat Al-Andalus)",
+   "note": "GLA and opening date of the fully leased expansion; confirm the 18% Q3 retail revenue rise against Alandalus Property's Q3 filing (Argaam interview, 8 Nov)",
+   "since": "2026-11-09",
+   "basis": "fact",
+   "source": "Argaam, 8 Nov 2026"
+  },
+  {
+   "item": "Cenomi Centers Q3 2026 operating figures",
+   "note": "Mubasher's copy of Cenomi's Q3 disclosure (9 Nov) gives Q3 footfall up 20.7% to 39.0 million, like-for-like occupancy of 91.8% at 30 Sep, adjusted Q3 net profit up 32.8% to SAR 417.9m and SAR 35.6m of development revenue. Single source so far: confirm against Cenomi's own Q3 release or presentation (not on its results page by 10 Nov)",
+   "since": "2026-11-10",
+   "basis": "fact",
+   "source": "Mubasher (Cenomi Q3 disclosure), 9 Nov 2026"
+  },
+  {
+   "item": "FAB Group (DEAL Holdings)",
+   "note": "Mall or community-centre sites for the 25 planned UAE outlets, the second UAE location (announcement targeted for Q1 2027) and its Saudi plans",
+   "since": "2026-11-10",
+   "basis": "fact",
+   "source": "Retail ME, 9 Nov 2026"
+  },
+  {
+   "item": "Korea Town by Boutiqaat",
+   "note": "Opening dates and unit sizes of the Mall of Qatar and Place Vendôme stores, and the further GCC openings promised in the 2 Nov release",
+   "since": "2026-11-10",
+   "basis": "fact",
+   "source": "Boutiqaat Group release, 2 Nov 2026"
+  }
+ ],
+ "no_findings": [
+  "Kuwait",
+  "Oman",
+  "Türkiye",
+  "Pakistan",
+  "Jordan",
+  "Lebanon",
+  "Iraq",
+  "Morocco",
+  "Tunisia",
+  "Algeria",
+  "Libya",
+  "Azerbaijan",
+  "Georgia",
+  "Armenia",
+  "Kazakhstan",
+  "Uzbekistan",
+  "Kyrgyzstan",
+  "Afghanistan",
+  "Nigeria",
+  "Kenya"
+ ],
+ "searches_run": 72,
+ "notes": "Tuesday edition for Monday 9 Nov, prepared by the scheduled run on the office PC. Three research passes and the source checks ran about 72 searches and fetches and found four verified items dated 8 or 9 Nov, plus three from 2 to 4 Nov that are new to the site. Cenomi's footfall, occupancy and Westfield pre-leasing figures rest on one source (Mubasher's copy of the Saudi Exchange disclosure) and wait on the watch list; Cenomi's results page had no Q3 items by 10 Nov. Not readable: Harper's Bazaar Arabia, Alshaya's media centre, Economy Middle East and Mastercard's press-release listing (client errors), Manila Times copies (rate limit) and Arab Finance's article body; Zawya pages skipped (robots). Watch items closed as lapsed (no news for 30 days): Bishkek Arena Mall, Mall of the Emirates (THAT Concept Store and The Hangout), Al Othaim Developments, Seih Sdeirah, GITEX Global vs RCM Jeddah and The Plaza (former Lamcy Plaza). Corrected the 9 Nov edition: KEC's Q3 results were on Argaam from 8 Nov."
+}
