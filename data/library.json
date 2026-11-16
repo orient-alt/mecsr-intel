@@ -1,5 +1,65 @@
 [
  {
+  "title": "Q3 2026 Analysts and Investors Conference Call, transcript (Arabic and English)",
+  "publisher": "Mabanee Company K.P.S.C.",
+  "doc_type": "investor",
+  "country": "Kuwait",
+  "date": "2026-11-04",
+  "url": "https://mabanee.com/storage/storageanalysts-investors-conference/mabanee-q3-2026_transcript_ar_eng_-final-(1)-2011623319.pdf",
+  "pages": null,
+  "note": "PDF opened. Transcript of the call of 4 Nov 2026 (the investor relations page lists it with the date 1 Nov 2026). Nine-month and Q3 2026 results; The Avenues Riyadh opening on 27 March 2027 with 70% occupancy secured; Aventura Mall opening in November; The Avenues Khobar at 60% completion; material and logistics delays at Souk Sabah and the Hilton Kuwait Mangaf Resort, now due early in 2027. Primary source for the Kuwait and Saudi listings.",
+  "use_for": "directory, membership",
+  "found": "2026-11-16"
+ },
+ {
+  "title": "Q3 2026 Investor Presentation",
+  "publisher": "Mabanee Company K.P.S.C.",
+  "doc_type": "investor",
+  "country": "Kuwait",
+  "date": "2026-11",
+  "url": "https://mabanee.com/storage/storageanalysts-investors-conference/mabanee-investor-presentation-q3-2026_compressed-(1)-2041646128.pdf",
+  "pages": null,
+  "note": "PDF opened (22 numbered slides; listed on the investor relations page with the date 1 Nov 2026). Asset slides: Aventura Mall GLA 103k sqm, 343 units, construction 100%, opening by mid-November; The Avenues Riyadh GLA 361k sqm, 1,250 units, construction 96%, opening H1 2027; The Avenues Khobar mall GLA 168k and 700 units, with H1 2028 on the asset slide and H2 2027 on the timeline; Souk Sabah GLA 23k sqm and 95 mall units, construction 49%, opening H2 2027. Use for the directory's GLA checks.",
+  "use_for": "directory",
+  "found": "2026-11-16"
+ },
+ {
+  "title": "Spinneys Shows Resilient Q3 2026 Growth (Q3 2026 press release)",
+  "publisher": "Spinneys 1961 Holding PLC",
+  "doc_type": "investor",
+  "country": "UAE",
+  "date": "2026-11-12",
+  "url": "https://investors.spinneys.com/pdf/earning-pack/Spinneys%20Press%20Release%20Q3%20EN.pdf",
+  "pages": null,
+  "note": "PDF opened; dateline 12 Nov 2026 (the earnings pack page lists it on 11 Nov). Nine-month and Q3 2026 results, 97 stores (84 owned, 13 operated, including Waitrose) and first stores in Kuwait and the Philippines expected in Q1 2027.",
+  "use_for": "research, membership",
+  "found": "2026-11-16"
+ },
+ {
+  "title": "Q3 2026 Earnings Presentation",
+  "publisher": "Spinneys 1961 Holding PLC",
+  "doc_type": "investor",
+  "country": "UAE",
+  "date": "2026-11-11",
+  "url": "https://investors.spinneys.com/pdf/earning-pack/Spinneys_Q32026_%20Earnings_Presentation.pdf",
+  "pages": null,
+  "note": "PDF not opened, link from the publisher's earnings pack page, which lists it with the Q3 2026 financial statements and MD&A on 11 Nov 2026.",
+  "use_for": "research",
+  "found": "2026-11-16"
+ },
+ {
+  "title": "Commerce in ChatGPT: Commerce Partner Playbook (developer guides)",
+  "publisher": "OpenAI",
+  "doc_type": "guideline",
+  "country": "Global",
+  "date": "2026-11",
+  "url": "https://developers.openai.com/commerce",
+  "pages": null,
+  "note": "Web page with no date shown; TechCrunch (13 Nov 2026) reports that OpenAI published the playbook with ChatGPT Wallet. Guides for retailers on product feeds, access for ChatGPT's cloud browser, accepting payments, plugins, Sign in with ChatGPT and claiming a business profile. Reference for the agent-led shopping watch item.",
+  "use_for": "research, CX",
+  "found": "2026-11-16"
+ },
+ {
   "title": "Retail Tenant Handbook, Jumeirah Lake Towers (revision R4)",
   "publisher": "DMCC Community Management (Jumeirah Lake Towers)",
   "doc_type": "manual",
@@ -576,6 +636,16 @@
   "found": "2026-10-16"
  },
  {
+  "title": "Aventura Mall: Mabanee's own figures put the opening at the end of October 2026 and GLA at 108,297 sqm",
+  "publisher": "Mabanee disclosure on Boursa Kuwait",
+  "doc_type": "other",
+  "country": "Kuwait",
+  "date": "2026-06-10",
+  "url": "https://docs.boursakuwait.com.kw/NewsPDF/413_NEWS_2026_E_106202684530170.pdf",
+  "note": "PDF cited in an intel finding",
+  "found": "2026-10-16"
+ },
+ {
   "title": "UAE Real Estate Market Review Q2 2026",
   "publisher": "CBRE",
   "doc_type": "market-report",
@@ -821,16 +891,6 @@
   "note": "Design criteria, shopfronts and signage, MEP, fire safety, fees and approvals: a working template for tenant design criteria. Current edition on the landlord's site.",
   "use_for": "membership, service providers",
   "found": "2026-10-14"
- },
- {
-  "title": "Member News Expansion Mabanee delays Aventura Mall opening to October; Hilton Kuwait Mangaf pushed to December",
-  "publisher": "docs.boursakuwait.com.kw",
-  "doc_type": "other",
-  "country": "Kuwait",
-  "date": "2026-08-05",
-  "url": "https://docs.boursakuwait.com.kw/NewsPDF/413_NEWS_2026_E_106202684530170.pdf",
-  "note": "PDF cited in an intel finding",
-  "found": "2026-08-12"
  },
  {
   "title": "Cenomi Plus Loyalty Platform: 1.5M Downloads Recent",
