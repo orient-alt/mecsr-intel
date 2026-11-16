@@ -28,6 +28,7 @@ FLAT_PLAN_URL = "https://orient-alt.github.io/mecsr-directory-2027/"
 
 STREAMS = OrderedDict([
     ("dest",    {"label": "Shopping destinations & pipeline", "short": "Destinations", "icon": "🏬"}),
+    ("brand",   {"label": "Retail brands & retailers",        "short": "Brands",       "icon": "🛍️"}),
     ("member",  {"label": "Member company news",              "short": "Members",      "icon": "🏢"}),
     ("cx",      {"label": "Customer experience & service",    "short": "CX",           "icon": "📞"}),
     ("ai",      {"label": "AI & retail technology",           "short": "AI & tech",    "icon": "🤖"}),
@@ -730,6 +731,7 @@ def method_page(latest_week):
 <div class="meta">Each weekday edition is prepared in the early morning, Dubai time, by a scheduled Claude run (or by hand when that run cannot run) and goes live once MECSR has checked and uploaded it. Friday's edition adds the weekly summary and a verification batch of directory listings.</div></div>
 <section class="panel"><h2>What each run covers</h2><ul>
 <li><b>🏬 Shopping destinations & pipeline</b>: new malls, mixed-use schemes, outlet centres and retail parks, expansions, openings, closures and supply data across the 24+ markets of the MECSR Directory.</li>
+<li><b>🛍️ Retail brands & retailers</b>: brand and retailer news across the MECSR markets: market entries, first and flagship stores, openings and closures, franchise deals, retail groups' results and leadership, with the brands in the Retailers section of the MECSR Directory as the reference list.</li>
 <li><b>🏢 Member company news</b>: projects, results, leadership, deals and awards for MECSR member organisations.</li>
 <li><b>📞 Customer experience & service</b>: GCC customer-experience programmes, awards, contact-centre and service news.</li>
 <li><b>🤖 AI & retail technology</b>: AI agents, voice and chat, personalisation and retail-tech launches in the region, plus a few global items that matter here.</li>
