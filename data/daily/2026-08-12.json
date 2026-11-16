@@ -84,10 +84,6 @@
     {
      "label": "AGBI · c. 5 Aug 2026",
      "url": "https://www.agbi.com/real-estate/2026/08/developer-mabanees-profits-slide-as-war-hurts-kuwait-hotels/"
-    },
-    {
-     "label": "Boursa Kuwait filing",
-     "url": "https://docs.boursakuwait.com.kw/NewsPDF/413_NEWS_2026_E_106202684530170.pdf"
     }
    ]
   },
@@ -121,5 +117,6 @@
   "Hilton Kuwait Mangaf (Mabanee): resort opening slipped to December 2026.",
   "The Grand, Nad Al Sheba Gardens (UAE): phase 1 opens 19 August, anchored by Waitrose & Partners.",
   "Lulu Retail Holdings (ADX, member group): H1 2026 results due 19 August."
- ]
+ ],
+ "notes": "Corrected 16 Nov 2026: the second source of the Mabanee item (2026-08-12-05), labelled as a Boursa Kuwait filing, was Mabanee's 2025 sustainability report filed with Boursa Kuwait on 10 Jun 2026 (in the library, 2 Nov), not its Q2 disclosure; the link was removed and the item rests on AGBI."
 }
