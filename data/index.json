@@ -1,6 +1,6 @@
 {
  "schema": "mecsr-intel/1",
- "latest": "2026-11-18",
+ "latest": "2026-11-19",
  "days": [
   {
    "date": "2026-06-16",
@@ -573,6 +573,13 @@
    "date": "2026-11-18",
    "status": "full",
    "findings": 7,
+   "legacy": false,
+   "week": "2026-W47"
+  },
+  {
+   "date": "2026-11-19",
+   "status": "full",
+   "findings": 8,
    "legacy": false,
    "week": "2026-W47"
   }
