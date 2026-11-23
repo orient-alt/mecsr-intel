@@ -1,5 +1,87 @@
 [
  {
+  "title": "Requirements for Commercial Complexes and Popular Markets (Arabic)",
+  "publisher": "Ministry of Municipalities and Housing, Saudi Arabia",
+  "doc_type": "guideline",
+  "country": "Saudi Arabia",
+  "date": "2024",
+  "url": "https://momah.gov.sa/sites/default/files/2024-12/ashtratat%20almjm%60at%20altjaryt%20walaswaq%20alsh%60byt.pdf",
+  "pages": null,
+  "note": "PDF opened; month not shown (cover year 1446 AH, 2024; no version number printed). National municipal rules for malls and popular markets: siting in commercial zones, minimum shop and kiosk sizes, corridor widths, first-aid room, prayer areas and management office, no commercial use of basements, civil defence approval before licensing under the Saudi Fire Code (SBC 801) and accessibility under SBC 201, a signage hierarchy, CCTV, and the duties of the management office or owners' association; a children's care centre is required above a size threshold. Use for compliance questions from Saudi mall owners and operators; check for a later revision before quoting it.",
+  "use_for": "membership, directory",
+  "found": "2026-11-23"
+ },
+ {
+  "title": "Restaurant Requirements (Arabic)",
+  "publisher": "Ministry of Municipalities and Housing, Saudi Arabia",
+  "doc_type": "guideline",
+  "country": "Saudi Arabia",
+  "date": "2025",
+  "url": "https://momah.gov.sa/sites/default/files/2025-04/ashtratat%20almta%60m.pdf",
+  "pages": null,
+  "note": "PDF opened; month not shown (issued under a ministerial decision dated 15/10/1446 AH, 2025). Rules for restaurants and cafés with and without service, cloud kitchens and food kiosks: licensing, location, minimum areas, parking and signage, building and design, kitchen equipment, food safety and allergen labelling, hygiene and waste, and operations (QR code display, CCTV, electronic payments). Food kiosks may sit in commercial complexes; food courts are not named. Reference for F&B tenant fit-out and compliance questions in Saudi malls.",
+  "use_for": "membership",
+  "found": "2026-11-23"
+ },
+ {
+  "title": "Holiday 2026: AI assists and last-minute lists",
+  "publisher": "Mastercard Economics Institute",
+  "doc_type": "research",
+  "country": "Global",
+  "date": "2026-09-23",
+  "url": "https://www.mastercard.com/us/en/news-and-trends/insights-report/our-insights/holiday-blog-2026.html",
+  "pages": null,
+  "note": "Web page, not a PDF. Mastercard SpendingPulse's US holiday forecast for 1 Nov to 24 Dec 2026 (overall, online and in-store growth), with a comparison of 2025 holiday spending by paid AI subscribers and other shoppers, which Mastercard presents as observed differences, not proof that AI causes them. US data only: background for MECSC and MECSR sessions on AI-assisted shopping.",
+  "use_for": "research, events",
+  "found": "2026-11-23"
+ },
+ {
+  "title": "Q3 and 9M 2026 results: earnings presentation",
+  "publisher": "Americana Restaurants International PLC",
+  "doc_type": "investor",
+  "country": "UAE, Saudi Arabia and 10 other markets",
+  "date": "2026-10-28",
+  "url": "https://www.americanarestaurants.com/wp-content/uploads/2026/10/9M-2026-Earnings-Presentation-V2.pdf",
+  "pages": null,
+  "note": "PDF opened. Americana's results deck for Q3 and the first nine months of 2026: revenue and profit, like-for-like growth, restaurant counts by country at 30 Sep 2026, 2026 guidance for net new stores, and plans to launch Malak Al Tawouk in Kuwait and Taco Bell in the UAE. Useful for the F&B tenant pipeline by market (KFC, Pizza Hut, Hardee's, Krispy Kreme, Costa Coffee and others).",
+  "use_for": "membership, events, research",
+  "found": "2026-11-20"
+ },
+ {
+  "title": "Investor presentation, 9M 2026",
+  "publisher": "Nahdi Medical Company",
+  "doc_type": "investor",
+  "country": "Saudi Arabia",
+  "date": "2026-10-29",
+  "url": "https://investors.nahdi.sa/media/tevcjhxh/investor-presentation-9m-2026-ec-final.pdf",
+  "pages": null,
+  "note": "PDF not opened: listed on Nahdi's investor relations Financial Overview page as its investor presentation of 29 Oct 2026 (the file name indicates nine months of 2026), next to the Q3 2026 earnings release and fact sheet. For the Saudi pharmacy retailer's store network and results; check store counts in the deck before quoting them.",
+  "use_for": "membership, research",
+  "found": "2026-11-20"
+ },
+ {
+  "title": "Tenant Fit-out Manual: For Tenants (King Khaled International Airport)",
+  "publisher": "Riyadh Airports Company",
+  "doc_type": "manual",
+  "country": "Saudi Arabia",
+  "date": "2016",
+  "url": "https://riyadhairports.com/media/1218/tenant-fit-out-manual.pdf",
+  "pages": null,
+  "note": "Publisher's own copy, month not shown: the appended contractors' procedures are version 1 of August 2016, so treat it as a 2016-era edition and confirm with Riyadh Airports that it is still current. Covers the staged design approval process for retail and F&B units, shopfronts and signage rules, materials, the landlord and tenant MEP split, NFPA and Saudi fire-code compliance, kitchen fire suppression and hot-work permits. A GCC benchmark for airport retail fit-out rules, not a mall manual.",
+  "use_for": "research",
+  "found": "2026-11-20"
+ },
+ {
+  "title": "Majid Al Futtaim gives City Centre Bahrain 153k m2 of GLA and 98% occupancy, with no expansion listed; the directory shows 155,000 sqm and expanding",
+  "publisher": "Majid Al Futtaim investor presentation (March 2026)",
+  "doc_type": "other",
+  "country": "Bahrain",
+  "date": "2026-03",
+  "url": "https://majidalfuttaim.com/docs/default-source/reports/majid-al-futtaim-investor-presentation_september2025.pdf?sfvrsn=2582a653_1",
+  "note": "PDF cited in an intel finding",
+  "found": "2026-11-20"
+ },
+ {
   "title": "talabat Q3 2026 results press release",
   "publisher": "talabat Holding plc",
   "doc_type": "investor",
